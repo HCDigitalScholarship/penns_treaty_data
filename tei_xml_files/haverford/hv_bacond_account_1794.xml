@@ -43,7 +43,7 @@
                         at a cost or free of charge.</p>
                 </availability>
                 <date when="2014">2016</date>
-                <idno type="local">HV_DB_1794</idno>
+                <idno type="local">hv_bacond_account_1794</idno>
             </publicationStmt>
             <seriesStmt>
                 <title level="s" type="project">Native Americans and Quakers</title>
@@ -96,8 +96,14 @@
     </teiHeader>
     <text>
         <body>
+            
+            <div type="undetermined">
+                <pb n="1" facs="hv_bacond_account_1794_001"/>
+                <pb n="2" facs="hv_bacond_account_1794_002"/>
+            </div>
+            
             <div type="entry">
-                <pb n="1"/>
+                <pb n="3" facs="hv_bacond_account_1794_003"/>
                 <head>Some account of our journey to Cannandaigue</head>
 
                 <dateline><date when="1794-07-15">15 of the 7 month 1794</date><placeName
@@ -164,7 +170,7 @@
                     dinner then to <lb/> the <placeName key="block">Block House</placeName> 22 miles
                     moved a bad rode which occasioned<lb/> us to be within night. Before we got
                     there, we crossed <lb/><placeName key="lycom3">Moccomming</placeName> 9 Time
-                    &amp; Trout Run 32, in the way <lb/>there <lb/><pb n="2"/> the hearing a dog
+                    &amp; Trout Run 32, in the way <lb/>there <lb/><pb n="4" facs="hv_bacond_account_1794_004"/> the hearing a dog
                     bark was the most pleasing I had ever known.<lb/> Before when we got there
                         <unclear>J.</unclear> inquired of the woman of the house<lb/> what she had
                     to eat. She informed us they had no bread nor<lb/> meat milk nor butter nor
@@ -214,7 +220,7 @@
                     us the man and his wife were kind &amp; entertained<lb/> us well for that county
                     his name was <persName key="jfris1">James D Fish</persName>
                     <gap/></p>
-                <pb n="3"/>
+                <pb n="5" facs="hv_bacond_account_1794_005"/>
 
             </div>
             <div type="entry">
@@ -282,7 +288,7 @@
 
             </div>
             <div type="entry">
-                <pb n="4"/>
+                <pb n="6" facs="hv_bacond_account_1794_006"/>
                 <dateline><date when="1794-10-03">3</date><placeName key="canan"/></dateline>
                 <p> Went a Fishing in the morning caught but Few Fish<lb/> Visited <persName
                         key="ichap2">General Chapin</persName> then went to the <persName
@@ -346,7 +352,7 @@
 
             </div>
             <div type="entry">
-                <pb n="5"/>
+                <pb n="7" facs="hv_bacond_account_1794_007"/>
                 <dateline><date when="1794-10-09">9</date><placeName key="canan"/></dateline>
                 <p><del>I Stayed Mostly at my Lodgings my Companions Rode out <lb/>2 miles to See a
                         Family of the Name of Whitecur who Descended <lb/>from Friends</del></p>
@@ -392,7 +398,7 @@
                     whole<lb/> of there land is worth 4 dollars the acer it appeared<lb/> they had
                     deffered abought this leece some being<lb/> for &amp; some against it which had
                     like to<lb/> have brought them to Blose </p>
-                <pb n="6"/>
+                <pb n="8" facs="hv_bacond_account_1794_008"/>
 
                 <p>the <persName key="cpic">Collo</persName> Took what they had to say into
                     consideration<lb/> &amp; proposed to speak to them in 2 Days. we Returned to our
@@ -427,7 +433,7 @@
                     Very Soberly we parted from our<lb/> Indian Brethethren in Love &amp; Returned
                     to our lodgings.<lb/> the Indians Sung an other hymn before we Parted with like
                     Solidity </p>
-                <pb n="7"/>
+                <pb n="9" facs="hv_bacond_account_1794_009"/>
 
             </div>
             <div type="entry">
@@ -480,7 +486,7 @@
 
             </div>
             <div type="entry">
-                <pb n="8"/>
+                <pb n="10" facs="hv_bacond_account_1794_010"/>
                 <dateline><date when="1794-10-16">16.</date><placeName key="canan"/></dateline>
                 <p><persName key="jfish2">Josiah Fish</persName> set out for his own home near
                         <placeName key="boston">Boston</placeName> he hath Been<lb/> with us for
@@ -533,7 +539,7 @@
                         Smith</persName> 2 1/2 miles from <placeName key="alaph1"
                         >Abrahams</placeName> to Be that<lb/> Day which we had accordingly there was
                     I Believe 50 or more <lb/>
-                    <pb n="9"/> People there &amp; Behaved soberly &amp; the Meeting was to good
+                    <pb n="11" facs="hv_bacond_account_1794_011"/> People there &amp; Behaved soberly &amp; the Meeting was to good
                     satisfaction,<lb/> we Returned to <persName key="alaph1">Abrm Laphams</persName>
                     stayed there all Night was Entertained with<lb/> Marks of Gladnys by those
                         <unclear>(P?)</unclear> who are scattered here in the wildernys<lb/> we were
@@ -574,7 +580,7 @@
                     something to say By way of Advice<lb/> to the Indians which did not prove
                     agreable to <persName key="cpic">coll Pickrin</persName><lb/> Nor the Indians I
                     Believe. </p>
-                <pb n="10"/>
+                <pb n="12" facs="hv_bacond_account_1794_012"/>
 
             </div>
             <div type="entry">
@@ -614,7 +620,7 @@
                     women might say<lb/> something Before they went upon Buisenys which was<lb/>
                     agreed to after some time 3 women came in &amp; <persName key="redja1">Red
                         <lb/>Jacket</persName> spoke for them to this import that as the<lb/> woman
-                    advised us to Repent we now Advise you <lb/><pb n="11"/> to Repent for the White
+                    advised us to Repent we now Advise you <lb/><pb n="13" facs="hv_bacond_account_1794_013"/> to Repent for the White
                     People were in the Fault for they<lb/> took away there Land by which they took
                     them by the<lb/> Heart &amp; squeased them together that the waryers &amp;
                     Chief<lb/> had told us where the Chain had gathered Rust and <lb/> they joyned
@@ -653,7 +659,7 @@
                     here from the British by the Desire of the Indian<lb/> which Much Displeased him
                     Desired we would Be with<lb/> him to Day we accordingly attended with him
                     where<lb/> he gave the Indians his Reasons for not <unclear>ac</unclear><lb/><pb
-                        n="12"/> Which Were Many &amp; Such as I Believe Both Displeased and<lb/>
+                        n="14" facs="hv_bacond_account_1794_014"/> Which Were Many &amp; Such as I Believe Both Displeased and<lb/>
                     Frighten the Poor Fellow Some of which were that the British<lb/> had prevented
                     there Treating with them had keep the Posts on<lb/> the Lake &amp; Taken our
                     Vessels Had Treated the People at Great<lb/> Sodas who were abought to settle
@@ -678,7 +684,7 @@
 
             </div>
             <div type="entry">
-                <pb n="13"/>
+                <pb n="15" facs="hv_bacond_account_1794_015"/>
                 <dateline><date when="1794-10-26">26 &amp; 1 of the week </date><placeName
                         key="canan"/></dateline>
                 <p>no Meeting for Worship nor But little Buisenys<lb/> Done as to the Treaty, only
@@ -715,7 +721,7 @@
                     line Between the United<lb/> States &amp; the <orgName key="seneca">Seneca
                         Indians</orgName> Shall be Extended as far as<lb/> the State of Pennsylvania
                     Westword &amp; Southward <gap/><lb/> which we understood would Take in 800000
-                    acres <lb/><pb n="14"/> Land which had Been at a former Treaty Seeded to
+                    acres <lb/><pb n="16" facs="hv_bacond_account_1794_016"/> Land which had Been at a former Treaty Seeded to
                     the<lb/> United States &amp; Give them Yearly forever whilst they<lb/> were
                     friends to the United States 45000 Dollars &amp; that he<lb/> Had Ten Thousand
                     Dollers worth of Good, he would give<lb/> them to Cloath there wifes &amp;
@@ -754,7 +760,7 @@
                     they Introduced what they had to say by<lb/>
                     <unclear>ag</unclear>reeing we were in the Presents of the Great Spirit &amp; that<lb/>
                     <unclear>b</unclear>elieved we were honest men &amp; there friends <lb/><pb
-                        n="15"/> &amp; if they were now Deceived they Should never More Put<lb/>
+                        n="17" facs="hv_bacond_account_1794_017"/> &amp; if they were now Deceived they Should never More Put<lb/>
                     Confidence in men &amp; wished what they had to Say might be<lb/> Kept Secret.
                         <persName key="hjame1">Horatis Jones</persName> was our Interpreter</p>
 
@@ -810,7 +816,7 @@
 
             </div>
             <div type="entry">
-                <pb n="16"/>
+                <pb n="18" facs="hv_bacond_account_1794_018"/>
                 <dateline><date when="1794-11-05">5</date><placeName key="canan"/></dateline>
                 <p> no Council Several Indians Calld to See us <persName key="jsken1"
                         >Seanidoe</persName> &amp; others<lb/> in the afternoon we Rode out to
@@ -853,7 +859,7 @@
                     the Treaty &amp; we waiting with anctious Desires to Set<lb/> of home the Rodes
                     Being very Bad when we Came &amp; Expect<lb/> them worse when we Return But it
                     appears Best to Stay untill<lb/> the Buiseness is finished </p>
-                <pb n="17"/>
+                <pb n="19" facs="hv_bacond_account_1794_019"/>
 
                 <p> we were informed they had killed 160 Cattle for the Indians<lb/> on an average
                     wayed 700lb Ea</p>
@@ -894,7 +900,7 @@
                     original oners we let the know<lb/> we would do what we could for them in the
                     Buiseness<lb/> the <persName key="farme1">Farmers Brother</persName> &amp;
                         <persName key="redja1">Red Jacket</persName> calld to see us<lb/> But
-                    Several of the Chiefs Drunk <lb/><pb n="18"/>very Trying indeed to be Detained
+                    Several of the Chiefs Drunk <lb/><pb n="20" facs="hv_bacond_account_1794_020"/>very Trying indeed to be Detained
                     here by there sloathfull &amp; slow <lb/> way of Doing Buiseness &amp; Being so
                     often Drunk But they are not to be<lb/> Hurryed</p>
 
@@ -951,7 +957,7 @@
                     horses </p>
             </div>
             <div type="entry">
-                <pb n="19"/>
+                <pb n="21" facs="hv_bacond_account_1794_021"/>
                 <dateline><date when="1794-10-31">31st 10 mo 1794</date><placeName key="canan"
                     /></dateline>
                 <p>Four of the Sachems viz. <persName key="clear1">ClearSky</persName>, <persName
@@ -979,7 +985,7 @@
                             us any assistance which lay in your power. --</p>
                         <p>Brothers we hope you will make your minds easy, as we who<lb/> are now
                             here are but Children, the Anscients being diceased;<lb/> we know that
-                            you &amp; our forefathers transacted business together <lb/><pb n="20"/>
+                            you &amp; our forefathers transacted business together <lb/><pb n="22" facs="hv_bacond_account_1794_022"/>
                             that you look to the great Spirit for his directions &amp; assistance
                             &amp;<lb/> take no part in war. -- </p>
                         <p>Brothers you all know the proposals<lb/> made by us to <persName
@@ -1017,7 +1023,7 @@
                     </body>
                 </floatingText>
                 <p>They then presented seven strings of wampum &amp; with<lb/> drew &amp; agreed to
-                    return to hear our answer at the 3rd hour this afternoon <lb/><pb n="21"/> The
+                    return to hear our answer at the 3rd hour this afternoon <lb/><pb n="23" facs="hv_bacond_account_1794_023"/> The
                     time allowed to Consider &amp; digest an answer being too Short<lb/> and the
                     Indians returning rather earlier than the time appointed<lb/> they cheerfully
                     proposed to leave it under our consideration<lb/> till tomorrow earnestly
@@ -1054,7 +1060,7 @@
                             unacquainted with the Comissi-<lb/>oners power we can give you no
                             satisfactory answer on that<lb/> subject. if it appears to be a matter
                             of great importance to you<lb/> it would be proper to lay it before him;
-                            the Land you mentioned <lb/><pb n="22"/> along <placeName key="lakee"
+                            the Land you mentioned <lb/><pb n="24" facs="hv_bacond_account_1794_024"/> along <placeName key="lakee"
                                 >Lake Erie</placeName> you have been already acquainted that
                             Congress<lb/> has sold it to Pennsylvania &amp; we do not suppose the
                             Commisioner's<lb/> has power to relinquish it; it is true that the
@@ -1096,7 +1102,7 @@
                                     health<lb/> from the time you left you seat till you arrived
                                     here, &amp; has<lb/> Continued so to preserve you to this time;
                                     we put you under<lb/> the protection of the same Great Spirit on
-                                    your return, <lb/><pb n="23"/> hoping he may conduct you home in
+                                    your return, <lb/><pb n="25" facs="hv_bacond_account_1794_025"/> hoping he may conduct you home in
                                     safety &amp; that you may<lb/> find your friends &amp; families
                                     well. on your return we<lb/> should be very happy to have that
                                     you got safe home<lb/> &amp; it would be very acceptable to the
@@ -1125,7 +1131,7 @@
                     </body>
                 </floatingText>
 
-		<pb n="24"/>
+                <pb n="26" facs="hv_bacond_account_1794_026"/>
                 <p>from the <placeName key="ppost">Painted Post</placeName> we Rode to <persName
                         key="wlind1">Mary Lindley</persName>, a widdow 13 mile <lb/> woman who
                     Entertained us all night very kindly as Did her<lb/> son our Horses, we
@@ -1161,14 +1167,70 @@
                     might<lb/> Put there arm Between the logs no Stable for our Tyred horses<lb/>
                     nor Hay no milks Butter or Sugar we got some fryed Vanson<lb/> &amp; Fowl Boyld
                     &amp; fryed in Elks fat Eat our Supers </p>
-                <pb n="25"/>
+            </div>   
+            
+            <pb n="27" facs="hv_bacond_account_1794_027"/>
+            
+            <div type="entry">
+                <dateline><date when="1794-11-22">22</date><placeName key="checkPlace"/></dateline>
+                <p> Set out for <placeName key="north1">Northumberland</placeName>
+                    <persName key="swall1">Samuel Wallis</persName> &amp; his son John with us<lb/>
+                    got there a bought Dark after some Deficulty Pasing the over the waters<lb/>
+                    Staying all night at a Tavern 30 miles there</p>
+                
+            </div>
+            <div type="entry">
+                <dateline><date when="1794-11-23">23</date><placeName key="checkPlace"/></dateline>
+                <p>Left there &amp; Crsed the west Branch of <placeName key="susqueh"
+                    >Sucohannah</placeName> to <placeName key="sunb">Sunbury</placeName>
+                    Stopt<lb/> at <persName key="jwall1">Joseph Walles</persName>es got Brakefast
+                    there then Rode to <persName key="jyarn2">Jesse Yarnalls</persName><lb/> stayed
+                    all night it Being 27 miles from <placeName key="sunb">Sunbury</placeName> 17
+                    People lodged there</p>
+                
+            </div>
+            <div type="entry">
+                <dateline><date when="1794-11-24">24</date><placeName key="carte"/></dateline>
+                <p>Set of Early Crosed <placeName key="shamo">Shemokin</placeName> a Rapid Stream
+                    Rode to <placeName key="carte">Carters town</placeName><lb/> it Being 33 miles
+                    where we loded</p>
+                
+            </div>
+            <div type="entry">
+                <dateline><date when="1794-11-25">25</date><placeName key="exete"/></dateline>
+                <p> left there Early to <persName key="mlee1">Mordecai Lees</persName> got Brakefast
+                    9 miles<lb/> from there to <placeName key="readi">Redding</placeName> 9 miles
+                    got our Dinner at <placeName key="sjack1">Samuel Jackson</placeName><lb/> the
+                    went to <persName key="shugh1">Samuel Hews</persName>es 8 miles Stayd with him
+                    all night</p>
+                
+            </div>
+            <div type="entry">
+                <dateline><date when="1794-11-26">26</date><placeName key="checkPlace"/></dateline>
+                <p> left there &amp; Rose to <persName key="trutt1">Thomas Rutters</persName>
+                    Refreshed our Selves &amp; Set<lb/> out Rode to <persName key="jpott2">Joseph
+                        Potters</persName> Being a bought 34 miles Stayd there<lb/> all night</p>
+                
+            </div>
+            <div type="entry">
+                <dateline><date when="1794-11-27">27</date><placeName key="phila"/></dateline>
+                <p> we arived Safe home to <placeName key="phila">Phila</placeName> with Glad harts
+                    &amp; I hope<lb/> Thankfull for the favours of healthy Preservation<lb/> Through
+                    a Trying &amp; long journey </p>
+                
+                
+            </div>
+            
+                
+            <div type="entry">
+                <pb n="28" facs="hv_bacond_account_1794_028"/>
 
                 <p> Layd Down on the flores we had Something the Calld a Bed <lb/> where I had the
                     Satisfaction of Seeing the Stars which was<lb/> Pleasing as we had snow for 3 or
                     4 Days Past Since we left <placeName key="canan">Cannandoque</placeName><lb/> I
                     Slept very well &amp; was Much Refreshed</p>
-
             </div>
+        
             <div type="entry">
                 <dateline><date when="1794-11-18">18</date><placeName key="checkPlace"/></dateline>
                 <p> we willingly left the <placeName key="block">Block house</placeName> &amp; Rode
@@ -1215,63 +1277,15 @@
                     which was Trying<lb/> But Patience was necessary we Endeavoured after it &amp;
                     Stayd<lb/> another night here thinking it a Favour we had got to such<lb/> good
                     quarters &amp; kind frds </p>
-                <pb n="26"/>
 
-            </div>
-            <div type="entry">
-                <dateline><date when="1794-11-22">22</date><placeName key="checkPlace"/></dateline>
-                <p> Set out for <placeName key="north1">Northumberland</placeName>
-                    <persName key="swall1">Samuel Wallis</persName> &amp; his son John with us<lb/>
-                    got there a bought Dark after some Deficulty Pasing the over the waters<lb/>
-                    Staying all night at a Tavern 30 miles there</p>
+            </div>                
+                
 
-            </div>
-            <div type="entry">
-                <dateline><date when="1794-11-23">23</date><placeName key="checkPlace"/></dateline>
-                <p>Left there &amp; Crsed the west Branch of <placeName key="susqueh"
-                        >Sucohannah</placeName> to <placeName key="sunb">Sunbury</placeName>
-                    Stopt<lb/> at <persName key="jwall1">Joseph Walles</persName>es got Brakefast
-                    there then Rode to <persName key="jyarn2">Jesse Yarnalls</persName><lb/> stayed
-                    all night it Being 27 miles from <placeName key="sunb">Sunbury</placeName> 17
-                    People lodged there</p>
-
-            </div>
-            <div type="entry">
-                <dateline><date when="1794-11-24">24</date><placeName key="carte"/></dateline>
-                <p>Set of Early Crosed <placeName key="shamo">Shemokin</placeName> a Rapid Stream
-                    Rode to <placeName key="carte">Carters town</placeName><lb/> it Being 33 miles
-                    where we loded</p>
-
-            </div>
-            <div type="entry">
-                <dateline><date when="1794-11-25">25</date><placeName key="exete"/></dateline>
-                <p> left there Early to <persName key="mlee1">Mordecai Lees</persName> got Brakefast
-                    9 miles<lb/> from there to <placeName key="readi">Redding</placeName> 9 miles
-                    got our Dinner at <placeName key="sjack1">Samuel Jackson</placeName><lb/> the
-                    went to <persName key="shugh1">Samuel Hews</persName>es 8 miles Stayd with him
-                    all night</p>
-
-            </div>
-            <div type="entry">
-                <dateline><date when="1794-11-26">26</date><placeName key="checkPlace"/></dateline>
-                <p> left there &amp; Rose to <persName key="trutt1">Thomas Rutters</persName>
-                    Refreshed our Selves &amp; Set<lb/> out Rode to <persName key="jpott2">Joseph
-                        Potters</persName> Being a bought 34 miles Stayd there<lb/> all night</p>
-
-            </div>
-            <div type="entry">
-                <dateline><date when="1794-11-27">27</date><placeName key="phila"/></dateline>
-                <p> we arived Safe home to <placeName key="phila">Phila</placeName> with Glad harts
-                    &amp; I hope<lb/> Thankfull for the favours of healthy Preservation<lb/> Through
-                    a Trying &amp; long journey </p>
-
-
-            </div>
         </body>
         <back>
             <div type="entry">
                 <dateline><date when="1794-10-27">27</date></dateline>
-                <pb n=""/>
+                <pb n="29" facs="hv_bacond_account_1794_029"/>
                 <p> for us, he is a white man tho he saith his Mother was<lb/> Half Indian I gave
                     him a knife which he was much pleased<lb/> with <unclear>Viz</unclear> the
                     Indian Chief</p>
@@ -1315,7 +1329,7 @@
 
             </div>
             <div type="entry">
-		<pb n=""/>
+                <pb n="30" facs="hv_bacond_account_1794_030"/>
                 <dateline><date when="1794-10-26">26</date><placeName key="canan"/></dateline>
                 <p><gap/> of the week no meeting for worship <gap/><lb/> Done with the Treaty only
                     Explaining a letter<lb/> which the Indians got Rote to <persName key="cbran1"
@@ -1349,7 +1363,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="31" facs="hv_bacond_account_1794_031"/>
                 <dateline><date when="1794-11-07">7</date><placeName key=""/></dateline>
                 <p>today spent in Doing no Bussness <gap/><lb/> Indian Chiefs Being too Drunk the
                         <persName key="cpic">Coll</persName><lb/> called to see us this afternoon
@@ -1389,7 +1403,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="32" facs="hv_bacond_account_1794_032"/>
                 <dateline><date when="1794-10-30"/><placeName key="canan"/></dateline>
                 <p>the Men were Mostly gone to Council and<lb/> other ways the women were Busey Some
                     a Cooking<lb/> others Sewing &amp; Makeing Baskets &amp; Mogasons<lb/> &amp;
@@ -1440,7 +1454,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="33" facs="hv_bacond_account_1794_033"/>
                 <dateline><date when="1794-11-02"/></dateline>
                 <p>Indian Tribes <lb/>
                     <orgName key="seneca">Senecas</orgName> 1900 the land they Posses 4000000 acers<lb/>
@@ -1487,7 +1501,7 @@
 
             </div>
             <div type="draft">
-                <pb n=""/>
+                <pb n="34" facs="hv_bacond_account_1794_034"/>
                 <dateline><date when="1794-11-04"/></dateline>
                 <p>So the Treaty was agreed too Except Some matters<lb/> Respecting Inguries Done on
                     Either Side which<lb/> the Com Told them might be Done Better Between<lb/> him
@@ -1523,7 +1537,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="35" facs="hv_bacond_account_1794_035"/>
                 <dateline><date when="1794-11-09"/></dateline>
                 <p>the Treaty being finnished this Day<lb/>
                     <persName key="cornp2">Cornplant</persName> Complained that the united<lb/>
@@ -1570,7 +1584,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="36" facs="hv_bacond_account_1794_036"/>
                 <dateline><date when="1794-11-13"/></dateline>
                 <p>13 Left <persName key="egilb2">Elias Gilberts</persName> a Bought 5 oClock in the
                     Morning<lb/> Came To <persName key="jmadc1">Metcalfe</persName> 13 miles Got
@@ -1623,7 +1637,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="37" facs="hv_bacond_account_1794_037"/>
                 <dateline><date when="1794-11-16"/></dateline>
                 <p> were present when the Articles were agreed on &amp;<lb/> made no objection to
                     them. - He says they will<lb/> agree to &amp; abide by what the Sachems do, if
@@ -1646,7 +1660,7 @@
                     Treaty.</p>
                 <p>
                     <persName key="cornp2">Cornplanter</persName> then addressed the Warriors in a <lb/>
-                    <pb n=""/> short Speech desiring they would be firm &amp;<lb/> steady in their
+                    <pb n="38" facs="hv_bacond_account_1794_038"/> short Speech desiring they would be firm &amp;<lb/> steady in their
                     conclusion.</p>
 
             </div>
@@ -1665,7 +1679,7 @@
                     abought 20 m to the the Next house<lb/> So we Concluded to stay all night
                     there<lb/> a most Dismal Plase &amp; the weather<lb/> Cold the house if it may
                     Be Calld<lb/> one open for yards on the Roofe &amp; Plenty<lb/> of Cracks
-                    Between the logs no Stable<lb/> for our Tyred horses nor hay <lb/><pb n=""/> no
+                    Between the logs no Stable<lb/> for our Tyred horses nor hay <lb/><pb n="39" facs="hv_bacond_account_1794_039"/> no
                     Milk nor Butter nor Sugar we got some<lb/> &amp; we fryed Venson Laid Down on
                     the flore<lb/> with something like a bed But I had the<lb/> Satisfaction of
                     seeing the stars which<lb/> Shined Bright which was Pleasing as<lb/> we had Snow
@@ -1705,7 +1719,7 @@
             <div type="entry">
                 <dateline><date when="1794-11-21"/></dateline>
                 <p> 21 Mill Dam Broke &amp; the waters so high that<lb/> we were Informed we could
-                    not cross <lb/><pb n=""/> them &amp; the <placeName key="susqueh"
+                    not cross <lb/><pb n="40" facs="hv_bacond_account_1794_040"/> them &amp; the <placeName key="susqueh"
                         >Suscohannah</placeName> Rose this<lb/> Day &amp; last night abought a foot
                     it was<lb/> Trying to Stay But there was nothing<lb/> to Be Done But to Exercise
                     Patience<lb/> &amp; we thought it a favour we got to<lb/> such good Quarters the
@@ -1761,7 +1775,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="41" facs="hv_bacond_account_1794_041"/>
                 <dateline><date when="1794-10-31"/></dateline>
                 <p>The time allowed to consider &amp; digest an answer being too short, &amp; the
                     Indians return<lb/>ing rather earlier than the time appointed, they chearfully
@@ -1837,7 +1851,7 @@
 
             </div>
             <div type="entry">
-                <pb n=""/>
+                <pb n="42" facs="hv_bacond_account_1794_042"/>
                 <dateline><date when="1794-10-31"/>10th Month 31st 1794:</dateline>
                 <p> Four of the Sachems viz <persName key="clear1">Clear Sky</persName>, <persName
                         key="redja1">Red Jacket</persName>,<lb/>
@@ -1904,7 +1918,7 @@
 
             </div>
             <div type="draft">
-                <pb n=""/>
+                <pb n="43" facs="hv_bacond_account_1794_043"/>
                 <floatingText type="speech">
                     <body>
                         <p>Brothers, I am very glad you have lengthened out your patience to see the
@@ -1962,7 +1976,7 @@
                             your Friends: We wish that when you apprehend<lb/> yourselves agrieved
                             you would make your Grievances know &amp; not seek to revenge<lb/> them,
                             as a Society we have had experience of the benifits arising from these
-                                <lb/><pb n=""/> peaceable principles for the space of near 150
+                            <lb/><pb n="44" facs="hv_bacond_account_1794_044"/> peaceable principles for the space of near 150
                             years, &amp; find we can do better with<lb/>out fighting then with it.
                             We still continue to feel the same good will towards<lb/> our Brothers
                             the Indians as formerly &amp; are willing in every strait &amp;
@@ -1999,7 +2013,7 @@
 
             </div>
             <div type="letter">
-                <pb n=""/>
+                <pb n="45" facs="hv_bacond_account_1794_045"/>
                 <dateline><date when="1798-02-23">2 mo 23th 1798</date>
                     <placeName key="phila">Philad.</placeName></dateline>
                 <p> At a conferrence held with 5 of the <orgName key="tuscarora"
@@ -2019,6 +2033,17 @@
                 </p>
 
             </div>
+            
+            <div type="undetermined">
+                <pb n="46" facs="hv_bacond_account_1794_046"/>
+                <pb n="47" facs="hv_bacond_account_1794_047"/>
+                <pb n="48" facs="hv_bacond_account_1794_048"/>
+                <pb n="49" facs="hv_bacond_account_1794_049"/>
+                <pb n="50" facs="hv_bacond_account_1794_050"/>
+                <pb n="51" facs="hv_bacond_account_1794_051"/>
+                <pb n="52" facs="hv_bacond_account_1794_052"/>
+            </div>
+            
         </back>
 
     </text>

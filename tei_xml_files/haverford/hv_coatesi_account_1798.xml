@@ -54,7 +54,7 @@
                         publication will be made available at a cost or free of charge.</p>
                 </availability>
                 <date when="2015">2015</date>
-                <idno type="local">HV_IC_1798_1799</idno>
+                <idno type="local">hv_coatesi_account_1798</idno>
             </publicationStmt>
             <seriesStmt>
                 <title level="s" type="project">Native Americans and Quakers: An Electronic
@@ -118,10 +118,18 @@
         </revisionDesc>
     </teiHeader>
     <text>
+              
         <front>
+            
+            <div type="undetermined">
+                <pb n="1" facs="hv_coatesi_account_1798_001"/>
+                <pb n="2" facs="hv_coatesi_account_1798_002"/>
+                <pb n="3" facs="hv_coatesi_account_1798_003"/>
+            </div>
+            
             <div type="preface">
 
-                <pb n="4" facs="HV_IC_1798_1799_Page_004"/>
+                <pb n="4" facs="hv_coatesi_account_1798_004"/>
                 <p>The following account of <lb/>visits to these Indian Reservations in <lb/>Western
                         <placeName key="newyo">New York</placeName>, has been compiled <lb/>from the
                     accounts kept by <persName key="icoat1">Isaac <lb/>Coates</persName>, <persName
@@ -140,13 +148,16 @@
 
             </div>
 
+            <div type="undetermined">
+                <pb n="5" facs="hv_coatesi_account_1798_005"/>
+            </div>
 
         </front>
         <body>
 
 
             <div type="narrative">
-                <pb n="6" facs="HV_IC_1798_1799_Page_006"/>
+                <pb n="6" facs="hv_coatesi_account_1798_006"/>
                 <head>Visit to the Indians in <date when="1798">1798</date>.</head>
                 <p><orgName key="pym">Philadephia Yearly Meeting</orgName>'s <orgName
                         key="pymindian">Committee</orgName>
@@ -180,7 +191,7 @@
                             Jackson</persName> and <persName key="jswai1">Joel Swayne</persName>, at
                         the house of<lb/><persName key="agibb1">Abraham Gibbons</persName> where we
                         all set out in the<lb/>afternoon, about 2 o clock; and after several days<lb/>
-                        <pb n="7" facs="HV_IC_1798_1799_Page_007"/> fatiguing ride, we arrived at
+                        <pb n="7" facs="hv_coatesi_account_1798_007"/> fatiguing ride, we arrived at
                             <persName key="rcadw1">Reese Cadwallider</persName>'s<lb/> in <placeName
                             key="redst1">Redstone</placeName> where we rested ourselves and
                         horses<lb/> about two days. Attended their meeting and
@@ -213,7 +224,7 @@
                 <dateline><placeName key="bluem"/><date when="1798-05-04"/></dateline>
                 <p>On the 4th assended another Mountain, <q>When<lb/>we arrived at its summit we had
                         a delightful view<lb/>of a well improved valley, two or more miles in width,<lb/>
-                        <pb n="8" facs="HV_IC_1798_1799_Page_008"/>with a lofty mountain beyond,
+                        <pb n="8" facs="hv_coatesi_account_1798_008"/>with a lofty mountain beyond,
                         Then through <placeName key="fanne">Fannets-<lb/>burg</placeName> a village
                         of perhaps 30 log houses. Then over <geogName key="sidel"
                             >Sideling<lb/>hill</geogName>, we rode four miles along its summit,
@@ -242,7 +253,7 @@
                         Alleghany</geogName> where<lb/>is some good land, and luxuriant growth
                     of<lb/> vegetation. The assent of this mountain is better<lb/>land than any of
                     the others, being covered with<lb/>lofty timbers of divers sorts, On top of the
-                        highest<lb/><pb n="9" facs="HV_IC_1798_1799_Page_009"/>of these mountains
+                        highest<lb/><pb n="9" facs="hv_coatesi_account_1798_009"/>of these mountains
                     they passed was a fine spring<lb/>of water. This night the <date
                         when="1798-05-05">5th</date> they lodged in a<lb/>dutch town called
                         <placeName key="berli">Berlin</placeName> in <placeName key="somsc">Somerset
@@ -272,7 +283,7 @@
                             key="pitts">Pittsburg</placeName> we soon began to decend the
                         steepest<lb/>hill I ever saw a wagon road upon, which to<lb/>me appeared
                         almost impracticable for a good<lb/>team to draw an empty wagon up,
-                            Neverthe-<lb/><pb n="10" facs="HV_IC_1798_1799_Page_010"/>less, the
+                            Neverthe-<lb/><pb n="10" facs="hv_coatesi_account_1798_010"/>less, the
                         inhabitants say, they frequently go up<lb/>loaded, When we descended to the
                         bottom we<lb/>crossed the beautiful <geogName key="monon"
                             >Monongahela</geogName>, and im-<lb/>mediately entered the
@@ -301,7 +312,7 @@
                         with<lb/>the deputy Quarter Master, from whom we learn-<lb/>ed that
                             <persName key="gwilk2">General Wilkinson</persName> had directed<lb/>him
                         to assist us in forwarding our goods<lb/><pb n="11"
-                            facs="HV_IC_1798_1799_Page_011"/>up the <geogName key="alleg"
+                            facs="hv_coatesi_account_1798_011"/>up the <geogName key="alleg"
                             >Alleghany</geogName> to <placeName key="cornp">Cornplanters
                             settle-<lb/>ment</placeName>. We also manifested an obliging<lb/>and
                         attentive disposition relative to the<lb/>business, and appeared well
@@ -319,7 +330,7 @@
                         meal,<lb/>2 " " " corn,<lb/>3 1/2 " " oats,<lb/>1 " " dried apples,<lb/>1/2
                         " " salt,<lb/>35 pounds " sugar,<lb/>136 " " bacon,<lb/>30 " "
                         biscuit,<lb/>28 " " cheese,<lb/>8 1/2 " " lard.<lb/><pb n="12"
-                            facs="HV_IC_1798_1799_Page_012"/>12 lights of window glass,<lb/>2 sets
+                            facs="hv_coatesi_account_1798_012"/>12 lights of window glass,<lb/>2 sets
                         of irons,<lb/>1 pair of pot hooks,<lb/>1 small iron kettle, and several
                         other<lb/>small articles.</p></q>
             </div>
@@ -346,7 +357,7 @@
                     <p>About three in the afternoon a<lb/>boat was in readiness, and the Quarter
                         Master<lb/> furnishing a wagon we soon got our goods<lb/>collected to the
                         water-side, weighed and put<lb/>on board, amounting in the whole to 4,734
-                            <lb/><pb n="13" facs="HV_IC_1798_1799_Page_013"/>lbs. for which the
+                            <lb/><pb n="13" facs="hv_coatesi_account_1798_013"/>lbs. for which the
                         boatman was to have<lb/>twenty shillings per hundred weight for<lb/>taking
                         up to the <placeName key="cornp">settlement</placeName>, which
                         we<lb/>afterwards understood from him, was 270<lb/>miles by water, He agreed
@@ -378,7 +389,7 @@
                             <p>This will be handed to you by <persName key="jpier1">Mr.
                                     <lb/>Pierce</persName>, of the <orgName key="pym">Society of
                                     Friends in Philadelphia</orgName><lb/><pb n="14"
-                                    facs="HV_IC_1798_1799_Page_014"/>who with several associates is
+                                    facs="hv_coatesi_account_1798_014"/>who with several associates is
                                 on a visit to the<lb/><orgName key="seneca">Seneca Nation</orgName>
                                 with views to make some es-<lb/>tablishment which may prove useful
                                 to those<lb/>people, and interesting to the rights of
@@ -406,7 +417,7 @@
                             <p><emph rend="underline">Brothers</emph>, I charge you to take
                                 this<lb/>our beloved man, and his companions, by<lb/>the hand, and
                                 to treat them with kindness<lb/>and sincerity. Open your ears and
-                                listen to<lb/><pb n="15" facs="HV_IC_1798_1799_Page_015"/>what they
+                                listen to<lb/><pb n="15" facs="hv_coatesi_account_1798_015"/>what they
                                 say;- open your eyes and follow<lb/>their footsteps: then will your
                                 old men, your<lb/>wives, your children, and your children's
                                 chil-<lb/>dren live in security, and enjoy the com-<lb/>forts of
@@ -430,7 +441,7 @@
                         the<lb/>town, we entered a wilderness county, but<lb/>little inhabited, the
                         settlements not more<lb/>than two or three years old, and scarce of
                         pro-<lb/>visions for man and horse. We traveled at<lb/>several stages about
-                        33 miles, having fed at<lb/><pb n="16" facs="HV_IC_1798_1799_Page_016"
+                        33 miles, having fed at<lb/><pb n="16" facs="hv_coatesi_account_1798_016"
                         />Durkins 18 miles, we got in the evening to a place<lb/>called the
                             <placeName key="doubl">Double Cabin</placeName>, a poor house with
                         earthen<lb/>floor, on which we lodged, wrapped in our blankets,<lb/>this
@@ -457,7 +468,7 @@
                         feeling pretty much<lb/>fatigued. From <placeName key="pitts"
                             >Pittsburgh</placeName> to this place trav-<lb/>elling is difficult,
                         part of the roads extremely<lb/>bad, and accommodations next to
-                            intolerable<lb/><pb n="17" facs="HV_IC_1798_1799_Page_017"/>and we
+                            intolerable<lb/><pb n="17" facs="hv_coatesi_account_1798_017"/>and we
                         sensibly felt the effect of our<lb/>poor nights lodging. We met with few
                         houses<lb/>in this days ride.</p>
                     <p>The country was pretty level except about<lb/><geogName key="sandy">Sandy
@@ -488,7 +499,7 @@
                         of <placeName key="cornp">Cornplanter's<lb/>residence</placeName> agreed to
                         pilot us thither, and to procure<lb/>us another from that place.</p>
                     <p>After dining at the tavern where we put up<lb/><pb n="18"
-                            facs="HV_IC_1798_1799_Page_018"/>last evening, we took our departure,
+                            facs="hv_coatesi_account_1798_018"/>last evening, we took our departure,
                         being willing<lb/>to leave this dear place, having paid three shillings
                         a<lb/> meal, four shillings for each horse at very coarse hay,<lb/>fifteen
                         shillings a bushel for corn, and yesterday fifteen<lb/>shillings a bushel
@@ -515,7 +526,7 @@
                         smell.</p></q>
                 <p><q>We were informed that one man gathered<lb/>three barrels last year which sold
                         at <placeName key="pitts">Pittsburgh</placeName><lb/><pb n="19"
-                            facs="HV_IC_1798_1799_Page_019"/>for four dollars per gallon.</q> A year
+                            facs="hv_coatesi_account_1798_019"/>for four dollars per gallon.</q> A year
                     or two later<lb/>when <persName key="icoat1">Isaac Coates</persName> again
                     passed through this<lb/>section of the country, he speaks of there being a
                     great<lb/>improvement at this place. A young man by the<lb/>name of <persName
@@ -543,7 +554,7 @@
                             mountainous new<lb/> countries it would appear impracticable to pass
                             with a single horse.</note> This is the first pine woods
                         worth<lb/>noticing since we crossed the mountains, To this<lb/><pb n="20"
-                            facs="HV_IC_1798_1799_Page_020"/>place there is a cut road from
+                            facs="hv_coatesi_account_1798_020"/>place there is a cut road from
                             <placeName key="pitts">Pittsburg</placeName>, but we<lb/>now enter the
                         wilderness where a number of<lb/>marked trees were to be our guides.</q></p>
                 <q>
@@ -565,7 +576,7 @@
                         the forest of<lb/>pine trees, were covered with moss, resem-<lb/>bling for
                         thickness a fleece of wool.</p>
                     <p>Some of the large rocks more than<lb/><pb n="21"
-                            facs="HV_IC_1798_1799_Page_021"/>12 feet high, having received seed from
+                            facs="hv_coatesi_account_1798_021"/>12 feet high, having received seed from
                         the<lb/>neighboring trees, which sprouted and took<lb/>root, have large
                         trees of two or three feet<lb/>over growing on them, Three or four such<lb/>
                         trees we have seen growing on one rock, with<lb/>their roots spread down its
@@ -591,7 +602,7 @@
                     <p>But having plenty of good canoes they convey with<lb/>facility their kettles
                         and implements for making<lb/>sugar, down the river and up this creek to
                         the<lb/>camps. About noon we arrived at <placeName key="conew"
-                            >Conewango</placeName>,<lb/><pb n="22" facs="HV_IC_1798_1799_Page_022"
+                            >Conewango</placeName>,<lb/><pb n="22" facs="hv_coatesi_account_1798_022"
                         />eighteen miles from <placeName key="cornp">Cornplanter's</placeName>: and
                         the road being<lb/>very rough, we agreed to remain here till
                         morning,<lb/>there being a good house to accommodate us,<lb/> though we had
@@ -616,7 +627,7 @@
                     <p>He agreed with a young Indian who was<lb/>sober and we were informed would
                         not get<lb/>drunk to pilot us tomorrow to <placeName key="cornp"
                             >Cornplanter's<lb/>village</placeName>. He was a good countenanced lad,
-                            and<lb/><pb n="23" facs="HV_IC_1798_1799_Page_023"/>appeared pleased
+                            and<lb/><pb n="23" facs="hv_coatesi_account_1798_023"/>appeared pleased
                         with the charge assigned him,</p></q>
             </div>
             <div type="entry">
@@ -642,7 +653,7 @@
                     <p>One of the canoes had a quantity of fine<lb/>fish, but we found when among
                         them that a<lb/>turkey, or any other small came was very seldom<lb/>taken:
                         it was rare to see a squirrel in the wilder-<lb/>ness. We saw some pheasants
-                        but no partridges.<lb/><pb n="24" facs="HV_IC_1798_1799_Page_024"/>After a
+                        but no partridges.<lb/><pb n="24" facs="hv_coatesi_account_1798_024"/>After a
                         short conference on the weighty business,<lb/>we were embarked in, we
                         proceeded up the river, not<lb/>without some exercise of mind, and would
                         have been<lb/>glad, could we have sent a messenger forward to in-<lb/>form
@@ -668,7 +679,7 @@
                     <p>This son <persName key="habee1">Henry</persName> had an English education
                         in<lb/>and about <placeName key="phila">Philadelphia</placeName>, and
                         interpreted for us.<lb/>His father can neither speak nor understand<lb/><pb
-                            n="25" facs="HV_IC_1798_1799_Page_025"/>English. The Chief presently
+                            n="25" facs="hv_coatesi_account_1798_025"/>English. The Chief presently
                         asked if we would<lb/>like to see his people in general Council.</p>
                     <p>We let him know we would as soon as was<lb/>convenient. Ten o'clock tomorrow
                         was therefore fix<lb/>upon, and runners dispatched immediately to
@@ -690,7 +701,7 @@
                         nor spoons, and taking up<lb/>a dumpling he cut it in two; then
                         stripping<lb/>up the husk, he cut off a piece, and dipping it<lb/>in the
                         kettle, which we found contained bear's oil<lb/><pb n="26"
-                            facs="HV_IC_1798_1799_Page_026"/>he ate it: we followed his example, and
+                            facs="hv_coatesi_account_1798_026"/>he ate it: we followed his example, and
                         made<lb/>a light meal, the bear's oil was old and not grate<lb/>ful to our
                         palate. We have since seen that this way<lb/>of eating is often practiced
                         among them; though cold<lb/>Indian bread is more frequently used.</p>
@@ -719,7 +730,7 @@
                         know we could not tell them all<lb/>we might say as we believed on such
                         occasions it was<lb/>right to wait on the Great Spirit to be
                         directed:<lb/>but that we would read to him the certificate<lb/><pb n="27"
-                            facs="HV_IC_1798_1799_Page_027"/>sent by our <orgName key="pymindian"
+                            facs="hv_coatesi_account_1798_027"/>sent by our <orgName key="pymindian"
                             >Committee</orgName>, which particularly<lb/>pointed out our business,
                         also <persName key="gwilk2">General Wilkinson</persName>'s<lb/>letter - with
                         which he appeared satisfied,</p>
@@ -741,7 +752,7 @@
                     <p>We now as at some other times, felt<lb/>our minds humblingly impressed with
                         the<lb/>weight of the business we were engaged in;<lb/>and after a short but
                         serious pause on our<lb/>part, we mentioned the love which their old<lb/><pb
-                            n="28" facs="HV_IC_1798_1799_Page_028"/>friends the Quakers have for
+                            n="28" facs="hv_coatesi_account_1798_028"/>friends the Quakers have for
                         them, and<lb/>that we had been made willing to leave our<lb/>beloved
                         families and comfortable dwellings,<lb/>and expose our selves to the
                         hardships and dif-<lb/>ficulties of a tedious journey, with no other
@@ -764,7 +775,7 @@
                         - plough-irons, hoes, axes, spades<lb/>and shovels; with carpenters' masons,
                         and<lb/>coopers tools, which we intended never to take<lb/>away. While our
                         young men stay, they should<lb/>be placed under their care to lend out to
-                            them<lb/><pb n="29" facs="HV_IC_1798_1799_Page_029"/>as they wanted, and
+                            them<lb/><pb n="29" facs="hv_coatesi_account_1798_029"/>as they wanted, and
                         when done with, were<lb/>to be returned. They were exorted to
                         stillness<lb/>and quietude and an attention to the Good Spirit<lb/>in their
                         own hearts.</p>
@@ -791,7 +802,7 @@
                             <persName key="cornp2">Cornplanter</persName><lb/>early informed us that
                         they were scarce of corn,<lb/>occasioned by an uncommon freshet <emph
                             rend="underline">sometime</emph><lb/>after the corn was planted, and by
-                        an early frost<lb/><pb n="30" facs="HV_IC_1798_1799_Page_030"/>in the fall;
+                        an early frost<lb/><pb n="30" facs="hv_coatesi_account_1798_030"/>in the fall;
                         but our anxiety on this account is<lb/>now much removed, by <persName
                             key="cornp2">Cornplanter</persName> informing us<lb/>that he had several
                         barrels of flour which he brought<lb/>from <placeName key="pitts"
@@ -814,7 +825,7 @@
                         we wanted them to<lb/>make a start, and come on by degrees as they were
                         able.</p>
                     <p>With this answer they appeared pretty<lb/>well satisfied, though we thought
-                        it was not such<lb/><pb n="31" facs="HV_IC_1798_1799_Page_031"/>an one, as
+                        it was not such<lb/><pb n="31" facs="hv_coatesi_account_1798_031"/>an one, as
                         the question was artfully designed<lb/>to draw from us.</p>
                     <p>At another time they told us, we must<lb/>wait with patience for an answer,
                         for it<lb/>was a great thing and they were all consul-<lb/>ting about it in
@@ -838,7 +849,22 @@
                                 language, so that<lb/>it is very hard for us to understand
                                 one<lb/>another plainly, as there is no person here<lb/>that can
                                 interpret very well.</p>
-                            <pb n="32" facs="HV_IC_1798_1799_Page_032"/>
+
+                            <floatingText type="letter">
+                                <pb n="32" facs="hv_coatesi_account_1798_032"/>
+                                <pb n="33" facs="hv_coatesi_account_1798_033"/>                                                       
+                                <body>
+                                    <p>It may be well here to remark, though<lb/>not as a part of either of the
+                                        accounts<lb/>in hand, that the wealth of some, is a<lb/>reward, not only of
+                                        their honesty and<lb/> persevering industry, but also of their<lb/>economy and
+                                        endeavors to save their<lb/> earnings as much as may be; only<lb/>spending their
+                                        money for useful and<lb/>necessary things. Then when they see<lb/>a friend or
+                                        brother in need, and it seems<lb/><emph rend="underline">right</emph> to help
+                                        him, they have the means<lb/>to contribute to his relief.</p>  
+                               </body>   
+                            </floatingText>
+                            
+                            <pb n="34" facs="hv_coatesi_account_1798_034"/>
                             <p><emph rend="underline">Brothers</emph>,<lb/>We take great pains to
                                 settle the<lb/>proposals you made to us, but we differ<lb/>in
                                 opinion, and we must take great pains<lb/>to have everything
@@ -859,8 +885,8 @@
                                 try; by that time we shall know<lb/>whether <persName key="rmorr1"
                                     >Robert Morris</persName> will leave us any<lb/>land, and
                                 whether he will pay us our<lb/>money; for last summer we sold our
-                                land<lb/>and we don't know yet whether we shall<lb/><pb n="33"
-                                    facs="HV_IC_1798_1799_Page_033"/>get what we reserved: but by
+                                land<lb/>and we don't know yet whether we shall<lb/><pb n="35"
+                                    facs="hv_coatesi_account_1798_035"/>get what we reserved: but by
                                 that time we<lb/> shall know, and then if they like it,<lb/>and we
                                 like it, your young men may stay<lb/>longer.</p>
                             <p><emph rend="underline">Brothers</emph>,<lb/>If your young men
@@ -881,7 +907,7 @@
                         bread for themselves to eat, but<lb/>that the land should still be theirs,
                         and all<lb/>the improvements which we should put on it,<lb/> would also be
                         theirs when we left it; and in order<lb/>to know where it would be best for
-                        our young men<lb/><pb n="34" facs="HV_IC_1798_1799_Page_034"/>to settle and
+                        our young men<lb/><pb n="36" facs="hv_coatesi_account_1798_036"/>to settle and
                         make a beginning we must look a<lb/>little about the country, and go to
                         their upper town,<lb/>and we desired some of their Chiefs might go<lb/>along
                         with us, and help to agree on some suitable<lb/>place, where our friends
@@ -902,7 +928,7 @@
                         sensibility of its truthfulness, by a<lb/>shamefaced good humored laugh.</p>
                     <p>After which Cornplanter expressed,<lb/>a few words indicating his
                         satisfaction with<lb/>what had been said, and that we would now<lb/><pb
-                            n="35" facs="HV_IC_1798_1799_Page_035"/>shake hands as brothers, and
+                            n="37" facs="hv_coatesi_account_1798_037"/>shake hands as brothers, and
                         directed his people<lb/>to rise and come to us, and shake hands by
                         course,<lb/>himself first setting the example.</p>
                     <p>Thus this Council ended after letting<lb/>them know that we should want one
@@ -927,7 +953,7 @@
                         to wait<lb/>on the Great Spirit, and if he or any of his<lb/>sober people
                         would come and sit with us it<lb/>would be acceptable. Near the time
                         appoint-<lb/>ed, <persName key="cornp2">Cornplanter</persName> with several
-                        others came into<lb/><pb n="36" facs="HV_IC_1798_1799_Page_036"/>our
+                        others came into<lb/><pb n="38" facs="hv_coatesi_account_1798_038"/>our
                         apartment. He sat very still with apparent<lb/>solidity until the
                         opportunity closed: the others<lb/>sat quiet a while and then withdrew. Our
                         door being<lb/>opened, the Indians as they passed looked at us,<lb/>but
@@ -956,8 +982,8 @@
                         Indians clearings they would<lb/>belong to <persName key="cornp2"
                             >Cornplanter</persName> and not to the <orgName key="seneca"
                             >Nation</orgName><lb/>when we left them," All this being
-                        considered<lb/>we concluded it would be best to look else-<lb/><pb n="37"
-                            facs="HV_IC_1798_1799_Page_037"/>where. The <orgName key="seneca"
+                        considered<lb/>we concluded it would be best to look else-<lb/><pb n="39"
+                            facs="hv_coatesi_account_1798_039"/>where. The <orgName key="seneca"
                             >Nation</orgName> owns forty-two square miles on<lb/>this river,
                         beginning at the <placeName key="penns">Pennsylvania</placeName> line.</p>
                     <p>The lines of the reservation had not yet been<lb/>run, but we found that the
@@ -981,7 +1007,7 @@
                     <p>The stream on which it is built, is now so<lb/> low that the mill could do
                         very little work:<lb/>and when the river is high the back water<lb/>prevents
                         it from sawing. At the <placeName key="genes1">Old Town</placeName>,<lb/><pb
-                            n="38" facs="HV_IC_1798_1799_Page_038"/>three miles further up there yet
+                            n="40" facs="hv_coatesi_account_1798_040"/>three miles further up there yet
                         remain three or<lb/>four families. About 150 acres of flat land
                         have<lb/>been mostly cleared and worked with corn, part<lb/>of which is
                         again grown up with hazel &amp;c, and<lb/>part with grass that in a few
@@ -1004,7 +1030,7 @@
                         if they did not like<lb/>the place we proposed, we hoped they would be
                         plain<lb/>with us, and let us know, and we would look further,<lb/>and
                         wished <emph rend="underline">them</emph> to propose a place they should
-                            like<lb/><pb n="39" facs="HV_IC_1798_1799_Page_039"/>better, To which
+                            like<lb/><pb n="41" facs="hv_coatesi_account_1798_041"/>better, To which
                             <persName key="cornp2">Cornplanter</persName> returned answer<lb/>in
                         substance as follows. <said who="cornp2">Brothers, I told you our<lb/>land
                             is before you, you may choose any place you<lb/>like best,</said> and
@@ -1031,7 +1057,7 @@
                         being favored to write with what<lb/>seemed expedient they were committed to
                         writing,<lb/>in readiness for our next council, in the min-<lb/>utes of
                         which they will appear.</p>
-                    <pb n="40" facs="HV_IC_1798_1799_Page_040"/>
+                    <pb n="42" facs="hv_coatesi_account_1798_042"/>
                     <p>We were this day as well as at some other times<lb/>pretty closely
                         interrogated about <persName key="rmorr1">Robert Morris</persName><lb/>of
                             <placeName key="phila">Philadelphia</placeName>. <persName key="cornp2"
@@ -1056,8 +1082,8 @@
                         that <persName key="ichap1">Captain C.</persName> had<lb/>told him that
                             <persName key="rmorr1">Morris</persName> was a very good and<lb/>honest
                         man, and yet he was got into jail,<lb/>now he could not understand how a
-                        good<lb/>and honest man could get into jail, however<lb/><pb n="41"
-                            facs="HV_IC_1798_1799_Page_041"/>he said he intended to ask <persName
+                        good<lb/>and honest man could get into jail, however<lb/><pb n="43"
+                            facs="hv_coatesi_account_1798_043"/>he said he intended to ask <persName
                             key="ichap1">Capt. Chapin</persName> where<lb/>his good and honest man
                             <persName key="rmorr1">Morris</persName> was now.</p>
                     <p>We were at length easy to observe to them<lb/>in general terms, that it was
@@ -1079,7 +1105,7 @@
                         should<lb/>stand in need of for seed, but they insisted we<lb/>should take
                         the whole, for they were sent in for<lb/>that purpose: which we then did;
                         thinking the<lb/>hearty good will with which they were presented,<lb/><pb
-                            n="42" facs="HV_IC_1798_1799_Page_042"/>manifested a full approbation of
+                            n="44" facs="hv_coatesi_account_1798_044"/>manifested a full approbation of
                         our under-<lb/>taking.</p></q>
             </div>
             <div type="entry">
@@ -1105,7 +1131,7 @@
                         not like to leave them<lb/>when winter came to go a hunting.</p>
                     <p>along each side of the apartments from the door<lb/> to the other end, were
                         berths about four feet wide<lb/>and one foot high, covered with boards; on
-                            these<lb/><pb n="43" facs="HV_IC_1798_1799_Page_043"/><del>these</del>
+                            these<lb/><pb n="45" facs="hv_coatesi_account_1798_045"/><del>these</del>
                         deer skins are spread - these are their beds,<lb/>and they make a pretty
                         good seat always ready.</p>
                     <p>Over these, about five feet high, are<lb/>placed shelves of the same width
@@ -1127,7 +1153,7 @@
                         very productive.</p>
                     <p>Fifty or sixty acres adjoining the town nearly<lb/>cleared, is chiefly put in
                         yearly with corn, beans<lb/>and potatoes, and the work is done by the
-                            women<lb/><pb n="44" facs="HV_IC_1798_1799_Page_044"/>with hoes. They
+                            women<lb/><pb n="46" facs="hv_coatesi_account_1798_046"/>with hoes. They
                         hoe the grass and weeds<lb/>clean from the old cornhills and plant in
                         the<lb/>same place, and some time after the corn comes<lb/>up they hoe all
                         the surface of the field over so that<lb/>it looks very neat, with the corn
@@ -1148,8 +1174,8 @@
                         her knees, I have<lb/>seen carrying in wood and making the fire,<lb/>bring
                         up water from the river, and go out to<lb/> the cornfield, and return in the
                         evening with<lb/>the laborers, while the men and boys are spend-<lb/>ing
-                        their time in idleness, or shooting with their <lb/><pb n="45"
-                            facs="HV_IC_1798_1799_Page_045"/>bows and arrows at a mark, a very
+                        their time in idleness, or shooting with their <lb/><pb n="47"
+                            facs="hv_coatesi_account_1798_047"/>bows and arrows at a mark, a very
                         common re-<lb/>creation with them, pitching quails, jumping,<lb/>playing at
                         some kind of games, and on music-<lb/>al instruments. I have not while in
                         this<lb/>village seen either man or boy at any kind<lb/>of work. It was
@@ -1169,7 +1195,7 @@
                     <p>The visits of their friends are not interrupted<lb/>by cooking, or much
                         ceremony in laying<lb/>the table, If the hominy is boiled, which<lb/>was
                         generally the case after eleven o clock, and<lb/>it was not material whether
-                        cold or warm, when<lb/><pb n="46" facs="HV_IC_1798_1799_Page_046"/>their
+                        cold or warm, when<lb/><pb n="48" facs="hv_coatesi_account_1798_048"/>their
                         acquaintances came in, the berths al-<lb/>ways made a ready seat, on which
                         they were<lb/>soon engaged in smoking and talking;<lb/>and while thus
                         employed, a kettle of hominy<lb/>with a large wooden spoon is brought
@@ -1188,8 +1214,8 @@
                         suspended from their<lb/> ears and nose, the men particularly,
                         some-<lb/>times weighing an ounce, and hanging over<lb/> the mouth. The
                         womens ears are cut round<lb/>and loaded with diferent toys, until they<lb/>
-                        are drawn down several inches. One man had<lb/><pb n="47"
-                            facs="HV_IC_1798_1799_Page_047"/>two small brass padlocks in one ear,
+                        are drawn down several inches. One man had<lb/><pb n="49"
+                            facs="hv_coatesi_account_1798_049"/>two small brass padlocks in one ear,
                         another a<lb/>toy watch, Large, silver crosses are also worn<lb/>by them in
                         the same manner. They are far<lb/>from being clean in their persons; Some of
                         their shirts<lb/>do not appear to have ever been washed, and<lb/> about the
@@ -1208,8 +1234,8 @@
                     <p>In the night one of the hills our rather moun-<lb/>tains, where a great
                         quantity of dead timber had<lb/>taken fire, presented a very luminous and
                         stri-<lb/>king appearance, as if the whole mountain was<lb/>on fire.</p>
-                    <p>We have been under some exercise on<lb/><pb n="48"
-                            facs="HV_IC_1798_1799_Page_048"/>account of our goods, the river having
+                    <p>We have been under some exercise on<lb/><pb n="50"
+                            facs="hv_coatesi_account_1798_050"/>account of our goods, the river having
                         fallen very fast<lb/>in consequence of the dry weather; but in the
                         midst<lb/>of our trials we have still been favored, a con-<lb/>siderable of
                         rain fell last evening though no<lb/>diference appears yet in the river.</p>
@@ -1231,8 +1257,8 @@
                     <p>We viewed an empty house that stood near<lb/>our settlements, but not liking
                         it, we proceeded<lb/>to look further. There was one occupied by a
                         fam-<lb/>ily, who we understood proposed leaving it, and<lb/>would sell
-                        their right. The woman who owned<lb/><pb n="49"
-                            facs="HV_IC_1798_1799_Page_049"/>it was willing to part with the house,
+                        their right. The woman who owned<lb/><pb n="51"
+                            facs="hv_coatesi_account_1798_051"/>it was willing to part with the house,
                         but hav-<lb/>ing put in a few spots of corn and vines, the whole<lb/> not
                         more than three or four perch square, she<lb/>appeared unwilling to give
                             <emph rend="underline">them</emph> up, and they<lb/>were so in our way,
@@ -1253,7 +1279,7 @@
                         more bedding, before morning, and<lb/>were under the necessity of using
                         several times<lb/>to renew our fire. Our house is about 24 feet<lb/>long by
                         19 wide, and 6 high to the square,<lb/>covered with bark, with a shed over
-                        the door,<lb/><pb n="50" facs="HV_IC_1798_1799_Page_050"/>and furnished
+                        the door,<lb/><pb n="52" facs="hv_coatesi_account_1798_052"/>and furnished
                         within, as is usual in Indian<lb/>buildings. It stands on an elevated spot,
                         with<lb/>in five perches of the river on its northeast<lb/>side.</p></q>
             </div>
@@ -1277,7 +1303,7 @@
                         less<lb/> than a week from this time, the season for<lb/>planting corn being
                         fully come, we are in some<lb/>doubts of getting much of that valuable
                         article in,<lb/>so as to answer a good purpose the present year:<lb/><pb
-                            n="51" facs="HV_IC_1798_1799_Page_051"/>Our young men propose having a
+                            n="53" facs="hv_coatesi_account_1798_053"/>Our young men propose having a
                         piece of<lb/>ground cleared, and in readiness for the plough<lb/>against the
                         arrival of our boat, that no time<lb/> may be lost with respect to getting
                         in as much<lb/>of this grain as our circumstances will ad-<lb/>mit. This
@@ -1301,8 +1327,8 @@
             <div type="entry">
                 <dateline><placeName key="genes1"/><date when="1798-05-25">25th 6th
                     day</date></dateline>
-                <q><p> Still rainy, so that very little<lb/><pb n="52"
-                            facs="HV_IC_1798_1799_Page_052"/>was done at our clearing. One of our
+                <q><p> Still rainy, so that very little<lb/><pb n="54"
+                            facs="hv_coatesi_account_1798_054"/>was done at our clearing. One of our
                         young<lb/>men was employed in baking bread and<lb/>some others of our
                         company in writing,<lb/>plastering up the holes in our house, and<lb/> so
                         forth. We have had very little rain since we<lb/>left home till yesterday
@@ -1329,7 +1355,7 @@
                 <q><p> This being First-day, about<lb/>11 o'clock we sat down together for religious
                         retire-<lb/>ment, which through favor was a strengthening<lb/>time to some
                         of us, May such seasons be re-<lb/>membered with gratitude and thankfulness,
-                            <lb/><pb n="53" facs="HV_IC_1798_1799_Page_053"/>and may our young
+                            <lb/><pb n="55" facs="hv_coatesi_account_1798_055"/>and may our young
                         Friends be encouraged<lb/>and strengthened to keep up such
                         religious<lb/>opportunities when we are far separated. -<lb/><said
                             who="jshar1">Which I trust they will.</said> [says <persName
@@ -1352,8 +1378,8 @@
                         venison.</p>
                     <p>We sat down to our dinner with thank-<lb/>ful hearts for so unexpected a
                         supply, which<lb/>was very acceptable, as we had not so much<lb/> of our own
-                        left as would make a meal for one<lb/><pb n="54"
-                            facs="HV_IC_1798_1799_Page_054"/>person, and had heard of none to be
+                        left as would make a meal for one<lb/><pb n="56"
+                            facs="hv_coatesi_account_1798_056"/>person, and had heard of none to be
                         purchased<lb/>in this country though we had made considerable<lb/>
                         inquiry.</p>
                     <p>When inquiring for bacon at <placeName key="pitts"
@@ -1379,7 +1405,7 @@
                         give it back to us.</p>
                     <p>We received the money, expressed our ap-<lb/>preciation of his kindness, and
                         presented him<lb/>with the same price for his trouble in bring-<lb/><pb
-                            n="55" facs="HV_IC_1798_1799_Page_055"/>ing us down in the canoe, upon
+                            n="57" facs="hv_coatesi_account_1798_057"/>ing us down in the canoe, upon
                         which<lb/>he readily received it.</p></q>
             </div>
             <div type="entry">
@@ -1404,7 +1430,7 @@
                         stillness, or anything like it,<lb/> is a state of mind that only a <emph
                             rend="underline">few</emph> of them appear<lb/>to be acquainted with. We
                         were, in a short<lb/>time, favored with a degree of weight and
-                            strength<lb/><pb n="56" facs="HV_IC_1798_1799_Page_056"/>to make some
+                            strength<lb/><pb n="58" facs="hv_coatesi_account_1798_058"/>to make some
                         introductory communications,<lb/>pertaining to the nature of our business,
                         and<lb/>then <del>read</del> the following, which we had prepared
                         and<lb/>written down on the <date when="1798-05-22">22nd</date> was read and
@@ -1432,8 +1458,8 @@
                                 themselves, as they<lb/>see our young men fence of theirs.</p>
                             <p>Our young men will be willing to assist and in-<lb/>struct them in
                                 working their lots.</p>
-                            <p> We do not think our young men will be able to <lb/><pb n="57"
-                                    facs="HV_IC_1798_1799_Page_057"/>raise any more of their lot
+                            <p> We do not think our young men will be able to <lb/><pb n="59"
+                                    facs="hv_coatesi_account_1798_059"/>raise any more of their lot
                                 this year, than they will<lb/>want for themselves, but we hope
                                 against another<lb/>year, they will have a little to spare. and we
                                 are<lb/>willing they should give to your old and in-<lb/>firm people
@@ -1455,7 +1481,7 @@
                                 to keep this<lb/>money for you, till the time is wanted,<lb/>or
                                 perhaps is may be all gone for whisky, or<lb/>something that will
                                 not do as much good<lb/>as the mill would.</p>
-                            <pb n="58" facs="HV_IC_1798_1799_Page_058"/>
+                            <pb n="60" facs="hv_coatesi_account_1798_060"/>
                             <p><emph rend="underline">Brothers</emph>, We are also willing to learn
                                 you<lb/>how to farm by agreeing to give some<lb/>small premiums, to
                                 such of our Indian<lb/>brothers who are industrious and raise
@@ -1476,7 +1502,7 @@
                                 the<lb/>woman.</p>
                             <p>6th For every 12 yards of woolen or linsey cloth<lb/>made by an
                                 Indian woman out of the<lb/>wool of her own, or her husbands
-                                    sheep,<lb/><pb n="59" facs="HV_IC_1798_1799_Page_059"/>and spun
+                                    sheep,<lb/><pb n="61" facs="hv_coatesi_account_1798_061"/>and spun
                                 in her own house, the sum of two<lb/>dollars to be paid to the
                                 woman.</p>
                             <p>Brothers we will give you these pre-<lb/>miums for four years, if our
@@ -1515,8 +1541,7 @@
                         moral and temporal conduct:<lb/>but particularly on their excessive use
                         of<lb/>strong drink, a variety of instances whereof<lb/>we had been eye
                         witnesses to.</p>
-                    <pb n="60" facs="HV_IC_1798_1799_Page_060"/>
-                    <!-- page missing??? -->
+                    <pb n="62" facs="hv_coatesi_account_1798_062"/>
                     <p>Rivers of them, as heretofore, appeared solid;<lb/>and particularly the
                         women, but much<lb/>the greater number manifested no real seriousness</p>
                     <p>They then proposed retiring into a private<lb/>council in order to consult of
@@ -1541,8 +1566,8 @@
                             <p>Brothers,<lb/>We know how far you have<lb/>come to see us: it is a
                                 great way way from<lb/>the sea shore, where our forefathers once
                                 lived.</p>
-                            <p>The white people have cheated us, and got <lb/><pb n="61"
-                                    facs="HV_IC_1798_1799_Page_061"/>our land from us, and now we
+                            <p>The white people have cheated us, and got <lb/><pb n="63"
+                                    facs="hv_coatesi_account_1798_063"/>our land from us, and now we
                                 have but<lb/>little left. We will try to learn your way.</p>
                             <p><emph rend="underline">Brothers</emph>,<lb/>You know there are some
                                 bad<lb/>people amongst us: and you know that we<lb/>have been
@@ -1564,8 +1589,8 @@
                                 hoes and axes and such<lb/>things amongst us, and we are not able to
                                 get them.</p>
                             <p><emph rend="underline">Brothers</emph>,<lb/>I will go along with you
-                                to <placeName key="canan">Canan-<lb/><pb n="62"
-                                        facs="HV_IC_1798_1799_Page_062"/>daigua</placeName> and
+                                to <placeName key="canan">Canan-<lb/><pb n="64"
+                                        facs="hv_coatesi_account_1798_064"/>daigua</placeName> and
                                 there we will get matters settled about<lb/>the mill, and bring it
                                 to back to your young men<lb/>in writing.</p>
                             <p><emph rend="underline">Brothers</emph>, this is all I got to say, we
@@ -1587,8 +1612,8 @@
                         tender<lb/>care and regard: and that the great difference,<lb/>between them
                         and white people, in regard to<lb/>riches and poverty, of which they so
                         frequently<lb/>spoke, was the natural result of the diferent<lb/>plans
-                        pursued in [endeavoring] to obtain the<lb/><pb n="63"
-                            facs="HV_IC_1798_1799_Page_063"/>blessings of this life: and that as
+                        pursued in [endeavoring] to obtain the<lb/><pb n="65"
+                            facs="hv_coatesi_account_1798_065"/>blessings of this life: and that as
                         their ground<lb/>was equally good with with that possessed by
                         white<lb/>people, it would also be equally productive<lb/>if the same
                         industry and method of farming<lb/>it were pursued.</p>
@@ -1599,8 +1624,8 @@
                         Indian bread<lb/>with beans in it, baked in a Duch oven, and a<lb/>little
                         butter was all that was set before us. They<lb/>informed us they had no
                         meat.</q></p>
-                <q><p>In the evening our young men returned to their<lb/><pb n="64"
-                            facs="HV_IC_1798_1799_Page_064"/>own house at <placeName key="genes1"
+                <q><p>In the evening our young men returned to their<lb/><pb n="66"
+                            facs="hv_coatesi_account_1798_066"/>own house at <placeName key="genes1"
                             >Genesinguhta</placeName>, and we (<persName key="jshar1">Joshua<lb/>
                             Sharpless</persName> and <persName key="jpier1">John Pierce</persName>)
                         took boarding with<lb/><persName key="cornp2">Cornplanter</persName>, who
@@ -1627,8 +1652,8 @@
                             key="cornp2">Cornplanter</persName> expressed a<lb/>particular desire
                         that we should attend their council<lb/>on the occasion, at the aforesaid
                         place.</p>
-                    <p> We had for some time past felt our minds rather<lb/><pb n="65"
-                            facs="HV_IC_1798_1799_Page_065"/>turned toward taking <placeName
+                    <p> We had for some time past felt our minds rather<lb/><pb n="67"
+                            facs="hv_coatesi_account_1798_067"/>turned toward taking <placeName
                             key="canan">Canandaigua</placeName> and <placeName key="oneid"
                             >Oneida</placeName><lb/>in our way home: and upon inquiring
                         were<lb/>informed that we could not get to <placeName key="canan"
@@ -1664,7 +1689,7 @@
                 <dateline><placeName key="cornp"/><date when="1798-05-30">30th 4th
                     day.</date></dateline>
                 <q>
-                    <p> The fore part of this day<lb/><pb n="66" facs="HV_IC_1798_1799_Page_066"
+                    <p> The fore part of this day<lb/><pb n="68" facs="hv_coatesi_account_1798_068"
                         />was employed in writing and so forth.</p>
                     <p> About noon our goods arrived at this<lb/>place, and were heartily welcomed
                         both by us,<lb/>and the Indians, many of whom gathered round<lb/>the shore,
@@ -1691,7 +1716,7 @@
                                 ar-<lb/>rived at <persName key="cornp">Cornplanters lower
                                     village</persName> with our<lb/>goods; and our settlement being
                                 nine miles<lb/>higher up the river we prevailed with him to<lb/><pb
-                                    n="67" facs="HV_IC_1798_1799_Page_067"/>continue up to that
+                                    n="69" facs="hv_coatesi_account_1798_069"/>continue up to that
                                 place: If it accords<lb/>with thy orders to satisfy him for this
                                 ex-<lb/>tra labor, the business will be settled: if<lb/>not please
                                 to present these lines, with<lb/>his extra bill, to <persName
@@ -1718,8 +1743,8 @@
                         little<lb/>conversation with the Indians beyond their<lb/> business affairs,
                         being now through with<lb/><emph rend="underline">that</emph>, they
                         conversed a little about their cus-<lb/>toms, in which <persName
-                            key="cornp2">Cornplanter</persName> said they<lb/><pb n="68"
-                            facs="HV_IC_1798_1799_Page_068"/>did not keep the First day of the
+                            key="cornp2">Cornplanter</persName> said they<lb/><pb n="73"
+                            facs="hv_coatesi_account_1798_070"/>did not keep the First day of the
                         week<lb/>but every one tried to think good in his<lb/>own mind. As we could
                         read the<lb/>Bible, he queried whether there was any<lb/>thing said in it
                         about the Indians?</p>
@@ -1745,7 +1770,7 @@
                         in a canoe to his<lb/>saw mill, where we took leave of the Chief<lb/>and his
                         son for the present, with a promise<lb/>that they would call on us at our
                         house at<lb/><placeName key="genes1">Genesinguhta</placeName>, in five days
-                        to go with us to <lb/><pb n="69" facs="HV_IC_1798_1799_Page_069"/>the mouth
+                        to go with us to <lb/><pb n="71" facs="hv_coatesi_account_1798_071"/>the mouth
                         of <geogName key="buffc1">Buffalo</geogName>, in order to attend
                         the<lb/>Council there, the Nephew and son of<lb/>the Dutchman who tends the
                         saw mill,<lb/>took us up to our farm, where we found our<lb/>goods had
@@ -1765,8 +1790,8 @@
                         naked<lb/>walls, empty house, and bare cupboard,<lb/>met with a rich supply;
                         our hard and<lb/>cold beds, were warmed and softened, with<lb/>blankets: we
                         are now able to make a cup<lb/>of tea or coffee, though without milk or
-                        butter:<lb/>we have bacon and cheese to eat with our<lb/><pb n="70"
-                            facs="HV_IC_1798_1799_Page_070"/>bread: and one of our young men says
+                        butter:<lb/>we have bacon and cheese to eat with our<lb/><pb n="75"
+                            facs="hv_coatesi_account_1798_072"/>bread: and one of our young men says
                         they<lb/>want nothing but a cow to make their<lb/>living equal to <placeName
                             key="chestc">Chester county</placeName>.</p>
                     <p>We are visited every day more or less<lb/>by the Indians, who are much
@@ -1792,7 +1817,7 @@
 
                 <q><p>This morning being wet our<lb/>young men were employed putting handles<lb/>to
                         their tools, hanging their grindstone &amp;c.<lb/>
-                        <pb n="71" facs="HV_IC_1798_1799_Page_071"/>In the afternoon we, (that is
+                        <pb n="73" facs="hv_coatesi_account_1798_073"/>In the afternoon we, (that is
                             <persName key="jshar1">Joshua Sharp-<lb/>less</persName> and <persName
                             key="jpier1">John Pierce</persName>) went about a mile<lb/>up the river,
                         in order to view a small<lb/>creek, that we were informed of, as
@@ -1816,8 +1841,8 @@
                         days at this place, and to<lb/>feel, and sympathize with our friends
                         under<lb/>their various trials: and notwithstanding<lb/>we had no power from
                         our friends at home<lb/> relative to things here. We believed the
-                        ur-<lb/>gency of the occasion would justify us in<lb/><pb n="72"
-                            facs="HV_IC_1798_1799_Page_072"/>joining with them in a serious
+                        ur-<lb/>gency of the occasion would justify us in<lb/><pb n="74"
+                            facs="hv_coatesi_account_1798_074"/>joining with them in a serious
                         considera-<lb/>tion of what might be profitably proposed<lb/>to the <orgName
                             key="oneida">Oneidas</orgName> on the subject of the young<lb/>men
                         working on the farm with our friends,<lb/>as well as the necessary
@@ -1848,7 +1873,7 @@
                         not recollect seeing the sunrise clear<lb/>since we came here [principally
                         on account of the<lb/>fog]</p></q>
             </div>
-            <pb n="73" facs="HV_IC_1798_1799_Page_073"/>
+            <pb n="78" facs="hv_coatesi_account_1798_075"/>
             <div type="entry">
                 <dateline><placeName key="genes1"/><date when="1798-06-05">5th 3
                     day.</date></dateline>
@@ -1876,7 +1901,7 @@
                             >Cornplanter</persName><lb/>his son, and two other Indians. The
                         chief<lb/> informed us that one of his daughters was taken<lb/>very ill
                         yesterday, and that a relative living in<lb/>his family had fallen from a
-                        horse and broken his<lb/><pb n="74" facs="HV_IC_1798_1799_Page_074"/>arm,
+                        horse and broken his<lb/><pb n="76" facs="hv_coatesi_account_1798_076"/>arm,
                         which had prevented him from coming soon<lb/>er, and now he could not go
                         with us for three<lb/>days on this account, for which he was very<lb/>sorry:
                         but if we did not like to wait so long<lb/> he would hire a guide and send
@@ -1903,8 +1928,8 @@
                     <p>For some time after we sat off this morn<lb/>ing, my* <note rend="asterisk">*
                                 <persName key="jshar1">J.S.</persName></note> mind was uncommonly
                         easy and cheer-<lb/>ful, so that I passed along in a lively and
-                        well<lb/>qualified state to make travelling pleasant; but<lb/><pb n="75"
-                            facs="HV_IC_1798_1799_Page_075"/> before evening, I found my stock of
+                        well<lb/>qualified state to make travelling pleasant; but<lb/><pb n="77"
+                            facs="hv_coatesi_account_1798_077"/> before evening, I found my stock of
                         spirits was<lb/>much exhausted. About 11 o'clock we had a<lb/>very heavy
                         rain, such a one as seldom hap-<lb/>pens. We got very wet. When near
                             <geogName key="catar">Cat-<lb/>taraugus river</geogName> we passed
@@ -1927,8 +1952,8 @@
                         during the night, but at the place<lb/>selected for crossing, the water ran
                         very swiftly,<lb/>We made a sign to our guide to lead the way<lb/>he being
                         well mounted on <persName key="hsimm1">Henry Simmons</persName>'<lb/>horse,
-                        it being the largest in the company,<lb/><pb n="76"
-                            facs="HV_IC_1798_1799_Page_076"/>but he showed evident marks of
+                        it being the largest in the company,<lb/><pb n="78"
+                            facs="hv_coatesi_account_1798_078"/>but he showed evident marks of
                         fear.</p>
                     <p> The task being likely to fall upon<lb/>me,* <note rend="asterisk">*
                                 <persName key="jshar1">J.S.</persName></note> I pulled off my great
@@ -1950,7 +1975,7 @@
                     <p>We stopped at a house in this village and<lb/>breakfasted on our own
                         provisions.</p>
                     <p>The town and pasture land were enclosed<lb/>in a lot of 12 or more acres,
-                        which looked clean<lb/><pb n="77" facs="HV_IC_1798_1799_Page_077"/> and
+                        which looked clean<lb/><pb n="79" facs="hv_coatesi_account_1798_079"/> and
                         pretty, having very good pasture within<lb/>the enclosure. The house we went
                         into had a<lb/>large quantity of corn hanging upon it; con-<lb/>siderably
                         more than I saw all the time I was<lb/>at <placeName key="alleg1"
@@ -1972,7 +1997,7 @@
                         remaining part of the day was pleasant,<lb/>rather heightened by our having
                         been so long con-<lb/>fined in the woods.</p>
                     <p>On our left the surf rolled gently to<lb/>the shore two or three feet high:
-                        on our right<lb/><pb n="78" facs="HV_IC_1798_1799_Page_078"/> rocks, and
+                        on our right<lb/><pb n="80" facs="hv_coatesi_account_1798_080"/> rocks, and
                         stones were piled up in places,<lb/>from 20 to 60* <note rend="asterisk">*
                             Some perhaps 100 ft.</note> feet high, as upright as the wall<lb/>of a
                         house, and in other places projecting <emph rend="underline"
@@ -1994,8 +2019,8 @@
                         creek</geogName><lb/>before sunset. Here we met with a company<lb/>of men
                         who were going to run out <persName key="rmorr1">Robert
                         Morris</persName>'s<lb/>late purchase of the Indians into townships:
-                            <persName key="jthom4">John<lb/><pb n="79"
-                                facs="HV_IC_1798_1799_Page_079"/> Thompson</persName>, an old
+                            <persName key="jthom4">John<lb/><pb n="81"
+                                facs="hv_coatesi_account_1798_081"/> Thompson</persName>, an old
                         acquaintance from <placeName key="delco">Delaware<lb/>County</placeName>,
                         being one of the head surveyors. He<lb/>invited us to stay all night with
                         them, and<lb/>directed a tent to be put up for us. We acknowl-<lb/>edged his
@@ -2028,7 +2053,7 @@
                     day.</date></dateline>
                 <q><p>Attended the meeting at <persName key="ascho1">Asy
                         Schooley</persName>'s<lb/>which was in good degree a solid
-                            opportunity:<lb/><pb n="80" facs="HV_IC_1798_1799_Page_080"/>between 30
+                            opportunity:<lb/><pb n="82" facs="hv_coatesi_account_1798_082"/>between 30
                         and 40 men and women collected, several<lb/>of whoom were hopeful young
                         persons.</p>
                     <p>In the afternoon went to <persName key="jhain3">Joseph Haines</persName>,
@@ -2057,7 +2082,7 @@
                         steadier, which was very acceptable to<lb/>us, having found when we crossed
                         before that<lb/>it was a dangerous ferry, and a rocking boat;<lb/>now we
                         went over steady, though the current beat<lb/>us down the river three
-                        fourths of a mile. <lb/><pb n="81" facs="HV_IC_1798_1799_Page_081"/>Shortly
+                        fourths of a mile. <lb/><pb n="83" facs="hv_coatesi_account_1798_083"/>Shortly
                         after getting ashore we saw a man<lb/>at a great distance riding toward us,
                         whom<lb/>we presently knew to be our <persName key="ijohn1">Indian
                             John</persName>, who was<lb/>coming to look for us. He appeared
@@ -2087,7 +2112,7 @@
                             <persName key="rmorr1">Robert Morris</persName>'s<lb/>comimissioners
                         were arrived; this afternoon<lb/>took an opportunity with us; observing
                         that<lb/>he expected we had seen enough of the difficulty travelling<lb/><pb
-                            n="82" facs="HV_IC_1798_1799_Page_082"/>in the wilderness, to know that
+                            n="84" facs="hv_coatesi_account_1798_084"/>in the wilderness, to know that
                         when people<lb/>were to be collected from different parts, it re-<lb/>quired
                         time: and he hoped if <persName key="ichap1">Captain
                         Chapin</persName><lb/>did not arrive this evening, we would try to
@@ -2112,7 +2137,7 @@
                     day.</date></dateline>
                 <p><q>Our Travellers</q> endeavored to attend<lb/>to <persName key="cornp2"
                         >Cornplanters</persName> request of last evening, and<lb/>one of them felt,
-                    his mind, easy to move <lb/><pb n="83" facs="HV_IC_1798_1799_Page_083"/>
+                    his mind, easy to move <lb/><pb n="85" facs="hv_coatesi_account_1798_085"/>
                     homewards, the other said he did not wit-<lb/>ness that clearness to set out he
                     wished to<lb/>experience, yet condescended if his compan-<lb/>ion thought best
                     of letting the chief know,<lb/> that upon weighing his request, in the<lb/>best
@@ -2132,7 +2157,7 @@
                         money<lb/> were not in the way, for we had plenty.</p>
                     <p>He said he had left his home on public<lb/>business, expecting to have
                         returned in fifty<lb/>or sixty days, and it had taken him near a <lb/><pb
-                            n="84" facs="HV_IC_1798_1799_Page_084"/> year before he had got back, -
+                            n="86" facs="hv_coatesi_account_1798_086"/> year before he had got back, -
                         and that he<lb/>had found it his duty, to sacrifice private<lb/>convenience
                         to pubilc good,- and he would have<lb/>us do so too, We replied that the
                         business we<lb/>were about appeared to be agreeably settled to<lb/>both
@@ -2154,8 +2179,8 @@
                         among his people, for he would take the<lb/>necessary care of them, and they
                         would be entirely<lb/>safe. We now took an affectionate farewell<lb/>of the
                         chief, and of the Indians present who parted<lb/>with us with much respect:
-                        and I (<persName key="jshar1">J.S.</persName>) can truly say <lb/><pb n="85"
-                            facs="HV_IC_1798_1799_Page_085"/> the longer I have been among that
+                        and I (<persName key="jshar1">J.S.</persName>) can truly say <lb/><pb n="87"
+                            facs="hv_coatesi_account_1798_087"/> the longer I have been among that
                         people, the<lb/>more near and united they have felt to me;<lb/>and now on
                         parting, they feel like brethren, with<lb/>whom I had been intimately
                         acquainted, and for<lb/>whose welfare I feel ardent wishes</p>
@@ -2178,7 +2203,7 @@
                             diferent places around us, in order to smoke them<lb/>off: but <emph
                                 rend="underline">with</emph>
                             <emph rend="underline">all</emph>, we were worried that the whole night
-                            through, <lb/><pb n="86" facs="HV_IC_1798_1799_Page_086"/>so that we
+                            through, <lb/><pb n="88" facs="hv_coatesi_account_1798_088"/>so that we
                             slept but little, Our horses us may be<lb/>supposed, fared no better. 45
                             miles [to day].</said></p></q>
             </div>
@@ -2212,8 +2237,8 @@
                             >Canandai-<lb/>gua</placeName>, and for 9 or 10 miles, passed through
                         a<lb/>thickly settled, highly improved country, con-<lb/>sidering the
                         settlement was no more than<lb/>ten years old, which was very animating;
-                        having<lb/>for 300 miles been mostly in the wilderness. <lb/><pb n="87"
-                            facs="HV_IC_1798_1799_Page_087"/> Here we had beautiful timothy and
+                        having<lb/>for 300 miles been mostly in the wilderness. <lb/><pb n="92"
+                            facs="hv_coatesi_account_1798_089"/> Here we had beautiful timothy and
                         clover<lb/>fields almost constantly in view, with a<lb/>good appearance of
                         wheat, Indian corn, flax,<lb/>oats &amp;c. These we showed to our Indian
                         guide.</p>
@@ -2240,8 +2265,8 @@
             <div type="entry">
                 <dateline><geogName key="concr"/><date when="1798-06-22">22nd. 6
                     day.</date></dateline>
-                <p> They travelled onward by <geogName key="concr">Cana-<lb/><pb n="88"
-                            facs="HV_IC_1798_1799_Page_088"/>wago Creek</geogName>, that runs into
+                <p> They travelled onward by <geogName key="concr">Cana-<lb/><pb n="90"
+                            facs="hv_coatesi_account_1798_090"/>wago Creek</geogName>, that runs into
                         <geogName key="oneil">Oneida lake</geogName>. <q>As we<lb/>decended a long
                         hill to this place, we killed a<lb/> rattlesnake about four feet long it lay
                         still in<lb/>the road, neither offered to attack nor run.</q></p>
@@ -2266,7 +2291,7 @@
                         cominissionirs having been<lb/>engaged in the business since the arrival of
                         our<lb/>Friends. </p></q>
             </div>
-            <pb n="89" facs="HV_IC_1798_1799_Page_089"/>
+            <pb n="91" facs="hv_coatesi_account_1798_091"/>
             <div type="entry">
                 <dateline><placeName key="oneid"/><date when="1798-06-23">23rd 7
                     day.</date></dateline>
@@ -2292,8 +2317,8 @@
                         in<lb/>the woods. These first houses are mostly small<lb/>and poor: some
                         have laterly put up pretty good<lb/>houses, and others are preparing for
                         it.</p>
-                    <p>They have gardens near their doors, and con- <lb/><pb n="90"
-                            facs="HV_IC_1798_1799_Page_090"/> considerable stock of horses, some
+                    <p>They have gardens near their doors, and con- <lb/><pb n="95"
+                            facs="hv_coatesi_account_1798_092"/> considerable stock of horses, some
                         swine and sheep.</p>
                     <p>On the east, near enough to supply them with<lb/>water, runs the <geogName
                             key="onecr">Oneida Creek</geogName>, and on the west<lb/>in the same
@@ -2316,8 +2341,8 @@
                     <p>There appeared to be as much difference be-<lb/>tween <persName key="cornp2"
                             >Cornplanter</persName>'s <orgName key="seneca">people</orgName>, and
                         this nation, as<lb/>between this people and the better livers among
-                        the<lb/>white people. We went to see their mill which, <lb/><pb n="91"
-                            facs="HV_IC_1798_1799_Page_091"/> appeared well constructed, and capable
+                        the<lb/>white people. We went to see their mill which, <lb/><pb n="93"
+                            facs="hv_coatesi_account_1798_093"/> appeared well constructed, and capable
                         of doing<lb/>a great deal of business. We also paid a visit<lb/>to <persName
                             key="jserg1">John Sergent</persName> their treasurer, presented our
                         bill<lb/>of advance toward their mill, and were inform-<lb/>ed there was not
@@ -2338,7 +2363,7 @@
                             key="oneid">Oneida</placeName> on third day next, in company<lb/>with
                         such of the <orgName key="stockbridge">Stockbridge</orgName> chiefs and
                         others as<lb/>were concerned in this business in order to<lb/>have it
-                        settled.</p><pb n="92" facs="HV_IC_1798_1799_Page_092"/>
+                        settled.</p><pb n="94" facs="hv_coatesi_account_1798_094"/>
                     <p> After this conference, we went to <persName key="haupa1">Captain
                             Hen-<lb/>dricks</persName>, where we were gladly welcomed, and
                         dined<lb/> with them, after which we drew a bond, had<lb/>it signed and
@@ -2362,8 +2387,8 @@
                         thankful-<lb/>ness to the Good Spirit, who had put it into<lb/>our hearts to
                         remember them, when at a great<lb/>distance, and had preserved us in our way
                         thither:<lb/> that they felt themselves much strengthened<lb/>by our good
-                        words - that they were sensible<lb/><pb n="93"
-                            facs="HV_IC_1798_1799_Page_093"/> they had done that which was not
+                        words - that they were sensible<lb/><pb n="95"
+                            facs="hv_coatesi_account_1798_095"/> they had done that which was not
                         right, yet<lb/>they hoped by the help of the Good Spirit they<lb/>would do
                         better for the future. They wished<lb/>the Quakers would continue to
                         remember them,<lb/>for they had found them to be true men, and<lb/>that they
@@ -2390,7 +2415,7 @@
                             <placeName key="alleg1">Alleghany</placeName>, informing of our present
                         situa-<lb/>tion, and of the welfare of our friends here;<lb/>which we
                         forwarded to <placeName key="buffa">Buffalo</placeName> by an Indian
-                            <lb/><pb n="94" facs="HV_IC_1798_1799_Page_094"/> from <geogName
+                            <lb/><pb n="96" facs="hv_coatesi_account_1798_096"/> from <geogName
                             key="grand">Grand river</geogName>.</p>
                     <p> Our young men here informed us there<lb/>was some improvement among the
                             <orgName key="oneida">Oneidas</orgName><lb/>since they came, although
@@ -2417,7 +2442,7 @@
                     <p>There are several good houses among the<lb/>Indians. One of the chiefs has
                         his painted red,</p>
                     <p>The main road from <placeName key="alban">Albany</placeName> to the
-                            western<lb/><pb n="95" facs="HV_IC_1798_1799_Page_095"/> country, goes
+                            western<lb/><pb n="97" facs="hv_coatesi_account_1798_097"/> country, goes
                         through the enclosure there being a<lb/>gate hung at each side. Many
                         travellers stop at<lb/>the Red House and lodge: it is called a tavern.</p>
                     <p>The fore part of this day was employed<lb/>in preparing some propositions,
@@ -2437,8 +2462,8 @@
                         introduction<lb/>which was carefully explained to them by<lb/>
                         <persName key="ncusi1">Nicholas Chusick</persName> our present
                         interpreter.</p>
-                    <p>We next proceeded to read the following<lb/><pb n="96"
-                            facs="HV_IC_1798_1799_Page_096"/> propositions which had this morning
+                    <p>We next proceeded to read the following<lb/><pb n="98"
+                            facs="hv_coatesi_account_1798_098"/> propositions which had this morning
                         been<lb/>mutually agreed upon and signed by all our<lb/>number, viz.</p>
                     <floatingText type="speech">
                         <body>
@@ -2462,7 +2487,7 @@
                                 of the money<lb/>as government use to give your blacksmith<lb/>as
                                 will enable them to buy themselves vic-<lb/>tuals and clothes, while
                                 they are learning the<lb/>trade and doing your work.</p>
-                            <pb n="97" facs="HV_IC_1798_1799_Page_097"/>
+                            <pb n="99" facs="hv_coatesi_account_1798_099"/>
                             <p> Brothers,<lb/> We hope you will get things ready<lb/>soon, and that
                                 your young men will begin<lb/>soon in this business, for our friend
                                 dont<lb/>want to stay a great while here, only just<lb/>long enough
@@ -2483,8 +2508,8 @@
                                 sober<lb/>young men above the age of 16 years, will<lb/>come and
                                 work with our friends on the<lb/>farm, and stay with them 6 months,
                                 we<lb/>will agree to board and lodge them; they<lb/>must stick
-                                steadily to work 5 days in the<lb/><pb n="98"
-                                    facs="HV_IC_1798_1799_Page_098"/> week: the other day they may
+                                steadily to work 5 days in the<lb/><pb n="100"
+                                    facs="hv_coatesi_account_1798_100"/> week: the other day they may
                                 have to rest,<lb/>and to go and see their friends &amp;c.</p>
                             <p>They must be sober, and mind what<lb/>our friends say to them, and do
                                 the work<lb/>as they tell them it should be done, and<lb/>not go off
@@ -2504,7 +2529,7 @@
                                 for themselves and then they must be re-<lb/>turned, so that other
                                 young beginners may<lb/>have them.</p>
                             <p> Brothers, We shall give a copy of these<lb/>propositions in writing,
-                                signed with our names<lb/><pb n="99" facs="HV_IC_1798_1799_Page_099"
+                                signed with our names<lb/><pb n="101" facs="hv_coatesi_account_1798_101"
                                 /> to your chiefs, and another copy will be left<lb/>with our
                                 friends here, and if any of your<lb/> young men agree to begin to
                                 work with<lb/>our friends as we propose they may set their<lb/>names
@@ -2533,8 +2558,8 @@
                         lands from them: reminding them<lb/>of the various steps we had taken
                         amongst<lb/>them from the beginning: the great expense<lb/>we were at in
                         mantaining our friends here a-<lb/>mongst them; the improvements we
-                        were<lb/>making on their land, which they saw with <lb/><pb n="100"
-                            facs="HV_IC_1798_1799_Page_100"/> their own eyes; the wheat and clover
+                        were<lb/>making on their land, which they saw with <lb/><pb n="102"
+                            facs="hv_coatesi_account_1798_102"/> their own eyes; the wheat and clover
                         they saw<lb/>growing where there use to be none; the barn<lb/>that was
                         built, and the house that was on its<lb/>way; that all these things could
                         not be done<lb/>without a great deal of money, that we had<lb/> never asked
@@ -2554,8 +2579,8 @@
                                 in<lb/>the trade; you know we don't govern our<lb/>young men; if
                                 they ain't willing to<lb/>come, we cant force them: but we
                                 want<lb/>to know how he intends to work: whether<lb/>for the Indians
-                                in common, or whether he <lb/><pb n="101"
-                                    facs="HV_IC_1798_1799_Page_101"/> will do so much a day, and
+                                in common, or whether he <lb/><pb n="103"
+                                    facs="hv_coatesi_account_1798_103"/> will do so much a day, and
                                 give it into the hands<lb/>of their chiefs to be divided amongst the
                                 people,<lb/>adding, that if he worked for the Indians<lb/>in
                                 general, it would be too hard for him, for<lb/>they would be always
@@ -2581,7 +2606,7 @@
                                 ago, and we are now of the same<lb/>mind we were then: we remember
                                 your<lb/>words and we believe you are a true people.<lb/> We have
                                 heard our fathers tell, that the<lb/>Quakers were always friends of
-                                the Indians: <lb/><pb n="102" facs="HV_IC_1798_1799_Page_102"/> and
+                                the Indians: <lb/><pb n="107" facs="hv_coatesi_account_1798_104"/> and
                                 what they told us when we wer boys<lb/>we find it to be <emph
                                     rend="underline">true</emph>
                                 <emph rend="underline">now</emph> we are old men.</p>
@@ -2605,8 +2630,8 @@
                                 say so far as we<lb/>are able, and to learn the farming
                                 business:<lb/>we, the chiefs are determined to do all that<lb/> we
                                 are able; but if we dont do all that you<lb/>would wish, we hope you
-                                wont get discouraged,<lb/><pb n="103"
-                                    facs="HV_IC_1798_1799_Page_103"/> but continue to do whatever is
+                                wont get discouraged,<lb/><pb n="105"
+                                    facs="hv_coatesi_account_1798_105"/> but continue to do whatever is
                                 in your minds:<lb/>and if we dont improve, the fault will be
                                 our<lb/> own, we cant blame you.</p>
                             <p><emph rend="underline">Brothers</emph>.<lb/>We will do all we can
@@ -2636,7 +2661,7 @@
                             key="oneid">Oneida</placeName>, in order to settle the accounts<lb/>
                         respecting the mill Friends built there,<lb/>which was amicably done.</p>
                     <p>About 5 o'clock this evening the <orgName key="oneida">Oneida</orgName>
-                            chiefs<lb/><pb n="104" facs="HV_IC_1798_1799_Page_104"/> and a number of
+                            chiefs<lb/><pb n="106" facs="hv_coatesi_account_1798_106"/> and a number of
                         their people again assembled in<lb/>council, and after spending more than an
                         hr.<lb/>in conference amongst themselves, they spoke<lb/>to us to the
                         following affect.</p>
@@ -2660,7 +2685,7 @@
                                 more, but<lb/>most all our people from tother end of the
                                 town<lb/>are gone out a fishing, when they come home, we<lb/>think
                                 we shall get some more: and we will do<lb/>the best we can.</p>
-                            <pb n="105" facs="HV_IC_1798_1799_Page_105"/>
+                            <pb n="107" facs="hv_coatesi_account_1798_107"/>
                             <p>
                                 <emph rend="underline">Brothers</emph>.<lb/> You mentioned about a
                                 blacksmith<lb/>shop, and about coal, now we intend to go<lb/>at the
@@ -2687,7 +2712,7 @@
                     day.</date></dateline>
                 <q><p> This morning about 20 <orgName key="oneida">Oneidas</orgName>,<lb/>amongst
                         whom were 4 or 5 of their principal chiefs,<lb/>got early to work at the
-                        smith's shop, and some<lb/><pb n="106" facs="HV_IC_1798_1799_Page_106"/> to
+                        smith's shop, and some<lb/><pb n="108" facs="hv_coatesi_account_1798_108"/> to
                         hauling and chopping wood for coal,<lb/>that before noon they had a pretty
                         commodi-<lb/>ous shop covered, and all ready for building<lb/>the fireplace,
                         and a considerable quantity of<lb/> wood ready for the pit.</p>
@@ -2705,8 +2730,8 @@
                         before<lb/>taken leave of the Indians, and set off to <placeName key="newha"
                             >New<lb/>Hartford</placeName> - 17 miles - thence to the <geogName
                             key="mohaw">Mohawk river</geogName><lb/>at <placeName key="fschy">Fort
-                            Schuyler</placeName> 4 miles, where we passed through <lb/><pb n="107"
-                            facs="HV_IC_1798_1799_Page_107"/> another town and crossed the
+                            Schuyler</placeName> 4 miles, where we passed through <lb/><pb n="109"
+                            facs="hv_coatesi_account_1798_109"/> another town and crossed the
                         river.</p>
                     <p>
                         <date when="1798-06-23">Last 7th day</date> while we were at <placeName
@@ -2731,8 +2756,15 @@
                         Brayton</persName>'s, three miles from <placeName key="fschy">Fort
                         Schuyler</placeName></p>
                 <q><p>Here we had good accommodations both<lb/>for our selves and our horses, which
-                        is the<lb/>first public inn, we have met with, since <lb/><pb n="108"
-                            facs="HV_IC_1798_1799_Page_108"/>we left <placeName key="pitts"
+                        is the<lb/>first public inn, we have met with, since <lb/>
+                    
+                    <floatingText type="undetermined">
+                        <pb n="110" facs="hv_coatesi_account_1798_110"/>
+                        <body>
+                            <p> for a moment- and<lb/> Let us imagine our selves in their situation<lb/><del>and</del> reflect that thy have now been from home<lb/>8 weeks, and it will be nearly two more before<lb/>thy can meet their beloved families, and they have<lb/>not heard from them since they left them.</p>
+                        </body>
+                    </floatingText>
+                    <pb n="111" facs="hv_coatesi_account_1798_111"/>we left <placeName key="pitts"
                             >Pittsburgh</placeName> of which this could be<lb/> said.</p></q>
                 <p><persName key="jshar1">Joshua Sharpless</persName> says, <q>I have
                         often<lb/>admired since we came on this river, (the<lb/><geogName
@@ -2756,8 +2788,8 @@
             </div>
             <div type="entry">
                 <dateline><placeName key="conol"/><date when="1798-06-29">29th</date></dateline>
-                <p> A ride of 31 1/2 miles took them to the<lb/><pb n="109"
-                        facs="HV_IC_1798_1799_Page_109"/>
+                <p> A ride of 31 1/2 miles took them to the<lb/><pb n="112"
+                        facs="hv_coatesi_account_1798_112"/>
                     <geogName key="mohaw">Mohawk river</geogName> which they crossed in a
                     boat,<lb/>after which a ride of 5 miles brought them to a<lb/>public house which
                         <persName key="jpier1">J. P.</persName> thus discribes.</p>
@@ -2785,7 +2817,7 @@
                     them<lb/>at <placeName key="catsk1">Catskill</placeName> Bridge, where is an
                     elegant house<lb/>and good pasture, in other respects nothing<lb/>to boast of.
                         <q>Our oats were measured in rum<lb/>quarts as usual in many places in this
-                            <lb/><pb n="110" facs="HV_IC_1798_1799_Page_110"/> state. The query is,
+                            <lb/><pb n="113" facs="hv_coatesi_account_1798_113"/> state. The query is,
                         Is the regulation of public<lb/>inns, a subject unworthy the attention
                         of<lb/>the legislature? must the farmer smart<lb/>for it if he offers a
                         pound of butter for sale<lb/>a few grains too light, and may the
@@ -2811,7 +2843,7 @@
             <div type="entry">
                 <dateline><date when="1798-07-02">2nd, 2nd day.</date></dateline>
                 <q><p> This morning concluded to<lb/>pay a visit to our ancient friend <persName
-                            key="ehall1">Edward<lb/><pb n="111" facs="HV_IC_1798_1799_Page_111"/>
+                            key="ehall1">Edward<lb/><pb n="114" facs="hv_coatesi_account_1798_114"/>
                             Hallock</persName>, about 9 miles east of our present<lb/>quarters,
                         being offered fresh horses for that<lb/> purpose, which we accordingly did
                         to mu-<lb/>tual satisfaction, and riturned in the<lb/>evening. When near the
@@ -2838,7 +2870,7 @@
                 <q><p> About 5 this morning set out<lb/>from our agreeable quarters, travelled about
                         18<lb/>miles to --'s tavern where we bated our horses<lb/>and breakfasted,
                         here is a pretty good house, but<lb/>accommodations and attendance
-                        indiferent. <lb/><pb n="112" facs="HV_IC_1798_1799_Page_112"/>thence through
+                        indiferent. <lb/><pb n="115" facs="hv_coatesi_account_1798_115"/>thence through
                             <placeName key="goshe">Geshen</placeName> to --'s 12 miles, where<lb/>we
                         baited; a good house, but rough landlord, then<lb/>on another 12 miles to Dr
                         --'s, a poor place<lb/>both for man and horse, but here we lodged<lb/>having
@@ -2864,7 +2896,7 @@
                         First day: yet the stream is<lb/>so large as to have a bridge erected
                         on<lb/>it a little above the fording place.<lb/>In about 7 miles further, we
                         crossed the<lb/><geogName key="pauli">Paulinskill</geogName> which was the
-                        first water<lb/><pb n="113" facs="HV_IC_1798_1799_Page_113"/>we met with
+                        first water<lb/><pb n="116" facs="hv_coatesi_account_1798_116"/>we met with
                         that ran into the <geogName key="delaw">Delaware</geogName>,<lb/>having gone
                         round the head branches of<lb/>said river as well as those of the <geogName
                             key="susqu">Susque<lb/>hanna</geogName>.</q> This hard days work only
@@ -2900,7 +2932,7 @@
                         since I left home: and I felt truly<lb/>thankful I was so near my own
                         habitation,<lb/>and among my near relatives and inti-<lb/>mate friends, We
                         returned here from meet-<lb/>ing and got our dinners, then set off home-
-                            <lb/><pb n="114" facs="HV_IC_1798_1799_Page_114"/> wards. Our roads
+                            <lb/><pb n="117" facs="hv_coatesi_account_1798_117"/> wards. Our roads
                         parting on the way, we<lb/>took an affectionate farewell of each other,
                         hav-<lb/>ing been together 10 weeks, wanting one day:<lb/>and travelled more
                         than 1200 miles, in near<lb/>unity and Christian fellowship, through
@@ -2911,23 +2943,7 @@
                 <p><persName key="jpier1">John Pierce</persName> reached his home about 4
                     o'clock<lb/>that evening, and found his wife and family<lb/>well, also.</p>
             </div>
-            <pb n="115" facs="HV_IC_1798_1799_Page_115"/>
-            <div type="entry">
-                <p> for a moment- and<lb/> Let us imagine our selves in their
-                        situation<lb/><del>and</del> reflect that thy have now been from home<lb/>8
-                    weeks, and it will be nearly two more before<lb/>thy can meet their beloved
-                    families, and they have<lb/>not heard from them since they left them.</p>
-            </div>
-            <pb n="116" facs="HV_IC_1798_1799_Page_116"/>
-            <div type="entry">
-                <p> It may be well here to remark, though<lb/>not as a part of either of the
-                    accounts<lb/>in hand, that the wealth of some, is a<lb/>reward, not only of
-                    their honesty and<lb/> persevering industry, but also of their<lb/>economy and
-                    endeavors to save their<lb/> earnings as much as may be; only<lb/>spending their
-                    money for useful and<lb/>necessary things. Then when they see<lb/>a friend or
-                    brother in need, and it seems<lb/><emph rend="underline">right</emph> to help
-                    him, they have the means<lb/>to contribute to his relief. </p>
-            </div>
+
         </body>
 
 
