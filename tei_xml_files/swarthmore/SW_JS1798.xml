@@ -135,10 +135,12 @@
 
 
         <body>
+            <div type="undetermined">
+                <pb n="cover" facs="SW_JS1798_001"/>
+                <pb n="preliminary" facs="SW_JS1798_002"/>
+            </div>
 
-
-
-            <div type="entry"> <pb n="1" facs="SW_JS1798_Page_003"/>
+            <div type="entry"> <pb n="1" facs="SW_JS1798_003"/>
                 <dateline><date when="1798-04-30"/><placeName key="ebrad"/></dateline>
                 <p> Feeling an engagement of Mind to <lb/> Join <persName key="jpier1">John
                         Pierce</persName> in a Visit to the Indian <lb/> natives of this Land, after
@@ -155,7 +157,7 @@
                     Live, we stopped and<lb/> took some refreshment at <persName key="jtrum1">John
                         Truman</persName>’s,<lb/> and Lodged at <persName key="itayl1">Isaac
                         Taylor</persName>s. 22 miles</p>
-                <pb n="2" facs="SW_JS1798_Page_004"/>
+                <pb n="2" facs="SW_JS1798_004"/>
             </div>
             <div type="entry">
                 <dateline><date when="1798-05-01">5mo 1</date>
@@ -177,7 +179,7 @@
                         >River</geogName> for<lb/> near half a Mile. most of this days<lb/> ride
                         <del>has been</del> was through a fruitful well<lb/> improved Country, with
                     good Stone <lb/>
-                    <pb n="3" facs="SW_JS1798_Page_005"/> Houses and Barns, a large proportion<lb/>
+                    <pb n="3" facs="SW_JS1798_005"/> Houses and Barns, a large proportion<lb/>
                     of the land was sown with Rye; some of<lb/> the Wheat fields looked pretty well,
                     but<lb/> in general Poor; Clover not so forward<lb/> as in my neighborhood; some
                     beauti-<lb/> -ful Meadows, between <placeName key="lanca">Lancaster</placeName>
@@ -199,7 +201,7 @@
                     it is beautified by a large<lb/> stream of Water called <geogName key="codor"
                         >Codoras</geogName> which runs<lb/> through the <placeName key="yorkt"
                         >Town</placeName>, we dined here at a Public <lb/>
-                    <pb n="4" facs="SW_JS1798_Page_006"/> House,— then set of for <persName
+                    <pb n="4" facs="SW_JS1798_006"/> House,— then set of for <persName
                         key="iever1">Isaac Everet</persName>s.<lb/> in 2 or 3 miles after we left
                     the Town<lb/> we got out of the Limestone Valley, and<lb/> passed through a
                     Country diversified<lb/> with gentle Assents, and descents, pretty<lb/> clear of
@@ -222,7 +224,7 @@
                     more Miles across, we then entred<lb/> a body of Limestone Land, having
                     Crossed<lb/> the <geogName key="yello">Yellow Breeches</geogName> a large stream
                         <del>called Yellow Breeches</del>, the <lb/>
-                    <pb n="5" facs="SW_JS1798_Page_007"/> face of the Country pretty level, and
+                    <pb n="5" facs="SW_JS1798_007"/> face of the Country pretty level, and
                     much<lb/> of it under Culture, Rye the prevailing Win-<lb/> -ter Crop, which was
                     mostly thin, Clover scarce-<lb/> -ly made its appearance in any of the
                     fields,<lb/> which for want of better farming were<lb/> very bare of pasture.
@@ -241,7 +243,7 @@
                         <placeName key="stras">Strawsburgh</placeName>, a Village containing
                     per-<lb/> -haps 40 houses, built of Squared Logs, <del>the</del> which<lb/> Town
                     stands in a low place, hardly discover <lb/>
-                    <pb n="6" facs="SW_JS1798_Page_008"/> able till we arrived nearly on it,
+                    <pb n="6" facs="SW_JS1798_008"/> able till we arrived nearly on it,
                     Shortly<lb/> after we passed through this Town, we began<lb/> to Ascend the
                         <geogName key="bluem">Blue Mountain</geogName>, an high<lb/> Towering
                     eminence, steep and very Rocky,<lb/> in about three Miles we arrived at the<lb/>
@@ -266,7 +268,7 @@
                     much like the two<lb/> last discribed, from thence to Birds at <placeName
                         key="flitt">fort<lb/> Littleton</placeName> 5 miles, through a rough
                     Country, <lb/>
-                    <pb n="7" facs="SW_JS1798_Page_009"/> Surrounded with lofty Mountains, some<lb/>
+                    <pb n="7" facs="SW_JS1798_009"/> Surrounded with lofty Mountains, some<lb/>
                     pretty good improvements in places made<lb/> there appearance, and the Roads
                     consider<lb/> -ing the Roughness of the Country not to be<lb/> complained of,
                     here we got our Breakfast<lb/> 12 miles. from thence to <persName key="gskin1"
@@ -285,7 +287,7 @@
                         key="junia">Juni-<lb/> -atta River</geogName>, one Branch of which we<lb/>
                     Crossed, which was some 50 or so yards wide<lb/> and more than Belly deep;
                     directly upon <lb/>
-                    <pb n="8" facs="SW_JS1798_Page_010"/> Crossing this stream we ascended the<lb/>
+                    <pb n="8" facs="SW_JS1798_010"/> Crossing this stream we ascended the<lb/>
                     Steepest hill we have met with since we<lb/> left home, it is admirable that so
                     many<lb/> Wagons which pass this road, should be able to get<lb/> up it, I
                     suppose we have passed by 20 this<lb/> this day, mostly with families going to
@@ -308,7 +310,7 @@
                 <p> Went 6 miles up the <geogName key="junia">Juniatta</geogName>, through<lb/> a
                     rough, Mountainous Country to <placeName key="bedfo">Bedford</placeName>,<lb/>
                     having about one mile back crossed the <lb/>
-                    <pb n="9" facs="SW_JS1798_Page_011"/> River on a Bridge, the Town stands in<lb/>
+                    <pb n="9" facs="SW_JS1798_011"/> River on a Bridge, the Town stands in<lb/>
                     a Valley Surrounded by high Mountains, it is<lb/> a pretty pleasant situation,
                     being seated on an<lb/> elevated Spot near a branch of the River, the Town
                         <del>it</del><lb/> contains a number of good Stone buildings<lb/> among
@@ -327,7 +329,7 @@
                     where<lb/> much Grass was Cut, Yet where we went throug[h]<lb/> was heavy
                     Timbered, some of which <del>was</del> were sugar<lb/> Maple being the first we
                     had seen, the Land<lb/> appeared good, was pretty thick settled, and <lb/>
-                    <pb n="10" facs="SW_JS1798_Page_012"/> productive, we arrived at a Dutch<lb/>
+                    <pb n="10" facs="SW_JS1798_012"/> productive, we arrived at a Dutch<lb/>
                     Town called <placeName key="berli">Berlin</placeName>, containing upwards<lb/>
                     of 50 Houses, Mostly of Logs, and Frame, when<lb/> at the sign of the Black
                     House we got good<lb/> entertainment. 36 miles</p>
@@ -352,7 +354,7 @@
                     place called <geogName key="laure">Laurell<lb/> Hill</geogName>, the whole of
                     this stage very heavy Timbered<lb/> so that the Hill comparatively speaking
                     groan <lb/>
-                    <pb n="11" facs="SW_JS1798_Page_013"/> ed under their great Load, abundance
+                    <pb n="11" facs="SW_JS1798_013"/> ed under their great Load, abundance
                     of<lb/> which was beautiful Chesnut, the finest I <del>reme</del><lb/> remember
                     to have seen, with a large Quan-<lb/> -tity of Oak of various kinds, some
                     Sugar<lb/> Maple &amp;c: much of this stage the road was very<lb/> Rocky and
@@ -372,7 +374,7 @@
                     pros-<lb/> -pect, that I measured some Chesnutt leaves<lb/> and found them to be
                     3 Inches wide, and<lb/> Six long, and sprouts of 8 or 9 Inches growth.<lb/> So
                     that I think there is at least, in three miles <lb/>
-                    <pb n="12" facs="SW_JS1798_Page_014"/> Riding two Weeks difference in the
+                    <pb n="12" facs="SW_JS1798_014"/> Riding two Weeks difference in the
                     Season.<lb/> When on the Chesnut hill there is one of the most<lb/> extensive
                     prospects that is to be met with<lb/> in traveling, both to the North, to
                     the<lb/> West, and to the South, I had no doubt but the View<lb/> was of 50
@@ -397,7 +399,7 @@
                     deep and perhaps 150 yards wide, in about<lb/> half a mile after we crossed the
                     River, we<lb/> passed by a Merchant Mill erected on a<lb/> very Curious Seat,
                     the stream was small,<lb/> but had a natural perpendicular fall over <lb/>
-                    <pb n="13" facs="SW_JS1798_Page_015"/> a broad Rock which lay Horizontal
+                    <pb n="13" facs="SW_JS1798_015"/> a broad Rock which lay Horizontal
                     of<lb/> 28 feet, the Mill was erected close to this<lb/> Rock which formed a
                     level Yard to the<lb/> upper Road; under sd Rock was a Cavity<lb/> or hollow
                     place 12 feet high, and nearly<lb/> as far back, which ran all across the<lb/>
@@ -420,7 +422,7 @@
                     Meadow. the <geogName key="monon">River</geogName> is a<lb/> beautiful Stream,
                     flows along with a<lb/> very gentle Current, is 340 Yards wide<lb/> and 10 or 12
                     feet deep, it has very high <lb/>
-                    <pb n="14" facs="SW_JS1798_Page_016"/> Banks, yet last fall they were
+                    <pb n="14" facs="SW_JS1798_016"/> Banks, yet last fall they were
                     overflown<lb/> the River as I was informed rose 42 feet<lb/> Perpendicular. The
                     people here were very<lb/> busy building flat bottomed Boats, they are<lb/> made
                     out of green timber, about 12 feet wide,<lb/> and from 20 to 30 feet long,
@@ -440,7 +442,7 @@
                     loaded, passing by that Town each day. they<lb/> gently move down with the
                     Current, and when<lb/> they come to the mouth of the <geogName key="sciot"
                         >Scioto</geogName> and other <lb/>
-                    <pb n="15" facs="SW_JS1798_Page_017"/> rivers their Boats are of no further
+                    <pb n="15" facs="SW_JS1798_017"/> rivers their Boats are of no further
                     use, for<lb/> their Construction is such they cannot be taken<lb/> up the
                     Stream, and are therefore often sold<lb/> for a trifle, or turned adrift. — I
                     went<lb/> up the West side of the <geogName key="monon">River</geogName> and in
@@ -462,7 +464,7 @@
                     1/ to<lb/> to one ¼ of which with Industry came the<lb/> Country may always be
                     supplyed 24 miles </p>
             </div>
-            <pb n="16" facs="SW_JS1798_Page_018"/>
+            <pb n="16" facs="SW_JS1798_018"/>
             <div type="entry">
                 <dateline><date when="1798-05-09">9</date>
                     <placeName key="bridg"/></dateline>
@@ -491,7 +493,7 @@
                     places the Rock<lb/> is hollow, so that there are large Cavities<lb/> under
                     where the water falls, quite dry.<lb/> from hence to <placeName key="pitts"
                         >Pittsburgh</placeName> 16 miles, from <lb/>
-                    <pb n="17" facs="SW_JS1798_Page_019"/>
+                    <pb n="17" facs="SW_JS1798_019"/>
                     <placeName key="bridg">Bridgeport</placeName> to <del>that</del> said place, the
                     face of the Coun<lb/> -try has no remarkable variation, <del>it</del> is<lb/>
                     all the way a continual succession of hills<lb/> tho not so high and steep as
@@ -512,7 +514,7 @@
                     steep hill or Mountain to the <geogName key="monon">Mononga-<lb/>
                         -hela</geogName>, not fit for any Wagon to go up, or down,<lb/> though they
                     often pass it, the river flows gently along <lb/>
-                    <pb n="18" facs="SW_JS1798_Page_020"/> at the foot of this Mountain, where we
+                    <pb n="18" facs="SW_JS1798_020"/> at the foot of this Mountain, where we
                     Crossed<lb/> it, being half a mile wide and 10 or 12 feet<lb/> deep, this
                         <geogName key="monon">River</geogName> is most in View from the<lb/> Town,
                     and the greatest place of trading,<lb/> the Street next to sd River is
@@ -532,7 +534,7 @@
                         <geogName key="monon">River</geogName><lb/> enquired for the best Tavern; we
                     were<lb/> recommended to the Greentree near the<lb/> River, where upon our
                     arrival after some <lb/>
-                    <pb n="19" facs="SW_JS1798_Page_021"/> hesitation we were taken in, where
+                    <pb n="19" facs="SW_JS1798_021"/> hesitation we were taken in, where
                     we<lb/> found good accommodations. Some discou-<lb/> -ragements attended my mind
                     on my way<lb/> thither, concerning the business we were<lb/> going on, it being
                     in its self important,<lb/> to be transacted among a people of<lb/> a Strange
@@ -551,7 +553,7 @@
                         Village</placeName>, which was at least 140 miles<lb/> by land, and
                     abundantly more by Water.<lb/> that it was a very lucky time for them<lb/> to
                     go, the River being neither to low nor <lb/>
-                    <pb n="20" facs="SW_JS1798_Page_022"/> too high, so that the prospect of
+                    <pb n="20" facs="SW_JS1798_022"/> too high, so that the prospect of
                     things<lb/> looks a little more lightsome.</p>
             </div>
             <div type="entry">
@@ -573,7 +575,7 @@
                     and went with us there; he also sent<lb/> the Wagon to convey those we had
                     pro-<lb/> -cured in different parts of the Town; we<lb/> got all our goods to
                     the <del>Warf</del> Wharf,<lb/> Weighed, and put on board before evening, <lb/>
-                    <pb n="21" facs="SW_JS1798_Page_023"/> the whole of those sent from <placeName
+                    <pb n="21" facs="SW_JS1798_023"/> the whole of those sent from <placeName
                         key="phila">Philadelphia</placeName><lb/> and procured in this Town Weighed about<lb/>
                     <del>4</del>700, for which the Boatman was to have<lb/> 20/ Per £ for taking
                     them up to <placeName key="cornp">Cornplanter’s<lb/> Village</placeName>, which
@@ -592,7 +594,7 @@
                     frequently <del>saw</del> seen for 10 miles b<unclear>ack</unclear> at the
                     sides<lb/> of Creeks &amp;c where the Edges of the Rocks were<lb/> washed bare,
                     stratums of Coal mixed with <lb/>
-                    <pb n="22" facs="SW_JS1798_Page_024"/> Stratas of Slate.</p>
+                    <pb n="22" facs="SW_JS1798_024"/> Stratas of Slate.</p>
             </div>
             <div type="entry">
                 <dateline><date when="1798-05-12">12th</date>
@@ -630,7 +632,7 @@
                 </floatingText>
                 <floatingText>
                     <body>
-                        <pb n="23" facs="SW_JS1798_Page_025"/>
+                        <pb n="23" facs="SW_JS1798_025"/>
 
                         <opener><dateline><placeName key="pitts"/>
                                 <date when="1798-05-12"/></dateline>To <persName key="cornp2"
@@ -652,7 +654,7 @@
                             security, and enjoy the com<lb/> -forts of Life, and the red people, and
                             the White <lb/> People on this great Island will soon be-<lb/> come as
                             one. — Brethren &amp; Children, <lb/> let this admonition sink deep into Your<lb/>
-                            <pb n="24" facs="SW_JS1798_Page_026"/> hearts, and may you be blessed
+                            <pb n="24" facs="SW_JS1798_026"/> hearts, and may you be blessed
                             with a clear <lb/> Sky, Smooth Roads, and plentifull harvest <lb/> to
                             the end of your days. — I commend <lb/> you to the care of the great
                             Spirit, and<lb/> am in heart your friend. </p>
@@ -673,7 +675,7 @@
                     miles after we<lb/> Crossed the <geogName key="alleg">River</geogName> the land
                     was very good, but in<lb/> the general it fell short of the Idea I en-<lb/>
                     -tertained of it. in this days ride the <lb/>
-                    <pb n="25" facs="SW_JS1798_Page_027"/> Land was generally hilly though not with
+                    <pb n="25" facs="SW_JS1798_027"/> Land was generally hilly though not with
                     such Sharp<lb/> pitches as about Red Stone, <del>tho</del> as we advanc-<lb/>
                     -ed northward the Hills decreased, in<lb/> places thinly timber'd, yet little or
                     no pos-<lb/> -ture to be seen, White Oak the most general<lb/> timber, in the
@@ -698,7 +700,7 @@
                     backwards; the<lb/> leaves are but Just putting out, and there<lb/> is next to
                     no picking of any kind in the<lb/> Woods, that it looks likely our horses will
                     even <lb/>
-                    <pb n="26" facs="SW_JS1798_Page_028"/> much Suffer when we get among the
+                    <pb n="26" facs="SW_JS1798_028"/> much Suffer when we get among the
                     In-<lb/> -dians, if not before, We took breakfast of our own<lb/> provision, and
                     proceeded on 12 miles fur-<lb/> -ther, where after feeding our horses, we took
                     din-<lb/> -ner in like Manner, and got to <placeName key="ffran">Fort
@@ -718,7 +720,7 @@
                     demolished, and a new one<lb/> erected ½ a mile lower down the Creek Just<lb/>
                     above its Junction with the <geogName key="alleg">Allegeny
                     River</geogName>.<lb/> after feeding our horses, and getting our dinner <lb/>
-                    <pb n="27" facs="SW_JS1798_Page_029"/> two of us waited on <persName
+                    <pb n="27" facs="SW_JS1798_029"/> two of us waited on <persName
                         key="cfowl1">Captain Fowler</persName>, and<lb/> presented <persName
                         key="gwilk2">General Wilkinson’s</persName> letter, which<lb/> upon his
                     reading, he manifested great respect<lb/> and a full disposition to comply with
@@ -744,7 +746,7 @@
                     for each of our horses <del>for</del> at very Coarse hay<lb/> 15/ a bushel for
                     Corn, and Yesterday we had<lb/> to pay as high as 15/ a bushel for Oates.</p>
 
-                <pb n="28" facs="SW_JS1798_Page_030"/>
+                <pb n="28" facs="SW_JS1798_030"/>
 
                 <p> We Crossed <geogName key="french">French Creek</geogName> close <del>creek</del>
                     by the town I thoug[ht]<lb/> it was as large as three of <geogName key="brand"
@@ -769,7 +771,7 @@
                     which<lb/> appeared good, a large stream of Water<lb/> not far of, and a noble
                     Spring Just by the<lb/> door large enough to turn a Mill, yet it is not<lb/>
                     known that there is any limestone in this neigh <lb/>
-                    <pb n="29" facs="SW_JS1798_Page_031"/> -bourhood, neither have I seen any since
+                    <pb n="29" facs="SW_JS1798_031"/> -bourhood, neither have I seen any since
                     we<lb/> left <placeName key="pitts">Pittsburgh</placeName>. <geogName
                         key="oilcr">Oyl Creek</geogName> is so named from<lb/> an Oyly substance
                     that is gathered of its water<lb/> either from Springs that rises near its
@@ -795,7 +797,7 @@
                     marked last fall, they were now to be our<lb/> guide; it was a thick wood we had
                     to pass<lb/> through, with a great quantity of brush, and<lb/> young stuff in
                     the way, our Journey this day<lb/> was truly wild and romantic, having a <lb/>
-                    <pb n="30" facs="SW_JS1798_Page_032"/> continual succession of Logs to Cross,
+                    <pb n="30" facs="SW_JS1798_032"/> continual succession of Logs to Cross,
                     sometime<lb/> three in a pearch, divers of which we had to<lb/> Jump our horses
                     over, and with difficulty got<lb/> round others; in places such a <del>a
                         large</del> Jumble<lb/> of large stone or Rocks, that we were in con<lb/>
@@ -814,7 +816,7 @@
                     was heavy timbered but not a kindly<lb/> soil, and I think will not be settled
                     for many<lb/> years to come. many natural curiosities<lb/> presented in this
                     days ride, one of which <lb/>
-                    <pb n="31" facs="SW_JS1798_Page_033"/> was the large quantities of green
+                    <pb n="31" facs="SW_JS1798_033"/> was the large quantities of green
                     moss<lb/> which covered all the Rocks, the Stones<lb/> the Old Logs and the
                     whole surface of<lb/> the ground, under the thick forest of<lb/>
                     <del>the</del> Pine trees, I thought the Coat of<lb/> moss for thickness and
@@ -833,7 +835,7 @@
                     on the Creek was, to turn<lb/> our horses too, we had provision with us
                     which<lb/> after partaking of, we Spread ourselves<lb/> on the floor, to take
                     some rest, which we<lb/> found Small enough for us and the family <lb/>
-                    <pb n="32" facs="SW_JS1798_Page_034"/>
+                    <pb n="32" facs="SW_JS1798_034"/>
                     <del>and</del> the night being cold, and the Cabin<lb/> very open, we often had
                     to rise to mend<lb/> our fire. 24 miles</p>
             </div>
@@ -863,7 +865,7 @@
                     here until<lb/> morning, there being pretty plenty of<lb/> pasture for our
                     horses, and a good house<lb/> for ourselves to Quarter in, though we had to find
                     our own provision and sleep on the floor near the mouth <lb/>
-                    <pb n="33" facs="SW_JS1798_Page_035"/> of this Creek on a beautiful dry plain
+                    <pb n="33" facs="SW_JS1798_035"/> of this Creek on a beautiful dry plain
                     there<lb/> is a Town laid out by the State of Pennsyl-<lb/> -vania, it is called
                         <placeName key="warre">Warrentown</placeName>, the <orgName>Hol-<lb/> -land
                         Company</orgName> owns a large body of land<lb/> adjoining this place which
@@ -884,7 +886,7 @@
                     were informed would not<lb/> get drunk, to Pilot us tomorrow to <placeName
                         key="cornp">Cornplan-<lb/> -ter’s Village</placeName>, he was a good
                     Countenanced lad, <lb/>
-                    <pb n="34" facs="SW_JS1798_Page_036"/> and appeared pleased with the charge<lb/>
+                    <pb n="34" facs="SW_JS1798_036"/> and appeared pleased with the charge<lb/>
                     assigned him 15 miles</p>
             </div>
             <div type="entry">
@@ -907,7 +909,7 @@
                     being a great<lb/> plenty on some of its bottoms, which was<lb/> a pleasing
                     sight, and had a tendency to re-<lb/> -move some fears, which attended when in
                     the naked Woods<lb/> where no grass was to be seen, that our <lb/>
-                    <pb n="35" facs="SW_JS1798_Page_037"/> Horses after their hard Journey, when we
+                    <pb n="35" facs="SW_JS1798_037"/> Horses after their hard Journey, when we
                     got a-<lb/> -mong the Indians must suffer for want of<lb/> provisions. while
                     here a number of Indi-<lb/> -ans came by in Canoes, who stopped to see<lb/> us,
                     Shook hands with us, and looked pleasant.<lb/> one man came down the Mountain to
@@ -926,7 +928,7 @@
                     to have inform-<lb/> -ed the Chiefs of our coming, but this was out<lb/> of our
                     power, for none of the Indians we<lb/> had met with could talk English, we
                     there- <lb/>
-                    <pb n="36" facs="SW_JS1798_Page_038"/> -fore moved forward with or minds
+                    <pb n="36" facs="SW_JS1798_038"/> -fore moved forward with or minds
                     atten-<lb/> -tive to best direction, when we came in<lb/> sight of the town,
                     many Indians appear<lb/> -ed in view, looking toward <del>at</del> us, our
                     guide<lb/> turned into the first Cabin he came to,<lb/> and would go no further,
@@ -946,7 +948,7 @@
                     horses,<lb/> and carrying in our Baggage, and be-<lb/> -ing seated, <persName
                         key="cornp2">Cornplanter</persName>, his Son <persName key="habee1"
                         >Henry</persName><lb/> and Several others came in &amp; sat down, <lb/>
-                    <pb n="37" facs="SW_JS1798_Page_039"/> The Chief presently asked us, if we
+                    <pb n="37" facs="SW_JS1798_039"/> The Chief presently asked us, if we
                     would<lb/> like to see his people in general Council,<lb/> we let him know
                         <del>that</del> we would, as soon<lb/> as it was Convenient, <del>and</del>
                     tomorrow at<lb/> 10 OClock was therefore fixed on <del>for the time</del>;
@@ -965,7 +967,7 @@
                     were tyed in one<lb/> set of husks, with a string at each end<lb/> and in the
                     middle, we let them know that our<lb/> Ignorance was such, we did not know
                     how<lb/> to begin, which set some of the younger sort <lb/>
-                    <pb n="38" facs="SW_JS1798_Page_040"/> a laughing, but the Chief took<lb/> out
+                    <pb n="38" facs="SW_JS1798_040"/> a laughing, but the Chief took<lb/> out
                     his knife, for they had set neither knives,<lb/> forks, or spoons, and taking up
                     the<lb/> Dumplins he cut one of them in too,<lb/> then striping up the
                     Cornhusks, <del>with</del><lb/>
@@ -992,7 +994,7 @@
                     be-<lb/> -lieved on such occasions it was right to<lb/> wait on the good spirit
                     to be directed.<lb/> We read to him the Certificate sent by<lb/>
                     <del>us from</del> the Indian Committee which <lb/>
-                    <pb n="39" facs="SW_JS1798_Page_041"/> particularly pointed out our
+                    <pb n="39" facs="SW_JS1798_041"/> particularly pointed out our
                     business,<lb/> also <persName key="gwilk2">General Wilkinson</persName>’s
                     Letter, with which<lb/> he appeared satisfied, his son <persName key="habee1"
                         >Henry</persName><lb/> who has had an English Education in<lb/> and about
@@ -1014,7 +1016,7 @@
                     let them know what we said to them: we<lb/>
                     <del>had</del> having particularly requested their Women might at-<lb/> -tend.
                     We then opened our business by letting <lb/>
-                    <pb n="40" facs="SW_JS1798_Page_042"/> them know the love of their Old Friends
+                    <pb n="40" facs="SW_JS1798_042"/> them know the love of their Old Friends
                     the<lb/> Quakers have for them, and our willingness<lb/> to take a long Journey
                     to see them, some of us<lb/> having left Loving Wives, and tender Child-<lb/>
                     -ren, with Comfortable dwellings, and ex-<lb/> -posed ourselves to the hardships
@@ -1033,7 +1035,7 @@
                     who a many years ago lived<lb/> much like they do now, yet were <del>no</del> by
                     in-<lb/> -dustry and care <gap/> become very good<lb/> Farmers, and Mechanicks
                     of all kinds <lb/>
-                    <pb n="41" facs="SW_JS1798_Page_043"/> and from that people, many of those
+                    <pb n="41" facs="SW_JS1798_043"/> and from that people, many of those
                     fine<lb/> Leggons, with the other striped and nice Cloath-<lb/> -ing they had
                     on, came.* upon our letting them<lb/> know we had nothing more to say
                     amongst<lb/> them at this time, they informed us they would<lb/> take our
@@ -1061,7 +1063,7 @@
                 <p> The Indians were this day in Council<lb/> on the business we laid before them,
                         <del>they</del><lb/> they divers times sent their Deputies for<lb/> us to
                     explain some part of the business <lb/>
-                    <pb n="42" facs="SW_JS1798_Page_044"/> we had opened to them, one of their
+                    <pb n="42" facs="SW_JS1798_044"/> we had opened to them, one of their
                     ques-<lb/> -tions was, how they should draw their<lb/> Ploughs, seeing they had
                     no Oxen, we<lb/> let them know we had seen two Horses run-<lb/> -ing about their
                     Town, and that was <del>e</del><lb/> enough to draw one Plough, and
@@ -1079,7 +1081,7 @@
                     evening, we let them<lb/> know <del>tha</del> we were waiting their time, but
                     as<lb/> the day was far spent, left it with them to<lb/> Judge whether this
                     evening would be suitable.<lb/> about Six 30 of them met us, the opportunity <lb/>
-                    <pb n="43" facs="SW_JS1798_Page_045"/> I thought was owned, a degree of
+                    <pb n="43" facs="SW_JS1798_045"/> I thought was owned, a degree of
                     solemnity at-<lb/> -tending, and after a short pause <persName key="cornp2"
                         >Cornplanter</persName><lb/> opened the Council, the following being
                     the<lb/> substance of his speech.</p>
@@ -1099,7 +1101,7 @@
                             now Brothers some of our sober men<lb/> will take take up work, and do
                             as you say,<lb/> and if the do well, then will your young<lb/> Men stay
                             longer, but some others will not<lb/> mind what you say <lb/>
-                            <pb n="44" facs="SW_JS1798_Page_046"/> Brothers,<lb/> we cant say a word
+                            <pb n="44" facs="SW_JS1798_046"/> Brothers,<lb/> we cant say a word
                             against you<lb/> it is the best way to call Quakers Brothers.<lb/> You
                             never wished our lands, you never<lb/> wished any part of our Lands,
                             therefore we are<lb/> determined to try to learn your ways, and<lb/>
@@ -1119,7 +1121,7 @@
 
                 <p> We exchanged our satisfaction with their an-<lb/> -swer and let them know our
                     young <lb/>
-                    <pb n="45" facs="SW_JS1798_Page_047"/> Men would want a house to live in, and
+                    <pb n="45" facs="SW_JS1798_047"/> Men would want a house to live in, and
                     a<lb/> piece of good Land to work, that so they<lb/> may be able to raise their
                     bread. For<lb/> which purpose we <del>wanted</del> desired some of their<lb/>
                     Chiefs would <del>to</del> go with us, to look about their Coun-<lb/> -try, and
@@ -1140,7 +1142,7 @@
                     prospect of such an<lb/> undertaking felt weighty, before we were<lb/> fully
                     concluded, the Chief with his son<lb/> Henry came in to our appartment, and<lb/>
                     said he hoped we would not think hard <lb/>
-                    <pb n="46" facs="SW_JS1798_Page_048"/> at their not keeping the first day
+                    <pb n="46" facs="SW_JS1798_048"/> at their not keeping the first day
                     as<lb/> the white do, for they could not read<lb/> and Write, that they were
                     poor and had<lb/> to work on that day, and that they were<lb/> often out a
                     hunting and had to attend to<lb/> their Game, we let him know, that we<lb/>
@@ -1163,7 +1165,7 @@
                     Judge what was best to do on the Occa-<lb/> -tion. <placeName key="cornp"
                         >Jeneocatego</placeName> the Town where we now<lb/> are, being the place of
                         <persName key="cornp2">Cornplanters</persName> re- <lb/>
-                    <pb n="47" facs="SW_JS1798_Page_049"/> -sidence, is in the middle of a good
+                    <pb n="47" facs="SW_JS1798_049"/> -sidence, is in the middle of a good
                     spot<lb/> of Land, in <placeName key="penns">Pennsylvania</placeName> on the
                     West<lb/> side of the <geogName key="alleg">Allegeny River</geogName>, about
                     five<lb/> miles South of the <placeName key="newyo">New York</placeName> line,
@@ -1183,7 +1185,7 @@
                     the<lb/> Indians where to clear land and fence<lb/> lots, they would not belong
                     to the Nati-<lb/> -on. this consideration made us believe<lb/> it would be best
                     to look elsewhere. – <lb/> The Nation owns 42 Square miles on this <lb/>
-                    <pb n="48" facs="SW_JS1798_Page_050"/>
+                    <pb n="48" facs="SW_JS1798_050"/>
                     <geogName key="alleg">River</geogName>, beginning at the <placeName key="penns"
                         >Pennsylvania</placeName><lb/> Line, the lines of the reservation is<lb/>
                     not yet Run, but we found the Indians<lb/> have a choice that it should ly on the<lb/>
@@ -1205,7 +1207,7 @@
                     and<lb/> ran rapid, in other places from two<lb/> to six feet deep, we pased by
                     a num-<lb/> -ber of Islands, some pretty large, which<lb/> appeared rich, were
                     grown over with grass<lb/> and other herbage very luxuriant, the <lb/>
-                    <pb n="49" facs="SW_JS1798_Page_051"/> flats on each side of the <geogName
+                    <pb n="49" facs="SW_JS1798_051"/> flats on each side of the <geogName
                         key="alleg">River</geogName> appeared<lb/> much of the same quality, tho
                     none of them<lb/>
                     <del>appeared</del> were wide; in about 6 miles we<lb/> came to <persName
@@ -1225,7 +1227,7 @@
                     and at certain<lb/> stretches <del>it</del> is mostly subject to an overflow.<lb/>
                     <del>it</del> the tract lies on the Northwest side of the <geogName key="alleg"
                         >River</geogName>.<lb/> the flat is about 40 reaches wide, and then <lb/>
-                    <pb n="50" facs="SW_JS1798_Page_052"/> commences Timber Land, mostly White<lb/>
+                    <pb n="50" facs="SW_JS1798_052"/> commences Timber Land, mostly White<lb/>
                     Pine, suitable for building, or Railtim-<lb/> -ber, which Timberland within 60
                     perch-<lb/> -es of the flat we thought pretty good, lies<lb/> very well to the
                     sun, with a gentle Assent,<lb/> and clear of stones; when Viewing this<lb/>
@@ -1246,7 +1248,7 @@
                     glad <del>our</del> the young men are coming to live <del>a-</del><lb/>
                     <del>-mongst them</del> so near him. We informed the Chiefs that<lb/> our Young
                     men would want timber for <lb/>
-                    <pb n="51" facs="SW_JS1798_Page_053"/> to build a House, for Rails, and for
+                    <pb n="51" facs="SW_JS1798_053"/> to build a House, for Rails, and for
                     fire-<lb/> -Wood, to which they readily consented, say-<lb/> -ing, they would be
                     very glad they would cut<lb/> all the Trees down, and further Liberty<lb/> they
                     would give them, if they saw a Buck<lb/> swimming across the River, or
@@ -1271,7 +1273,7 @@
                     thought the<lb/> hearty good will with which these were<lb/> presented
                     manifested a full approba-<lb/> -tion with our undertaking, there were<lb/> more
                     of each sort, except potatoes than we <lb/>
-                    <pb n="52" facs="SW_JS1798_Page_054"/> wanted to plant, and upon informing<lb/>
+                    <pb n="52" facs="SW_JS1798_054"/> wanted to plant, and upon informing<lb/>
                     him so we were answered, that we<lb/> must take them all, for they were<lb/>
                     sent in for that purpose. </p>
             </div>
@@ -1296,7 +1298,7 @@
                     be Obtained, about one<lb/> pound of dryed meat, and four pounds<lb/> fresh is
                     all we got of the Indians while<lb/> amongst them, so that the prospect of
                     things <lb/>
-                    <pb n="53" facs="SW_JS1798_Page_055"/> as to provision looked a little gloomy,
+                    <pb n="53" facs="SW_JS1798_055"/> as to provision looked a little gloomy,
                         <del>ou</del><lb/> our Boat <del>is</del> not being expected up in less
                     than<lb/> 9 or 10 days from this date, but upon <persName key="cornp2"
                         >Corn-<lb/> -planters</persName> informing, that he had several
@@ -1315,7 +1317,7 @@
                     and a place to pound their<lb/> Corn <del>under</del> put their Wood &amp;c. out
                     of<lb/> this entry a door opens into each <del>apart</del>
                     <lb/>
-                    <pb n="54" facs="SW_JS1798_Page_056"/> apartment, that asigned us 30 feet<lb/>
+                    <pb n="54" facs="SW_JS1798_056"/> apartment, that asigned us 30 feet<lb/>
                     long, the other 24, and each 16 feet wide.<lb/> they are built of Round Logs, or
                     Poles,<lb/> let in close together, the net Chunked<lb/> or plaistered, so that
                     we found our<lb/> end pretty open and cold enough before<lb/> morning, upon our
@@ -1329,7 +1331,7 @@
                     Seat, and are always ready,<lb/> over these Births, about five feet<lb/> high,
                     are Shelves of the same width<lb/> of <del>those</del> the births
                         <del>beneath</del>, which serve to put <lb/>
-                    <pb n="55" facs="SW_JS1798_Page_057"/> their Kitchen furniture, Corn &amp;c
+                    <pb n="55" facs="SW_JS1798_057"/> their Kitchen furniture, Corn &amp;c
                     upon,<lb/> the fire is built on the ground in the<lb/> Middle of the House, this
                     part between<lb/> the births not being floored; there is a large<lb/> hole left
                     in the Top of the Roof for<lb/> the Smoke to go out at, which hole<lb/> makes a
@@ -1345,7 +1347,7 @@
                     current.<lb/> the bank of the <geogName key="alleg">River</geogName> is low, tho
                     gra-<lb/> -dually asscends to there Houses, which are<lb/> mostly within 6 or 7
                     pearchs so that they<lb/> readily supply themselves with Water <lb/>
-                    <pb n="56" facs="SW_JS1798_Page_058"/> there being no springs on the flat
+                    <pb n="56" facs="SW_JS1798_058"/> there being no springs on the flat
                     where<lb/> the <placeName key="cornp">Town</placeName> stands, which flat is a
                     Sandy<lb/> loam, easily tilled , and if well managed<lb/> would be very
                     productive. there are 50<lb/> or 60 Acres of Land adjoining the <placeName
@@ -1364,7 +1366,7 @@
                     hard, they found all their Corn, for homi-<lb/> -ny, and for Bread, sift and
                     prepare it,<lb/> Cut and Split all their Wood, and Carry<lb/> it home on their
                     backs near a Quarter of <lb/>
-                    <pb n="57" facs="SW_JS1798_Page_059"/> a Mile, make all there fires, and
+                    <pb n="57" facs="SW_JS1798_059"/> a Mile, make all there fires, and
                     all<lb/> other Kitchen Business, plant and take<lb/> care of their corn, and
                     gather it when ready,<lb/> Plant their Beans and stick them, and<lb/> as far as
                     I can learn all other out<lb/> doors work, except building their houses<lb/> and
@@ -1378,7 +1380,7 @@
                     altogether<lb/> on her knees, I have seen her carrying<lb/> in wood and making
                     the fire, going to the <geogName key="alleg">Ri-<lb/> -ver</geogName> and
                     Bringing up water, I have seen<lb/> take her hoe and go 40 pearches out to <lb/>
-                    <pb n="58" facs="SW_JS1798_Page_060"/> the Cornfield, and return in the
+                    <pb n="58" facs="SW_JS1798_060"/> the Cornfield, and return in the
                     Even-<lb/> -ing with the Labourers, and put her<lb/> hoe by, and all this while
                     the Men are<lb/> spending their time in Idleness, such as<lb/> shooting with
                     their bows and Arrows at a<lb/> mark which is a very great recreation<lb/>
@@ -1394,7 +1396,7 @@
                     all the time we were among them<lb/> and, I have seen no kind of any small<lb/>
                     Game, except the Turkey heretofore noted.<lb/> the Catch a few fish, yet but
                     little was<lb/> done at it while we were there, <lb/>
-                    <pb n="59" facs="SW_JS1798_Page_061"/> so that they live poor, their chief
+                    <pb n="59" facs="SW_JS1798_061"/> so that they live poor, their chief
                     subsistence<lb/> at this season was Corn, beans, and Bears<lb/> Oyl, in
                     different preparations, much of their<lb/> Corn and Beans, were pounded into an
                     ho-<lb/> -miny, and Boiled, this I thought was<lb/> their Chief dependence, they
@@ -1411,7 +1413,7 @@
                     the table &amp;c. if their hominy<lb/> was boiled, which was generally the case
                     af-<lb/> -ter 11 OClock, the day through, and it was<lb/> not material whether
                     Cold or Warm, and<lb/> some of their acquaintance came in, the <lb/>
-                    <pb n="60" facs="SW_JS1798_Page_062"/> Births always made a seat ready,
+                    <pb n="60" facs="SW_JS1798_062"/> Births always made a seat ready,
                     wheren<lb/> they were presently engaged in smoak-<lb/> -ing and talking, and
                     while thus busily<lb/> employed, a kettle of hominy with<lb/> a large Wooden
                     spoon, is brought and<lb/> set down on the Ground before them, he<lb/> that is
@@ -1428,7 +1430,7 @@
                     gay hand-<lb/> -kerchief, Calico shirt, Scarlet Leggons,<lb/> Blue Coat, or
                     petticoat, a belt of lively<lb/>
                     <del>coo</del> colours <lb/>
-                    <pb n="61" facs="SW_JS1798_Page_063"/> decorated with Beads tyed round their
+                    <pb n="61" facs="SW_JS1798_063"/> decorated with Beads tyed round their
                     mid-<lb/> -dles, or knees, with long ends hanging<lb/> down, the are very fond
                     of trinkets of<lb/> various kinds in there noses, and Ears,<lb/> the Men more
                     particularly. I have seen bobs<lb/> of various kinds hanging there noses<lb/> to
@@ -1444,7 +1446,7 @@
                     <del>Petticuts</del> Petticoats <del>over</del> under them, which<lb/>
                     petticoats are mostly made of blue<lb/> Cloath, without any needlework,
                     exept<lb/> the stitching some red Worsted binding <lb/>
-                    <pb n="62" facs="SW_JS1798_Page_064"/> on about 9 Inches of the upper part;
+                    <pb n="62" facs="SW_JS1798_064"/> on about 9 Inches of the upper part;
                     their<lb/> way of making and putting them on is, to take<lb/> a piece of Cloath
                     perhaps 1½ Yards long<lb/> turn down the upper part as above described,
                     which<lb/> part is spread over with Ribbons,<lb/> then Wrap it tite round them,
@@ -1460,7 +1462,7 @@
                     appear to be ever Washed, and<lb/> about their Sholders the become very<lb/>
                     black and greesy, from their greesy<lb/> heads; their hair I have observed to
                     be<lb/> the Cloath to wipe their greasy fingers <lb/>
-                    <pb n="63" facs="SW_JS1798_Page_065"/> in, while eating their bread and
+                    <pb n="63" facs="SW_JS1798_065"/> in, while eating their bread and
                     Oyl.<lb/> thus for want of a change of Cloaths, and<lb/> living in their dirt,
                     they become <del>very</del><lb/> lowsy, which they try to extrecate them<lb/>
                     -selves from, by pulling of their shifts,<lb/> turning them inside
@@ -1476,7 +1478,7 @@
                     morning.<lb/> for two or three days past the weather has<lb/> been warm, with a
                     strong South wind.<lb/> the Woods has been much on fire dur-<lb/> -ing this dry
                     weather, Clouds of smoke <lb/>
-                    <pb n="64" facs="SW_JS1798_Page_066"/> have frequently covered us, so that
+                    <pb n="64" facs="SW_JS1798_066"/> have frequently covered us, so that
                     the<lb/> Sun has been hid. A curious Sight present-<lb/> -ed two nights ago, of
                     some neighbouring<lb/> Hills or rather mountains that were on fire,<lb/> perhaps
                     the had not been burnt for seve-<lb/> -ral Years, and the great quantity of
@@ -1494,7 +1496,7 @@
                     places, but in<lb/> the midst of our trials we have still<lb/> been favoured; a
                     considerable quantity of<lb/> rain fell last Evening, tho no diffi-<lb/> -rence
                     yet appears in the <geogName key="alleg">River</geogName>, there <lb/>
-                    <pb n="65" facs="SW_JS1798_Page_067"/> is some reason to hope it will rise.</p>
+                    <pb n="65" facs="SW_JS1798_067"/> is some reason to hope it will rise.</p>
                 <p> We intended to have set of this Morning<lb/> by Eight OClock for <placeName
                         key="genes1">Genesinguhta</placeName>, <del>and</del><lb/> and agreed with
                         <persName key="habee1">Henry Obeal</persName> last<lb/> evening to go with
@@ -1513,7 +1515,7 @@
                     we<lb/> again rode the <geogName key="alleg">River</geogName> tho wide and<lb/>
                     deep, we stoped at the House of a Chief who<lb/> went with us to our inten ded
                     Settlement,<lb/> here we met with our friends who went <lb/>
-                    <pb n="66" facs="SW_JS1798_Page_068"/> in the Canoe. We viewed an Empty
+                    <pb n="66" facs="SW_JS1798_068"/> in the Canoe. We viewed an Empty
                     house<lb/> that <del>on</del> stood near our Settlement, <del>we</del><lb/> but
                     not liking it, we proceeded to ano-<lb/> -ther that was on <del>it</del> said
                     settlement wherein a family<lb/> lived, we understood they proposed<lb/> leaving
@@ -1528,7 +1530,7 @@
                     a sober Woman that would be likely<lb/> to make good use of the Money, we paid
                     her 20<lb/> dollars for her house and previligdges,<lb/> and with our assistance
                     she removed out<lb/> and in less than an hour we had possission <lb/>
-                    <pb n="67" facs="SW_JS1798_Page_069"/> our young men gave <del>it</del> the
+                    <pb n="67" facs="SW_JS1798_069"/> our young men gave <del>it</del> the
                     house a thorough cleaning,<lb/> and before dark our scanty furniture was<lb/>
                     arranged for House-keeping, and having<lb/> supped on our preparations, which
                     admitted<lb/> of but little change, we prepared for bed in<lb/> our open house,
@@ -1546,7 +1548,7 @@
                     but further from the <geogName key="alleg">River</geogName> is lower<lb/>
                     ground, <del>which</del> and appears more fertile.</p>
                 <p> Our horses since we came among the<lb/> Indians has run out, without enclosing: <lb/>
-                    <pb n="68" facs="SW_JS1798_Page_070"/> they have had pretty plenty
+                    <pb n="68" facs="SW_JS1798_070"/> they have had pretty plenty
                         <del>pretty</del> of Coarse grass, and<lb/> other herbages, but here they
                     have plen-<lb/> -ty of grass, and that which is very good.</p>
             </div>
@@ -1567,7 +1569,7 @@
                     very wet, which<lb/> put an end to their Eel catching; shortly<lb/> after they
                     returned we had several very<lb/> heavy showers, <del>wich</del> which
                     convinced<lb/> us our house was not proof against <lb/>
-                    <pb n="69" facs="SW_JS1798_Page_071"/> Storms, for the rain beat in at the
+                    <pb n="69" facs="SW_JS1798_071"/> Storms, for the rain beat in at the
                     end,<lb/> Roof, and other places. –- </p>
                 <p> We have been keeping house about a<lb/> week, and experience much
                     inconveni-<lb/> -ency for want of the arrival of our<lb/> goods, having but five
@@ -1585,7 +1587,7 @@
                     Cho-<lb/> -colate &amp; Sugar that we brought from <placeName key="pitts"
                         >Pitts-<lb/> Burgh</placeName>, which are our chief living and depen-<lb/>
                     -dance. <del>as</del> we have received some Sugar of the <lb/>
-                    <pb n="70" facs="SW_JS1798_Page_072"/> Indians as a present, and some we
+                    <pb n="70" facs="SW_JS1798_072"/> Indians as a present, and some we
                     pur-<lb/> -chased, which we find a pretty good sub-<lb/> -stitute for butter,
                     and Cheese, by bitting<lb/> a bit of Sugar, which is in a hand cake,<lb/> with
                     our Bread. – while at the <placeName key="cornp">lower<lb/> Town</placeName> we
@@ -1610,7 +1612,7 @@
                     from Northwest last even<lb/> -ing, and our house being very open<lb/> we
                     suffered with the Cold. </p>
 
-                <pb n="71" facs="SW_JS1798_Page_073"/>
+                <pb n="71" facs="SW_JS1798_073"/>
 
                 <p>I may just note <del>that</del> there is a great appear-<lb/> -ance for
                     strawberries here on some part<lb/> of the Old Indian fields. </p>
@@ -1631,7 +1633,7 @@
                     we<lb/> should have been able to have got<lb/> some dryed Venison of the Indians
                     here, which has<lb/> not been the case, we got a little Bears Oyl<lb/> of them,
                     but that article is scarce, and<lb/> dear, this day intending to have made <lb/>
-                    <pb n="72" facs="SW_JS1798_Page_074"/> a dinner of some flitters, our Bread<lb/>
+                    <pb n="72" facs="SW_JS1798_074"/> a dinner of some flitters, our Bread<lb/>
                     being nearly out, and our flour so re-<lb/> -duced as to discourage attempting
                     to<lb/> bake; while we were frying our<lb/> flitters, an Indian man came in<lb/>
                     <del>in</del> and presented us with about four Pounds of fresh Ve-<lb/> -nison
@@ -1648,7 +1650,7 @@
                     with him<lb/> and gave it to <persName key="cornp2">Cornplanter</persName>, and
                     said<lb/> something to him in Indian, which <del>being</del><lb/> was, that the
                     Venison he brought us was <lb/>
-                    <pb n="73" facs="SW_JS1798_Page_075"/> a gift, and he wished not to recieve
+                    <pb n="73" facs="SW_JS1798_075"/> a gift, and he wished not to recieve
                     any<lb/> money for it, and the money was handed back<lb/> to us, which we
                     immeadiately presented to<lb/> him for <del>his</del> the <del>his</del> trouble
                     of bringing<lb/> us down in his Canoe, which he reciev-<lb/> -ed with
@@ -1674,7 +1676,7 @@
                     true, and the Chiefs speech appear-<lb/> -ed to be delivered with much earnest,
                     and<lb/> serious expostulation. <persName key="cornp2">Cornplanter</persName>
                     then <lb/>
-                    <pb n="74" facs="SW_JS1798_Page_076"/> directed his speech to us, expressing his
+                    <pb n="74" facs="SW_JS1798_076"/> directed his speech to us, expressing his
                     satisfaction in see-<lb/> -ing us all in good health, then informing, some<lb/>
                     of his People were gone out a hunting, &amp;<lb/> if we had any thing to propose
                     to them<lb/> they were now ready, being all collected<lb/> that would come.
@@ -1695,7 +1697,7 @@
                             proposed for your good, has been<lb/> so agreeable to your Minds, that
                             we seem<lb/> to agree together like Brothers, having<lb/> but one mind
                             in every thing that we <lb/>
-                            <pb n="75" facs="SW_JS1798_Page_077"/> do; and we hope Brothers, we
+                            <pb n="75" facs="SW_JS1798_077"/> do; and we hope Brothers, we
                             shall con-<lb/> -tinue to be of one Mind about all the things<lb/> we
                             have been speaking to you of.</p>
                         <p> Brothers, you know the place we have chosen<lb/> for our Young Men to
@@ -1720,7 +1722,7 @@
                             Grist-<lb/> Mill next summer, if a suitable place can<lb/> be found for
                             it; you must find half the Mo-<lb/> -ney to build this Mill, and we will
                             find the <lb/>
-                            <pb n="76" facs="SW_JS1798_Page_078"/> other half; and we hope Brothers,
+                            <pb n="76" facs="SW_JS1798_078"/> other half; and we hope Brothers,
                             you will<lb/> save some money you get from the White<lb/> People between
                             now and that time; that<lb/> so you may have your share ready
                             against<lb/> next spring; and we think you had bet-<lb/> -ter choose one
@@ -1740,7 +1742,7 @@
                         <p> 3rd. For every 50 bushels of Potatoes raised<lb/> by any one man in like
                             manner aforsaid,<lb/> the sum of two dollars.</p>
 
-                        <pb n="77" facs="SW_JS1798_Page_079"/>
+                        <pb n="77" facs="SW_JS1798_079"/>
 
                         <p> 4th. For every two Tons of hay raised as<lb/> aforsaid, and put into a
                             Stack or Barn,<lb/> not being Mowed or drawn in by white<lb/> People,
@@ -1760,7 +1762,7 @@
                             that it was raised or made in<lb/> the manner <del>aforsaid</del> above
                             mentioned,<lb/> and that the person so applying has not<lb/> been
                             intoxicated with Whiskey, at <lb/>
-                            <pb n="78" facs="SW_JS1798_Page_080"/> least for the term of six months
+                            <pb n="78" facs="SW_JS1798_080"/> least for the term of six months
                             before<lb/> that time. -- And our friends <persName key="hsimm1"
                                 >Henry<lb/> Simmons</persName>, <persName key="jswai1">Joel
                                 Swayne</persName>, and <persName key="hjack1">Hilladay Jack-<lb/>
@@ -1782,7 +1784,7 @@
                     they returned, and made us an answer<lb/> in substance as follows,</p>
                 <floatingText type="speech">
                     <body>
-                        <pb n="79" facs="SW_JS1798_Page_081"/>
+                        <pb n="79" facs="SW_JS1798_081"/>
                         <p> Brothers, we now hear all what you would<lb/> wish to do among us; you
                             are come here<lb/> to see us Brothers; you wish us well; you<lb/> wish
                             us to become as the White People;<lb/> the White People are rich and got
@@ -1797,7 +1799,7 @@
                         <p> Brothers, we know how far you have come<lb/> to see us, it is a great
                             way; from the<lb/> Seashore where our forefathers once liv-<lb/> -ed:
                             the White People have cheated us,<lb/> and got our land from us, and now <lb/>
-                            <pb n="80" facs="SW_JS1798_Page_082"/> we have but little left, we will
+                            <pb n="80" facs="SW_JS1798_082"/> we have but little left, we will
                             try to<lb/> learn your way.</p>
                         <p> Brothers, you know there are some<lb/> bad People amongst us, and you
                             know<lb/> we have been cheated, and that makes<lb/> us bad, and our
@@ -1813,7 +1815,7 @@
                             now they wont mind.</p>
                         <p> Brothers, we cant all go to work at once<lb/> some of my Warriors will
                             go a hunting<lb/> to get Provisions, and sometimes they broke <lb/>
-                            <pb n="81" facs="SW_JS1798_Page_083"/> a Gun, and then it takes a great
+                            <pb n="81" facs="SW_JS1798_083"/> a Gun, and then it takes a great
                             deal of<lb/> money to get a new one, we have very<lb/> few Hoes, and
                             Axes, and such things amon-<lb/> -gst us, and we are not able to get
                             them.</p>
@@ -1835,7 +1837,7 @@
                     to Work, their<lb/> Minds will be turned to it, business will<lb/> become
                     familier, and they will not think<lb/> hard of it. and as they expressed the
                     White<lb/> People were rich and had plenty, we let them <lb/>
-                    <pb n="82" facs="SW_JS1798_Page_084"/> know it was by industry it Was
+                    <pb n="82" facs="SW_JS1798_084"/> know it was by industry it Was
                     obtained<lb/> the men doing their share of business<lb/> in the fields, &amp;c
                     thereby leaving the Wo-<lb/> -men more time to attend to spinning,<lb/> sewing,
                     darying &amp;c in the house.</p>
@@ -1855,7 +1857,7 @@
                     <del>that was</del>
                     <del>set before us,</del> the<lb/> bread <del>had been</del>
                     <del>was</del> baked in a Dutch Oven <lb/>
-                    <pb n="83" facs="SW_JS1798_Page_085"/> having a small quantity of Bears Oyl
+                    <pb n="83" facs="SW_JS1798_085"/> having a small quantity of Bears Oyl
                     put<lb/> into the oven with it, and when part<lb/> baked the loaf was turned
                     over with a<lb/> fresh supply of Oyl, <del>we t</del> this was all we<lb/> had
                     set before us; they informed us they had no<lb/> meat, and we had heretofo shewn
@@ -1878,7 +1880,7 @@
                         key="jpier1">John Pierce</persName> and myself expected<lb/>
                     <del>in a few days</del> to be at liberty in a few days<lb/> to leave them, and
                     return to our families<lb/> and Friends; and since the concluding <lb/>
-                    <pb n="84" facs="SW_JS1798_Page_086"/> of the Council we see nothing but
+                    <pb n="84" facs="SW_JS1798_086"/> of the Council we see nothing but
                     what<lb/> we might set of in a day or two if our<lb/> goods were
                         <del>arrived</del> come; we have not<lb/> heard any <del>from</del> of them
                     since we left<lb/>
@@ -1896,7 +1898,7 @@
                     <del>their lice</del> &amp;c which try’s us. --- <del>we enquir-</del><lb/>
                     <del>-ed</del> Our road from <placeName key="pitts">Pittsburgh</placeName> here,
                     was<lb/> pretty much of a Northeast coarse, and <lb/>
-                    <pb n="85" facs="SW_JS1798_Page_087"/> part of it very rough and tedious, so
+                    <pb n="85" facs="SW_JS1798_087"/> part of it very rough and tedious, so
                     that<lb/> we have been desirous of finding a <del><gap/></del><lb/> nearer, and
                     better way home, we early en-<lb/> -quired of <persName key="cornp2"
                         >Cornplanter</persName> if there was any path<lb/> from this <placeName
@@ -1917,7 +1919,7 @@
                         >Canandarque</placeName> being in the way which made the Chiefs proposal
                         <del>of the</del>
                     <lb/>
-                    <pb n="86" facs="SW_JS1798_Page_088"/>
+                    <pb n="86" facs="SW_JS1798_088"/>
                     <del>Chiefs, of bearing us Company to Canandar-</del><lb/>
                     <del>-que</del> feel pleasant, but about this date a<lb/> runner from the Chiefs
                     of <placeName key="buffa">Buffaloe</placeName>, arriv-<lb/> -ed at <placeName
@@ -1936,7 +1938,7 @@
                     Dress, we<lb/> then walked out more fully to view<lb/> the sight, where we saw
                     two Men<lb/> with naked Arms, Thighs, and legs,<lb/> they had Bearskins on their
                     backs <lb/>
-                    <pb n="87" facs="SW_JS1798_Page_089"/> which hung down below their hips,
+                    <pb n="87" facs="SW_JS1798_089"/> which hung down below their hips,
                     and<lb/> tyed <del>together</del> across their breasts, and on<lb/> their head
                     they had a grim and Terrible<lb/> appearance, this false face, for so it
                     was<lb/> called, was made as frightfull as nature<lb/> could invent, the hair on
@@ -1953,7 +1955,7 @@
                     frantick.<lb/> a large number of spectators at a consider-<lb/> -able distance
                     surrounded the house <del>where</del>
                     <lb/>
-                    <pb n="88" facs="SW_JS1798_Page_090"/>
+                    <pb n="88" facs="SW_JS1798_090"/>
                     <del>where the men appeared to be plac-</del><lb/>
                     <del>-ed as guards</del>, many of whom were young<lb/> Men, who endeavored to
                     peep through<lb/> the Craks of the Logs into the House, and<lb/> these guards
@@ -1970,7 +1972,7 @@
                     the house or looking in, as there<lb/> construction was such as not to
                     admit<lb/> of Privacy, Our interpretter was a<lb/> Young Man and did not seem
                     fully to<lb/> understand, or else did not care to tell <lb/>
-                    <pb n="89" facs="SW_JS1798_Page_091"/> the cause of the Womens being there:<lb/>
+                    <pb n="89" facs="SW_JS1798_091"/> the cause of the Womens being there:<lb/>
                     but said they had met there for a frolic, and<lb/> to drink Whiskey, but as far
                     as we could dis-<lb/>
                     <del>cover</del> -cover neither their conduct, nor<lb/> Countenances answered
@@ -1993,7 +1995,7 @@
                         key="cornp">Town</placeName>,<lb/> the arrival of which was heartily<lb/>
                     welcomed, both by us, and the Indians<lb/> many of the latter gathering around
                     the Shore, hav-<lb/> -ing never seen such a boat before, most of them being <lb/>
-                    <pb n="90" facs="SW_JS1798_Page_092"/> only acquainted with Canoes, the
+                    <pb n="90" facs="SW_JS1798_092"/> only acquainted with Canoes, the
                     Captain<lb/> informed us he did not leave <placeName key="pitts">Pitts
                         burgh</placeName> until<lb/> three days later than he <del>had given</del>
                     expected,<lb/> that he had been fifteen days a coming, and<lb/> that it was 270
@@ -2012,7 +2014,7 @@
                     will express one word,<lb/> and our interpretter not being ready at the<lb/> the
                     business it was a discouragement to us, to<lb/> touch on religious subjects. we
                     had a <lb/>
-                    <pb n="91" facs="SW_JS1798_Page_093"/> strong desire to know if they had any
+                    <pb n="91" facs="SW_JS1798_093"/> strong desire to know if they had any
                     religius<lb/> Rites or Ceremonies amongst them, and last<lb/> evening <del>we
                         ha</del> having some conversation with <persName key="cornp2">Cornplan-<lb/>
                         -ter</persName> on the Subject, he informed us, they had<lb/> two
@@ -2028,7 +2030,7 @@
                     and we would have been glad<lb/> to have <del>mentioned to</del> told him, tho
                     the Indians<lb/> could not read the Bible yet they were<lb/> not Wholy deprived
                     of the benefits of the<lb/> coming of Christ, for that a manifestation <lb/>
-                    <pb n="92" facs="SW_JS1798_Page_094"/> of his Spirit or measure of his Grace
+                    <pb n="92" facs="SW_JS1798_094"/> of his Spirit or measure of his Grace
                     was<lb/> placed in each of their hearts, and would<lb/> if minded, or given way
                     to reprove for<lb/> all wicked words, and Wicked actions,<lb/>
                     <del>an well</del> also produce peace for well do-<lb/> -ing, but this was too
@@ -2053,7 +2055,7 @@
                         >River</geogName> in a Canoe, to his sawmill<lb/> where we took leave of the
                     Chief and his<lb/> son for the present, with a promise that<lb/> they would call
                     on us at our house at <lb/>
-                    <pb n="93" facs="SW_JS1798_Page_095"/>
+                    <pb n="93" facs="SW_JS1798_095"/>
                     <placeName key="genes1">Genesinguhta</placeName> in five days, for to go on<lb/>
                     with us to the mouth of <geogName key="buffr">Buffaloe</geogName> in order<lb/>
                     to attend a Council there, the Nephew and<lb/> a Son of the Dutchmans who tends
@@ -2070,7 +2072,7 @@
                     house keeping, we<lb/> now experienced a great Change, our<lb/> naked Walls,
                     empty house, and bare cup-<lb/> -board, met with a rich supply; our hard<lb/>
                     and Cold beds, were warmed and softened <lb/>
-                    <pb n="94" facs="SW_JS1798_Page_096"/> with blankets; we were now able to<lb/>
+                    <pb n="94" facs="SW_JS1798_096"/> with blankets; we were now able to<lb/>
                     make a Cup of Tea, or Coffee, tho with-<lb/> out Milk; or Butter; and we have
                     Bacon<lb/> or Cheese to eat with, our bread, our<lb/> Change being so great that
                     one of our<lb/> Young Men says they want nothing but a<lb/> Cow to make their
@@ -2091,7 +2093,7 @@
                     hills, 25 <del>feet</del> pearch<lb/> of a headrace would carry the water<lb/>
                     high enough for the purpose, and<lb/> within five pearch of the <geogName
                         key="alleg">River</geogName> is a<lb/> very suitable band to erect a mill on <lb/>
-                    <pb n="95" facs="SW_JS1798_Page_097"/> where a Tolerance might be readily
+                    <pb n="95" facs="SW_JS1798_097"/> where a Tolerance might be readily
                     dug<lb/> into the <geogName key="alleg">River</geogName> so that Canoes could
                     come<lb/> up to the Mill door, a large quantity<lb/> of suitable flat stone for
                     building may <del>might</del><lb/> be readily got on the spot to do such<lb/>
@@ -2110,7 +2112,7 @@
                         >River</geogName>. </p>
             </div>
 
-            <pb n="96" facs="SW_JS1798_Page_098"/>
+            <pb n="96" facs="SW_JS1798_098"/>
             <div type="entry">
                 <dateline><date when="1798-06-02">2nd</date>
                     <placeName key="checkPlace"/></dateline>
@@ -2137,7 +2139,7 @@
                     much diverted<lb/> and seemed to understand it pretty<lb/> well, particularly
                     the <geogName key="alleg">Allegeny River</geogName>
                     <lb/>
-                    <pb n="97" facs="SW_JS1798_Page_99"/> and the large streams which run into<lb/>
+                    <pb n="97" facs="SW_JS1798_99"/> and the large streams which run into<lb/>
                     it. -- Since our coming into these parts<lb/> we have kept meetings twice a
                     week, our<lb/> opportunity to day <del>to</del> felt like a parting
                     meeting,<lb/> and a travel was experienced for the pre-<lb/> -servation of our
@@ -2158,7 +2160,7 @@
                     since we came her. -- And as it has<lb/> been a rainy damp time latterly, Clouds
                     of<lb/> fog are frequently rising out of the <geogName key="alleg"
                         >River</geogName>. <lb/>
-                    <pb n="98" facs="SW_JS1798_Page_100"/> the lower parts of some Mountains<lb/>
+                    <pb n="98" facs="SW_JS1798_100"/> the lower parts of some Mountains<lb/>
                     near our Settlement, which fog ascend s<lb/> said Mountains in thick Colums
                     un-<lb/> -usual to what I have been acquainted<lb/> with.</p>
             </div>
@@ -2185,7 +2187,7 @@
                     <placeName key="cornp"/></dateline>
                 <p> The sun made its appearance <del><gap/></del><lb/> this Morning, and there is
                     some pros- <lb/>
-                    <pb n="99" facs="SW_JS1798_Page_101"/> -pect of a pretty pleasant day for
+                    <pb n="99" facs="SW_JS1798_101"/> -pect of a pretty pleasant day for
                     traveling<lb/> and not knowing what Minute <persName key="cornp2">Cornplan-<lb/>
                         -ter</persName> and his Company would call on us, we<lb/> felt our Minds
                     baptized <del>at</del> with the prospect<lb/> of a seperation, and sat down
@@ -2202,7 +2204,7 @@
                         <del>still</del> continue<lb/> to experience the Lords protecting Pow-<lb/>
                     -er through a Solatary Wilderness, and<lb/> tedious Journey. ----</p>
 
-                <pb n="100" facs="SW_JS1798_Page_102"/>
+                <pb n="100" facs="SW_JS1798_102"/>
 
                 <p> We have been holding ourselves in readiness<lb/> since six OClock this morning,
                     having<lb/> our horses most of the time prepared <del>ready</del> to
@@ -2225,7 +2227,7 @@
                     them of, the horses have been so bit<lb/> with them, that the thin parts of
                     the<lb/> skin was <del>all</del> rise up in bumps. and<lb/> we were informed,
                     that the Muschetoes <lb/>
-                    <pb n="101" facs="SW_JS1798_Page_103"/> and a green headed fly will be so
+                    <pb n="101" facs="SW_JS1798_103"/> and a green headed fly will be so
                     trou-<lb/> -blesome in a while, that horses and Cattle<lb/> wont thrive or will
                     rather fall away.<lb/> After waiting with some degree of impatience<lb/> until
                     between two and three OClock this<lb/> afternoon, we were visited by <persName
@@ -2244,7 +2246,7 @@
                     hoped<lb/> we could meet him in <placeName key="buffa">Buffaloe</placeName>,
                     where he<lb/> said he intended to be on that day if the<lb/> state of his famaly
                     would permit, a guide <lb/>
-                    <pb n="102" facs="SW_JS1798_Page_104"/> was accordingly provoided, who
+                    <pb n="102" facs="SW_JS1798_104"/> was accordingly provoided, who
                     engaged<lb/> to call on us tomorrow morning by sun-<lb/> -rise ---- a heavy
                     shower of rain this even-<lb/> -ing, so our going home which way<lb/> we will
                     looks discouraging, on accoun t<lb/> of getting over some large Waters; this<lb/>
@@ -2267,7 +2269,7 @@
                     no path; we frequently got very<lb/> wet from the bushes, we then left the
                         <geogName key="alleg">River</geogName><lb/> to our right and went up a fine
                     Country<lb/> heavily timbered, mostly white pine, having <lb/>
-                    <pb n="103" facs="SW_JS1798_Page_105"/> a small Creek at some distance on out
+                    <pb n="103" facs="SW_JS1798_105"/> a small Creek at some distance on out
                     right<lb/> and <del>for</del>
                     <del>3</del>
                     <del><unclear>for</unclear></del> in 3 or 4 miles we passed through an<lb/> Old
@@ -2290,7 +2292,7 @@
                     ourselves<lb/> we mounted, having for several miles past<lb/> been riding over
                     fine <del>Champion</del> land, a little<lb/> hilly and <del>heavily</del> loaded
                     with <del>and</del> timber<del>ed</del>, we had some fears about <lb/>
-                    <pb n="104" facs="SW_JS1798_Page_106"/> about getting over <geogName key="catar"
+                    <pb n="104" facs="SW_JS1798_106"/> about getting over <geogName key="catar"
                         >Catarawgus</geogName> this morn-<lb/> -ing before we started, and this
                     heavy<lb/> rain increased them; however we mov-<lb/> -ed on over a fine country,
                     tho a trying road<lb/> the Limbs, the Brush and the Logs were<lb/> ever in our
@@ -2309,7 +2311,7 @@
                     very well if it had not been<lb/> for the gnats and muschetoes; we struck<lb/>
                     up a fire, and under some Bushes, we had<lb/> put up to keep of the due, got a
                     pretty <lb/>
-                    <pb n="105" facs="SW_JS1798_Page_107"/> Comfortable nights rest,
+                    <pb n="105" facs="SW_JS1798_107"/> Comfortable nights rest,
                         <del>having</del> in the<lb/> evening we viewed the <geogName key="catar"
                         >river</geogName> above the fording<lb/> place, and <del>we</del> found
                         <del>that</del> there <del>was</del> were some marks<lb/> of its having
@@ -2338,7 +2340,7 @@
                     <del>mentioned</del> signed to our <persName key="ijohn1">guide</persName> to
                     lead the way, he<lb/> being well mounted on <persName key="hsimm1">Henry
                         Simmons</persName><lb/> Mare the largest beast in Company, but <lb/>
-                    <pb n="106" facs="SW_JS1798_Page_108"/> showed evident marks of fear; and the
+                    <pb n="106" facs="SW_JS1798_108"/> showed evident marks of fear; and the
                     task being likely<lb/> to fall on me, I pulled of my great Coat &amp;<lb/> tyed
                     it up well behind me, and raised<lb/> my saddlebags by putting some luggage<lb/>
                     under them, and having previously<lb/> cut a pole to carry in my hand to
@@ -2358,7 +2360,7 @@
                     being the first dwellings we had seen since we left for the <geogName
                         key="alleg">Allegeny</geogName> hav-<lb/> -ing rode through an open Wood for
                     4 or <lb/>
-                    <pb n="107" facs="SW_JS1798_Page_109"/> 5 miles past grown up with herbage
+                    <pb n="107" facs="SW_JS1798_109"/> 5 miles past grown up with herbage
                     of<lb/> different kinds very thick, and near thre[e]<lb/> feet high, we stopped
                     at a house in this Village<lb/>
                     <del>got our</del> &amp; Breakfasted on our own provision. The<lb/> Town and
@@ -2378,7 +2380,7 @@
                         <del>low</del> cheap for a new Country, we found<lb/> in <placeName
                         key="canad">Canada</placeName> and other placed Corn Rated at<lb/> a dollar
                     per Bushel -- Most of the principal<lb/> Men in the Village and others gathered <lb/>
-                    <pb n="108" facs="SW_JS1798_Page_110"/> into the house where we were, and<lb/>
+                    <pb n="108" facs="SW_JS1798_110"/> into the house where we were, and<lb/>
                     their being a Whiteman living a-<lb/> -mongst them that could interpret, we<lb/>
                     informed them of what we had been<lb/> doing at <placeName key="cornp"
                         >Cornplanters settlement</placeName>, and<lb/> of the young Men we had left
@@ -2397,7 +2399,7 @@
                         Erie</geogName>. here we gratifyed<lb/> our eyes <del>in</del> a while in
                     viewing this Ob-<lb/> -sequious Element as far as the Convex<lb/> state of the
                     globe would admit, -- <del>here</del> we now <lb/>
-                    <pb n="109" facs="SW_JS1798_Page_111"/> turned still more to the right, and
+                    <pb n="109" facs="SW_JS1798_111"/> turned still more to the right, and
                     went<lb/> along the beach to <del>lake to</del> the mouth of <geogName
                         key="buffr">Buf-<lb/> -folae</geogName> 29 miles, the prospect the
                         <del>remainder</del><lb/> remaining part of this day was pleasant, and it
@@ -2418,7 +2420,7 @@
                     <del>tr</del><lb/> trickling down very entertaining, I ob-<lb/> -served some
                     Rocks standing in the edge<lb/> of the Water, as large over, and round<lb/> as a
                     Millstone, the upper part whereof <lb/>
-                    <pb n="110" facs="SW_JS1798_Page_112"/> was wore nearly to the shape of the
+                    <pb n="110" facs="SW_JS1798_112"/> was wore nearly to the shape of the
                     largest<lb/> end of an Egg, &amp; as round as if turned<lb/> in a leathe. In a
                     number of places<lb/> the water came up to the Wall of Rocks,<lb/> so that we
                     had to ride 40 or more pearch-<lb/> -es in the <del>Water</del> Lake in places
@@ -2434,7 +2436,7 @@
                     <geogName key="lakee">Lake</geogName> until it overflows the Bank and<lb/>
                     drowns a considerable Country, which is very<lb/> level, and Wet for Common. It
                     was very<lb/> evident for a number of Miles here away <lb/>
-                    <pb n="111" facs="SW_JS1798_Page_113"/> that the <geogName key="lakee"
+                    <pb n="111" facs="SW_JS1798_113"/> that the <geogName key="lakee"
                         >Lake</geogName> is gradually moving towards<lb/> the Southeast as most of
                     the trees which<lb/> stand along its margin has the dirt washed<lb/> away from
                     their roots for 3, 4, or more feet<lb/> deep, <del>and</del> so that they are
@@ -2459,7 +2461,7 @@
                     last 80 miles </p>
             </div>
             <div type="entry">
-                <pb n="112" facs="SW_JS1798_Page_114"/>
+                <pb n="112" facs="SW_JS1798_114"/>
                 <dateline><date when="1798-06-09">9th</date>
                     <placeName key="ferie"/></dateline>
 
@@ -2484,7 +2486,7 @@
                     home<lb/> when here last fall, and kind friends<lb/>
                     <persName key="ascho1">Asa Schooly</persName> and Wife, who were truly<lb/> glad
                     to see us, and we them, here we got<lb/> a clean good Bed, which was what we had <lb/>
-                    <pb n="113" facs="SW_JS1798_Page_115"/> not experienced since we left <placeName
+                    <pb n="113" facs="SW_JS1798_115"/> not experienced since we left <placeName
                         key="pitts">Pittsburgh</placeName>, hav-<lb/> -ing for near four weeks slept
                     on the ground<lb/> and on boards, in our blankets. 15 miles </p>
             </div>
@@ -2514,7 +2516,7 @@
                     called, in 7 miles<lb/> we came on the <geogName key="niagr">Niagara
                         River</geogName>, thence down<lb/> the <geogName key="niagr"
                         >River</geogName> close on its Margin 18 miles to the <lb/>
-                    <pb n="114" facs="SW_JS1798_Page_116"/>
+                    <pb n="114" facs="SW_JS1798_116"/>
                     <geogName key="niagf">great falls</geogName>, having about two miles back
                     fer-<lb/> -ried the <geogName key="chipp">Chippaway River</geogName>, the bridge
                     being<lb/> broke, <del>it</del> said <geogName key="chipp">River</geogName> is
@@ -2533,7 +2535,7 @@
                     about<lb/> noon and a clear warm day, the fog that<lb/> ascended was abundantly
                     less, than the<lb/> Cold morning I was here before, yet be-<lb/> -fore we got to
                     the bottom of the bank<lb/> the bushes &amp;c. became very wet, and I <lb/>
-                    <pb n="115" facs="SW_JS1798_Page_117"/> believe had we stayed on the Rock at
+                    <pb n="115" facs="SW_JS1798_117"/> believe had we stayed on the Rock at
                     the<lb/> grand pitch one hour our Cloathes would<lb/> have been nearly wet
                     through; we had now<lb/> a very fair prospect of the Water Shoot-<lb/> -ing over
                     the Rock, and its <del>desen</del> descend-<lb/> -ing with very great rapidity
@@ -2551,7 +2553,7 @@
                     we return'd up the steep bank<lb/> with difficulty, and in four miles arrived at<lb/>
                     <persName key="jmoor2">Jeremiah Moores</persName>, where we were kindly
                         <del>rece</del><lb/> recieved. In about an hour after we <del>had</del> got <lb/>
-                    <pb n="116" facs="SW_JS1798_Page_118"/> here, <del>in about one hour
+                    <pb n="116" facs="SW_JS1798_118"/> here, <del>in about one hour
                         after,</del> a friend from<lb/> the <placeName key="short">Short
                         Hills</placeName>, came in, particularly<lb/> requsting that <persName
                         key="jmoor2">Jeremiah More</persName> and <persName key="jhill1">John
@@ -2576,7 +2578,7 @@
                     breakfast and on weighing their request felt<lb/> an engagement to go with them,
                     and it was<lb/> agreed to meet all such as could be <del>could be</del><lb/>
                     notifyed who were concerned in building the <lb/>
-                    <pb n="117" facs="SW_JS1798_Page_119"/> house on the spot this Afternoon at 2 O
+                    <pb n="117" facs="SW_JS1798_119"/> house on the spot this Afternoon at 2 O
                     Clock<lb/> and <persName key="jgilh1">Joshua Gilham</persName> the friend who
                     came <del>do</del><lb/> down and another friend went on to give<lb/> the
                     necessary information; we went on with<lb/>
@@ -2597,7 +2599,7 @@
                     and nearly<lb/> shingled in, it is built of snug, round pine<lb/> Logs, about 20
                     by 22 feet square, -- I was muc[h]<lb/> pleased to see the faces of those we had
                     laboured <lb/>
-                    <pb n="118" facs="SW_JS1798_Page_120"/> amongst last fall, and found the
+                    <pb n="118" facs="SW_JS1798_120"/> amongst last fall, and found the
                     Committee<lb/> had left a sweet savour behind them, it<lb/> was the general
                     expectation of friends<lb/> in <placeName key="canad">Canada</placeName> that
                     they would have been<lb/> again visited this Summer, but when they were<lb/>
@@ -2622,7 +2624,7 @@
                 </dateline>
                 <p> A fine Morning, set of before sunrise, <del>abou</del><lb/> about 100 Pearches
                     above our Lodgings on <lb/>
-                    <pb n="119" facs="SW_JS1798_Page_121"/> an eminence of perhaps 250 or 300
+                    <pb n="119" facs="SW_JS1798_121"/> an eminence of perhaps 250 or 300
                     feet<lb/> ellevation, we had a view of <placeName key="lakeo">Lake
                         Onterio</placeName><lb/> >at 10 or 12 miles distance, also at 12 or 14<lb/>
                     miles <del>distance</del> on a strait line we had<lb/> a fair view of the fog or
@@ -2649,7 +2651,7 @@
                     leave <placeName key="canad">Canada</placeName>, I feel easy<lb/> to make one
                     general note of the face of the<lb/> Country, Timber &amp;c. As far as I have
                     been <lb/>
-                    <pb n="120" facs="SW_JS1798_Page_122"/> through it, in the general it is a
+                    <pb n="120" facs="SW_JS1798_122"/> through it, in the general it is a
                     level<lb/> Country, while in a state of Woods, much<lb/> of it is Wet, with a
                     black mud on the<lb/> top and a stiff Clay under, which<lb/> Clay prevents the
                     Water from soaking<lb/> down, when cleared in a dry time<lb/> this Clay land
@@ -2664,7 +2666,7 @@
                     a<lb/> Country that has so large a proportion<lb/> of clean, straight, beautiful
                     White lakes<lb/> as a considerable part of this has; there<lb/> are also a
                     Considerable quantity of <lb/>
-                    <pb n="121" facs="SW_JS1798_Page_123"/> White and Black Ash, Poplar, Chesnut,
+                    <pb n="121" facs="SW_JS1798_123"/> White and Black Ash, Poplar, Chesnut,
                     Elm,<lb/> Shellbark Hiccory, Bass Wood or Lyn, Sugar<lb/> Maple, Beech, White
                     Pine &amp;c. When the roads<lb/> are first opened and used they are mostly<lb/>
                     muddy, in places very deep, but after they<lb/> have been used 8 or 10 years and
@@ -2683,7 +2685,7 @@
                     until the ground<lb/> becomes 18, 20, or 24 Inches deep, but seldom<lb/> more,
                     which snow continues without much additi-<lb/> -on until the Middle of the third
                     Month, which <lb/>
-                    <pb n="122" facs="SW_JS1798_Page_124"/> which is their pleasantest time for
+                    <pb n="122" facs="SW_JS1798_124"/> which is their pleasantest time for
                     traveling in<lb/> the whole Year, they do their Carting and<lb/> traveling much
                     with Sleds, the roads be-<lb/> -come smooth and good, there are no swam ps<lb/>
                     or mud in the way, neither is the snow<lb/> often softened with rain in the
@@ -2703,7 +2705,7 @@
                     high, and the <geogName key="niagr">River</geogName><lb/> ran swift, he
                     concluded to lash two boats<lb/> together to keep the one our horse
                         <del>was</del> were <lb/>
-                    <pb n="123" facs="SW_JS1798_Page_125"/> in Studier, which was very acceptable
+                    <pb n="123" facs="SW_JS1798_125"/> in Studier, which was very acceptable
                     to<lb/> us, having found when we Crossed before <del>were going</del><lb/>
                     <del>over,</del> that it was a dangerous ferry, and<lb/> rocking boat; but now
                     on our return<lb/> we went over very steady, tho the Current beat<lb/> us down
@@ -2730,7 +2732,7 @@
                         -faloe</placeName>, we walked down to the <geogName key="niagr"
                         >River</geogName> to recieve<lb/> them, when the <del>Landed</del> came
                     across, they appeared please d <lb/>
-                    <pb n="124" facs="SW_JS1798_Page_126"/> to see us, <persName key="cornp2"
+                    <pb n="124" facs="SW_JS1798_126"/> to see us, <persName key="cornp2"
                         >Cornplanter</persName> enquiring after our<lb/> health since we left him,
                     he gave us<lb/> a letter from our friends dated 5 days<lb/> after we came away,
                     informing they<lb/> were well in health, and enjoyed a<lb/> peaceful Mind, that
@@ -2747,7 +2749,7 @@
                     from diffi-<lb/> -rent parts to do publick business, it<lb/> required time, and
                     he hoped if <persName key="ichap1">Cap-<lb/> -tain Chapin</persName> should not
                     arrive this evening <del>to night</del>, <lb/>
-                    <pb n="125" facs="SW_JS1798_Page_127"/> we would try to make ourselves as
+                    <pb n="125" facs="SW_JS1798_127"/> we would try to make ourselves as
                     hap-<lb/> -py as we could, and stay a few days long<lb/> -er, for he had a great
                     desire we should<lb/> be with them at the Council, and see<lb/> that all things
                     were settled fairly, then we<lb/> would be able to inform our friends at
@@ -2764,7 +2766,7 @@
                         <del>not</del> leave <placeName key="canan">Canandarque</placeName>
                     before<lb/> 2nd day Morning, and that it would be a<lb/> number of days before
                     the Council<lb/> would meet, however we were willing <lb/>
-                    <pb n="126" facs="SW_JS1798_Page_128"/> Closely to consider the subject
+                    <pb n="126" facs="SW_JS1798_128"/> Closely to consider the subject
                         <del>it</del> this Evening</p>
             </div>
             <div type="entry">
@@ -2784,7 +2786,7 @@
                     would be here to day; but perhaps<lb/> as we had been a considerable time
                         <del>fr</del><lb/> from home, and living was expensive,<lb/> we might be
                     much run out of the means <lb/>
-                    <pb n="127" facs="SW_JS1798_Page_129"/> that enabled us to stay, which made<lb/>
+                    <pb n="127" facs="SW_JS1798_129"/> that enabled us to stay, which made<lb/>
                     us so anxious to return. I informed<lb/> him, when I left home, I expected to
                     have<lb/> returned in about 40 days, that it was now<lb/> near 50 days, and if
                     we went by <placeName key="oneid">Oneida</placeName><lb/> to see the Indians
@@ -2800,7 +2802,7 @@
                     among<lb/> them, that we would have been will-<lb/> -ing to have set with them
                     in Coun-<lb/> -cil, tho did not know we could be of<lb/> any <del>use</del>
                     service to them, and that the <lb/>
-                    <pb n="128" facs="SW_JS1798_Page_130"/> business between him and <persName
+                    <pb n="128" facs="SW_JS1798_130"/> business between him and <persName
                         key="ichap1">Captain Cha-<lb/> -pin</persName> relating to a Mill, we
                     thought<lb/> when he and the Captain conferred to<lb/> -gather on the Subject,
                     we might be ful-<lb/> -ly informed of their result by letter.<lb/> he then
@@ -2816,7 +2818,7 @@
                     for he would take<lb/> the necessary care of them, and that they<lb/>
                     <del>and that</del> would be entirely safe.</p>
 
-                <pb n="129" facs="SW_JS1798_Page_131"/>
+                <pb n="129" facs="SW_JS1798_131"/>
 
                 <p> We now took An affectionate farewell of<lb/> the Chief, and the Indians present,
                     who<lb/> parted with us with much respect; and<lb/> I can truly say, the longer
@@ -2834,7 +2836,7 @@
                     Cattle might<lb/> have fattened upon it, if it was not for a<lb/> certain
                     species of large flies, and Musche-<lb/> -toes, we stoped twice to let our
                     horses eat <lb/>
-                    <pb n="130" facs="SW_JS1798_Page_132"/> grass, but they were so Worried with
+                    <pb n="130" facs="SW_JS1798_132"/> grass, but they were so Worried with
                     these<lb/> Animals, that the did little but run about<lb/> until we got bushes
                     and kept them of.<lb/> If we stoped our horses one Minute in<lb/> some places in
                     the Woods, the Musche-<lb/> -toes would be on them in such swarms<lb/> as almost
@@ -2848,7 +2850,7 @@
                     good Water, under the Boughs of an<lb/> Oak, and erected fires, in
                     diffirent<lb/> places around us in order to smoke<lb/> them of, but with all our
                     defence we<lb/> were worried the whole night throug[h] <lb/>
-                    <pb n="131" facs="SW_JS1798_Page_133"/> So that we slept but little, our
+                    <pb n="131" facs="SW_JS1798_133"/> So that we slept but little, our
                     horses,<lb/> as may readily be supposed, fared no<lb/> better, they would away
                     out to eating,<lb/> and then in a little time return trot-<lb/> -ting back to
                     the fire, and it was with with<lb/> much difficulty we got them sad-<lb/> -dled
@@ -2870,7 +2872,7 @@
                     Timothy &amp;<lb/> Clover, the seed having droped from horses<lb/> as the
                     traveled along, I lodged at Pearsons<lb/> 4½ Miles on this side the River,
                     having left <lb/>
-                    <pb n="132" facs="SW_JS1798_Page_134"/> my Companion a few miles behind on<lb/>
+                    <pb n="132" facs="SW_JS1798_134"/> my Companion a few miles behind on<lb/>
                     special business. 35 miles.</p>
                 <p> The Richness of the Soil between <placeName key="buffa">Buf-<lb/>
                         -foloe</placeName> and the <geogName key="genes2">Chenesee River</geogName>
@@ -2891,7 +2893,7 @@
                         key="ichap1">Captain<lb/> Chapin</persName>, who is the superintendant
                     of<lb/> the Indians for the united States, <persName key="jpier1"
                         >John</persName><lb/> gave him a full information <del>with</del> of what <lb/>
-                    <pb n="133" facs="SW_JS1798_Page_0135"/> we had been doing at <placeName
+                    <pb n="133" facs="SW_JS1798_0135"/> we had been doing at <placeName
                         key="cornp">Cornplanters set-<lb/> -tlement</placeName>, and an account of
                     the Young<lb/> Men we had left there, the <persName key="ichap1"
                         >Captain</persName> ex-<lb/> pressed great satisfaction with our pro-<lb/>
@@ -2912,7 +2914,7 @@
                         <del>that</del><lb/> that Shirts &amp;c. were made of, with which he<lb/>
                     appeared pleased, we saw four Men howing corn<lb/> these we pointed to, telling
                     him they were not <lb/>
-                    <pb n="134" facs="SW_JS1798_Page_136"/> Squas, or Women, and that was the
+                    <pb n="134" facs="SW_JS1798_136"/> Squas, or Women, and that was the
                     way<lb/> the White People did their Work, he<lb/> knew our meaning, which he
                     expressed<lb/> by a lively smile. We now parted with<lb/> him, having traveled
                     together 170 miles<lb/> he going on for <placeName key="canan"
@@ -2932,7 +2934,7 @@
                     who has a Mill<lb/> and Sawmill on Said <geogName key="mudcr">Creek</geogName>
                     on a fine<lb/> natural fall. <gap/> 20 miles to day.</p>
 
-                <pb n="135" facs="SW_JS1798_Page_137"/>
+                <pb n="135" facs="SW_JS1798_137"/>
             </div>
             <div type="entry">
                 <dateline><date when="1798-06-19">19th</date>. </dateline>
@@ -2961,7 +2963,7 @@
                     amongst them, I felt great satisfaction<lb/> in being once more amongst them,
                     and the<lb/> company of a Friend to those Remotely situated<lb/> is very Joyous
                     more specially when such love<lb/> the Truth and are concerned to support the <lb/>
-                    <pb n="136" facs="SW_JS1798_Page_138"/> profession they are makeing, which
+                    <pb n="136" facs="SW_JS1798_138"/> profession they are makeing, which
                     I<lb/> trust is in a good degree the situation<lb/> of a few friends here, they
                     having been<lb/> strengthd since we were here last fall<lb/> to hold Meetings
                     twice a Week; often <del>m</del><lb/> more than 30 meeting on the fist day,
@@ -2986,7 +2988,7 @@
                     <del>large stream, which</del>
                     <del>stream</del> we Crossed the <geogName key="flint">Creek</geogName><lb/> on
                     a bridge, thence 3 miles to one<lb/> Woodhulls a privet house, tho some <lb/>
-                    <pb n="137" facs="SW_JS1798_Page_139"/> times takes in tavelers, he had a<lb/>
+                    <pb n="137" facs="SW_JS1798_139"/> times takes in tavelers, he had a<lb/>
                     large quantify of meadow, of the best<lb/> of Grass and stoutly grown, tho our
                     horses<lb/> fare was poor, the house stands near<lb/>
                     <del>the</del> said Outlet of the <geogName key="canla">Lake</geogName>,
@@ -3012,7 +3014,7 @@
                     themselves around their Tables<lb/> richly loaded with provision. --- Here
                     we<lb/> arrived at the outlet of <geogName key="senec">Seneca Lake</geogName>, a
                     stream <lb/>
-                    <pb n="138" facs="SW_JS1798_Page_140"/> perhaps <del>at</del> as large as three
+                    <pb n="138" facs="SW_JS1798_140"/> perhaps <del>at</del> as large as three
                     of <geogName key="brand">Brandywine</geogName>, when<lb/> we first came on the
                     River it looked very deep<lb/> and glided along with an easy current,<lb/> but
                     in a little time we came to a rapid a<lb/> Mile in length, on which are
@@ -3031,7 +3033,7 @@
                     <del>-dually,</del> -- thence to <geogName key="cayug">Cyuga Lake</geogName>
                     three<lb/> miles, here we fed our horses and cooked<lb/> our own Breakfast, we
                     then crossed sd. La[ke] <lb/>
-                    <pb n="139" facs="SW_JS1798_Page_141"/> in a Boat, a little above its outlet, it
+                    <pb n="139" facs="SW_JS1798_141"/> in a Boat, a little above its outlet, it
                     be-<lb/> -ing one mile <del>across</del> wide, and 13 or 14 feet deep<lb/> we
                     were informed the <geogName key="cayug">Lake</geogName> was 45 miles<lb/> long,
                     and in places four Miles Wide, we now<lb/> entred a pretty thick settled
@@ -3055,7 +3057,7 @@
                     land I have seen since we left home. We<lb/> got a five O Clock dinner at
                         <persName>Carpenters</persName>
                     <lb/>
-                    <pb n="140" facs="SW_JS1798_Page_142"/> and then rode 6 miles to
+                    <pb n="140" facs="SW_JS1798_142"/> and then rode 6 miles to
                         <persName>Lindseys</persName> on <placeName key="9mile">9<lb/> Mile
                         Creek</placeName> a pretty large stream, being<lb/> the outlet of the
                         <geogName key="skane">Shaneatetes lake</geogName>, our<lb/> last stage
@@ -3080,7 +3082,7 @@
                 <p> Went 13 miles to breakfast the first<lb/> 7 good limestone land, unsettled,
                     being<lb/> lately purchased of the <orgName key="onondaga">Onadaga
                         Indians</orgName>, <lb/>
-                    <pb n="141" facs="SW_JS1798_Page_143"/> thence a few settlements: to <geogName
+                    <pb n="141" facs="SW_JS1798_143"/> thence a few settlements: to <geogName
                         key="onocr">Onadaga Creek</geogName>,<lb/> 3 miles in an uncommon Valley
                     surround-<lb/> -ed with high hills, in said Valley a num-<lb/> -ber of good
                     improvements,</p>
@@ -3099,7 +3101,7 @@
                     colour to the Eye, beautiful to appearance,<lb/> it lay still in the road,
                     neither offered to<lb/> fight, or run. ---- In the coarse of this<lb/> days
                     ride, we passed within a few miles to <lb/>
-                    <pb n="142" facs="SW_JS1798_Page_144"/> the right of the <placeName key="onoss"
+                    <pb n="142" facs="SW_JS1798_144"/> the right of the <placeName key="onoss"
                         >Onadaga Salt Works</placeName><lb/> a place where there are a large
                     number<lb/> of Salt Springs, in a Marshy, Boggy<lb/> bottom, we were informed
                     500 men are at<lb/> times employed at these works, and that<lb/> Salt may be had
@@ -3117,7 +3119,7 @@
                     rough, and very open,<lb/> about 6 in the Evening, we arrived at our<lb/>
                     friends settlement, found them all well, &amp;<lb/> very glad to see us.
                         <persName key="wgreg1">William Gregory</persName>, his <lb/>
-                    <pb n="143" facs="SW_JS1798_Page_145"/> Wife and <persName key="hjack2">Hannah
+                    <pb n="143" facs="SW_JS1798_145"/> Wife and <persName key="hjack2">Hannah
                         Jackson</persName>, having got here<lb/> about three weeks ago, after a
                     passage of 15 days.</p>
                 <p>
@@ -3146,7 +3148,7 @@
                         <geogName key="onecr">Creek</geogName>, on which the<lb/>
                     <orgName key="tuscarora">Tuscororas</orgName> are Scatteringly settled, most
                     of<lb/> them having some enclosures of wheat, <lb/>
-                    <pb n="144" facs="SW_JS1798_Page_146"/> Corn, Mowing ground &amp;c. with a
+                    <pb n="144" facs="SW_JS1798_146"/> Corn, Mowing ground &amp;c. with a
                     con-<lb/> -siderable number of Cattle, and some hor-<lb/> -ses, Sheep, and
                     Swine, which made a<lb/> pretty Clever appearance: but on arriv-<lb/> -ing at
                     the Stockbridge Settlement, the<lb/> prospect of their improvement was<lb/> more
@@ -3161,7 +3163,7 @@
                     houses, and others are pre-<lb/> paring for it. The have pretty good<lb/>
                     Gardens near their doors, and consi-<lb/> -derable Stock, of horses, and Oxen,
                     Cows, and<lb/> Swine, with some Sheep. On the East <lb/>
-                    <pb n="145" facs="SW_JS1798_Page_147"/> near enough to supply themselves
+                    <pb n="145" facs="SW_JS1798_147"/> near enough to supply themselves
                     with<lb/> water runs the <geogName key="onecr">Oneida Creek</geogName>, and on
                     the<lb/> West in the Same Valley a small stream,<lb/>
                     <del>that</del> so that they are well supplyed with<lb/> Water, and towards the
@@ -3178,7 +3180,7 @@
                     between Cornplan-<lb/> -ters people, and this nation; as betwee n<lb/> these
                     People, and the better livers amon g<lb/> the White People. We had a
                     favoured<lb/> oppertunity with a number of the most <lb/>
-                    <pb n="146" facs="SW_JS1798_Page_148"/> respectable Characters of both
+                    <pb n="146" facs="SW_JS1798_148"/> respectable Characters of both
                     their<lb/> Men and Women, at the close of which,<lb/> a Chief on the behalf of
                     the Men pre-<lb/> -sent made a pretty lengthy Speech, in<lb/> Substance;
                     expressing their thankful-<lb/> -ness to the good Spirit who had put<lb/> it
@@ -3192,7 +3194,7 @@
                     wished <del>that</del> the good Spirit would safely pre-<lb/> -serve us on our
                     way home to our fa-<lb/> milies and friends. Then after a short<lb/> pause, a
                     Woman on behalf of the Wo- <lb/>
-                    <pb n="147" facs="SW_JS1798_Page_149"/> men present delivered a speach much<lb/>
+                    <pb n="147" facs="SW_JS1798_149"/> men present delivered a speach much<lb/>
                     to the foregoing import, tho we thought it<lb/> more weighty, and nervious, we
                     then re-<lb/> -turn’d to <persName key="haupa1">Captain Hendricks’s</persName>
                     where<lb/> we lodged, in a good Clean bed.</p>
@@ -3218,7 +3220,7 @@
                     great a difference, it be-<lb/> -ing such a share of what was raised. There<lb/>
                     were also some proposials concerning one<lb/> or two of their Young Men coming
                     to learn <lb/>
-                    <pb n="148" facs="SW_JS1798_Page_150"/> the Smith trade, all which they
+                    <pb n="148" facs="SW_JS1798_150"/> the Smith trade, all which they
                     said<lb/> they would take under consideration and<lb/> let us know tomorrow,
                     then they were clos[e]<lb/> -ly expostulated with, concerning some Jea-<lb/>
                     -louses they had entertained, occationed by<lb/> some whisperings of evel Minded
@@ -3233,7 +3235,7 @@
                     surmisings without they had, had<lb/> some ground for it <del>them</del>, they
                     acknow-<lb/> -ledged they had found us to be true Men,<lb/> that we Spoke the
                     same words to them<lb/> now, we Spoke <del>two</del> too them two years ago <lb/>
-                    <pb n="149" facs="SW_JS1798_Page_151"/> and that they would Shut their Ears to
+                    <pb n="149" facs="SW_JS1798_151"/> and that they would Shut their Ears to
                     all<lb/> such Whisperings in future. Then said, they<lb/> had been trying to
                     improve in farming, and<lb/> if they did not come forward as fast, and as<lb/>
                     well as <del>we desired</del> the Quakers desired,<lb/> they must not get
@@ -3251,7 +3253,7 @@
                     have their mea-<lb/> -dow lots without, but this mode of farm-<lb/> -ing, it
                     looks likely they will have to change<lb/> before long, for the have sold their
                     Lands, <lb/>
-                    <pb n="150" facs="SW_JS1798_Page_152"/> particularly where the State road
+                    <pb n="150" facs="SW_JS1798_152"/> particularly where the State road
                     goe[s]<lb/> within 2 or 3 miles of this place, and the<lb/> White People are
                     settleing on it fast,<lb/>
                     <del>and</del> they haveing put up several Houses both to the East, and
@@ -3274,7 +3276,7 @@
                     friends built them<lb/> and in the evening we had a Council<lb/> with the
                         <orgName key="oneida">Oneida’s</orgName>, in order for them<lb/> to give us
                     an Answer to the proposals<lb/> we made them Yesterday, they informed <lb/>
-                    <pb n="151" facs="SW_JS1798_Page_153"/> us they had found one lad or Young Man,
+                    <pb n="151" facs="SW_JS1798_153"/> us they had found one lad or Young Man,
                     willing<lb/> to come and join in, on the farm, and one<lb/> to learn the smith
                     trade, and the Chiefs<lb/> engaged to use their endeavours to get<lb/> more,
                     they also agreed immeadiately to<lb/> Cover a shop, and burn some Coals,
@@ -3292,7 +3294,7 @@
                     have the best accomodations, but down<lb/> the Waters of the <geogName
                         key="susqu">Susquehanna</geogName>, near 100<lb/> miles neigher.</p>
 
-                <pb n="152" facs="SW_JS1798_Page_154"/>
+                <pb n="152" facs="SW_JS1798_154"/>
             </div>
             <div type="entry">
                 <dateline><date when="1798-06-27">27th</date><placeName key="oneid"/>
@@ -3317,7 +3319,7 @@
                         >Hartford</placeName>, and the build-<lb/> -ings good. here we crossed the
                         <geogName key="mohaw">River</geogName>,<lb/> which I thought was not much
                     larger than <lb/>
-                    <pb n="153" facs="SW_JS1798_Page_155"/>
+                    <pb n="153" facs="SW_JS1798_155"/>
                     <geogName key="brand">Brandywine</geogName>, we then went down the<lb/> North
                     side of said <geogName key="mohaw">River</geogName> through a Rich Coun-<lb/>
                     -try thick settled to Bratons 3 miles <del>where we</del><lb/>
@@ -3340,7 +3342,7 @@
                     corn,<lb/> Flax, and Oates fared but little better, Peas<lb/> in the Gardens and
                     fields, Acres being<lb/> Sown here, were entirely <del>cut off,</del>
                     destroy<lb/> -ed, large fields of Timothy were so bro- <lb/>
-                    <pb n="154" facs="SW_JS1798_Page_156"/> broken down that they smelled like<lb/>
+                    <pb n="154" facs="SW_JS1798_156"/> broken down that they smelled like<lb/>
                     fresh hay, there being many Pokebushes<lb/> along the Road, <del>they</del>
                     which were knocked all<lb/> to pices, the stalks which were as thick<lb/> as
                     rake handles were broke, in short<lb/> all vegetation where the storm
@@ -3363,7 +3365,7 @@
                     flowed along with a gentle Current, appeard<lb/> pretty deep, tho not much wider
                     than <geogName key="brand">Bar[n]</geogName>
                     <lb/>
-                    <pb n="155" facs="SW_JS1798_Page_157"/>
+                    <pb n="155" facs="SW_JS1798_157"/>
                     <geogName key="brand">dywine</geogName>, this was through what is called the<lb/>
                     <placeName key="gefla">German flatts</placeName>. We passed through the
                     County<lb/> Town of <placeName key="herki">Hackamack</placeName>, and so over
@@ -3385,7 +3387,7 @@
                     various<lb/> sorts of grain; thicksettled near the <geogName key="mohaw"
                         >River</geogName><lb/> with many good Buildings, more particu-<lb/> -larly
                     on the south side. the latter part <lb/>
-                    <pb n="156" facs="SW_JS1798_Page_158"/> >part of this stage the Mountains, or
+                    <pb n="156" facs="SW_JS1798_158"/> >part of this stage the Mountains, or
                     high roc[ky]<lb/> Hills crouded near to the <geogName key="mohaw"
                         >River</geogName>, so that<lb/> inplaces there was scarcely room for a<lb/>
                     Road. Lodged at Connolly’s 17m <gap/> 41 miles </p>
@@ -3408,7 +3410,7 @@
                     comes close<lb/> up to the road side, which causes a delight-<lb/> -ful
                     appearance where Croops are good. fro[m]<lb/> thence to Degraph’s 17½ miles this
                     stage; the <lb/>
-                    <pb n="157" facs="SW_JS1798_Page_159"/> Land mostly stony, some of it very
+                    <pb n="157" facs="SW_JS1798_159"/> Land mostly stony, some of it very
                     rough,<lb/> and but little bottom land on the river, the<lb/> Buildings mean,
                     and Farming poor. ----</p>
                 <p> I have often admired since we came on<lb/> this <geogName key="mohaw"
@@ -3426,7 +3428,7 @@
                         >River</geogName><lb/> so that when the Ashes were thrown out of the<lb/>
                     Tubs they went into the <del>River</del> Water, and were drive[n]<lb/> of with
                     freshes <lb/>
-                    <pb n="158" facs="SW_JS1798_Page_160"/> thence to <placeName key="schen"
+                    <pb n="158" facs="SW_JS1798_160"/> thence to <placeName key="schen"
                         >Shenectady</placeName> 13½ miles, the<lb/> land thin and stony, with but
                     little<lb/> bottom land on the River. We had the<lb/> water often in view, and
                     tho we have<lb/> seen but few streams of Consequence<lb/>
@@ -3445,7 +3447,7 @@
                     understanding there were plenty of<lb/> Taverns on towards <placeName
                         key="alban">Albany</placeName>, we pro-<lb/> -ceeded forwardward, but we
                     found the<lb/> country was to poor to <del>to</del> produce good <lb/>
-                    <pb n="159" facs="SW_JS1798_Page_161"/> grass, for it was a perfect sand bed,
+                    <pb n="159" facs="SW_JS1798_161"/> grass, for it was a perfect sand bed,
                     ex-<lb/> -cept some swamps, nearly all the way to<lb/>
                     <placeName key="alban">Albany</placeName>, and thinly timbered with Pitch<lb/>
                     Pine, and as thinly Inhabitted, being<lb/> but 10 or 12 houses for 15 miles. and
@@ -3469,7 +3471,7 @@
                         key="alban">Town</placeName>, riding<lb/> in at the West side, and out at
                     the<lb/> South end; Shortly after we left the<lb/> City we passed by two
                     beautiful country<lb/> seats on Commanding Eminances to our <lb/>
-                    <pb n="160" facs="SW_JS1798_Page_162"/> Right, the fruit trees around them, the
+                    <pb n="160" facs="SW_JS1798_162"/> Right, the fruit trees around them, the
                     de-<lb/> -scending green meadows before their doors<lb/> and the <geogName
                         key="nrive">River</geogName> which was in full view, rend-<lb/> -red
                         <del>them desirable</del> their situation very en-<lb/> -chanting. We now
@@ -3491,7 +3493,7 @@
                     Tavern where we lodged 12½<lb/> miles. In about two miles we crossed the<lb/>
                     <geogName key="kaate">Katters-kill</geogName> on a high Bridge, Just below<lb/>
                     which there was a remarkable fall of <lb/>
-                    <pb n="161" facs="SW_JS1798_Page_163"/> 30 or more feet over a huge pile of
+                    <pb n="161" facs="SW_JS1798_163"/> 30 or more feet over a huge pile of
                     Rocks,<lb/> which damed the Water for miles back, &amp;<lb/> formed a very fine
                     Millseat, on which were<lb/> erected a Merchant, and Sawmill; from thence<lb/>
                     to this place the Land continued very much<lb/> broken with high Limestone
@@ -3513,7 +3515,7 @@
                     Early this morning we passed<lb/> through two considerable red Cedar
                     groves,<lb/> on Rocky, poor Land; then through pret-<lb/> -ty good land, and
                     thick settled, tho very much <lb/>
-                    <pb n="162" facs="SW_JS1798_Page_164"/> broken with limestone Ridges, in 10<lb/>
+                    <pb n="162" facs="SW_JS1798_164"/> broken with limestone Ridges, in 10<lb/>
                     miles we Crossed <geogName key="esocr">Esopus Creek</geogName> a<lb/> Smart
                     stream larger than <geogName key="brand">Brandywine</geogName><lb/> fine bottoms
                     up the <geogName key="esocr">Creek</geogName> to the <placeName key="esopu"
@@ -3531,7 +3533,7 @@
                     told me that by putting<lb/> an eighteen Inch board, on the top<lb/> of about 18
                     Inches already raised, on<lb/> the ridge of Rocks, he could pen wa-<lb/> -ter
                     enough, if it met with no supply, <lb/>
-                    <pb n="163" facs="SW_JS1798_Page_165"/> to keep the Mill a going for three days,
+                    <pb n="163" facs="SW_JS1798_165"/> to keep the Mill a going for three days,
                         <del>there</del><lb/>
                     <del>being such a large, swampy, low piece of</del><lb/>
                     <del>ground above this natural dam.</del> Thence<lb/> through a Rough Country,
@@ -3552,7 +3554,7 @@
                     Rocks that runs across <del>it</del><lb/> it 5 or 6 miles below, over which the
                     Water<lb/> falls 20 or more feet. From what I have seen<lb/> as well as heard,
                     falls of this kind are very <lb/>
-                    <pb n="164" facs="SW_JS1798_Page_166"/> common on most of the Water in this
+                    <pb n="164" facs="SW_JS1798_166"/> common on most of the Water in this
                     part<lb/> of the Country. --- As we advanced South-<lb/> -ward, the Land
                     improved in quality, and<lb/> the Wonderful Ridges of Rocks, that were<lb/> so
                     very common further back, grew fewer,<lb/> yet stones rather Increased; tho most
@@ -3573,7 +3575,7 @@
                     at<lb/> the <placeName key="9part">Nine partners</placeName>, but since we left
                         <placeName key="oneid">Onei-<lb/> -da</placeName>, our draft homewards was
                     such, that we <lb/>
-                    <pb n="165" facs="SW_JS1798_Page_167"/> put it by. But on our arrival here,
+                    <pb n="165" facs="SW_JS1798_167"/> put it by. But on our arrival here,
                     un-<lb/> -derstanding we <del>are</del> were within 28 miles of <del>it</del> sd.<lb/>
                     <placeName key="9part">School</placeName>, and <persName key="sbald1">Samuel
                         Baldwin</persName> kindly offer-<lb/> -ing to let us have fresh horses to go
@@ -3600,7 +3602,7 @@
                         <persName key="ehall1"><persName key="ehall2">Edward
                         Hallocks</persName></persName>, but the day prov-<lb/> -ing very Warm, and
                     our horses young, not<lb/> suitable for traveling such weather, we thought <lb/>
-                    <pb n="166" facs="SW_JS1798_Page_168"/> it would be best not to proceed
+                    <pb n="166" facs="SW_JS1798_168"/> it would be best not to proceed
                     further,<lb/> therefore in the Evening returned to<lb/>
                     <persName key="sbald1">Samuels</persName>. <gap/> 18 miles</p>
             </div>
@@ -3628,7 +3630,7 @@
                     <placeName key="goshe">Goshen</placeName>, the County Town of <placeName
                         key="orang">Orange County</placeName>. </p>
 
-                <pb n="167" facs="SW_JS1798_Page_169"/>
+                <pb n="167" facs="SW_JS1798_169"/>
 
                 <p> Off a commanding eminence, a few miles<lb/> before we got to this <placeName
                         key="goshe">Village</placeName>, we had an<lb/> extensive Prospect, to the
@@ -3646,7 +3648,7 @@
                     drink<lb/> at has been very scarce these two last stages.</p>
                 <p> Thence 12 miles to Doctor Cooes, where<lb/> we Lodged, over a hilly, Stony
                     Country,<lb/> a great abundance of Limestone the <lb/>
-                    <pb n="168" facs="SW_JS1798_Page_170"/> latter part of this stage. Rye the
+                    <pb n="168" facs="SW_JS1798_170"/> latter part of this stage. Rye the
                     most<lb/> common Winter grain. We are now<lb/> in the Jerseys 3 or 4 miles South
                     of the<lb/> New York line, having travelled in <del>sd</del><lb/> York State
                     upwards of 500 miles</p>
@@ -3666,7 +3668,7 @@
                     <del>are</del> to be seen, but light crops of rye<lb/> are more
                         <del>commonly</del> frequend. A Dutch<lb/> Plough with one handle which
                     stands near-<lb/> -ly upright, with a very short beam an[d] <lb/>
-                    <pb n="169" facs="SW_JS1798_Page_171"/> pan Share, is almost the only plough
+                    <pb n="169" facs="SW_JS1798_171"/> pan Share, is almost the only plough
                         <del>such</del>, that<lb/> is used for 200 miles back; they appear to<lb/>
                     work easy both for the horses, and plough<lb/> -man, and does their business
                     pretty neat.</p>
@@ -3691,7 +3693,7 @@
                     kindly<lb/> and good a limestone as for 10 or 15 miles back<lb/> Ten thousands
                     of loads may be collected with-<lb/> -out Quarying, or being under the
                     necessitity <lb/>
-                    <pb n="170" facs="SW_JS1798_Page_172"/> of breaking the stones <gap/> 34
+                    <pb n="170" facs="SW_JS1798_172"/> of breaking the stones <gap/> 34
                     miles</p>
             </div>
             <div type="entry">
@@ -3721,7 +3723,7 @@
 
                 
             </div>
-            <div type="entry"><pb n="171" facs="SW_JS1798_Page_173"/>
+            <div type="entry"><pb n="171" facs="SW_JS1798_173"/>
                 <dateline><date when="1798-07-07">7th</date>. <placeName key="buckm"/></dateline>
 
                 <p> Set of early this Morning, in about<lb/> 6 miles, off a bold commanding
@@ -3744,7 +3746,7 @@
                     People all busy a harvesting; Cradleing the<lb/> manner of cutting grain <gap/>
                     42 miles</p>
 
-                <pb n="172" facs="SW_JS1798_Page_174"/>
+                <pb n="172" facs="SW_JS1798_174"/>
             </div>
             <div type="entry">
                 <dateline><date when="1798-07-08">8th</date><placeName key="willm"/></dateline>
@@ -3769,7 +3771,7 @@
             </div>
 
            
-            <div type="postscript"> <pb n="173" facs="SW_JS1798_Page_175"/>
+            <div type="postscript"> <pb n="173" facs="SW_JS1798_175"/>
                 <p><handShift medium="typescript"/>CHIEF OF THE <orgName key="seneca"
                         >SENECAS</orgName><lb/>
                     <persName key="cornp2">CORNPLANTER</persName>. Kiontwogky or<lb/> Cornplanter.
@@ -3781,7 +3783,7 @@
                     Fort Harmer, 5 years<lb/> afterwards, he took the lead in<lb/> conveying an
                     immense tract of<lb/> country to the American govern-<lb/> ment, and became so
                     unpopular<lb/> that his life was threatened by<lb/> his tribe.</p>
-                <pb n="174" facs="SW_JS1798_Page_176"/>
+                <pb n="174" facs="SW_JS1798_176"/>
 
 
             </div>
