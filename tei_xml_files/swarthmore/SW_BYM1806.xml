@@ -111,8 +111,14 @@
     </teiHeader>
     <text>
         <front>
+            
+            <div type="undetermined">
+                <pb n="1" facs="SW_BYM1806_001"/> 
+                <pb n="2" facs="SW_BYM1806_002"/> 
+            </div>
+            
             <div type="preface">
-                 <pb n="3" facs="SW_BYM1806_Page_003"/>
+                 <pb n="3" facs="SW_BYM1806_003"/>
                 <head>ADVERTISEMENT.</head>
                 <p>Since putting to press a London Edition of<lb/>"A brief Account of the
                     Proceedings of the<lb/>"Committee appointed in the Year <date when="1795"
@@ -137,7 +143,7 @@
                         key="lakes">Superior</geogName>, <geogName key="lakeh">Huron</geogName>,
                         and<lb/><geogName key="lakee">Erie</geogName>. <geogName key="lakem">Lake
                         Michigan</geogName> penetrates this district,<lb/>and may be said to be
-                    wholly within it. It has<lb/><pb n="4" facs="SW_BYM1806_Page_004"/>been called the North-Western
+                    wholly within it. It has<lb/><pb n="4" facs="SW_BYM1806_004"/>been called the North-Western
                     Territory; and<lb/>was not long ago the scene of an Indian war; but<lb/>peace
                     was established by a treaty at <placeName key="greenv"
                     >Greeneville</placeName><lb/>in <date when="1795">1795</date>; when a part of
@@ -159,7 +165,7 @@
                     plan. The concluding paragraph<lb/>of this account confirms the apology; but
                     fu-<lb/>pressed the necessity of repeating it.</p>
                 <p>Probably, a slight geographical description,<lb/>may render the narrative more
-                    interesting to<lb/>some readers; and though maps are not always<lb/><pb n="5" facs="SW_BYM1806_Page_005"/>
+                    interesting to<lb/>some readers; and though maps are not always<lb/><pb n="5" facs="SW_BYM1806_005"/>
                     />to be depended on, especially with respect to a<lb/>country so uncivilized,
                     the following sketch,<lb/>taken from maps, may convey no bad notion of<lb/>the
                     locality of the committee’s labours.</p>
@@ -187,7 +193,7 @@
                     near<lb/>which the agricultural examples have been felt,<lb/>as related in the
                     account. The Ohio receives<lb/>the waters the <geogName key="wabas"
                         >Wabash</geogName>, not far from the 88th<lb/>degree of W. longitude.</p>
-                <pb n="6" facs="SW_BYM1806_Page_006"/>
+                <pb n="6" facs="SW_BYM1806_006"/>
                 <p>The <geogName key="eelr">Eel-River</geogName> appears to be one of the
                     streams<lb/>which run into the <geogName key="wabas">Wabash</geogName>. It seems
                     to rise<lb/>in the neighbourhood of <placeName key="fwayn"
@@ -211,7 +217,7 @@
                     large, and inexhaustible field<lb/>of Christian benevolence: for no less is
                     every<lb/>extension of brotherly kindness to our fellow-<lb/>men, which springs
                     from Christian principles.</p>
-                <pb n="7" facs="SW_BYM1806_Page_007"/>
+                <pb n="7" facs="SW_BYM1806_007"/>
                 <p>THE Editor regrets that, in the letter<lb/>from the American General, printed at
                     the close<lb/>of the Account from <placeName key="penns"
                         >Pennsylvania</placeName>, a few lines<lb/>were suffered to remain, which
@@ -223,7 +229,7 @@
                     oversight, that in a work<lb/>intended to show the successful diligence of
                     one<lb/>set of men, there should have slipped in a need-<lb/>less censure of
                     another.</p>
-                <pb n="8" facs="SW_BYM1806_Page_008"/>
+                <pb n="8" facs="SW_BYM1806_008"/>
                 <p>Extract from the Minutes of the <orgName key="bym">Yearly Meeting<lb/>held in
                         Baltimore</orgName>, <date when="1805-10">10th Mo. 1805</date>.</p>
                 <p>A Report from our <orgName key="bymindian">Committee on
@@ -244,7 +250,7 @@
 
 
             <div type="narrative">
-                <pb n="9" facs="SW_BYM1806_Page_009"/>
+                <pb n="9" facs="SW_BYM1806_009"/>
                 <head>A BRIEF ACCOUNT<lb/>OF THE<lb/>PROCEEDINGS OF THE <orgName key="bymindian"
                         >COMMITTEE</orgName><lb/>APPOINTED BY THE<lb/><orgName key="bym">YEARLY
                         MEEITNG OF FRIENDS<lb/>HELD IN BALTIMORE</orgName>,<lb/>For Promoting the
@@ -256,7 +262,7 @@
                     and<lb/>many observations were made, relative to the<lb/>kindness of their
                     ancestors to ours in the early<lb/>settlement of this country; exciting a deep
                     con-<lb/>sideration and enquiry, whether, under the in-<lb/>fluence of that
-                    exalted benevolence and good<lb/><pb n="10" facs="SW_BYM1806_Page_010"/>will to men, which our holy
+                    exalted benevolence and good<lb/><pb n="10" facs="SW_BYM1806_010"/>will to men, which our holy
                     profession incul-<lb/>cates, there was not something for us, as a<lb/>Society,
                     to do for them; towards their promoting their<lb/>religious instruction, and
                     knowledge of agricul-<lb/>ture, and useful mechanic arts.</p>
@@ -278,7 +284,7 @@
                     approbation of Govern-<lb/>ment, proceeded in the summer of <date when="1796"
                         >1796</date>, as far<lb/>as the forks of the <geogName key="muski">Muskingum
                         river</geogName>, at which<lb/>place, they had been informed that a
-                    consider-<lb/>able number of Indians were collected; but<lb/><pb n="11" facs="SW_BYM1806_Page_011"/>upon
+                    consider-<lb/>able number of Indians were collected; but<lb/><pb n="11" facs="SW_BYM1806_011"/>upon
                     their arrival there, they found that all the<lb/>chiefs, and most of the
                     hunters, had dispersed.<lb/>And, it not appearing practicable to
                     convene<lb/>them in a suitable manner for a conference at<lb/>that time, they
@@ -298,7 +304,7 @@
                     their<lb/>hunting camps, and several of their towns, they<lb/>had large
                     opportunity of discovering their situ-<lb/>ation. Often exposed to the
                     inclemency of the<lb/>seasons, with a very precarious, and often a<lb/>very
-                    scanty supply of food and clothing, they<lb/><pb n="12" facs="SW_BYM1806_Page_012"/>suffered all the
+                    scanty supply of food and clothing, they<lb/><pb n="12" facs="SW_BYM1806_012"/>suffered all the
                     miseries of extreme poverty; in a<lb/>country, which, from its great fertility,
                     would,<lb/>with but little cultivation, abundantly supply<lb/>them with all the
                     necessaries of life.</p>
@@ -319,7 +325,7 @@
                 <p>In the <date when="1799-02">Second Month, 1799</date>, the <orgName
                         key="bymindian">committee</orgName><lb/>received a speech, and a belt of the
                     Wampum, from<lb/><persName key="tarh1">Tarhie</persName>, the principal chief of
-                    the <orgName key="wyandot">Wyandot</orgName> nation,<lb/><pb n="13" facs="SW_BYM1806_Page_013"/>delivered
+                    the <orgName key="wyandot">Wyandot</orgName> nation,<lb/><pb n="13" facs="SW_BYM1806_013"/>delivered
                     at <placeName key="detro">Detroit</placeName>, in the <date when="1798-09">Ninth
                         Month</date> pre-<lb/>ceding; of which the following is an extract:</p>
                 <floatingText type="speech">
@@ -338,7 +344,7 @@
                             without distinction of co-<lb/>lour; therefore we love you the more
                             sincerely,<lb/>because of the goodness of your hearts, which<lb/>has
                             been talked of amongst our nations, long<lb/>since.</p>
-                        <p>Brethren, listen:<lb/>You have informed us, that you intend to<lb/><pb n="14" facs="SW_BYM1806_Page_014"/>
+                        <p>Brethren, listen:<lb/>You have informed us, that you intend to<lb/><pb n="14" facs="SW_BYM1806_014"/>
                             visit us; yes, that, even in our tents and cabins,<lb/>you
                             will take us by the hand. You, brethren,<lb/>cannot admit a doubt that
                             we should be very<lb/>happy to see you.</p>
@@ -356,7 +362,7 @@
                             when<lb/>they first met upon our lands, upon this great<lb/>island.</p>
                         <p>Brethren,<lb/>May the Great Spirit, the master of light<lb/>and life, so
                             dispose the hearts and minds of all<lb/>our nations and people, that the
-                            calamities of<lb/>war may never more be felt, or known by any<lb/><pb n="15" facs="SW_BYM1806_Page_015"/>
+                            calamities of<lb/>war may never more be felt, or known by any<lb/><pb n="15" facs="SW_BYM1806_015"/>
                                of them; that our roads and paths may never<lb/>more be
                             stained with the blood of our young<lb/>warriors; and that our helpless
                             women and chil-<lb/>dren may live in peace and happiness.</p>
@@ -379,7 +385,7 @@
                     made in the<lb/>translation of the speech, which they had sent<lb/>to friends,
                     respecting the time of opening their<lb/>great Council, to which Friends had
                     been invited:<lb/>who were now informed, that it began annually<lb/>at the full
-                    moon, in the Sixth Month. Finding<lb/><pb n="16" facs="SW_BYM1806_Page_016"/>it would be difficult to
+                    moon, in the Sixth Month. Finding<lb/><pb n="16" facs="SW_BYM1806_016"/>it would be difficult to
                     procure food for them-<lb/>selves and horses there, until that time, the
                         <orgName key="bymindian">com-<lb/>mittee</orgName> concluded it was best,
                     under their present<lb/>circumstances, to propose to <persName key="tarh1"
@@ -400,7 +406,7 @@
                 <p>Whilst these friends were at <placeName key="sand">Sandusky</placeName>
                     and<lb/>other villages, their minds were often deeply<lb/>affected, under the
                     sorrowful consideration of<lb/>the baneful effects of spirituous liquor
-                    upon<lb/><pb n="17" facs="SW_BYM1806_Page_017"/>the Indians, at that time supplied with it, in
+                    upon<lb/><pb n="17" facs="SW_BYM1806_017"/>the Indians, at that time supplied with it, in
                     al-<lb/><lb/>most every village, by Canadian traders residing<lb/>amongst them:
                     and they were confirmed in the<lb/>opinion, that unless these traders could be
                     res-<lb/>trained from furnishing them with this destruc-<lb/>tive article, in
@@ -422,7 +428,7 @@
                         key="bymindian">committee</orgName>.</p>
                 <p>In the <date when="1802-06">Sixth Month, 1802</date>, the <persName key="lturt1"
                         >Little Turtle</persName>,<lb/><persName key="fmeda1">Five
-                            Medals</persName>, and several other principal chiefs,<lb/><pb n="18" facs="SW_BYM1806_Page_018"/>of the
+                            Medals</persName>, and several other principal chiefs,<lb/><pb n="18" facs="SW_BYM1806_018"/>of the
                         <orgName key="miami">Miami</orgName> and <orgName key="potaw"
                         >Pottowattomi</orgName> nations of Indians,<lb/>passed through <placeName
                         key="balt1">Baltimore</placeName>, on their way to visit<lb/>the President
@@ -448,7 +454,7 @@
                             what we think<lb/>may justly be called Poison, our numbers
                             are<lb/>greatly diminished. It has destroyed a great<lb/>part of your
                             Red Brethren.</p>
-                        <pb n="19" facs="SW_BYM1806_Page_019"/>
+                        <pb n="19" facs="SW_BYM1806_019"/>
                         <p>My Brothers and Friends,<lb/>We plainly perceive, that you see the
                             very<lb/>evil which destroys your Red Brethren. It is<lb/>not an evil of
                             our own making. We have not<lb/>placed it amongst ourselves. It is an
@@ -470,7 +476,7 @@
                                 treaty of <placeName key="greenv">Greenville</placeName>, than we
                                 lost by<lb/>the six years of war before. It is all owing to
                                 the<lb/>introduction of this liquor amongst us.</said></p>
-                        <pb n="20" facs="SW_BYM1806_Page_020"/>
+                        <pb n="20" facs="SW_BYM1806_020"/>
                         <p>Brothers,<lb/>When our young men have been out hunt-<lb/>ing, and are
                             returning home loaded with skins<lb/>and furs; on their way, if it
                             happens that they<lb/>come where some of this whiskey is
@@ -495,7 +501,7 @@
                             even<lb/>without a shirt!</p>
                     </body>
                 </floatingText>
-                <pb n="21" facs="SW_BYM1806_Page_021"/>
+                <pb n="21" facs="SW_BYM1806_021"/>
                 <p>These chiefs appeared to be much rejoiced at<lb/>the assistance, Friends proposed
                     to render them;<lb/>and, in reply to that part of our
                     communication,<lb/>observed, <said>That it was their anxious wish, to<lb/>engage
@@ -516,7 +522,7 @@
                     the Indians was removed, they<lb/>felt themselves encouraged to proceed in
                     their<lb/>undertaking; and accordingly provided a con-<lb/>siderable number of
                     implements of husbandry;<lb/>such as ploughs, hoes, axes &amp;c. which were
-                    for-<lb/><pb n="22" facs="SW_BYM1806_Page_022"/>warded to <placeName key="fwayn"
+                    for-<lb/><pb n="22" facs="SW_BYM1806_022"/>warded to <placeName key="fwayn"
                     >Fort-Wayne</placeName>, where they were imme-<lb/>diately distributed, as a
                     present from the society<lb/>of Friends, and thankfully received by
                     the<lb/>Indians.</p>
@@ -538,7 +544,7 @@
                             want<lb/>for nothing. We wish them to shew us how<lb/>to provide the
                             many good things we see amongst<lb/>them. If it is their wish to
                             instruct us in their<lb/>way of living, as they tell us it is, we
-                            wish<lb/><pb n="23" facs="SW_BYM1806_Page_023"/>them to make haste and do it, for we are
+                            wish<lb/><pb n="23" facs="SW_BYM1806_023"/>them to make haste and do it, for we are
                             old,<lb/>and must die soon; but we wish to see our<lb/>women and
                             children in that path, that will lead<lb/>them to happiness, before we
                             die.</q></said></p>
@@ -559,7 +565,7 @@
                     him<lb/>two horses to be employed in ploughing, &amp;c.</p>
                 <p>They arrived at <placeName key="fwayn">Fort-Wayne</placeName> the <date
                         when="1804-03-31">last day<lb/>of the Third Month</date>, and soon after
-                    convened<lb/>several of the principal chiefs; in a council with<lb/><pb n="24" facs="SW_BYM1806_Page_024"/>whom, a future day was fixed upon for the<lb/><orgName key="bymindian"
+                    convened<lb/>several of the principal chiefs; in a council with<lb/><pb n="24" facs="SW_BYM1806_024"/>whom, a future day was fixed upon for the<lb/><orgName key="bymindian"
                         >committee</orgName> to meet them, together with as many<lb/>of their old
                     men, their young men, and their<lb/>women and children, as could be assembled.
                     The<lb/>attendance of the latter was particularly re-<lb/>quested by our
@@ -581,7 +587,7 @@
                                 >Quakers<lb/>of Baltimore</orgName>, to visit you, and to take you
                             by<lb/>the hand on their behalf, desiring that you<lb/>would receive any
                             communications from us, as<lb/>coming immediately from them.</p>
-                        <pb n="25" facs="SW_BYM1806_Page_025"/>
+                        <pb n="25" facs="SW_BYM1806_025"/>
                         <p>Brothers,<lb/>After that letter was read, our hearts were<lb/>filled with
                             so much love for our Red Brethren,<lb/>that, on looking over and
                             considering the busi-<lb/>ness upon which we had come, we felt a
@@ -601,7 +607,7 @@
                             opportunity<lb/>of becoming acquainted with the <persName key="fmeda1"
                                 >Five Medals</persName>, the<lb/><persName key="lturt1">Little
                                 Turtle</persName>, <persName key="topin1">Tuthinipee</persName>, and
-                            some other chiefs.<lb/><pb n="26" facs="SW_BYM1806_Page_026"/>They were glad of that opportunity of
+                            some other chiefs.<lb/><pb n="26" facs="SW_BYM1806_026"/>They were glad of that opportunity of
                             having a<lb/>talking with them, and of enquiring after the<lb/>situation
                             of their Red Brethren.</p>
                         <p>Brothers,<lb/>We had for some time entertained appre-<lb/>hensions, that
@@ -619,7 +625,7 @@
                             attention to<lb/>the cultivation of the earth. They also ex-<lb/>pressed
                             a desire to be assisted by their brothers<lb/>of <placeName key="balt1"
                                 >Baltimore</placeName>.</p>
-                        <pb n="27" facs="SW_BYM1806_Page_027"/>
+                        <pb n="27" facs="SW_BYM1806_027"/>
                         <p>Brothers,<lb/>Having been encouraged by the opportu-<lb/>nity which we
                             then had, we sent to the care of<lb/>the agent for Indian affairs, some
                             ploughs, har-<lb/>ness for horses, axes, hoes, and other
@@ -639,7 +645,7 @@
                         <p>Brothers,<lb/>It is for these purposes, that we have now<lb/>come; and we
                             again repeat, that we rejoice we<lb/>have this opportunity of seeing
                             you, and of<lb/>taking you by the hand.</p>
-                        <pb n="28" facs="SW_BYM1806_Page_028"/>
+                        <pb n="28" facs="SW_BYM1806_028"/>
                         <p>Brothers,<lb/>In coming into the country of our Red<lb/>Brethren, we have
                             come with our eyes open.<lb/>And although we are affected with sorrow,
                             in<lb/>believing, that many of the red people suffer<lb/>much, for the
@@ -659,7 +665,7 @@
                         <p>Brothers,<lb/>We are fully convinced, that if you will<lb/>adopt our mode
                             of cultivating the earth, and of<lb/>raising useful animals, you will
                             find it to be a<lb/>mode of living not only far more plentiful
-                            and<lb/><pb n="29" facs="SW_BYM1806_Page_029"/>much less fatiguing; but also much more
+                            and<lb/><pb n="29" facs="SW_BYM1806_029"/>much less fatiguing; but also much more
                             cer-<lb/>tain, and which will expose your bodies less, to<lb/>the
                             inclemencies of the weather, than hunting.<lb/>It will lead you,
                             brothers, to have fixed homes.<lb/>You will build comfortable
@@ -679,7 +685,7 @@
                         <p>Brothers,<lb/>We will here mention, that the time was,<lb/>when the
                             forefathers of your brothers, the white<lb/>people, lived beyond the
                             great water, in the<lb/>same manner that our Red Brethren now
-                            live.<lb/><pb n="30" facs="SW_BYM1806_Page_030"/>The winters can yet be counted, when they
+                            live.<lb/><pb n="30" facs="SW_BYM1806_030"/>The winters can yet be counted, when they
                             went<lb/>almost naked, when they procured their living<lb/>by fishing,
                             and by the bow and arrow in hunt-<lb/>ing; and when they lived in houses
                             no better<lb/>than yours. They were encouraged by some,<lb/>who came
@@ -698,7 +704,7 @@
                             in many places, instead of their fo-<lb/>rests, they had large fields of
                             corn and of other<lb/>grain, as also of many other valuable
                             produc-<lb/>tions of the earth.</p>
-                        <pb n="31" facs="SW_BYM1806_Page_031"/>
+                        <pb n="31" facs="SW_BYM1806_031"/>
                         <p>Brothers,<lb/>We hope your eyes will be open, to see<lb/>clearly the
                             things which are best for you; and<lb/>that you will desire to pursue
                             them. We be-<lb/>lieve, brothers, that it is in the heart of
@@ -716,7 +722,7 @@
                             cultivate for you, a field of corn;<lb/>also to show you how to raise
                             some of the other<lb/>productions of the earth. He knows how to<lb/>use
                             the plough, the hoe, the axe, and other<lb/>implements of husbandry.</p>
-                        <p>Brothers,<lb/>We will here ask you, Are you still desi-<lb/><pb n="32" facs="SW_BYM1806_Page_032"/>rous to be instructed by us, in the cultivation of<lb/>your lands? If
+                        <p>Brothers,<lb/>We will here ask you, Are you still desi-<lb/><pb n="32" facs="SW_BYM1806_032"/>rous to be instructed by us, in the cultivation of<lb/>your lands? If
                             you say, you are; our brother,<lb/>whom we have just mentioned, will
                             continue<lb/>with you, during the summer. We shall leave<lb/>it to you,
                             to shew him the spot where to begin<lb/>to work.</p>
@@ -733,7 +739,7 @@
                             your<lb/>young men will be willing to be taught by him,<lb/>to use the
                             plough, the hoe, and other imple-<lb/>mets of husbandry. For we are
                             sure, brothers,<lb/>that as you take hold of such tools, as are
-                            in<lb/>the hands of the white people, you will find<lb/><pb n="33" facs="SW_BYM1806_Page_033"/>them
+                            in<lb/>the hands of the white people, you will find<lb/><pb n="33" facs="SW_BYM1806_033"/>them
                             to be to you, like having additional hands.<lb/>You will also find, that
                             by using them, they<lb/>will enable you to do many things, which,
                             with-<lb/>out them, cannot be performed.</p>
@@ -752,7 +758,7 @@
                             turn your<lb/>attention to the cultivation of the earth, to<lb/>raising
                             the different kinds of grain, to erecting<lb/>mills for grinding grain,
                             to building comfortable<lb/>dwelling-houses for your families, to
-                            raising<lb/><pb n="34" facs="SW_BYM1806_Page_034"/>useful animals; amongst others, sheep, for
+                            raising<lb/><pb n="34" facs="SW_BYM1806_034"/>useful animals; amongst others, sheep, for
                             the<lb/>advantage of the wool, in making clothing; and to<lb/>raising
                             flax and hemp, for your linen; and if<lb/>your young women learn to
                             spin, and weave;<lb/>that your lives will be much easier, and
@@ -778,7 +784,7 @@
                     </body>
                 </floatingText>
                 <p>The Indians observed great decorum, and<lb/>gave close attention during the
-                    delivery of this<lb/><pb n="35" facs="SW_BYM1806_Page_035"/>address. They respectfully manifested their
+                    delivery of this<lb/><pb n="35" facs="SW_BYM1806_035"/>address. They respectfully manifested their
                     ap-<lb/>probation of the sentiments it contained, by re-<lb/>iterated
                     exclamations of applause, and the most<lb/>evident demonstrations of
                     satisfaction. In re-<lb/>ply, the <persName key="lturt1">Little
@@ -797,7 +803,7 @@
                             our chiefs, when they assemble in<lb/>Grand Council.</p>
                         <p>Brothers,<lb/>You have been very particular in pointing<lb/>out to us,
                             the duties of our women; and you<lb/>have told us, that in adoptting
-                            your mode of<lb/>living, our numbers would increase, and not<lb/><pb n="35" facs="SW_BYM1806_Page_035"/>continue to diminish. In all this, I certainly<lb/>agree
+                            your mode of<lb/>living, our numbers would increase, and not<lb/><pb n="36" facs="SW_BYM1806_036"/>continue to diminish. In all this, I certainly<lb/>agree
                             with you, and I hope my brother chiefs<lb/>will also agree with you.</p>
                         <p>Brothers,<lb/>Assure your people who sent you here,<lb/>tell your old
                             chiefs, that we are obliged to<lb/>them, for their friendly offers to
@@ -820,7 +826,7 @@
                     animals. And they were in-<lb/>formed from good authority, that the <orgName
                         key="wyandot">Wyandots</orgName>,<lb/>residing at <placeName key="sand"
                         >Sandusky</placeName>, as well as the <orgName key="shawnee"
-                            >Shawanees</orgName>,<lb/><pb n="37" facs="SW_BYM1806_Page_037"/>on the <geogName key="augl"
+                            >Shawanees</orgName>,<lb/><pb n="37" facs="SW_BYM1806_037"/>on the <geogName key="augl"
                         >Auglaize</geogName> river, and also since the visit,<lb/>turned their
                     attention very much towards the<lb/>cultivation of their lands. They had
                     therefore<lb/>the satisfaction to remark, that the communi-<lb/>cations from the
@@ -842,7 +848,7 @@
                     the Indian agent<lb/>at <placeName key="fwayn">Fort-Wayne</placeName>, informing
                     them that the Indians<lb/>had held their council in the Sixth
                     Month,<lb/>agreeably to expectation; at which 874 of<lb/>them attended;
-                    <said>when the written address of<lb/><pb n="38" facs="SW_BYM1806_Page_038"/><persName key="gelli1"
+                    <said>when the written address of<lb/><pb n="38" facs="SW_BYM1806_038"/><persName key="gelli1"
                             >George Ellicott</persName> and <persName key="ghopk1">Gerard T.
                             Hopkins</persName>, (who<lb/>it appeared had been appointed to visit the
                         In-<lb/>dians on behalf of the Society of Friends,) was<lb/>produced, read,
@@ -864,7 +870,7 @@
                     portion<lb/>of health whilst there. He raised about 400<lb/>bushels of corn,
                     besides a quantity of turnips,<lb/>potatoes, cucumbers, water-melons,
                     pumpkins,<lb/>beans, parsnips, and other garden-vegetables;<lb/>which he
-                    directed to be divided amongst the <lb/><pb n="39" facs="SW_BYM1806_Page_039"/> Indians on their return
+                    directed to be divided amongst the <lb/><pb n="39" facs="SW_BYM1806_039"/> Indians on their return
                     from their hunting<lb/>camps;and left with the family of Indians,<lb/>with whom
                     he resided, upon the farm he had<lb/>cultivated, 23 hogs and pigs, seven of
                     which<lb/>were in good order to kill, and he expected<lb/>would weigh 1500 lb.
@@ -883,7 +889,7 @@
                         key="fwayn">Fort-Wayne</placeName>, which had been sent by Govern-<lb/>ment,
                     he encouraged them to go there, and<lb/>learn to spin and knit, of a white woman
                     who<lb/>happened to be at that place. This they did,<lb/>and soon learned both
-                    to spin and knit ; and he<lb/><pb n="40" facs="SW_BYM1806_Page_040"/>left them knitting yarn of their own
+                    to spin and knit ; and he<lb/><pb n="40" facs="SW_BYM1806_040"/>left them knitting yarn of their own
                     spinning, when<lb/>he came away.</p>
                 <p>He also reported, that a considerable number<lb/>of <orgName key="eel"
                         >Eel-River</orgName> and <orgName key="wea">Weas</orgName> Indians were
@@ -901,7 +907,7 @@
                     consider-<lb/>ing the subject, it was concluded to endeavour<lb/>to procure a
                     suitable friend for that purpose;<lb/>but none offering to engage in service,
                     and<lb/>the committee taking into consideration the low<lb/>state of their
-                    funds, and the advanced season of<lb/><pb n="41" facs="SW_BYM1806_Page_041"/>the year; together with the
+                    funds, and the advanced season of<lb/><pb n="41" facs="SW_BYM1806_041"/>the year; together with the
                     dissatisfied and unset-<lb/>tled situation of the Indians at the time, on
                     ac-<lb/>count of a sale of land made by some of the tribes<lb/>to the United
                     States*; <note rend="asterix">*The uneasiness, which this circumstance
@@ -923,7 +929,7 @@
                     the benevo-<lb/>lent concern of Friends, towards the Indians, in<lb/>execution.
                     He also says, that at this time, a<lb/>spirit of industry exists among the
                     Indians<lb/>generally; and that, as several of the tribes,<lb/>had requested of
-                    Government, to have a part<lb/><pb n="42" facs="SW_BYM1806_Page_042"/> of their annuities expended in the
+                    Government, to have a part<lb/><pb n="42" facs="SW_BYM1806_042"/> of their annuities expended in the
                     employment<lb/>of men, to split rails, and make fences for them,<lb/>the
                         <orgName key="delaware">Delawares</orgName> had twenty-three
                     thousand<lb/>rails put up into fences, the last winter; and<lb/>that forty
@@ -946,7 +952,7 @@
                     and was<lb/>ploughing the field previously cleared by <persName key="pdeni1"
                         >Philip<lb/>Dennis</persName>. The hogs which were left there with<lb/>him,
                     had increased to one hundred in number.</p>
-                <p>The agent further says, that there would be<lb/><pb n="43" facs="SW_BYM1806_Page_043"/>one hundred acres of
+                <p>The agent further says, that there would be<lb/><pb n="43" facs="SW_BYM1806_043"/>one hundred acres of
                     land under good fence, at<lb/>the <placeName key="lturtown">Little Turtle’s
                         Town</placeName> (eighteen miles north<lb/>of <persName key="pdeni1"
                         >Dennis</persName>’s station), by the first of the Sixth<lb/>Month; where
@@ -968,7 +974,7 @@
                     of<lb/>ardent spirits amongst them. As soon as the<lb/>introduction of this
                     great evil into their country<lb/>was restrained, there was an immediate
                     im-<lb/>provement discoverable; and an almost univer-<lb/>sal disposition seemed
-                    to pervade them, to aban-<lb/><pb n="44" facs="SW_BYM1806_Page_044"/>don their former habits of living, and
+                    to pervade them, to aban-<lb/><pb n="44" facs="SW_BYM1806_044"/>don their former habits of living, and
                     turn to<lb/>the cultivation of their lands. Their progress<lb/>in civilization
                     has, since then, been much more<lb/>rapid, than the most sanguine could have
                     ex<lb/>pected; and on comparing the condition of these<lb/>Indian tribes, at the
@@ -985,7 +991,7 @@
                     more,<lb/>many other whole nations of them will become<lb/>entirely extinct.</p>
                 <p>Impressed with this melancholy consideration,<lb/>it must be a prospect truly
                     gladdening to the en-<lb/>lightened Christian mind, to survey the
-                    hasten-<lb/>ing of that day, when this part of the human fa-<lb/><pb n="45" facs="SW_BYM1806_Page_045"/>mily, weaned from savage habits, and allured by<lb/>the superior advantages of
+                    hasten-<lb/>ing of that day, when this part of the human fa-<lb/><pb n="45" facs="SW_BYM1806_045"/>mily, weaned from savage habits, and allured by<lb/>the superior advantages of
                     civil life, shall ex-<lb/>change the tomahawk and scalping knife for
                     the<lb/>plough and the hoe; and instead of ranging the<lb/>forests in seeming
                     affinity to the wild beasts of desert,<lb/>shall peacefully and rationally
@@ -1002,7 +1008,7 @@
                             >Eleventh Mo. 1805</date></dateline>.</closer>
             </div>
             <div type="epilogue">
-                <pb n="46" facs="SW_BYM1806_Page_046"/>
+                <pb n="46" facs="SW_BYM1806_046"/>
                 <head>POSTSCRIPT.</head>
                 <opener>SINCE this narrative was prepared for<lb/>publication, a letter has been
                     received from the<lb/>agent at <dateline><placeName key="fwayn"
@@ -1028,7 +1034,7 @@
                         <body>
                             <p>Believing as I do, that the Society<lb/>of Friends are desirous of a
                                 meliorating the situa-<lb/>tion of their Red Brethren in this
-                                country, I will<lb/><pb n="47" facs="SW_BYM1806_Page_047"/>take the liberty to observe, that
+                                country, I will<lb/><pb n="47" facs="SW_BYM1806_047"/>take the liberty to observe, that
                                 the present is<lb/>a very favourable time, to put in execution
                                 their<lb/>benevolent views, towards the distressed natives<lb/>of
                                 this land; and that much good may be done<lb/>on the <geogName
