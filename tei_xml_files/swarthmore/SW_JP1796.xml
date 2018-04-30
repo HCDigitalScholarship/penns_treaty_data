@@ -124,10 +124,13 @@
     <text>
 
         <body>
+            <div type="undetermined">
+                <pb n="preliminary" facs="SW_JP1796_001"/>
+            </div>
 
             <div type="narrative">
 
-                <pb n="1" facs="SW_JP1796_Page_002"/>
+                <pb n="1" facs="SW_JP1796_002"/>
                 <head>Notes, on a visit to Several Tribes of Indians. 1796<lb/></head>
                 <div type="entry">
                     <dateline><date when="1796-05-30">Fifth month 30th</date><placeName key="germa"
@@ -144,7 +147,7 @@
                         <persName key="jsans1">Joseph Sansom</persName>, <persName key="hsimm1"
                             >Henry<lb/> Symmons</persName> &amp; <persName key="ewalk1">Enoch
                             Walker</persName>;<lb/>
-                        <pb n="2" facs="SW_JP1796_Page_003"/> here we dined; and after Dinner,<lb/>
+                        <pb n="2" facs="SW_JP1796_003"/> here we dined; and after Dinner,<lb/>
                         taking Leave of our Friends,<lb/> we proceeded on to <persName key="dcumm1"
                             >David Cum-<lb/>min</persName>’s this Evening; where<lb/> we lodged.
                     </p>
@@ -162,7 +165,7 @@
                             Allen</persName>’s.</p>
                     <p>Between the last mentioned<lb/> Stages crossed a commanding<lb/> Eminence,
                         called <placeName key="calvi">Calvin’s Hill</placeName> which,<lb/>
-                        <pb n="3" facs="SW_JP1796_Page_004"/> which I supposed to rise more<lb/>
+                        <pb n="3" facs="SW_JP1796_004"/> which I supposed to rise more<lb/>
                         than 200 Feet in perpendi-<lb/>cular Height, and what was<lb/> remarkable,
                         on the Top, or<lb/> near it, was a nearly level<lb/> Meadow, which appeared
                         to be<lb/> a cold <unclear>sour</unclear> Swamp.</p>
@@ -175,7 +178,7 @@
                         an<lb/> extended view of a large Coun-<lb/>try, variegated with less,
                         and<lb/> greater Hills, Valleys, and<lb/> Plains; producing
                         Reflecti-<lb/>ons humbling to my<lb/> Mind <lb/>
-                        <pb n="4" facs="SW_JP1796_Page_005"/> we stopped twice at Inns to<lb/> feed
+                        <pb n="4" facs="SW_JP1796_005"/> we stopped twice at Inns to<lb/> feed
                         our Horses, at one of<lb/> which got some dry victuals<lb/> which served us
                         for a Dinner,<lb/> and arrived in the Evening<lb/> at <persName key="jlund1"
                             >Jacob Lunday’s</persName> in Hard-<lb/>wick County, in
@@ -185,7 +188,7 @@
                         Barren Mountains,<lb/> his Wife is public, and has<lb/> visited many of the
                         Meetings<lb/> in this Continent; by which<lb/> means she was both known<lb/>
                         and nearly esteemed by some<lb/> of us; that meeting with<lb/>
-                        <pb n="5" facs="SW_JP1796_Page_006"/> her here under her own and<lb/>
+                        <pb n="5" facs="SW_JP1796_006"/> her here under her own and<lb/>
                         Husband’s hospitable Roof was<lb/> reviving.</p>
                 </div>
                 <div type="entry">
@@ -204,7 +207,7 @@
                         about 7 Miles to <unclear>Breakfast</unclear>,<lb/> and about 13 more to
                             <persName key="dburn1">Daniel<lb/> Byrns’</persName> on the <geogName
                             key="nrive">North River</geogName>,<lb/>
-                        <pb n="6" facs="SW_JP1796_Page_007"/> where we dined, and rested<lb/>
+                        <pb n="6" facs="SW_JP1796_007"/> where we dined, and rested<lb/>
                         ourselves Several Hours; –– -<lb/> Thence up the River about<lb/> 12 Miles,
                         to <persName key="ehall1">Edward Halluck’s</persName>,<lb/> where we lodged,
                         and were<lb/> kindly entertained, he being an<lb/> Ancient Friend of a very
@@ -221,7 +224,7 @@
                     <p>Being Second Day, left our<lb/> agreeable Quarters, and pro-<lb/>ceeded on
                         our Journey, our Gd.<lb/> Friend <persName key="ehall1">Edward
                             Halluck</persName>, accom-<lb/>paning us Several Miles;<lb/>
-                        <pb n="7" facs="SW_JP1796_Page_008"/> 20.dined at <placeName key="esopu"
+                        <pb n="7" facs="SW_JP1796_008"/> 20.dined at <placeName key="esopu"
                             >Eusopus</placeName>, about 20 Miles;<lb/> This Town was <del
                             rend="crossout">entirely</del> burnt<lb/> by the English in 1777;
                         and<lb/> has now a Considerable Num-<lb/>ber of good Houses; then<lb/> rode
@@ -232,7 +235,7 @@
                         rideable,<lb/> and no Boat to be had, things<lb/> wore a disagreeable
                         Appearance,<lb/> but a friendly Man, <persName key="jboga1">Jacob<lb/>
                             Bogarder</persName>, being privy to<lb/>
-                        <pb n="8" facs="SW_JP1796_Page_009"/> our Distress, very compli-<lb/>santly
+                        <pb n="8" facs="SW_JP1796_009"/> our Distress, very compli-<lb/>santly
                         offered us Entertain-<lb/>ment, which we gratefully<lb/> accepted; and found
                         him<lb/> to be a Man of Intelligence,<lb/> and some Consequence,
                             <del>and</del>living<lb/> in considerable State, for this<lb/> part of
@@ -243,7 +246,7 @@
                     <p>Staid Breakfast this<lb/> Morning at our Lodgings,<lb/> and while it was
                         preparing,<lb/> took a walk with our Land-<lb/>lord to view the following
                         curious Phaeno-<lb/>menon, on his Farm, from<lb/> 60 to 100 Perches from his<lb/>
-                        <pb n="9" facs="SW_JP1796_Page_010"/> dwelling House; A Hill<lb/> which laid
+                        <pb n="9" facs="SW_JP1796_010"/> dwelling House; A Hill<lb/> which laid
                         in the Northwest<lb/> Angle, formed by the Meeting of the <geogName
                             key="nrive">North River</geogName> &amp;<lb/>
                         <geogName key="catsk2">Cats.Kill Creek</geogName> which raised,<lb/> as I
@@ -254,7 +257,7 @@
                         Elevation, and gradually up<lb/> toward the Declivity of<lb/> the Hill,
                         leaving the ground<lb/> almost level; the Quantity<lb/> moved was about two
                         Acres; we<lb/> walked over the Ground, and<lb/>
-                        <pb n="10" facs="SW_JP1796_Page_011"/> indeed it was an amazing and<lb/>
+                        <pb n="10" facs="SW_JP1796_011"/> indeed it was an amazing and<lb/>
                         Solemn Sight, the Stupendous<lb/> Cracks and broken Earth made<lb/> an awful
                         appearance; The<lb/> Inhabitants of a small town over the Creek saw it
                         going, and<lb/> were much alarmed, supposing<lb/> it to have been the
@@ -264,7 +267,7 @@
                         first<lb/> Motion of the Earth, <del>and</del>(as it<lb/> sunk gradually)
                         and ran vio-<lb/>lently several Courses at first,<lb/> but quickly gathered
                         all close<lb/>
-                        <pb n="11" facs="SW_JP1796_Page_012"/> together, near the Center, and<lb/>
+                        <pb n="11" facs="SW_JP1796_012"/> together, near the Center, and<lb/>
                         went down with the Ground,<lb/> and received no hurt. </p>
                     <p> After Breakfast ferried over<lb/> this Creek, and proceeded on,<lb/> dined
                         at <persName key="ehall2">Edward Halluck Junr.</persName><lb/> at a small
@@ -278,7 +281,7 @@
                         kindly entertained. </p>
                     <p> This we are informed is<lb/> the oldest City in the Conti-<lb/>nent, but it
                         appears a poor<lb/>
-                        <pb n="12" facs="SW_JP1796_Page_013"/> place; they have no regular<lb/>
+                        <pb n="12" facs="SW_JP1796_013"/> place; they have no regular<lb/>
                         Market; the Streets are ex-<lb/>tremely irregular, crooked and<lb/> dirty;
                         the walks on each Side,<lb/> are paved with very indifferent<lb/> Stone, the
                         middles generally<lb/> not paved at all: They Say<lb/> there are better than
@@ -287,7 +290,7 @@
                         appear<lb/> to be old &amp; inconvenient, of one,<lb/> one and an half and
                         two sto-<lb/>ries, mostly of brick on <emph rend="underline"
                         >Wood.</emph></p>
-                    <pb n="13" facs="SW_JP1796_Page_014"/>
+                    <pb n="13" facs="SW_JP1796_014"/>
                     <p> Here we received Informa-<lb/>tion from a Man who had<lb/> been in the
                         Indian Coun-<lb/>try that the greater part<lb/> of the <orgName key="oneida"
                             >Oneida</orgName>, <orgName key="onondaga">Onondaga</orgName> &amp;<lb/>
@@ -297,7 +300,7 @@
                         General at his Office<lb/> in this Town; and two of us<lb/> being named for
                         that Ser-<lb/>vice, we accordingly went to<lb/> his Office, and found
                         him<lb/> a very obliging and inteligent<lb/> man,<lb/>
-                        <pb n="14" facs="SW_JP1796_Page_015"/> Man, and he marked out on<lb/> our
+                        <pb n="14" facs="SW_JP1796_015"/> Man, and he marked out on<lb/> our
                         Map, what had been pur-<lb/>chased, and what was still<lb/> reserved; by
                         which we were<lb/> fully satisfied with Regard<lb/> to the Quantity of Land
                         still<lb/> in possession of the Indians:<lb/> This Interview was on the<lb/>
@@ -307,7 +310,7 @@
                             key="mohaw">Mohawk River</geogName> 14 Miles<lb/> from <placeName
                             key="alban">Albany</placeName>.</p>
                     <p> Here we lodged at a good Inn<lb/> kept by English people; our<lb/>
-                        <pb n="15" facs="SW_JP1796_Page_016"/> Entertainment and Attendance<lb/>
+                        <pb n="15" facs="SW_JP1796_016"/> Entertainment and Attendance<lb/>
                         excited Admiration, being equal,<lb/> especially in the Womans
                         de-<lb/>partment, to almost any thing<lb/> in that way, in the City of<lb/>
                         <placeName key="phila">Philadelphia</placeName>: This is a<lb/> Smart Town
@@ -318,7 +321,7 @@
                         the<lb/> Roads were good, Land Carriage<lb/> would be preferable:
                         Between<lb/> here and the <geogName key="nrive">North River</geogName><lb/>
                         is a large falls, which occasions<lb/> a<lb/>
-                        <pb n="16" facs="SW_JP1796_Page_017"/> a carrying place from Albany<lb/>
+                        <pb n="16" facs="SW_JP1796_017"/> a carrying place from Albany<lb/>
                         here of 14 miles.</p>
                 </div>
                 <div type="entry">
@@ -337,7 +340,7 @@
                         <emph rend="underline">the Wagon.</emph></p>
                     <p> Here <persName key="jjohn4">John Jonston</persName>, son of<lb/> old
                             <persName key="wjohn3">William Jonston</persName>, with about <lb/><pb
-                            n="17" facs="SW_JP1796_Page_018"/> 600 Indians and Regulars,<lb/> did
+                            n="17" facs="SW_JP1796_018"/> 600 Indians and Regulars,<lb/> did
                         much mischief, in the<lb/> Time of the American War;<lb/> they burnt the
                         Country for<lb/> about 40 Miles up and down<lb/> the River, and many of
                         the<lb/> Inhabitants lost their Lives,<lb/> amongst which was the
@@ -348,7 +351,7 @@
                         <persName key="jspra1">Jacob Spraker</persName>’s, who keeps a ferry<lb/>
                         over the <geogName key="mohaw">Mohawk</geogName>, where we<lb/> lodged: He
                         has a gracious<lb/> House<lb/>
-                        <pb n="18" facs="SW_JP1796_Page_019"/> House on the Outside, but<lb/>
+                        <pb n="18" facs="SW_JP1796_019"/> House on the Outside, but<lb/>
                         within, in most respects, below<lb/> indifferent; from our last<lb/>10.
                         Stage 10 Miles.</p>
                 </div>
@@ -361,7 +364,7 @@
                         morning:</p>
                     <p> In the Course of this Stage,<lb/> riding up the River, and ob-<lb/>serving
                         the fertility of the Land,<lb/> and particularly that of the<lb/>
-                        <pb n="19" facs="SW_JP1796_Page_020"/> Flats on each Side of the River,<lb/>
+                        <pb n="19" facs="SW_JP1796_020"/> Flats on each Side of the River,<lb/>
                         which a few years ago were<lb/> occupied by the Indians, my<lb/> Mind was
                         tendered in reflecting<lb/> on their Situation; how they<lb/> are tossed
                         from place to place,<lb/> and deprived of their Lands,<lb/> almost as soon
@@ -369,7 +372,7 @@
                         settled in my Mind, that<lb/> it could hardly be the Will<lb/> of the great
                         Founder of the<lb/> Universe, that this valu-<lb/>able Country should
                         remain<lb/> unimproved; and that therefore,<lb/> the only Means, whereby the<lb/>
-                        <pb n="20" facs="SW_JP1796_Page_021"/> Natives can secure to
+                        <pb n="20" facs="SW_JP1796_021"/> Natives can secure to
                         them-<lb/>selves their possessions, is<lb/> to endeavor to improve<lb/> in
                         Civilization, and in the<lb/> holy fear of the Lord; becoming<lb/> gradually
                         a religiously organ-<lb/>ized Body.</p>
@@ -378,7 +381,7 @@
                         were informed,<lb/> that these Flats, for Several<lb/> Miles back of this
                         place, have<lb/> been settled with white peo-<lb/>ple for near 80 years,
                         and<lb/> we observed in the Course of<lb/> our last stage several old<lb/>
-                        <pb n="21" facs="SW_JP1796_Page_022"/> Houses, and Orchards, the
+                        <pb n="21" facs="SW_JP1796_022"/> Houses, and Orchards, the
                         Ap-<lb/>pearance of Which accorded<lb/> with this Information:</p>
                     <p> We also saw many Sugar<lb/> Maples in this Day’s ride, one<lb/> of which was
                         four feet over;<lb/> but generally from <emph rend="underline">one</emph> to<lb/>
@@ -388,7 +391,7 @@
                         Market: the Land<lb/> being generally in possession<lb/> of the <gap/>
                         Dutch, and their De-<lb/>scendents; who have a Character<lb/> here directly
                         opposed to that of their<lb/>
-                        <pb n="22" facs="SW_JP1796_Page_023"/> Country People in
+                        <pb n="22" facs="SW_JP1796_023"/> Country People in
                         Pennsyl-<lb/>vania.</p>
                     <p> Thence up the River<lb/> to a little Village called <placeName key="fschy"
                             >Fort-<lb/>Schuyler</placeName> 18 Miles from our<lb/> last Stage; here
@@ -399,7 +402,7 @@
                         Settled Country; the Land<lb/> appears good, &amp; the Settlements<lb/>
                         rapid and thriving; the Set-<lb/>lers mostly from New England,<lb/> but some
                         from New Jersey:<lb/>
-                        <pb n="23" facs="SW_JP1796_Page_024"/> These people generally build<lb/>
+                        <pb n="23" facs="SW_JP1796_024"/> These people generally build<lb/>
                         their Houses contiguous to<lb/> each other, and are content<lb/> with small
                         Farms; many<lb/> of them not more than<lb/> 100 Acres with the
                         Allowance<lb/> that the Country for many<lb/> Miles together along the great
@@ -411,7 +414,7 @@
                     <p>This morning had<lb/> a Conference together at<lb/> our Lodgings and
                         being<lb/> now near the Indian<lb/> Country, we felt our<lb/> Minds
                         seriously impressed<lb/> with an increasing weight<lb/> of the Business we
-                        are <lb/><pb n="24" facs="SW_JP1796_Page_025"/> engaged in; and united
+                        are <lb/><pb n="24" facs="SW_JP1796_025"/> engaged in; and united
                         in<lb/> the expediency of keeping<lb/> Minutes of our proceedings<lb/>
                         therein; and one of our<lb/> Number was appointed<lb/> to that Service.</p>
                     <p> After which we had<lb/> a satisfactory Conference<lb/> with <persName
@@ -421,7 +424,7 @@
                         <orgName key="brotherton">Brothertown Indians</orgName>; and<lb/> he
                         informed us, that this<lb/> Tribe is sufficiently provided<lb/> for, in all
                         necessary agricultural<lb/> Implements &amp;c. and that they<lb/>
-                        <pb n="25" facs="SW_JP1796_Page_026"/> Stand in no need of any
+                        <pb n="25" facs="SW_JP1796_026"/> Stand in no need of any
                         Assis-<lb/>tance from us, except in Ad-<lb/>vice, Instruction &amp;c. and
                         also<lb/> that it would be very desirable<lb/> to him, and those
                         connected<lb/> with him, that one of our<lb/> Friends should reside for<lb/>
@@ -429,7 +432,7 @@
                         Husbandry &amp;c.<lb/> which proposition is re-<lb/>ferred for future
                         Considera-<lb/>tion, when we may be more<lb/> fully acquainted with the<lb/>
                         Situation of the neighbour-<lb/>ing Tribes.</p>
-                    <pb n="26" facs="SW_JP1796_Page_027"/>
+                    <pb n="26" facs="SW_JP1796_027"/>
                     <p> This respectable Man also<lb/> informed us, that he believed<lb/> the
                         general Disposition of<lb/> the people in those parts,<lb/> tho’ so near the
                         frontiers, would<lb/> be very favorable to our Bu-<lb/>siness; which was to
@@ -438,7 +441,7 @@
                     <p> After Dinner agreed to go<lb/> forward into the Indian Country;<lb/> we were
                         informed it was about<lb/> 20 Miles to the <orgName key="stockbridge"
                             >Stockbridge</orgName><lb/> Settlement, where we wished<lb/>
-                        <pb n="27" facs="SW_JP1796_Page_028"/> to go this Evening: We rode<lb/>
+                        <pb n="27" facs="SW_JP1796_028"/> to go this Evening: We rode<lb/>
                         about 9 miles through the<lb/> white Settlements, and stopping<lb/> at a
                         House to enquire the<lb/> way, we found it to be the last<lb/> belonging to
                         white people:</p>
@@ -448,7 +451,7 @@
                         Settlement; but being<lb/> much in Liquor, and having a<lb/> Gun and
                         Hatchet, it appeared<lb/> some Trial to accept his Of-<lb/>fer; more
                         especially as the<lb/> Evening was approaching;<lb/>
-                        <pb n="28" facs="SW_JP1796_Page_029"/> but understanding the Road<lb/> was
+                        <pb n="28" facs="SW_JP1796_029"/> but understanding the Road<lb/> was
                         difficult, and not a single<lb/> House to be found on it, we<lb/> at length
                         concluded to Submit<lb/> to it: He was one of the <orgName key="oneida"
                             >Oneida’s</orgName>,<lb/> and appeared very wild and sa-<lb/>vage, and
@@ -460,7 +463,7 @@
                             >Stockbridge</orgName>, where<lb/> we had proposed going, but<lb/> Night
                         being come upon us,<lb/> we concluded to take up our<lb/> Lodging here;
                         which we<lb/>
-                        <pb n="29" facs="SW_JP1796_Page_030"/> accordingly did, having rid-<lb/>den
+                        <pb n="29" facs="SW_JP1796_030"/> accordingly did, having rid-<lb/>den
                         about 17 miles, of Such<lb/>17. Roads, particularly the<lb/> last half of
                         it, as none of<lb/> our company excepting<lb/> our Indian Guide, had<lb/>
                         ever seen before.</p>
@@ -470,7 +473,7 @@
                         to<lb/> sup it out of a large general<lb/> Reservoir:</p>
                     <p> But I believe we were all<lb/> favored with quiet and easy<lb/> Minds;
                         though we were cold<lb/> in the Night, and Sore and<lb/>
-                        <pb n="30" facs="SW_JP1796_Page_031"/> Stiff in the Morning. </p>
+                        <pb n="30" facs="SW_JP1796_031"/> Stiff in the Morning. </p>
                     <p> The Name of our Host was<lb/>
                         <persName key="hsmit1">Hendrick Smith</persName>, who with his<lb/> Brother
                         in law, a Stockbridge, could<lb/> talk a little English: He had<lb/> 18 Head
@@ -481,7 +484,7 @@
                         to build;<lb/> for by and by his Chiefs would<lb/> sell the Land to white
                         people,<lb/> and then he should have to<lb/> leave it; he wished we
                         would<lb/> make their Chiefs divide<lb/>
-                        <pb n="31" facs="SW_JP1796_Page_032"/> the Land and let every one<lb/> have
+                        <pb n="31" facs="SW_JP1796_032"/> the Land and let every one<lb/> have
                         his own Share; and<lb/> then, he said, he would clear<lb/> a great deal:
                         This he and<lb/> his Brother-in-law informed us,<lb/> was what the Indians
                         wanted;<lb/> but their Chiefs would not<lb/> agree to it.</p>
@@ -490,7 +493,7 @@
                         would be our Duty to give<lb/> it our Interest; but upon<lb/> further
                         acquaintance with<lb/> those people, and more minute-<lb/>ly investigating
                         the Subject,<lb/> we found, that it<lb/>
-                        <pb n="32" facs="SW_JP1796_Page_033"/> had its origin, perhaps with<lb/> the
+                        <pb n="32" facs="SW_JP1796_033"/> had its origin, perhaps with<lb/> the
                         greater part who<lb/> approved it, in a Disposition<lb/> very contrary to
                         what we would<lb/> wish to encourage amongst<lb/> them; viz. that of being
                         indivi-<lb/>dually able to sell and lease<lb/> Lands to the white people;
@@ -501,7 +504,7 @@
                     <p> There nevertheless appears<lb/> great Room for prudent Exer-<lb/>tions to
                         encourage and assist<lb/> these people, in falling up-<lb/>on some safe plan
                         of securing<lb/>
-                        <pb n="33" facs="SW_JP1796_Page_034"/> to Individuals, and their
+                        <pb n="33" facs="SW_JP1796_034"/> to Individuals, and their
                             <del>Offsp</del><lb/> Offspring, the Fruits of their<lb/> Industry: for
                         whilst Improve-<lb/>ments remain in the present<lb/> precarious State, the
                         reflecting<lb/> Mind must inevitably feel<lb/> a Strong
@@ -516,7 +519,7 @@
                         with an<lb/> Account we had before received<lb/> of the Mortality of Horses
                         in<lb/> this Country.</p>
                     <p> About eight o’clock clock <persName key="haupa1">Cap. Hendricks<lb/>
-                            <pb n="34" facs="SW_JP1796_Page_035"/> Aupaumut</persName>, principle
+                            <pb n="34" facs="SW_JP1796_035"/> Aupaumut</persName>, principle
                         Chief<lb/> of the <orgName key="stockbridge">Stockbridge Nation</orgName>,
                         and to<lb/> whom we had sent a Runner<lb/> the Evening before, came,
                         with<lb/> two others of his Tribe, to meet<lb/> us, and conduct us to his
@@ -527,7 +530,7 @@
                         surprise was soon turned into<lb/> astonishment, when we saw<lb/> the Table
                         spread for our Break-<lb/>fast; the Tea Tackling was<lb/> brought out; good
                         wheat Bread,<lb/>
-                        <pb n="35" facs="SW_JP1796_Page_036"/> and Butter of a superlative
+                        <pb n="35" facs="SW_JP1796_036"/> and Butter of a superlative
                         Qua-<lb/>lity made their appearance; that,<lb/> in short, we had a first
                         Rate<lb/> Pennsylvania Breakfast.</p>
                     <p> This being first Day, we<lb/> felt our Minds engaged, to set<lb/> down
@@ -538,7 +541,7 @@
                         who,<lb/> without any Invitation from us,<lb/> came in; they
                             <unclear>sat</unclear> in a good<lb/> Degree <unclear>Solid</unclear>,
                         and appeared<lb/> thoughtful<lb/>
-                        <pb n="36" facs="SW_JP1796_Page_037"/> thoughtful; but, as I conceived,<lb/>
+                        <pb n="36" facs="SW_JP1796_037"/> thoughtful; but, as I conceived,<lb/>
                         shewed some Uneasiness with<lb/> our Silence: A few Words were<lb/> Spoken,
                         informing that none<lb/> of our Number were public<lb/> Ministers, and
                         pointing out<lb/> the necessity of inward and<lb/> Spiritual Worship.</p>
@@ -548,7 +551,7 @@
                         House of our Host <persName key="haupa1">Cap.<lb/> Hendrick</persName>; in
                         which he made<lb/> us a speech, expressive of their<lb/> Gladness to See us;
                         and that we<lb/> were heartily welcome to their<lb/> Town; then proceeded to inform<lb/>
-                        <pb n="37" facs="SW_JP1796_Page_038"/> us of their former and present<lb/>
+                        <pb n="37" facs="SW_JP1796_038"/> us of their former and present<lb/>
                         Situation, which he did with<lb/> great Clearness, and precision:</p>
                     <p> We then briefly informed them<lb/> of our motives for coming to<lb/> their
                         Country; and adjourned<lb/> to meet their whole Nation,<lb/> in general
@@ -562,7 +565,7 @@
                         and apolo-<lb/>gising for their Deficiency<lb/> with regard to the Hour
                         ap-<lb/>pointed; we then proceeded to<lb/> inform them of the Nature<lb/> of
                         our Business, and read<lb/> our<lb/>
-                        <pb n="38" facs="SW_JP1796_Page_039"/> our Certificate to them; after<lb/>
+                        <pb n="38" facs="SW_JP1796_039"/> our Certificate to them; after<lb/>
                         which we were enabled, pretty<lb/> clearly to point out to them<lb/> many of
                         the obvious Causes<lb/> of their present Inferiority,<lb/> in point of
                         Living, to the White<lb/> people; together with the means<lb/> whereby this
@@ -572,7 +575,7 @@
                             <q>that they had<lb/> Listened to us with Attention,<lb/> and had, as it
                             were, swallowed<lb/> down our Words, and should<lb/> deeply consider
                             them;</q> after<lb/>
-                        <pb n="39" facs="SW_JP1796_Page_040"/> which they would give us<lb/> their
+                        <pb n="39" facs="SW_JP1796_040"/> which they would give us<lb/> their
                         Mind on the different<lb/> Subjects recommended to th<emph rend="underline"
                             >em.</emph></p>
                     <p> From several private Con-<lb/>ferences with some of their Chiefs<lb/> we
@@ -585,7 +588,7 @@
                         deed,<lb/> containing a Clause baring<lb/> against their selling or
                         leasing<lb/> to white people: They divide<lb/> their Land into 100 Acre
                         Lots;<lb/> and every Family has one Lot;<lb/>
-                        <pb n="40" facs="SW_JP1796_Page_041"/> and every Son is to have a Lot,<lb/>
+                        <pb n="40" facs="SW_JP1796_041"/> and every Son is to have a Lot,<lb/>
                         laid off by a certain Order un-<lb/>til the whole is Occupied: They<lb/>
                         have a sawmill, three Carts, three<lb/> pair of good Oxen, and perhaps<lb/>
                         some other Things which they<lb/> enjoy in common; but in gene-<lb/>ral they
@@ -595,7 +598,7 @@
                         Obligations in like<lb/> Manner with them: and we<lb/> are informed our
                         Host, <persName key="haupa1">Cap.<lb/> Hendrick</persName>, raised near 100
                         Bus.<lb/> of wheat last year, besides a<lb/> Quantity of Indian Corn.</p>
-                    <pb n="41" facs="SW_JP1796_Page_042"/>
+                    <pb n="41" facs="SW_JP1796_042"/>
                     <p> They have also an Income<lb/> from general Government<lb/> of 350 Dollars a
                         year: They<lb/> do not appear ignorant in<lb/> any considerable Degree,
                         of<lb/> good Matters of tilling their<lb/> Ground: most Families have<lb/>
@@ -606,7 +609,7 @@
                         <lb/> to this End a skillful provision<lb/> for the Security of private
                         In-<lb/>terest might much contribute.</p>
                     <p> Here it may be seasonable<lb/> to<lb/>
-                        <pb n="42" facs="SW_JP1796_Page_043"/> to remark, that we have<lb/> found,
+                        <pb n="42" facs="SW_JP1796_043"/> to remark, that we have<lb/> found,
                         since we came to this<lb/> Place, serious Occasion for<lb/> the Necessity of
                         Friends, both<lb/> in a collective and private<lb/> Capacity, being
                         scrupulously<lb/> guarded in the Letters they<lb/> send to these people; for
@@ -619,7 +622,7 @@
                         /></dateline>
                     <p>Attended a general Coun-<lb/>cil of the <orgName key="oneida"
                             >Oneida’s</orgName>, at their<lb/>
-                        <pb n="43" facs="SW_JP1796_Page_044"/> Town, about four Miles from<lb/> the
+                        <pb n="43" facs="SW_JP1796_044"/> Town, about four Miles from<lb/> the
                             <orgName key="stockbridge">Stockbridge</orgName> Settlement;<lb/> and in
                         about two Hours after<lb/> the Time appointed they<lb/> collected; and the
                         Business<lb/> was opened by a short<lb/> Speech on their part,
@@ -627,7 +630,7 @@
                         Quakers, that we might<lb/> speak Face to face. We<lb/> then briefly
                         informed them<lb/> of our Errand into their Coun-<lb/>try; and finding that
                         we had<lb/> a very imperfect Interpre-<lb/>ter, we confided to adjourn<lb/> the<lb/>
-                        <pb n="44" facs="SW_JP1796_Page_045"/> the Council ‘til 5th Day<lb/> the
+                        <pb n="44" facs="SW_JP1796_045"/> the Council ‘til 5th Day<lb/> the
                         16th. at ten OClock<lb/> in the morning, and re-<lb/>quested the Attendance
                         of<lb/> their Women and young<lb/> people: then returned<lb/> to our
                         Lodgings at <placeName key="stock">Stockbridge</placeName>.</p>
@@ -640,7 +643,7 @@
                         principle men,<lb/> in consulting the best me-<lb/>thods of repairing their
                         Saw-<lb/>mill Dam, whilst others of<lb/> our Company were employed<lb/> in a
                         useful Improvement at<lb/> our Lodgings.</p>
-                    <pb n="45" facs="SW_JP1796_Page_046"/>
+                    <pb n="45" facs="SW_JP1796_046"/>
                     <p> In the Afternoon attended<lb/> a general Council of a small<lb/> Body of the
                             <orgName key="tuscarora">Tuscororas</orgName>, who live<lb/> on
                         sufferance upon the<orgName key="oneida"> Oneida</orgName><lb/> Lands; these
@@ -651,7 +654,7 @@
                         generally too indolent to<lb/> enclose, clear and till Land<lb/> when given
                         to them; although<lb/> the Land here is of an excel-<lb/>lent Quality, and
                         easy of Culture.</p>
-                    <pb n="46" facs="SW_JP1796_Page_047"/>
+                    <pb n="46" facs="SW_JP1796_047"/>
                     <p> They also conceive themselves<lb/> under some Difficulties with<lb/> Regard
                         to the <orgName key="oneida">Oneidas</orgName> Offer<lb/> of Land; as they
                         refuse to se-<lb/>cure any Quantity to them<lb/> in a National Capacity;
@@ -661,7 +664,7 @@
                         Chiefs.</p>
                     <p> These people reminded us<lb/> of an Expectation given them<lb/> by Friends
                         at a late Treaty,<lb/> of a Compensation for some<lb/> Lands settled by Friends<lb/>
-                        <pb n="47" facs="SW_JP1796_Page_048"/> and others in a certain place<lb/> in
+                        <pb n="47" facs="SW_JP1796_048"/> and others in a certain place<lb/> in
                         Virginia; where they sup-<lb/>pose themselves to have some<lb/> Claim: this
                         led us into a<lb/> particular Enquiry into the<lb/> Nature of their Claim;
                         but<lb/> we found them very imperfect<lb/> in their Knowledge of the<lb/>
@@ -675,7 +678,7 @@
                             >Oneida’s</orgName>;<lb/> they assembled as usual, more<lb/> than an
                         hour after the time<lb/> appointed; and opened the<lb/> Council with a short
                         welcome;<lb/> we<lb/>
-                        <pb n="48" facs="SW_JP1796_Page_049"/> we now had <persName key="jreed1"
+                        <pb n="48" facs="SW_JP1796_049"/> we now had <persName key="jreed1"
                             >Cap. Jacob Reed</persName><lb/> for our Interpreter, who had<lb/> been
                         educated in an English<lb/> School: We again opened the<lb/> Nature of our
                         Business; and read<lb/> our Certificate from our friends<lb/> to them; after
@@ -685,7 +688,7 @@
                         Grain to make Bread<lb/> for themselves; and for their<lb/> old People and
                         Children who could<lb/> not work; and that they should<lb/> get many Cows to
                         give them<lb/> Milk; and keep Sheep and<lb/>
-                        <pb n="49" facs="SW_JP1796_Page_050"/> Such Things like the white<lb/>
+                        <pb n="49" facs="SW_JP1796_050"/> Such Things like the white<lb/>
                         people do; and that their<lb/> Women should learn to spin<lb/> the wool that
                         would come off<lb/> their Sheep, to make them<lb/> Blankets and Clothes, to
                         keep<lb/> them and their Children<lb/> warm in cold Weather; and<lb/> that
@@ -694,7 +697,7 @@
                         willing,) to instruct<lb/> them how the white people<lb/> tilled the land
                         (for we had before<lb/> united in the Belief that this<lb/> was the most
                         fruitable place<lb/> to make our Settlement) but<lb/>
-                        <pb n="50" facs="SW_JP1796_Page_051"/> but informed them withal, that<lb/>
+                        <pb n="50" facs="SW_JP1796_051"/> but informed them withal, that<lb/>
                         they ought not depend too much<lb/> on their Brothers, the Quakers,<lb/> for
                         help; but that they must try<lb/> to help themselves; that we were<lb/>
                         willing to assist them a little<lb/> in the Beginning; but as we<lb/> wanted
@@ -703,7 +706,7 @@
                         deal<lb/> for any one Nation; and more-<lb/>over, as we saw they had a
                         great<lb/> deal of very good Land; an as we<lb/> were willing to shew
                         them<lb/> how to work their good Land,<lb/>
-                        <pb n="51" facs="SW_JP1796_Page_052"/> that they might live
+                        <pb n="51" facs="SW_JP1796_052"/> that they might live
                         comfortably,<lb/> and have plenty of every thing, if<lb/> they would but
                         take our Advice,<lb/> and learn to work, and to be in-<lb/>dustrious, sober,
                         and saving; but<lb/> if they would not be persuaded<lb/> to help themselves,
@@ -713,7 +716,7 @@
                         our<lb/> Minds to them, they gave<lb/> us a short answer expressing<lb/>
                         their Willingness to comply<lb/> with our Advice: The Council<lb/> then
                         braking up they mostly<lb/>
-                        <pb n="52" facs="SW_JP1796_Page_053"/> withdrew; but the Chiefs, &amp;<lb/>
+                        <pb n="52" facs="SW_JP1796_053"/> withdrew; but the Chiefs, &amp;<lb/>
                         old Men soon returned, and<lb/> desired to speak a few more<lb/> words to
                         us; which when we<lb/> had agreed to, and were seated<lb/> down, they
                         proceeded to inform,<lb/> that their Women had heard<lb/> the good words
@@ -723,7 +726,7 @@
                         thing<lb/> that they had said was good;<lb/> and that they ought to do it
                         all.</p>
                     <p> Here it may be proper<lb/>
-                        <pb n="53" facs="SW_JP1796_Page_054"/> to remark, that truly the<lb/> women
+                        <pb n="53" facs="SW_JP1796_054"/> to remark, that truly the<lb/> women
                         have great Cause<lb/> to be on our side in this Bu-<lb/>siness; for in
                         proportion to<lb/> the Rudeness, and uncultiva-<lb/>tion of these people,
                         are the<lb/> Hardships and Difficulties<lb/> of their Women greatly
@@ -733,7 +736,7 @@
                         evident<lb/> in the <orgName key="stockbridge">Stockbridge</orgName> and
                             <orgName key="brotherton">Bro-<lb/>thertown’s</orgName>, the women
                         are<lb/> gradually relieved from this<lb/> Drudgery, and their Labours<lb/>
-                        con <pb n="54" facs="SW_JP1796_Page_055"/> confined more of their Houses,
+                        con <pb n="54" facs="SW_JP1796_055"/> confined more of their Houses,
                         and<lb/> amongst their Children, where<lb/> they ought to be.</p>
                     <p> And such has lately been the<lb/> Case, as we are creditably informed,<lb/>
                         among the <orgName key="oneida">Oneida’s</orgName>, that if a<lb/> Man was
@@ -743,7 +746,7 @@
                     <p> At the Close of this Council<lb/> we had a Conference with the<lb/> Chiefs;
                         from which, and our<lb/> own Observations, we learn,<lb/> that the <orgName
                             key="oneida">Oneida’s</orgName> possess a<lb/> large Tract of excellent Land,<lb/>
-                        <pb n="55" facs="SW_JP1796_Page_056"/> supposed to be about 12 miles<lb/> by
+                        <pb n="55" facs="SW_JP1796_056"/> supposed to be about 12 miles<lb/> by
                         20: They consist of about<lb/> 620 Individuals, have an In-<lb/>come from
                         general Govern-<lb/>ment of 700 Dollars a year;<lb/> out of which
                         Government<lb/> has Liberty to furnish them<lb/> with a Smith and
@@ -752,7 +755,7 @@
                         furnish<lb/> them with a School, by employ-<lb/>ing a Schoolmaster, which
                         is<lb/> not done, said to be from the<lb/> Difficulty of getting a
                         suitable<lb/> Teacher; which we regret, as such<lb/>
-                        <pb n="56" facs="SW_JP1796_Page_057"/> an Institution, if rightly
+                        <pb n="56" facs="SW_JP1796_057"/> an Institution, if rightly
                         under-<lb/>taken and prosecuted must cer-<lb/>tainly be much more
                         advanta-<lb/>geous to these people than<lb/> the Money.</p>
                     <p> They have also about<lb/> 5000 Dollars annually<lb/> coming in from the
@@ -762,7 +765,7 @@
                     <p> They have a considerable Num-<lb/>ber of horned Cattle, Horses,<lb/> and
                         some good working Cattle.</p>
                     <p> From the above Delineation<lb/>
-                        <pb n="57" facs="SW_JP1796_Page_058"/> of the Circumstances and
+                        <pb n="57" facs="SW_JP1796_058"/> of the Circumstances and
                         Si-<lb/>tuation of these people, it must<lb/> evidently appear; that
                         their<lb/> Chance for a comfortable Sub-<lb/>stance far exceeds that of<lb/>
                         the majority of the white<lb/> Inhabitants of Pennsylvania<lb/> and parts
@@ -771,7 +774,7 @@
                         want of Oeconomy, and Love<lb/> of Strong Drink; in the latter<lb/> of which
                         Some Exertions have<lb/> been made by the old Men<lb/> and Chiefs here, as
                         well as<lb/>
-                        <pb n="58" facs="SW_JP1796_Page_059"/> amongst the <orgName
+                        <pb n="58" facs="SW_JP1796_059"/> amongst the <orgName
                             key="stockbridge">Stockbridge’s</orgName>, and<lb/> we understand no
                         strong Drink<lb/> is allowed to be sold in their<lb/> Towns; and we have, at
                         each<lb/> place, been concerned to Strength-<lb/>en these Exertions; yet it
@@ -781,7 +784,7 @@
                     <p> After obtaining the above,<lb/> we returned in the Evening<lb/> to our
                         Lodgings at <placeName key="stock">Stockbridge</placeName>.<lb/><gap/></p>
                     <gap/>
-                    <pb n="59" facs="SW_JP1796_Page_060"/>
+                    <pb n="59" facs="SW_JP1796_060"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-06-17">17th.</date><placeName key="stock"
@@ -796,7 +799,7 @@
                         <orgName key="stockbridge">Stockbridge's</orgName> together, which<lb/> we
                         found to be on Business of<lb/> their own unconnected with<lb/> ours: The
                         business was con-<lb/>ducted with great Decorum<lb/> &amp;<lb/>
-                        <pb n="60" facs="SW_JP1796_Page_061"/> and Formality and a clear and<lb/>
+                        <pb n="60" facs="SW_JP1796_061"/> and Formality and a clear and<lb/>
                         decisive Judgment passed upon<lb/> some disorderly Walkers of unruly spirits
                         who<lb/> were endeavoring to disturb and<lb/> lay waste the internal
                         Govern-<lb/>ment of one of these nations.</p>
@@ -808,7 +811,7 @@
                             >Stockbridge</orgName>; and<lb/> had requested of them some<lb/>
                         Seperate Lands, that they<lb/> might live independant of<lb/> their Chiefs;
                         who they said<lb/> had required them to sign<lb/>
-                        <pb n="61" facs="SW_JP1796_Page_062"/> some piece of writing, contrary<lb/>
+                        <pb n="61" facs="SW_JP1796_062"/> some piece of writing, contrary<lb/>
                         to the Custom of Indians; and<lb/> that they did not understand the<lb/>
                         writing, and therefore would not<lb/> sign it; and because they had<lb/>
                         refused to sign this writing,<lb/> their Chiefs had taken away<lb/> their
@@ -818,7 +821,7 @@
                             >Cap<lb/> Peter</persName>, opened the Council<lb/> with the customary
                         Formality<lb/> of Thankfulness to the great<lb/> Spirit for being favoured
                         to<lb/> meet Face to Face in that<lb/>
-                        <pb n="62" facs="SW_JP1796_Page_063"/> Council; then proceeded, in<lb/>
+                        <pb n="62" facs="SW_JP1796_063"/> Council; then proceeded, in<lb/>
                         substance as follows: </p>
                     <floatingText type="speech">
                         <body>
@@ -831,7 +834,7 @@
                                 Brothers,<lb/> in this Distress, we your elder<lb/> Brother took
                                 pity upon you,<lb/> and gave you this Dish, that<lb/> you might put
                                 a spoon into<lb/> it and live; and in order<lb/>
-                                <pb n="63" facs="SW_JP1796_Page_064"/> that our younger Brother
+                                <pb n="63" facs="SW_JP1796_064"/> that our younger Brother
                                 should<lb/> never get such trouble again,<lb/> we made this Dish of
                                 steel,<lb/> that it might last forever x,<lb/> and we thought,
                                 Brothers, that<lb/> you had put a steel spoon into<lb/> this good
@@ -842,7 +845,7 @@
                                 good Dish<lb/> that we have given you; but<lb/>x This steel Dish very <unclear>aptly</unclear> alluded<lb/> to a
                                 clause in their Deed of Gifts,<lb/> barring against their selling
                                 or<lb/> leasing to white people.</p>
-                            <pb n="64" facs="SW_JP1796_Page_065"/>
+                            <pb n="64" facs="SW_JP1796_065"/>
                             <p>that any of you should pretend<lb/> asto [?] A new Dish to
                                 themselves:<lb/> Brothers, we can’t agree to this;<lb/> for if we
                                 should give some of<lb/> you a new dish, it may be<lb/> that Dish
@@ -853,7 +856,7 @@
                             <p>This wooden Dish represented the<lb/> Disposition of the
                                 Complainants<lb/> to sell and lease Lands to the<lb/> white people,
                                 for which they<lb/> have been noted.</p>
-                            <pb n="65" facs="SW_JP1796_Page_066"/>
+                            <pb n="65" facs="SW_JP1796_066"/>
                             <p>live happily together out of this<lb/> good steel Dish that we
                                 have<lb/> given you; and maybe the spoon<lb/> is not broke yet, but
                                 only bent<lb/> a little, and we will try to<lb/> straighten it for
@@ -864,7 +867,7 @@
                                 never get up again;<lb/> and then the Spoon will be<lb/> mended; and
                                 you will all eat<lb/> together comfortably out of this<lb/> Steel
                                 Dish again; Now Brother<lb/>
-                                <pb n="66" facs="SW_JP1796_Page_067"/> we have done, think of
+                                <pb n="66" facs="SW_JP1796_067"/> we have done, think of
                                 these<lb/> Things; and the Chiefs, and<lb/> young Warriors who
                                 complain,<lb/> have liberty to speak for them-<lb/>selves. </p>
                         </body>
@@ -877,7 +880,7 @@
                         Language; to his<lb/> own people; it having been<lb/> delivered in the
                         Oneida Language<lb/> and interpreted into English;<lb/> After which they
                         consulted toge-<lb/>ther and not being able to recon-<lb/>cile<lb/>
-                        <pb n="67" facs="SW_JP1796_Page_068"/> cile and restore the
+                        <pb n="67" facs="SW_JP1796_068"/> cile and restore the
                         Compain-<lb/>ants; On the Return of the<lb/>
                         <orgName key="oneida">Oneidas</orgName> and <orgName key="tuscarora"
                             >Tuscororas</orgName>; <persName key="haupa1">Cap.<lb/>
@@ -890,7 +893,7 @@
                                 understand perfectly<lb/> well all what you have said<lb/> to us:
                                 now we will answer<lb/> as far as concerns us.</p>
                             <p> Brothers, it is true we have<lb/> agreed to help one another<lb/>
-                                <pb n="68" facs="SW_JP1796_Page_069"/> especially when one
+                                <pb n="68" facs="SW_JP1796_069"/> especially when one
                                 Brother<lb/> meets with any Difficulty<lb/> the other shall help
                                 him<lb/> out; Brothers, All what<lb/> you have said to us and to
                                 our<lb/> young Men, we like it well,<lb/> and you know, Brothers,
@@ -898,7 +901,7 @@
                                 endeavor to promote the<lb/> Good of their Nation; and<lb/> you also
                                 know that they al-<lb/>ways receive as a sallery<lb/> therefor the
                                 Reproaches<lb/> of some of their people;<lb/> because, that in every nation<lb/>
-                                <pb n="69" facs="SW_JP1796_Page_070"/> there are some bad people,
+                                <pb n="69" facs="SW_JP1796_070"/> there are some bad people,
                                 that<lb/> will not regard good and<lb/> wholesome Rules, but
                                 will<lb/> always be wanting to have<lb/> their own way; We have<lb/>
                                 such: And now, Bro-<lb/>thers, we shall begin to<lb/> speak to the
@@ -907,7 +910,7 @@
                                 Mat-<lb/>ter without a general Coun<lb/>cil, and giving us Leave
                                 to<lb/> speak for ourselves, that<lb/> so the Truth may come
                                 out;<lb/> The<lb/>
-                                <pb n="70" facs="SW_JP1796_Page_071"/> The first thing we Shall
+                                <pb n="70" facs="SW_JP1796_071"/> The first thing we Shall
                                 ob-<lb/>serve; they have told you<lb/> Brothers, that we have
                                 done<lb/> them Injury; and they say<lb/> that we have let out
                                 Lands<lb/> to white people, and that<lb/> we have taken away
@@ -917,7 +920,7 @@
                                     <del><gap/></del>which we<lb/> made with you at <placeName
                                     key="schen">Schenec-<lb/>tady</placeName> about this Land,
                                 this<lb/> Dish; you are our Witnesses<lb/> that we have never took trouble<lb/>
-                                <pb n="71" facs="SW_JP1796_Page_072"/> to ourselves, by giving
+                                <pb n="71" facs="SW_JP1796_072"/> to ourselves, by giving
                                 Lease<lb/> of any of this Land to white<lb/> people; and also the
                                 great men<lb/> of the State of New York are<lb/> our witnessest; and
                                 our writ-<lb/>ings testify the same thing;<lb/> By these Things,
@@ -930,7 +933,7 @@
                                 reference, to<lb/> a petition taken in by the Complain<lb/>ants for
                                 Liberty to sell and lease Lands<lb/> to white people; which was
                                 opposed by the Chiefs</p>
-                            <pb n="72" facs="SW_JP1796_Page_073"/>
+                            <pb n="72" facs="SW_JP1796_073"/>
                             <p>Sometime, the white people<lb/> will lay hold of the Spoon,<lb/> and
                                 try to bend it, and pull<lb/> it this way, and that way;<lb/> and
                                 these our young Men will<lb/> join with them, and take<lb/> hold
@@ -939,7 +942,7 @@
                                 and our<lb/> orderly young Men would take<lb/> hold, and try to
                                 bring it back<lb/> again, and to straiten our<lb/> Spoon; to this
                                 you are our<lb/> Witnesses, and the great Men<lb/> of<lb/>
-                                <pb n="73" facs="SW_JP1796_Page_074"/> of the State of New York,
+                                <pb n="73" facs="SW_JP1796_074"/> of the State of New York,
                                 are<lb/> our witnesses; And you know,<lb/> Brothers, that we have
                                 kept<lb/> our Dish and our Spoon, that<lb/> they are not broke yet,
                                 but<lb/> are kept bright; and we in-<lb/>tend to keep them bright
@@ -948,7 +951,7 @@
                                 take in Strangers; to this<lb/> we acknowledge; because our<lb/>
                                 Covenant we made with you<lb/> was such, as to open a Door<lb/> to
                                 take in Strangers of our<lb/> own Colour; Because, Brothers,<lb/> you<lb/>
-                                <pb n="74" facs="SW_JP1796_Page_075"/> you know, that it is
+                                <pb n="74" facs="SW_JP1796_075"/> you know, that it is
                                 natural<lb/> amongst all nations, to have<lb/> Compassion towards
                                 one another;<lb/> for Instance, Brothers, you your-<lb/>selves have
                                 done Such Thing<lb/> many Years ago; for these<lb/>
@@ -958,7 +961,7 @@
                                 and ye took us in and gave<lb/> us a Dish; now Brothers, in<lb/>
                                 keeping the same Rules among<lb/> us, the Chiefs of our Nation,<lb/>
                                 who can find fault with<lb/> us, in that Respect.</p>
-                            <pb n="75" facs="SW_JP1796_Page_076"/>
+                            <pb n="75" facs="SW_JP1796_076"/>
                             <p> Brothers, We will observe another<lb/> thing, our young Men
                                 have<lb/> told you, that we draw writings,<lb/> and these writings
                                 are signed<lb/> by many; and they could not<lb/> understand these
@@ -969,7 +972,7 @@
                                 acknowledge<lb/> we have such writings, and<lb/> if you desire, you
                                 shall hear<lb/> these writings, that ye shall<lb/> rightly
                                 understand them; but<lb/>
-                                <pb n="76" facs="SW_JP1796_Page_077"/> before I read you this
+                                <pb n="76" facs="SW_JP1796_077"/> before I read you this
                                 wri-<lb/>ting, we shall let you know,<lb/> that our Chiefs always
                                 had<lb/> in their Hearts the welfare<lb/> of the Nation, and often
                                 con-<lb/>templated what would be<lb/> most for the welfare of
@@ -978,7 +981,7 @@
                                 Welfare, to<lb/> make a Strong Covenant, to<lb/> keep us together,
                                 and draw<lb/> writings to keep out Memory<lb/> bright; so long as we
                                 maintain<lb/> that agreement, we find it<lb/>
-                                <pb n="77" facs="SW_JP1796_Page_078"/> do us good, and five years
+                                <pb n="77" facs="SW_JP1796_078"/> do us good, and five years
                                 ago,<lb/> since we come to this town,<lb/> we renew that Covenant;
                                 and<lb/> since that, now lately, we be-<lb/>gin to see the same
                                 spirit<lb/> which had made Disturbance<lb/> amongst us before, and
@@ -988,7 +991,7 @@
                                 frustrate<lb/> that Design; and they called<lb/> the Nation together
                                 in general<lb/> Council, to consult what shall<lb/> be done, and
                                 they agreed to enter<lb/> into<lb/>
-                                <pb n="78" facs="SW_JP1796_Page_079"/> into Covenant, and draw
+                                <pb n="78" facs="SW_JP1796_079"/> into Covenant, and draw
                                 writings,<lb/> and sign them: now Brothers,<lb/> I will read you the
                                 writings: viz.<lb/> Article 1st: The Union of the<lb/> Nation which
                                 was established<lb/> at old <placeName key="stock"
@@ -999,7 +1002,7 @@
                                 the<lb/> good Agreements heretofore<lb/> made in our public
                                 Meetings;<lb/> which are recorded in the<lb/> Town Book; but more
                                 especially<lb/> in<lb/>
-                                <pb n="79" facs="SW_JP1796_Page_080"/> in keeping our Lands; and
+                                <pb n="79" facs="SW_JP1796_080"/> in keeping our Lands; and
                                 that<lb/> we never should take trouble<lb/> to ourselves, in
                                 Endeavouring<lb/> to lease Land to white people.<lb/>
                             </p>
@@ -1011,7 +1014,7 @@
                                 shall be positively excluded<lb/> from all the aforesaid
                                 privileges,<lb/> except preaching and School;<lb/> these two shall
                                 remain free as<lb/> usual; yet if any of them should<lb/> see<lb/>
-                                <pb n="80" facs="SW_JP1796_Page_081"/> see his folly, and
+                                <pb n="80" facs="SW_JP1796_081"/> see his folly, and
                                 disadvantage<lb/> by it, and be disposed to comply<lb/> with the
                                 Articles of this Agree-<lb/>ment, he or they shall be
                                 ad-<lb/>mitted, by signing the aforesaid<lb/> agreement to enjoy
@@ -1022,7 +1025,7 @@
                             <p> 6th. If any of the members<lb/> of the Union be in distress,
                                 his<lb/> Business is to inform his Situ-<lb/>ation to the principle
                                 men,<lb/> and he shall be afforded all pos-<lb/>sible Relief. </p>
-                            <pb n="81" facs="SW_JP1796_Page_082"/>
+                            <pb n="81" facs="SW_JP1796_082"/>
                             <p> 7th. And if any man shall do<lb/> a public service he shall<lb/> be
                                 entitled to a Reward.</p>
                             <p> 8th. If anyone, whether a mem-<lb/>ber of this Union or not,
@@ -1034,7 +1037,7 @@
                                 <date when="1796-06-03">3rd Day of June 1796</date>.</p>
                             <p> Brothers, you see, and<lb/> understand clearly, what writ-<lb/>ings
                                 we have drawn, and why<lb/> we should sign these writings;<lb/>
-                                <pb n="82" facs="SW_JP1796_Page_083"/> that we may know how
+                                <pb n="82" facs="SW_JP1796_083"/> that we may know how
                                 many<lb/> of us are of one mind: By<lb/> this Agreement you see,
                                 that<lb/> we do not take any mans<lb/> property, or do any
                                 Injury<lb/> to any; the matter is free<lb/> to every one to act as
@@ -1043,7 +1046,7 @@
                                 the<lb/> Chiefs or of the orderly young<lb/> Men: Brothers, we<lb/>
                                 have now informed you every<lb/> Thing, particular; now you<lb/> are
                                 able to judge who are<lb/> in the fault; whether the<lb/>
-                                <pb n="83" facs="SW_JP1796_Page_084"/> Chiefs, or these our young
+                                <pb n="83" facs="SW_JP1796_084"/> Chiefs, or these our young
                                 men;<lb/> now you must be plain, if<lb/> you find fault with us,
                                 tell<lb/> us plainly; we are ready to<lb/> make up, if there is
                                 any<lb/> thing against us; but we think<lb/> we can say this, that
@@ -1056,7 +1059,7 @@
                     </floatingText>
                     <p> Which being admitted, <persName key="jquin2">John<lb/> Quinney</persName>
                         spoke on Behalf of him-<lb/>self, &amp;<lb/>
-                        <pb n="84" facs="SW_JP1796_Page_085"/> and the rest of the orderly young
+                        <pb n="84" facs="SW_JP1796_085"/> and the rest of the orderly young
                         men, as<lb/> follows; viz.</p>
                     <floatingText>
                         <body>
@@ -1070,7 +1073,7 @@
                                 have ex-<lb/>perienced that our Chiefs have<lb/> more wisdom and
                                 Knowledge<lb/> than we have; and that they<lb/> have been faithful
                                 in promot-<lb/>ing our Happiness; so that we<lb/>
-                                <pb n="85" facs="SW_JP1796_Page_086"/> think it is a great
+                                <pb n="85" facs="SW_JP1796_086"/> think it is a great
                                 Shame<lb/> for any of us to rise up against<lb/> them; and indeed
                                 there are only<lb/> a few who have done such thing;<lb/> now
                                 Brothers, we also declare<lb/> that all what our Chiefs have<lb/>
@@ -1088,7 +1091,7 @@
                             <p>We are very glad<lb/> that you have opened your<lb/> Minds to us so
                                 fully, that we<lb/> understand clearly all these<lb/> Circumstances
                                 that you have<lb/> mentioned; we are glad to<lb/> find<lb/>
-                                <pb n="86" facs="SW_JP1796_Page_087"/> find that you have
+                                <pb n="86" facs="SW_JP1796_087"/> find that you have
                                 maintained<lb/> all our agreements, so that the<lb/> Spoon is safe
                                 and bright; and<lb/> all what you have related<lb/> to us, is very
                                 agreeable to us;<lb/> and also the writing which you<lb/> have shewn
@@ -1097,7 +1100,7 @@
                                 lies; that<lb/> it lies upon your young men<lb/> there; Brothers,
                                 now we hear-<lb/>tily thank you Chiefs; and all<lb/> our Chiefs
                                 thank you, for the<lb/> Information you have given<lb/> us<lb/>
-                                <pb n="87" facs="SW_JP1796_Page_088"/> us; and we will now
+                                <pb n="87" facs="SW_JP1796_088"/> us; and we will now
                                 speak<lb/> a word to your orderly young<lb/> Warrior, who spoke a
                                 few words<lb/> to us, we like all his words<lb/> well; we are glad
                                 to find such<lb/> Disposition in young warriors<lb/> to obey their
@@ -1107,7 +1110,7 @@
                                 Chiefs; and we should<lb/> be glad all our young War-<lb/>riors
                                 would be so disposed; then<lb/> addressing himself to the<lb/> young
                                 Men who had com-<lb/>plained, he said,<lb/> Brothers<lb/>
-                                <pb n="88" facs="SW_JP1796_Page_089"/> Brothers, We are sorry to
+                                <pb n="88" facs="SW_JP1796_089"/> Brothers, We are sorry to
                                 find<lb/> that you yourselves have<lb/> created all these
                                 Difficul-<lb/>ties that you complain<lb/> of; and now we wish
                                 you<lb/> to make up, and Shake<lb/> Hands with your Chiefs<lb/>
@@ -1119,7 +1122,7 @@
                     <p> The Complainants refused<lb/> to comply with this Advice,<lb/> so the
                         Council broke up; all<lb/> satisfied to appearance, except-<lb/>ing these
                         Disturbers of the<lb/> public Tranquility.</p>
-                    <pb n="89" facs="SW_JP1796_Page_090"/>
+                    <pb n="89" facs="SW_JP1796_090"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-06-18">18th.</date><placeName key="broth"
@@ -1134,14 +1137,14 @@
                         families; after which<lb/> and reading our Certificate<lb/> to them; we
                         desired their pa-<lb/>tience, reminding them<lb/> that we had come a
                         great<lb/> way to see them in Love,<lb/> without any prospect of<lb/>
-                        <pb n="90" facs="SW_JP1796_Page_091"/> worldly Advantage to ourselves,<lb/>
+                        <pb n="90" facs="SW_JP1796_091"/> worldly Advantage to ourselves,<lb/>
                         and that we were desirous<lb/> they should endeavour<lb/> to still and quiet
                         their<lb/> Minds, as well as their<lb/> Bodies, that they might<lb/> be in a
                         proper Situation<lb/> to hear and understand, if<lb/> we should have any
                         thing<lb/> to say to them: this seems<lb/> to be too little understood<lb/>
                         by these people generally<lb/> where we have been; they<lb/> appear hardly
                         to know how<lb/> to compose themselves many<lb/> Minutes at a Time, unless we<lb/>
-                        <pb n="91" facs="SW_JP1796_Page_092"/> are speaking to them: but<lb/> we
+                        <pb n="91" facs="SW_JP1796_092"/> are speaking to them: but<lb/> we
                         were here favoured with<lb/> a Solid Opportunity; being<lb/> enabled with
                         great planning,<lb/> and Love to labour with them;<lb/> pointing out with
                         Clearness<lb/> the pernicious Effects of the<lb/> Use of Strong Drink; and
@@ -1149,7 +1152,7 @@
                         thereto; as well as the Ad-<lb/>vantage of improving in In-<lb/>dustry and
                         Application to their<lb/> Farming, in order to pro-<lb/>cure to themselves
                         and their<lb/> families a comfortable Living;<lb/> and<lb/>
-                        <pb n="92" facs="SW_JP1796_Page_093"/> and also shewing them<lb/> that by
+                        <pb n="92" facs="SW_JP1796_093"/> and also shewing them<lb/> that by
                         Industry and At-<lb/>tention to their Business,<lb/> they would be preserved
                         from<lb/> the frequent Temptations,<lb/> which a more indolant and<lb/>
                         wandering Life would expose<lb/> them to, with regard to this<lb/> Bane of
@@ -1158,7 +1161,7 @@
                         appear to be indus-<lb/>trious, and in general, their<lb/> Dress and manner
                         of Life,<lb/> approaches nearer to that<lb/> of the white people, than<lb/>
                         any of the other Tribes where<lb/> we have been; and <del>notwithstan</del><lb/>
-                        <pb n="93" facs="SW_JP1796_Page_094"/> notwithstanding the Gloo-<lb/>miness
+                        <pb n="93" facs="SW_JP1796_094"/> notwithstanding the Gloo-<lb/>miness
                         of some of our for-<lb/>mer, as well as present<lb/> prospects relative to
                         the<lb/> Concern which we are en-<lb/>gaged in, we are in measure<lb/>
                         encouraged to believe in the<lb/> Rectitude of our Undertak-<lb/>ing; both
@@ -1166,7 +1169,7 @@
                         Conferen-<lb/>ces, and particularly so this<lb/> Day, to the stilling, if
                         not<lb/> tendering many of the minds<lb/> of these people; and also<lb/>
                         from the Observance of an<lb/>
-                        <pb n="94" facs="SW_JP1796_Page_095"/> Advancement in Civiliza-<lb/>tion
+                        <pb n="94" facs="SW_JP1796_095"/> Advancement in Civiliza-<lb/>tion
                         amongst these differ-<lb/>ent Tribes, in proportion<lb/> to the Serious
                         Exertions<lb/> which have, from time to<lb/> time, been made by white<lb/>
                         people towards some of them,<lb/> for we understand, that, even<lb/> the
@@ -1174,7 +1177,7 @@
                         very Rude and<lb/> uncultivated State, were<lb/> still much more so, a
                         few<lb/> year ago, before their Ac-<lb/>quaintance with the other<lb/> more
                         civilized Tribes.</p>
-                    <pb n="95" facs="SW_JP1796_Page_096"/>
+                    <pb n="95" facs="SW_JP1796_096"/>
                     <p> The <orgName key="brotherton">Brothertown Indians</orgName><lb/> are under
                         the particular<lb/> Care of the State of New York;<lb/> there are three men
                         appointed<lb/> by Government as Commissioners,<lb/> or Superintendents of
@@ -1187,7 +1190,7 @@
                             Toohie</persName>, <persName key="jskes1">John Skesuck</persName>, and
                             <persName key="iwabe1">Isaac<lb/> Wauby</persName>, have received
                         Com-<lb/>missions of the Peace from<lb/>
-                        <pb n="96" facs="SW_JP1796_Page_097"/> Government; and they have<lb/> a
+                        <pb n="96" facs="SW_JP1796_097"/> Government; and they have<lb/> a
                         Counsellor at Law, ap-<lb/>pointed for their Assistance<lb/> in difficult
                         Cases; viz. <persName key="jherk1">Joseph<lb/> Herkland</persName>. They
                         consist<lb/> of about 56 Families, have<lb/> 9900 Acres of Land, which
@@ -1196,7 +1199,7 @@
                         white people; but it<lb/> is divided into Lots, some of an<lb/> hundred
                         &amp; some of fifty acres,<lb/> and they possess their Land<lb/> and other
                         Things as distinct<lb/> and private property; They<lb/>
-                        <pb n="97" facs="SW_JP1796_Page_098"/> received this Land, in the first<lb/>
+                        <pb n="97" facs="SW_JP1796_098"/> received this Land, in the first<lb/>
                         place, with considerable more,<lb/> by Gift from the <orgName key="oneida"
                             >Oneidas</orgName>; who<lb/> afterwards sold the whole,<lb/> with other
                         Lands, to the State<lb/> of New-York; but the State<lb/> discovering the
@@ -1206,7 +1209,7 @@
                     <p> They have one Saw mill<lb/> on their Land, which is private<lb/> property,
                         and there is a grist-<lb/>mill belonging to white peo-<lb/>ple within about
                         two miles<lb/> of<lb/>
-                        <pb n="98" facs="SW_JP1796_Page_099"/> of the Center of their
+                        <pb n="98" facs="SW_JP1796_099"/> of the Center of their
                         Build-<lb/>ings; they have some good<lb/> Cattle, Cows &amp; working
                         Oxen;<lb/> and they have £800 a year<lb/> coming in from the State<lb/> of
                         New-York; as Interest<lb/> for the purchase Money of<lb/> their Lands: That
@@ -1218,7 +1221,7 @@
                     <dateline><date when="1796-06-19">19th.</date><placeName key="stock"
                             type="unattested"/></dateline>
                     <p>Being first Day, and un-<lb/>derstanding these people<lb/> made<lb/>
-                        <pb n="99" facs="SW_JP1796_Page_100"/> made a practice of meeting<lb/>
+                        <pb n="99" facs="SW_JP1796_100"/> made a practice of meeting<lb/>
                         together to worship, without<lb/> any Hireling, or set Minister,<lb/> we
                         felt our Minds easy to attend<lb/> with them; which we accordingly<lb/> did;
                         and altho’ they conformed<lb/> to our Manner, yet we had<lb/> reason to
@@ -1227,7 +1230,7 @@
                         manner<lb/> being, for some or other of<lb/> them, either Man or woman,<lb/>
                         to be almost Constantly em-<lb/>ployed in preaching, praying,<lb/> singing
                         of Psalms or some<lb/> other outward and visible Acts<lb/> of<lb/>
-                        <pb n="100" facs="SW_JP1796_Page_101"/> of Devotion.</p>
+                        <pb n="100" facs="SW_JP1796_101"/> of Devotion.</p>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-06-20">20th.</date><placeName key="fschy"
@@ -1240,7 +1243,7 @@
                         and Circumstances of<lb/> these people, by paying<lb/> them a friendly Visit
                         in<lb/> their Cottages; in which<lb/> Service the Remainder<lb/> of this Day
                         was employed, to<lb/>
-                        <pb n="101" facs="SW_JP1796_Page_102"/> the mutual Satisfaction<lb/> of the
+                        <pb n="101" facs="SW_JP1796_102"/> the mutual Satisfaction<lb/> of the
                         Indians &amp; ourselves.</p>
                 </div>
                 <div type="entry">
@@ -1255,7 +1258,7 @@
                         these minutes:<lb/> viz. That these people were<lb/> in a promising way to
                         live<lb/> comfortably; and that they<lb/> stood in no absolute need of<lb/>
                         any present assistance, in the<lb/> way of farming Utensils &amp;c.-</p>
-                    <pb n="102" facs="SW_JP1796_Page_103"/>
+                    <pb n="102" facs="SW_JP1796_103"/>
                     <p> After Dinner took our Leave of<lb/> these people, who had generally<lb/>
                         expressed their Satisfaction and<lb/> thankfulness, for the brotherly<lb/>
                         freedom we had manifested<lb/> amongst them in visiting them<lb/> in their
@@ -1272,7 +1275,7 @@
                         they inform,<lb/> that they have done the Busi-<lb/>ness for which they
                         went; but<lb/> have heard no Tidings of <persName key="jtayl1">Jacob<lb/>
                             Taylor</persName>: We now concluded it<lb/>
-                        <pb n="103" facs="SW_JP1796_Page_104"/> necessary to make ourselves
+                        <pb n="103" facs="SW_JP1796_104"/> necessary to make ourselves
                         better<lb/> acquainted with the different<lb/> Situations of the Country
                         belonging<lb/> to this Tribe, in order to form<lb/> some Idea
                             <del>where</del> of the best<lb/> Place to make our Settlement;<lb/> and
@@ -1282,7 +1285,7 @@
                         place<lb/> for our purpose: Here four<lb/> of us took up our Lodgings
                         at<lb/> the House of a white Man,<lb/> who had settled on an hundred<lb/>
                         Acres of the Indian Lands, under<lb/> a<lb/>
-                        <pb n="104" facs="SW_JP1796_Page_105"/> a Licence from Government,<lb/>
+                        <pb n="104" facs="SW_JP1796_105"/> a Licence from Government,<lb/>
                         given to his Brother, who is<lb/> Black smith for that Nation:<lb/> This
                         House being on the great<lb/> Road leading to the Genesee<lb/> Country, and
                         keeping Liquor<lb/> and other things to sell, is be-<lb/>come a place of
@@ -1296,7 +1299,7 @@
                         /></dateline>
                     <p>Went to <persName key="jsken1">Shonandoah’s</persName>,<lb/> this being at
                         the principal<lb/> Town, and particularly viewed<lb/> the<lb/>
-                        <pb n="105" facs="SW_JP1796_Page_106"/> the adjoining Lands; after<lb/>
+                        <pb n="105" facs="SW_JP1796_106"/> the adjoining Lands; after<lb/>
                         which united in believing<lb/> somewhere near this place,<lb/> the most
                         suitable, on divers<lb/> accounts, for our Stand: we then<lb/> proceeded to
                         our Lodgings at<lb/>
@@ -1312,7 +1315,7 @@
                         Conferences, in which the<lb/> weight and Importance of our<lb/> Undertaking
                         was very sensibly<lb/> felt; and much Harmony and<lb/> brotherly
                         condescension experienced,<lb/> we<lb/>
-                        <pb n="106" facs="SW_JP1796_Page_107"/> we were enabled to unitedly
+                        <pb n="106" facs="SW_JP1796_107"/> we were enabled to unitedly
                         a-<lb/>gree on the following proposi-<lb/>tions to the <orgName key="oneida"
                             >Oneida Nation</orgName>.</p>
                     <p> viz.</p>
@@ -1326,7 +1329,7 @@
                                 how the white people<lb/> manage to raise a great deal<lb/> of Food
                                 and Clothing off of a<lb/> little Land, that you may<lb/> become
                                 able to support your-<lb/>selves, and your Children<lb/>
-                                <pb n="107" facs="SW_JP1796_Page_108"/> comfortably without
+                                <pb n="107" facs="SW_JP1796_108"/> comfortably without
                                 being<lb/> beholden to any body, and have<lb/> something to share
                                 for the old<lb/> and infirm, as well as to lay<lb/> by, against
                                 Times of Scarcity.</p>
@@ -1337,7 +1340,7 @@
                                 Blessings<lb/> of the all bountiful Creator;<lb/> now we have seen
                                 and reflected<lb/> upon your Situation, and consult-<lb/>ed one
                                 another for the future<lb/> prosperity of your whole Nation<lb/> and<lb/>
-                                <pb n="108" facs="SW_JP1796_Page_109"/> and the three Tribes you
+                                <pb n="108" facs="SW_JP1796_109"/> and the three Tribes you
                                 have<lb/> kindly permitted to settle on<lb/> your Lands; and we have
                                 put<lb/> our Conclusions in writing,<lb/> that it may be known
                                 what<lb/> we are willing to undertake for<lb/> you, and what we
@@ -1347,7 +1350,7 @@
                                 un-<lb/>mixed with any Jealousy and<lb/> fears; and we request you
                                 to<lb/> listen patiently and attentive-<lb/>ly to what we are a
                                 going to<lb/> propose<lb/>
-                                <pb n="109" facs="SW_JP1796_Page_110"/> propose to you, for your
+                                <pb n="109" facs="SW_JP1796_110"/> propose to you, for your
                                 own<lb/> Good; and if any part of it<lb/> displeases you, tell us so
                                 and<lb/> we will reconsider it. </p>
                             <p> Brothers, Three of our Friends<lb/> intend to stay with you for<lb/>
@@ -1362,7 +1365,7 @@
                                     >Stock-<lb/>bridge</orgName>, and <orgName key="brotherton"
                                     >Brothertown</orgName>: We<lb/> earnestly desire, that none<lb/>
                                 of you may discourage them<lb/> by<lb/>
-                                <pb n="110" facs="SW_JP1796_Page_111"/> by Swearing, Idleness,
+                                <pb n="110" facs="SW_JP1796_111"/> by Swearing, Idleness,
                                 Drunken-<lb/>ness, or misbehavior, for these<lb/> things are very
                                 disagreeable<lb/> to us; as you know they are<lb/> to the good
                                 Spirit.</p>
@@ -1374,7 +1377,7 @@
                                 Boundaries of<lb/> the old Fort, and north of<lb/>
                                 <geogName key="shana">Shanandoah Creek</geogName>, excepting<lb/>
                                 any part thereof now occu-<lb/>pied by your Families.</p>
-                            <pb n="111" facs="SW_JP1796_Page_112"/>
+                            <pb n="111" facs="SW_JP1796_112"/>
                             <p> Brothers, If we think there is<lb/> Encouragement to undertake<lb/>
                                 more another year, we shall<lb/> ask you for it seasonably, and<lb/>
                                 agree together where it shall<lb/> be. </p>
@@ -1384,7 +1387,7 @@
                                 and<lb/> be ready to take their turn<lb/> when it comes round; we
                                 want<lb/> to engage five or eight Sober<lb/> young Men as
                                 Apprentices<lb/> till next Spring. </p>
-                            <pb n="112" facs="SW_JP1796_Page_113"/>
+                            <pb n="112" facs="SW_JP1796_113"/>
                             <p> Brothers,<lb/> We suppose you will<lb/> be willing, that we should
                                 feed<lb/> our Horses, Cattle &amp;c. upon<lb/> the Commons, and
                                 that<lb/> you will allow us some<lb/> Suitable grass Lots to
@@ -1393,7 +1396,7 @@
                                 use of the Saw-<lb/>mill, and Smith’s shop, when<lb/> we have
                                 occasion for them;<lb/> and sometimes work your<lb/> Horses and Oxen
                                 when<lb/> they are not wanted by you.</p>
-                            <pb n="113" facs="SW_JP1796_Page_114"/>
+                            <pb n="113" facs="SW_JP1796_114"/>
                             <p> Brothers,<lb/> You are to under-<lb/>stand that our Friends are<lb/>
                                 to live plentifully, as their<lb/> own people do at home,<lb/> and
                                 their live stock are<lb/> also to be kept by the pro-<lb/>duce of
@@ -1402,7 +1405,7 @@
                                     <del>Men</del>” and infirm<lb/> people; and the rest is to
                                 be<lb/> divided amongst the young<lb/> Indian Apprentices; that
                                 they<lb/> may enjoy the fruit of<lb/> their Labour; and have<lb/> some-<lb/>
-                                <pb n="114" facs="SW_JP1796_Page_115"/> something to begin with<lb/>
+                                <pb n="114" facs="SW_JP1796_115"/> something to begin with<lb/>
                                 for themselves, when other<lb/> Apprentices are taken in<lb/> their
                                 Stead; provided they<lb/> behave well; but in case<lb/> of continued
                                 Idleness, Drun-<lb/>kenness, Swearing, or other<lb/> Misbehavior in
@@ -1410,7 +1413,7 @@
                                 and we request you to appoint<lb/> three of your Chiefs to
                                 unite<lb/> with our Friends as Judges,<lb/> that if four of them
                                 agree,<lb/> the person offending may<lb/> be justly discharged.</p>
-                            <pb n="115" facs="SW_JP1796_Page_116"/>
+                            <pb n="115" facs="SW_JP1796_116"/>
                             <p> Brothers,</p>
                             <p> Our stay amongst you<lb/> will depend upon several<lb/>
                                 Circumstances, and particu-<lb/>larly the Encouragement we<lb/> may
@@ -1438,7 +1441,7 @@
                                 </table></p>
                         </body>
                     </floatingText>
-                    <pb n="116" facs="SW_JP1796_Page_117"/>
+                    <pb n="116" facs="SW_JP1796_117"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-06-25">25th.</date><placeName key="oneid"
@@ -1452,7 +1455,7 @@
                         Chiefs and principle<lb/> Men on Second Day the 27th.<lb/> in order to fully
                         consider,<lb/> and agree upon the Several<lb/> particulars mentioned in
                         Said<lb/> propositions.</p>
-                    <pb n="117" facs="SW_JP1796_Page_118"/>
+                    <pb n="117" facs="SW_JP1796_118"/>
                     <p> The rest of our Company<lb/> were employed in writing, and<lb/> paying a
                         friendly Visit to Some<lb/> of the Families of the <orgName
                             key="stockbridge">Stock-<lb/>bridge’s</orgName>: which was to
@@ -1472,7 +1475,7 @@
                     <p>This morning as we<lb/> were preparing to go to the<lb/>
                         <placeName key="oneid">Oneida Town</placeName>, agreeable to<lb/> the
                         Conclusions of seventh<lb/> Day<lb/>
-                        <pb n="118" facs="SW_JP1796_Page_119"/> Day last, we received a Letter<lb/>
+                        <pb n="118" facs="SW_JP1796_119"/> Day last, we received a Letter<lb/>
                         from <persName key="ncusi1">Nicholas Schuisick</persName> Chief<lb/> of the
                             <orgName key="tuscarora">Tuscorora’s</orgName> informing<lb/> that we
                         need not go to <placeName key="oneid">Oneida</placeName><lb/> this Day, for
@@ -1483,7 +1486,7 @@
                         we have any Concerns to<lb/> transact with these people;<lb/> We therefore
                         concluded to wait<lb/> for their Reception at our Lodg-<lb/>ings; which we
                         accordingly<lb/> did, but heard no more of them<lb/>
-                        <pb n="119" facs="SW_JP1796_Page_120"/> this Day. </p>
+                        <pb n="119" facs="SW_JP1796_120"/> this Day. </p>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-06-28">28th.</date><placeName key="stock"
@@ -1498,7 +1501,7 @@
                         Com-<lb/>missioners relative to some<lb/> Land which they had sold,<lb/> and
                         they they intended to<lb/> come to us at <placeName key="stock"
                             >Stockbridge</placeName>,<lb/> after<lb/>
-                        <pb n="120" facs="SW_JP1796_Page_121"/> after their Return; which<lb/> is
+                        <pb n="120" facs="SW_JP1796_121"/> after their Return; which<lb/> is
                         expected this Evening: so<lb/> that it appears we can have<lb/> no
                         Opportunity with them<lb/> before tomorrow Morning.</p>
                 </div>
@@ -1513,7 +1516,7 @@
                         before met; but to our Surprise,<lb/> found no preparation making<lb/>
                         either to receive us there, or<lb/> to come to us at <placeName key="stock"
                             >Stockbridge</placeName>:~<lb/>
-                        <pb n="121" facs="SW_JP1796_Page_122"/> One of us went after <persName
+                        <pb n="121" facs="SW_JP1796_122"/> One of us went after <persName
                             key="jreed1">Jacob<lb/> Reed</persName>, their Interpreter, who<lb/>
                         when he was come, together<lb/> with the <persName key="jsken1">Chief
                             Schonandoah</persName>,<lb/> concluded to try to collect<lb/> the most
@@ -1522,7 +1525,7 @@
                         about<lb/> two or three OClock; when we<lb/> were informed, they were out
                         at<lb/> work, and could not be collected<lb/> this Day: but that they
                         would<lb/> meet early tomorrow Morning:<lb/> this was somewhat trying;<lb/> and<lb/>
-                        <pb n="122" facs="SW_JP1796_Page_123"/> and notwithstanding we have<lb/> met
+                        <pb n="122" facs="SW_JP1796_123"/> and notwithstanding we have<lb/> met
                         with various Instances,<lb/> in each of these Tribes, of un-<lb/>feigned
                         Regard and Affection,<lb/> yet it appeared now Seasonable<lb/> to shew some
                         marks of the<lb/> Discouragements naturally<lb/> consiquent on the <del
@@ -1532,7 +1535,7 @@
                         agreed to meet them tomor-<lb/>row morning; and returned<lb/> to our
                         Lodgings, at <emph rend="underline"><persName key="haupa1">Captain
                                 Hendricks</persName></emph>:</p>
-                    <p> In the Evening resumed the <pb n="123" facs="SW_JP1796_Page_124"/><lb/>
+                    <p> In the Evening resumed the <pb n="123" facs="SW_JP1796_124"/><lb/>
                         Consideration of some propositi-<lb/>ons to the <orgName key="stockbridge"
                             >Stockbridge Nation</orgName>,<lb/> which at Intervals of Leisure,<lb/>
                         for Several Days past had been<lb/> seriously before us: We now
@@ -1547,7 +1550,7 @@
                                     rend="underline">for help.</emph></p>
                             <p> Brothers,</p>
                             <p> As you cannot but<lb/> thankfully acknowledge this<lb/> to<lb/>
-                                <pb n="124" facs="SW_JP1796_Page_125"/> to be the Case with
+                                <pb n="124" facs="SW_JP1796_125"/> to be the Case with
                                 your<lb/> Nation in general; and as you<lb/> know we want to help
                                 many<lb/> of your Indian Brothers a<lb/> little, who stand in
                                 much<lb/> more need than you do; we<lb/> trust you will not
@@ -1557,7 +1560,7 @@
                                 Exam-<lb/>ple to your indian Brothers<lb/> and neighbors, who are
                                 far<lb/> behind you in point of Civil-<lb/>ization, we have agreed
                                 to help<lb/> you a little, as follows; </p>
-                            <pb n="125" facs="SW_JP1796_Page_126"/>
+                            <pb n="125" facs="SW_JP1796_126"/>
                             <p> Brothers,<lb/> We agree to give you<lb/> our Smith’s Tools all
                                 complete;<lb/> and one of our Friends can instruct<lb/> you a little
                                 in using them; and<lb/> also a share of our Implements<lb/> of
@@ -1569,7 +1572,7 @@
                                 Mill, by agreeing to advance three<lb/> Dollars to your one, of all
                                 the mo<lb/>ney actually to be paid for materi-<lb/>als, mechanical
                                 Labour, and victu<lb/>aling the Workmen; you finding<lb/> the<lb/>
-                                <pb n="126" facs="SW_JP1796_Page_127"/> the Timber, and
+                                <pb n="126" facs="SW_JP1796_127"/> the Timber, and
                                 delivering<lb/> it on the Spot, and doing such<lb/> other parts of
                                 the Business<lb/> as you may be capable of, with-<lb/>out bringing
                                 it into the gene-<lb/>ral Charge, of which we have<lb/> agreed to
@@ -1580,7 +1583,7 @@
                                 your Nations,<lb/> shall be considered as a part<lb/> of this
                                 Advance; and left<lb/> in your Hands for the aforesaid<lb/> purpose:
                                 provided always,<lb/> that<lb/>
-                                <pb n="127" facs="SW_JP1796_Page_128"/> if the Government
+                                <pb n="127" facs="SW_JP1796_128"/> if the Government
                                     <unclear>sh</unclear><lb/> at any time pay the Expen<lb/> of
                                 said Mill, agreeable to an<lb/> Article which you say is
                                 con<lb/>tained in a late Treaty, then, in<lb/> that Case you are to
@@ -1592,7 +1595,7 @@
                                 Care and Su-<lb/>perintendence of building said<lb/> Mill, without
                                 making any<lb/> Change on you for their Trou-<lb/>ble: and we
                                 further propose,<lb/>
-                                <pb n="128" facs="SW_JP1796_Page_129"/> that when said Mill is<lb/>
+                                <pb n="128" facs="SW_JP1796_129"/> that when said Mill is<lb/>
                                 erected, that you call a general<lb/> Council, and choose a
                                 Suitable<lb/> man amongst yourselves to<lb/> take the Care of this
                                 Mill,<lb/> and to grind all your Grain;<lb/> and to keep the Mill in
@@ -1603,7 +1606,7 @@
                                 ena-<lb/>ble him to keep the Mill in<lb/> good repair; which he
                                 ought<lb/> to do at his own Expense, out<lb/> of his profits which
                                 you allow<lb/>
-                                <pb n="129" facs="SW_JP1796_Page_130"/> him: and we further
+                                <pb n="129" facs="SW_JP1796_130"/> him: and we further
                                 propose,<lb/> that you admit your Brother,<lb/> the <orgName
                                     key="tuscarora">Tuscarora’s</orgName>, to enjoy a part<lb/> of
                                 the Advantages of th<emph rend="underline">is mill.</emph></p>
@@ -1617,7 +1620,7 @@
                                 up as much more as to encourage<lb/> him to keep steadily: Our
                                     Friend<unclear>s</unclear><lb/> who stay amongst you, will<lb/>
                                 pay the Money punctually,<lb/>
-                                <pb n="130" facs="SW_JP1796_Page_131"/> when a Certificate is
+                                <pb n="130" facs="SW_JP1796_131"/> when a Certificate is
                                 produced<lb/> to them signed by two our your<lb/> Chiefs, certifying
                                 that the School<lb/> has been kept steadily for the<lb/> Length of
                                 Time above mentioned<lb/> for Payments; the <orgName key="tuscarora"
@@ -1631,7 +1634,7 @@
                                     >Stockbridge</orgName> or <orgName key="tuscarora"
                                     >Tuscorora</orgName><lb/> Nations, living in this
                                 Reser-<lb/>vation, upon the Conditions<lb/>
-                                <pb n="131" facs="SW_JP1796_Page_132"/> herein after mentioned</p>
+                                <pb n="131" facs="SW_JP1796_132"/> herein after mentioned</p>
                             <p> 1st. For every 50 Bushels of<lb/> Wheat raised in any one year<lb/>
                                 within Said Term, by any<lb/> one Farmer, of either of these<lb/>
                                 two Nations, on his own Land,<lb/> not worked by white people,<lb/>
@@ -1642,7 +1645,7 @@
                                 the<lb/> Sum of one Dollar &amp; an half.</p>
                             <p> 4th. For every three Tons of hay<lb/> raised as aforesaid, and
                                 put<lb/> into a Stack or Barn, the Sum<lb/> of two Dollars.</p>
-                            <pb n="132" facs="SW_JP1796_Page_133"/>
+                            <pb n="132" facs="SW_JP1796_133"/>
                             <p> 5th. For every 12 yards of linnen<lb/> Cloth made by and Indian
                                 Woman<lb/> out of Flax raised on her, or her<lb/> Husband’s Land,
                                 and spun in<lb/> her own House, the Sum of one<lb/> Dollar, to be
@@ -1656,7 +1659,7 @@
                             <p>*Note, The <orgName key="stockbridge">Stockbridges</orgName> having
                                 an<lb/> Inclination to apply a part of their<lb/> Annual Income from
                                 Government,<lb/> to the Encouragement of Industry</p>
-                            <pb n="133" facs="SW_JP1796_Page_134"/>
+                            <pb n="133" facs="SW_JP1796_134"/>
                             <p>that the person applying,<lb/> shall produce a Certificate<lb/>
                                 signed, at least, by two of the Chiefs<lb/> of his or her particular
                                 Tribe,<lb/> certifying the particular Quan-<lb/>tity of Grain, Cloth
@@ -1670,7 +1673,7 @@
                             <p> by premiums, defined one of us to draw<lb/> them a plan for that
                                 purpose; which<lb/> gave rise to the above; this will ac-<lb/>count
                                 for the smallness of the Sums<lb/> annexed to each Article.</p>
-                            <pb n="134" facs="SW_JP1796_Page_135"/>
+                            <pb n="134" facs="SW_JP1796_135"/>
                             <p> And we further propose,<lb/> that any man or woman of<lb/> these two
                                 nations, by producing<lb/> a Certificate from two of the<lb/> Chiefs
                                 as aforesaid, that he or<lb/> she is highest or foremost in<lb/> any
@@ -1684,7 +1687,7 @@
                                     key="ewalk1">Enoch Walker</persName> are hereby<lb/> authorized,
                                 and desired to pay<lb/> the above mentioned premi-<lb/>ums,
                                 agreeable to what is herein<lb/>
-                                <pb n="135" facs="SW_JP1796_Page_136"/> above particularly
+                                <pb n="135" facs="SW_JP1796_136"/> above particularly
                                 mentioned.</p>
                             <p>
                                 <date when="1796-06-29">Sixth mo 29th. 1796.</date></p>
@@ -1700,7 +1703,7 @@
                     </floatingText>
                 </div>
                 <div type="entry">
-                    <pb n="136" facs="SW_JP1796_Page_137"/>
+                    <pb n="136" facs="SW_JP1796_137"/>
                     <dateline><date when="1796-06-30">30th.</date><placeName key="oneid"
                             type="unattested"/></dateline>
                     <p>Again attended the <orgName key="oneida">Oneida</orgName><lb/> Council,
@@ -1718,7 +1721,7 @@
                             <p> We find no Difficulty<lb/> in accepting your proposals,<lb/> in
                                 anything but the place<lb/> you choose. <emph rend="underline">See
                                     5th. Article.</emph><lb/>
-                                <pb n="137" facs="SW_JP1796_Page_138"/> many of us are against
+                                <pb n="137" facs="SW_JP1796_138"/> many of us are against
                                 part-<lb/>ing with any of our Commons,<lb/> because we have hardly
                                 pasture<lb/> enough for our Cattle now, and<lb/> if we lessen it,
                                 they will be famish-<lb/>ed, and brake down our fences to<lb/> get
@@ -1733,7 +1736,7 @@
                     </floatingText>
                     <p> Upon this the Spot was<lb/> viewed, and mutually agreed<lb/> to, bounded as
                         follows; Beginning<lb/>
-                        <pb n="138" facs="SW_JP1796_Page_139"/> at a Gut or Run South,
+                        <pb n="138" facs="SW_JP1796_139"/> at a Gut or Run South,
                         South<lb/>east of <persName key="ashon1">Anthony
                         Shononghleya’s</persName><lb/> House, and running nearly South<lb/> by a
                         couple of noted trees to <geogName key="shana">Shan-<lb/>andoah
@@ -1745,7 +1748,7 @@
                         should stay in this<lb/> Country under the present Con-<lb/>cern, paying him
                         one years Rent<lb/> down and covenanting to make<lb/> some Repairs: This
                         House is<lb/> Frame, about 38 feet by 18, one<lb/>
-                        <pb n="139" facs="SW_JP1796_Page_140"/> story high; and with a small<lb/>
+                        <pb n="139" facs="SW_JP1796_140"/> story high; and with a small<lb/>
                         Expense will be pretty warm<lb/> and comfortable; and is well<lb/> situated,
                         on an Eminence, com-<lb/>manding a view of nearly all<lb/> the aforesaid
                         Trait.</p>
@@ -1756,7 +1759,7 @@
                         pair of Steers,<lb/> you may have them to break<lb/> and work: and our
                         Horses we<lb/> can’t spare them; because they<lb/>
                         <unclear>a'n't</unclear> good for anything to work.</p>
-                    <pb n="140" facs="SW_JP1796_Page_141"/>
+                    <pb n="140" facs="SW_JP1796_141"/>
                     <p> And as to they Hay you asked<lb/> us about, say they, you may<lb/> have as
                         much as you want<lb/> at such and such certain<lb/> Flats, about three miles
                         off,<lb/> which they described to us, and<lb/> which several of our
@@ -1768,7 +1771,7 @@
                             key="ashon1">Anthony Shononghleya</persName>,<lb/> and <persName
                             key="nshag1">Nicholas Shagorakorongo</persName> to<lb/> unite with our
                         Friends agree-<lb/>able to the 9th. Article.</p>
-                    <pb n="141" facs="SW_JP1796_Page_142"/>
+                    <pb n="141" facs="SW_JP1796_142"/>
                     <p> We then desired the Copy<lb/> we had given them of our<lb/> proposals in
                         order to insert<lb/> on them the foregoing Excep-<lb/>tions and amendments;
                         to<lb/> the End that we might dearly<lb/> understand one another; and<lb/>
@@ -1777,7 +1780,7 @@
                         one<lb/> more general Meeting with<lb/> them before we went away,<lb/> which
                         we wished their Women<lb/> and young people <del>to</del> generally<lb/> to
                         attend.</p>
-                    <pb n="142" facs="SW_JP1796_Page_143"/>
+                    <pb n="142" facs="SW_JP1796_143"/>
                     <p> We next executed a memo-<lb/>randum of agreement between<lb/>
                         <persName key="ashon1">Anthony Shononghleya</persName> and our<lb/> Friends
                         respecting the House,<lb/> paid him the 20 Dollars for<lb/> the first years
@@ -1793,7 +1796,7 @@
                         order<lb/> to buy a pair of Oxen, and make<lb/> some other necessary
                         prepara-<lb/>tions for our new Settlement;<lb/> and to endeavor to get up
                         some<lb/> of our Good; whilst others were<lb/>
-                        <pb n="143" facs="SW_JP1796_Page_144"/> employed in writing, and
+                        <pb n="143" facs="SW_JP1796_144"/> employed in writing, and
                         arang-<lb/>ing different parts of our<lb/> Business; and a proposition<lb/>
                         for the writing of a Letter of<lb/> general Information to our<lb/>
                         Committee at <placeName key="phila">Philadelphia</placeName><lb/> being
@@ -1813,7 +1816,7 @@
                                 <date when="1796-07-01">7th. mo. 1st. 1796</date></dateline>
                             <p> Dear Friends,</p>
                             <p> We are all pretty well<lb/>
-                                <pb n="144" facs="SW_JP1796_Page_145"/> at present, and through
+                                <pb n="144" facs="SW_JP1796_145"/> at present, and through
                                 the<lb/> Blessing of Superintending Good-<lb/>ness, have been mostly
                                 preserved<lb/> in a good Degree so, since we<lb/> left home, tho’
                                 not without some<lb/> Exceptions: We feel ourselves now<lb/> a
@@ -1826,7 +1829,7 @@
                                     Schuyler</placeName> about<lb/> 22 Miles from this place,
                                 all<lb/> the Goods committed to his<lb/> Care: and
                                 notwithstanding<lb/> we have been between two<lb/> and<lb/>
-                                <pb n="145" facs="SW_JP1796_Page_146"/> and three weeks amongst
+                                <pb n="145" facs="SW_JP1796_146"/> and three weeks amongst
                                 the<lb/> different Tribes in the <orgName key="oneida"
                                     >Oneida</orgName><lb/> Reservation, we have not been<lb/> able,
                                 with the greatest Assiduity<lb/> and Address that we have been<lb/>
@@ -1841,7 +1844,7 @@
                                     >Brother-<lb/>town’s</orgName>, as there are these four<lb/>
                                 distinct Tribes living on this<lb/> Reservation; and have
                                 spared<lb/> no reasonable pains to make<lb/> our-<lb/>
-                                <pb n="146" facs="SW_JP1796_Page_147"/> ourselves thoroughly
+                                <pb n="146" facs="SW_JP1796_147"/> ourselves thoroughly
                                 acquainted<lb/> with their individual and<lb/> relative Situations
                                 in various<lb/> respects; having visited many<lb/> of them in their
                                 private<lb/> Huts: And as we have kept<lb/> regular Minutes of
@@ -1851,7 +1854,7 @@
                                 you:<lb/> In the mean time, trust it<lb/> will be acceptable to
                                 you<lb/> to receive the following Sum-<lb/>mary of our Sense of
                                 things here.</p>
-                            <pb n="147" facs="SW_JP1796_Page_148"/>
+                            <pb n="147" facs="SW_JP1796_148"/>
                             <p> The <orgName key="brotherton">Brothertown's</orgName> are a
                                 mixed<lb/> people from various parts of<lb/> the eastern
                                 Governments, set-<lb/>tled here on a Tract of Land giv-<lb/>en to
@@ -1864,7 +1867,7 @@
                                 Land now, but their Original<lb/> Gift from the <orgName
                                     key="oneida">Oneida’s</orgName> was<lb/> much more, which has
                                 been<lb/> reduced, much through their<lb/> own mismanagement, by<lb/>
-                                <pb n="148" facs="SW_JP1796_Page_149"/> leasing &amp;c. to the white
+                                <pb n="148" facs="SW_JP1796_149"/> leasing &amp;c. to the white
                                 peo-<lb/>ple, ‘till Government out<lb/> of friendship to them,
                                 took<lb/> notice of their Situation, pur-<lb/>chased the greater
                                 part of their<lb/> Tract, and secured the above<lb/> Quantity to
@@ -1878,7 +1881,7 @@
                                 this Letter,<lb/> and added to that minute; yet does<lb/> not
                                 contradict the Reason here given<lb/> for the Loss of their Lands;
                                 the State</note>
-                            <pb n="149" facs="SW_JP1796_Page_150"/>
+                            <pb n="149" facs="SW_JP1796_150"/>
                             Sizes, which they possess, as<lb/> they do other Things, as
                                 distinct<lb/> and private property: They<lb/> have one Sawmill on
                                 their Land,<lb/> which is private Property; and<lb/> there is a
@@ -1890,7 +1893,7 @@
                                     key="brotherton">Brothertown’s</orgName>, they might
                                 cer-<lb/>tainly have retained their whole<lb/> Land, had not their
                                 own Imprudence<lb/> rendered the above measure eligible.</p>
-                            <pb n="150" facs="SW_JP1796_Page_151"/>
+                            <pb n="150" facs="SW_JP1796_151"/>
                             <p>under the particular Care<lb/> and Superintendence of three<lb/>
                                 <del>Men</del> reputable Men ap-<lb/>pointed by Government, two<lb/>
                                 of whom are friends of New-<lb/> York, <persName key="teddy1">T.
@@ -1903,7 +1906,7 @@
                                 in many of their <del>private</del><lb/> private Habitations,
                                 we<lb/> united with the aforesaid <persName key="wfloy1">Col.<lb/>
                                     Floyd</persName>, in believing this Tribe<lb/>
-                                <pb n="151" facs="SW_JP1796_Page_152"/> not necessarily objects of
+                                <pb n="151" facs="SW_JP1796_152"/> not necessarily objects of
                                 Friends<lb/> Help at this Time, in the way<lb/> of Farming Utensils
                                 &amp;c. they being<lb/> well provided for, by their
                                 Super-<lb/>intendants, out of their Annual<lb/> Sum aforesaid.</p>
@@ -1916,7 +1919,7 @@
                                 good Quality, given to them by<lb/> the Oneida’s, and which
                                 they<lb/> divide into 100 Acre Lots,<lb/> and every family has
                                 one<lb/> Lot, and every Son is to have<lb/> a<lb/>
-                                <pb n="152" facs="SW_JP1796_Page_153"/> a Lot laid off by a Settled
+                                <pb n="152" facs="SW_JP1796_153"/> a Lot laid off by a Settled
                                 Order<lb/> ‘till the whole is occupied;<lb/> they have a Sawmill,
                                 and<lb/> sundry other Things which<lb/> they enjoy in common;
                                 but<lb/> they possess their Land &amp;<lb/> the fruits of it, as
@@ -1925,7 +1928,7 @@
                                 a<lb/> year coming in from General<lb/> Government; but they
                                 are<lb/> yet in debt for their Saw-<lb/>mill: but, in general
                                 they<lb/> also appear in a promising<lb/> way<lb/>
-                                <pb n="153" facs="SW_JP1796_Page_154"/> way to live comfortably in
+                                <pb n="153" facs="SW_JP1796_154"/> way to live comfortably in
                                 a<lb/> few years, having made con-<lb/>siderable Improvements
                                 in<lb/> farming &amp;c. tho’ they have<lb/> great room still to
                                 improve,<lb/> especially in Industry: –</p>
@@ -1936,7 +1939,7 @@
                                 nevertheless thought it right<lb/> to give them Some
                                 Encourage-<lb/>ment to move forward, and<lb/> set a good Example to
                                 their<lb/> less<lb/>
-                                <pb n="154" facs="SW_JP1796_Page_155"/> less civilized
+                                <pb n="154" facs="SW_JP1796_155"/> less civilized
                                 Neighbors;<lb/> we therefore agreed to give<lb/> them our Smiths
                                 Tools,<lb/> besides their Share of the<lb/> Implements of
                                 Husbandry;<lb/> and to encourage them in keep-<lb/>ing up their
@@ -1946,7 +1949,7 @@
                                 agreed to give them some<lb/> assistance in building a Grist<lb/>
                                 Mill upon certain stipulated<lb/> Conditions, too lengthy to be
                                 par-<lb/>ticularly mentioned in this<lb/> Letter<lb/>
-                                <pb n="155" facs="SW_JP1796_Page_156"/> Letter, together with
+                                <pb n="155" facs="SW_JP1796_156"/> Letter, together with
                                 several<lb/> small conditional premiums<lb/> as Encouragement to
                                 Industry<lb/> and Sobriety. </p>
                             <p> The <orgName key="tuscarora">Tuscorora’s</orgName> are an
@@ -1959,7 +1962,7 @@
                                 the Distribu-<lb/>tion of the property sent up;<lb/> and have
                                 considered them in<lb/> the aforesaid proposals to the<lb/>
                                 <orgName key="stockbridge">Stockbridge</orgName>, they living on the<lb/>
-                                <pb n="156" facs="SW_JP1796_Page_157"/>
+                                <pb n="156" facs="SW_JP1796_157"/>
                                 <orgName key="oneida">Oneida</orgName> Lands within about<lb/> one
                                 mile and an half of <persName key="haupa1">Cap.<lb/>
                                     Hendricks</persName>.</p>
@@ -1972,7 +1975,7 @@
                                 surveying,<lb/> and has been some in our way,<lb/> by engaging their
                                 Attention.<lb/> They appear to be a declin-<lb/>ing People, not only
                                 in their<lb/> Land going one piece after<lb/>
-                                <pb n="157" facs="SW_JP1796_Page_158"/> another; but we are
+                                <pb n="157" facs="SW_JP1796_158"/> another; but we are
                                 informed<lb/> that they actually decrease in<lb/> Numbers; and there
                                 is reason<lb/> to believe they will continue<lb/> so to do, unless
                                 some reform<lb/> can be happily effected a-<lb/>mongst them: They
@@ -1983,7 +1986,7 @@
                                 a smith hired<lb/> by the year, by Government;<lb/> and about 700
                                 Dollars a<lb/> year from general Government,<lb/> and about 5000
                                 from the<lb/> State of New-York. Here<lb/> we<lb/>
-                                <pb n="158" facs="SW_JP1796_Page_159"/> we have unitedly agreed<lb/>
+                                <pb n="158" facs="SW_JP1796_159"/> we have unitedly agreed<lb/>
                                 to make our Settlement,<lb/> and have agreed with them<lb/>
                                 respecting the place, as well<lb/> as the Terms and Conditions;<lb/>
                                 which we hope is now pretty<lb/> clearly understood by them<lb/> and
@@ -1992,7 +1995,7 @@
                                 we could get our plan<lb/> fully established: We have<lb/> a
                                 considerable Tract of un-<lb/>cultivated Land now allotted<lb/> to
                                 us near the Center of<lb/> their Settlement, and<lb/>
-                                <pb n="159" facs="SW_JP1796_Page_160"/> about four miles from
+                                <pb n="159" facs="SW_JP1796_160"/> about four miles from
                                     <placeName key="stock">Stock-<lb/>bridge</placeName>, and ten or
                                 twelve from<lb/>
                                 <placeName key="broth">Brothertown</placeName>: We have also
@@ -2004,7 +2007,7 @@
                                 their Chiefs, who to oblige<lb/> us, as well as in
                                 consideration<lb/> of a handsome Rent, has a-<lb/>greed to move out
                                 and give<lb/> us possession next Second<lb/> Day<lb/>
-                                <pb n="160" facs="SW_JP1796_Page_161"/> Day: The Obtaining of
+                                <pb n="160" facs="SW_JP1796_161"/> Day: The Obtaining of
                                 this<lb/> House we considered as a<lb/> favorable Circumstance<lb/>
                                 to our Business.</p>
                             <p> Dear Friends, neither the<lb/> Room nor Leisure allotted for<lb/>
@@ -2015,7 +2018,7 @@
                                 Minutes.</p>
                             <p> Three of our Friends are<lb/> this Day gone out for <placeName
                                     key="fschy">fort<lb/>
-                                    <pb n="161" facs="SW_JP1796_Page_162"/> Schuyler</placeName> and
+                                    <pb n="161" facs="SW_JP1796_162"/> Schuyler</placeName> and
                                 that Neighbour-<lb/>hood in order to purchase Ox<lb/>en, and some
                                 other Necessaries,<lb/> for our new Settlement, and<lb/> to attend
                                 to getting some of<lb/> our Goods up; so that we have<lb/> a Hope to
@@ -2026,7 +2029,7 @@
                             <p> We have been kindly received<lb/> by the Indians in general,
                                 and<lb/> have received many marks<lb/> of unfeigned Regard and
                                 Af-<lb/>fection amongst them; and<lb/> have had the Satisfaction to<lb/>
-                                <pb n="162" facs="SW_JP1796_Page_163"/> observe a very
+                                <pb n="162" facs="SW_JP1796_163"/> observe a very
                                 agreeable<lb/> Disposition amongst the<lb/> white Inhabitants on
                                 the<lb/> frontiers, relative to the In-<lb/>dians and our Concern;
                                 and<lb/> we may thankfully acknow-<lb/>ledge, that in several of
@@ -2036,7 +2039,7 @@
                                 minds in<lb/> the Belief of the rectitude of<lb/> this Concern; and
                                 that its<lb/> Origin is from the Univer-<lb/>sal Father of the great
                                 family<lb/> of<lb/>
-                                <pb n="163" facs="SW_JP1796_Page_164"/> of mankind; who cannot
+                                <pb n="163" facs="SW_JP1796_164"/> of mankind; who cannot
                                 but<lb/> be graciously mindful of what-<lb/>soever his Hand hath
                                 made;<lb/> yet we have had some pretty<lb/> close and Exercising
                                 Seasons<lb/> to pass through, more parti-<lb/>cularly amongst the
@@ -2049,7 +2052,7 @@
                                     >tations.</emph></p>
                             <p> We expect to move towards<lb/>
                                 <placeName key="canan">Conandarque</placeName>, taking two small<lb/>
-                                <pb n="164" facs="SW_JP1796_Page_165"/> Tribes on our way; viz.<lb/>
+                                <pb n="164" facs="SW_JP1796_165"/> Tribes on our way; viz.<lb/>
                                 <emph rend="underline"><orgName key="onondaga"
                                     >Onondago</orgName></emph>, about 30 miles<lb/> from <placeName
                                     key="oneid">Oneida</placeName>; and <orgName key="cayugaind"
@@ -2071,7 +2074,7 @@
                             </p>
                         </body>
                     </floatingText>
-                    <pb n="165" facs="SW_JP1796_Page_166"/>
+                    <pb n="165" facs="SW_JP1796_166"/>
                     <p> In the afternoon of this Day<lb/> we attended a farewell Council<lb/> of the
                             <orgName key="tuscarora">Tuscorora’s</orgName>, which was<lb/> opened by
                         informing them in<lb/> what Respects we had considered<lb/> them in our
@@ -2082,7 +2085,7 @@
                         their<lb/> view the Serious necessity of<lb/> a Change in their Manner<lb/>
                         of Life; together with the<lb/> probability that as they increas-<lb/> ed in
                         Industry and Sobriety,<lb/>
-                        <pb n="166" facs="SW_JP1796_Page_167"/> they would partake more<lb/>
+                        <pb n="166" facs="SW_JP1796_167"/> they would partake more<lb/>
                         plentifully of the Blessings<lb/> of the great Spirit, both in<lb/>
                         Temporals and Spirituals: </p>
                     <p> They appeared in a good<lb/> Degree serious; and <persName key="ncusi1"
@@ -2095,7 +2098,7 @@
                                 Spirit, that has put<lb/> it into your Hearts to come<lb/> so far to
                                 see us: We acknowledge<lb/> that we are poor, and weak &amp;<lb/>
                                 ignorant, and don’t do as we<lb/> ought<lb/>
-                                <pb n="167" facs="SW_JP1796_Page_168"/> ought to do; but we have
+                                <pb n="167" facs="SW_JP1796_168"/> ought to do; but we have
                                 some<lb/> Feelings; and we heartily thank<lb/> you for your good
                                 Advice, and<lb/> help to poor Indians, both for<lb/> our Bodies and
                                 for our Souls:<lb/> and we promise you, we will<lb/> try to follow
@@ -2107,7 +2110,7 @@
                                     <emph rend="underline">improve.</emph></p>
                         </body>
                     </floatingText>
-                    <pb n="168" facs="SW_JP1796_Page_169"/>
+                    <pb n="168" facs="SW_JP1796_169"/>
                     <p> In the Evening two of our<lb/> friends, who went yesterday to<lb/> the white
                         Settlements, returned,<lb/> and informed, that they have<lb/> bought Oxen, a
                         Cart and some<lb/> other necessaries, and that<lb/> the other Friend was
@@ -2118,7 +2121,7 @@
                         happened last Evening at the<lb/> aforesaid <placeName key="fschy">fort
                             Schuyler</placeName>: The<lb/> House of one <persName>Jonston</persName>
                         an<lb/> Innkeeper, who had been<lb/>
-                        <pb n="169" facs="SW_JP1796_Page_170"/> settled there about two years,<lb/>
+                        <pb n="169" facs="SW_JP1796_170"/> settled there about two years,<lb/>
                         took fire about Eleven OClock<lb/> at Night, and in less than an<lb/> Hour
                         was burnt to the Ground;<lb/> together with much of the pro-<lb/>perty in
                         it; and what was still<lb/> abundantly more trying, one<lb/> of his
@@ -2128,7 +2131,7 @@
                         Village, was fortunately at<lb/> the Adjoining Inn; but saw<lb/> the
                         frightful Scene. </p>
                     <p> The poor Child who suffered,<lb/> had<lb/>
-                        <pb n="170" facs="SW_JP1796_Page_171"/> had been imprudently left<lb/> up
+                        <pb n="170" facs="SW_JP1796_171"/> had been imprudently left<lb/> up
                         the last in the House; and<lb/> going to Bed in the Garret, where<lb/> they
                         deposited their flax and<lb/> Tow, and carrying a Candle<lb/> with her, this
                         Accident is<lb/> easily accounted for: There<lb/> were two other Children
@@ -2136,7 +2139,7 @@
                         safely down, being only<lb/> a little singed about the<lb/> Head &amp; face;
                         the other had<lb/> the Composure to recollect<lb/> that the Garret Floor
                         was<lb/> loose, and therefore lifted up<lb/> one of the Boards and sliped<lb/>
-                        <pb n="171" facs="SW_JP1796_Page_172"/> down, and was saved; but the<lb/>
+                        <pb n="171" facs="SW_JP1796_172"/> down, and was saved; but the<lb/>
                         poor Child who had been in-<lb/>strumental to the Scene was so<lb/>
                         confused, as not to know how<lb/> to get down, altho’ her Brother<lb/> had
                         opened the Way: and what<lb/> was more extraordinary the<lb/> poor Mother,
@@ -2145,7 +2148,7 @@
                         relieving her, by<lb/> means of the floor being loose;<lb/> but the
                         Confusion was so great,<lb/> that all were deaf to her most<lb/> moving
                         Entreaties; even the<lb/> Child’s Father himself.</p>
-                    <pb n="172" facs="SW_JP1796_Page_173"/>
+                    <pb n="172" facs="SW_JP1796_173"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-07-03">3rd.</date><placeName key="broth"/></dateline>
@@ -2160,7 +2163,7 @@
                         <placeName key="broth">Brothertown</placeName>, to give our Said<lb/> Friend
                         a welcome, and if con-<lb/>venient, conduct him to our<lb/> Lodgings, which
                         was accordingly<lb/>
-                        <pb n="173" facs="SW_JP1796_Page_174"/> done, in Company with <persName
+                        <pb n="173" facs="SW_JP1796_174"/> done, in Company with <persName
                             key="haupa1">Cap.<lb/> Hendrick</persName>; returned in the<lb/>
                         Evening, together with the afore-<lb/>said Friend, whom we were<lb/> all
                         glad to see in <emph rend="underline">this Country.</emph></p>
@@ -2171,7 +2174,7 @@
                         Chiefs<lb/> against their Minister<lb/>
                         <persName key="skirk1">Kirkland</persName>; These Men be-<lb/>sides
                         attending to their own<lb/> Business, enquired particu-<lb/>larly<lb/>
-                        <pb n="174" facs="SW_JP1796_Page_175"/> into the Nature and Design<lb/> of
+                        <pb n="174" facs="SW_JP1796_175"/> into the Nature and Design<lb/> of
                         ours, with which they seemed<lb/> much pleased, and pased<lb/> some
                         Encomiums on the<lb/> Benevolence of our Undertaking;<lb/>
                         <del>and</del> expressing their hearty<lb/> Wishes for its Success: </p>
@@ -2180,7 +2183,7 @@
                         took<lb/> a seasonable opportunity to<lb/> express it to them;
                         reminding<lb/> them how deeply the Re-<lb/>putation of that most ho-<lb/>ly
                         Religion which we and<lb/>
-                        <pb n="175" facs="SW_JP1796_Page_176"/> they jointly profess, must be<lb/>
+                        <pb n="175" facs="SW_JP1796_176"/> they jointly profess, must be<lb/>
                         effected, in the Eyes of the<lb/> Natives, by the professed<lb/>
                         Promulgations thereof, living<lb/> answerable, or contrary<lb/> to the
                         purity of its Dictates,<lb/> and also calling to their Re-<lb/>membrance,
@@ -2189,7 +2192,7 @@
                         De-<lb/>nominations, been exhibited<lb/> towards the Natives of
                         America,<lb/> to the great Scandal and<lb/> wounding of the common<lb/>
                         Cause of Christianity: and<lb/> modestly suggesting to them, our<lb/> ap-<lb/>
-                        <pb n="176" facs="SW_JP1796_Page_177"/> apprehensions of the<lb/> present
+                        <pb n="176" facs="SW_JP1796_177"/> apprehensions of the<lb/> present
                         Charges and Com-<lb/>plaints before them not<lb/> being wholly groundless;
                         We<lb/> earnestly pressed upon them<lb/> the necessity of great
                         serious-<lb/>ness and impartiality in<lb/> investigating and resulting<lb/>
@@ -2198,7 +2201,7 @@
                         be favoured with<lb/> a Line of Information in<lb/> some future State of
                         our<lb/> Concern.</p>
                     <p> Here it may be proper<lb/>
-                        <pb n="177" facs="SW_JP1796_Page_178"/> to introduce the following
+                        <pb n="177" facs="SW_JP1796_178"/> to introduce the following
                         anec-<lb/>dote, of an Indian Bible, now<lb/> in the Hands of <persName
                             key="jserg1">John Serjent</persName>,<lb/> Minister to the <orgName
                             key="stockbridge">Stockbridge<lb/> Nation</orgName>; and which we had
@@ -2207,7 +2210,7 @@
                         the Indian Lan-<lb/>guages; and they have a Tra-<lb/>dition amongst them;
                         that<lb/> the Translator was so Econo-<lb/>mical as to use but two
                         Quills<lb/> in the whole work.</p>
-                    <pb n="178" facs="SW_JP1796_Page_179"/>
+                    <pb n="178" facs="SW_JP1796_179"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-07-04">4th.</date><placeName key="stock"/></dateline>
@@ -2230,7 +2233,7 @@
                         Watch-<lb/>fulness and inward prayer,<lb/> and faithful Obedience to
                         the<lb/> voice of the good Spirit in our<lb/> Hearts, and a careful
                         avoiding<lb/> of<lb/>
-                        <pb n="180" facs="SW_JP1796_Page_181"/> of all Places and Occasions<lb/> of
+                        <pb n="180" facs="SW_JP1796_181"/> of all Places and Occasions<lb/> of
                         Temptation.</p>
                     <p> After which <emph rend="underline"><persName key="samuel"
                             >Samuel</persName></emph>, an<lb/> old Indian man, and a <orgName
@@ -2244,7 +2247,7 @@
                                 all my family,<lb/> and can’t live many Days;<lb/> but all this
                                 Spring I think<lb/> Jesus will send me some<lb/> Comfort in my
                                 trouble;<lb/> but nobody say any thing<lb/>
-                                <pb n="181" facs="SW_JP1796_Page_182"/> to me ‘till now you are
+                                <pb n="181" facs="SW_JP1796_182"/> to me ‘till now you are
                                 come:<lb/> I wish I was young, then I<lb/> would do what you say
                                 direct-<lb/>ly, and I will go and see how<lb/> your Friends work at
                                     <placeName key="oneid">Oneida</placeName>,<lb/> every two or
@@ -2257,7 +2260,7 @@
                             </p>
                         </body>
                     </floatingText>
-                    <pb n="182" facs="SW_JP1796_Page_183"/>
+                    <pb n="182" facs="SW_JP1796_183"/>
                     <p> After a short but solemn<lb/> Pause, <persName key="haupa1">Cap.
                             Hendrick</persName>, in<lb/> Behalf of the Nation, made,<lb/> in
                         substance, the following Reply.</p>
@@ -2271,7 +2274,7 @@
                                 pro-<lb/>per to do for our Nation.</p>
                             <p> Brothers,</p>
                             <p> We rejoice that the good<lb/> Spirit has put it into your<lb/>
-                                <pb n="183" facs="SW_JP1796_Page_184"/> Hearts, and into the Hearts
+                                <pb n="183" facs="SW_JP1796_184"/> Hearts, and into the Hearts
                                 of your<lb/> Brothers at home to do us good,<lb/> we believe it is
                                 from the good<lb/> Spirit because your Words are weigh-<lb/>ty, and
                                 we feel them so on our<lb/> Minds.</p>
@@ -2284,7 +2287,7 @@
                             <p> You give us Smiths<lb/> Tools, for which we thank you,<lb/> we have
                                 suffered much for want<lb/> of them, having been obliged to<lb/> go
                                 many miles, and sometimes<lb/> loose<lb/>
-                                <pb n="184" facs="SW_JP1796_Page_185"/> some Days to get one<lb/>
+                                <pb n="184" facs="SW_JP1796_185"/> some Days to get one<lb/>
                                 Link of a Chain mended.</p>
                             <p> Brothers,</p>
                             <p> Your assisting us<lb/> to build a Grist-mill, will be a<lb/> great
@@ -2296,7 +2299,7 @@
                             <p> Your Offer to help<lb/> us in keeping up our School is<lb/> very
                                 acceptable to us, be assured<lb/> we will do our part towards<lb/>
                                 it.</p>
-                            <pb n="185" facs="SW_JP1796_Page_186"/>
+                            <pb n="185" facs="SW_JP1796_186"/>
                             <p> Brothers,</p>
                             <p> What you propose re-<lb/>specting the money lent us, is<lb/> very
                                 agreeable to our minds &amp;<lb/> also the Encouragement you<lb/>
@@ -2308,7 +2311,7 @@
                                 orderly young men,<lb/> will endeavour to follow your<lb/> Advice,
                                 and with the Blessing<lb/> of the good Spirit, we hope to<lb/> live
                                 more than ever as white<lb/> people do; foe we never received<lb/> such<lb/>
-                                <pb n="186" facs="SW_JP1796_Page_187"/> such Encouragement
+                                <pb n="186" facs="SW_JP1796_187"/> such Encouragement
                                 before<lb/> from any people.</p>
                             <p> Brothers,</p>
                             <p> We observe what you<lb/> tell us, that we must be an<lb/> Example to
@@ -2320,7 +2323,7 @@
                                 be always ready to assist them if<lb/> they get in trouble.</p>
                             <p> Brothers,</p>
                             <p> We spoke to you several<lb/> Days ago about the Difficulties<lb/>
-                                <pb n="187" facs="SW_JP1796_Page_188"/> We are under in not
+                                <pb n="187" facs="SW_JP1796_188"/> We are under in not
                                 receiving<lb/> our annual Income from the<lb/> United States: We
                                 desire your<lb/> Friends would help us in this<lb/> Case, and
                                 appoint one to take<lb/> care to get our money sent to<lb/> us
@@ -2337,7 +2340,7 @@
                     <p>The forepart of this Day,<lb/> we were employed in writing<lb/> Letters home,
                         and making some<lb/> necessary Arangements;<lb/> In the Afternoon two of
                         our<lb/> Number<lb/>
-                        <pb n="188" facs="SW_JP1796_Page_189"/> Number went to <placeName
+                        <pb n="188" facs="SW_JP1796_189"/> Number went to <placeName
                             key="oneid">Oneida</placeName> to<lb/> give notice, and request a
                         gene-<lb/>ral Council next Day:</p>
                     <p> This Evening received an<lb/> Account of the fourth Murder<lb/> committed
@@ -2350,7 +2353,7 @@
                         last; and the <del>last</del>other of<lb/> the <orgName key="cayugaind"
                             >Cayuga’s</orgName> a few Days since;<lb/> Three of these Cases in
                         the<lb/> very neighbourhood where<lb/>
-                        <pb n="189" facs="SW_JP1796_Page_190"/> we now are; and the other<lb/> about
+                        <pb n="189" facs="SW_JP1796_190"/> we now are; and the other<lb/> about
                         60 miles from this <del rend="crossout">pla</del><lb/> place, on our way to
                             <placeName key="canan">Conandar-<lb/>que</placeName>. </p>
                     <p> Some of the minds of these<lb/> people are sensibly affected by<lb/> the
@@ -2363,7 +2366,7 @@
                         <body>
                             <p> Brothers,</p>
                             <p> Before you cover your<lb/> Council, we beg your<lb/>
-                                <pb n="190" facs="SW_JP1796_Page_191"/> Attention to the voices of
+                                <pb n="190" facs="SW_JP1796_191"/> Attention to the voices of
                                 your<lb/> brother, the different Tribes living<lb/>
                                 <placeName key="oneid">Oneida Country</placeName>; speaks to you
                                 in<lb/> the remembrance of the friendship<lb/> you have manifested
@@ -2377,7 +2380,7 @@
                                 your<lb/> Indian Brethren, for which<lb/> you have given us many
                                 good<lb/> Counsels; tho’ we feel ourselves<lb/> willing to follow
                                 your Coun-<lb/>sels, but it has made no Effect<lb/> as<lb/>
-                                <pb n="191" facs="SW_JP1796_Page_192"/> as yet. Our Situation
+                                <pb n="191" facs="SW_JP1796_192"/> as yet. Our Situation
                                 is<lb/> Still miserable: Our Ancesters<lb/> were conquered
                                 immediately<lb/> after you came over this Island<lb/> by the Strong
                                 Hero, who does<lb/> still reign among Indian<lb/> Tribes with
@@ -2387,7 +2390,7 @@
                                 behold<lb/> our doleful Situation; By the<lb/> power of our Enemy
                                 our Eyes<lb/> have been blinded Our young<lb/> Men seem become
                                 willing<lb/> Slaves to this despotic Heroe<lb/> so<lb/>
-                                <pb n="192" facs="SW_JP1796_Page_193"/> so that we displeased
+                                <pb n="192" facs="SW_JP1796_193"/> so that we displeased
                                 the<lb/> great good Spirit, and could<lb/> not become civilized
                                 people.<lb/> In looking back we see no-<lb/>thing but Desolation of
                                 our<lb/> mighty men: In looking<lb/> forward we see the
@@ -2398,7 +2401,7 @@
                             <p> Brothers,</p>
                             <p> In remembrance<lb/> of your kind promises, we<lb/> unite our Cries
                                 to you for<lb/>
-                                <pb n="193" facs="SW_JP1796_Page_194"/> help: perhaps some of<lb/>
+                                <pb n="193" facs="SW_JP1796_194"/> help: perhaps some of<lb/>
                                 you are ready to say; what<lb/> man that must be that has<lb/>
                                 abused so much of our Bre-<lb/>thren: never was such
                                     <del>Tyrant</del><lb/> Hero, or Tyrant heard of, that<lb/> ever
@@ -2410,7 +2413,7 @@
                             <p> And we know you have<lb/> power to control him, and<lb/> as we
                                 desire to live in peace,<lb/> and to become civilized Nati-<lb/>ons,
                                 we earnestly entreat<lb/> you<lb/>
-                                <pb n="194" facs="SW_JP1796_Page_195"/> you to use your power
+                                <pb n="194" facs="SW_JP1796_195"/> you to use your power
                                 and<lb/> wisdom to prevent all peo-<lb/>ple, whether white or
                                 black,<lb/> who may cause Rum and<lb/> other Spirituous Liquors<lb/>
                                 throughout your State, to come<lb/> into the Hands of our
@@ -2442,7 +2445,7 @@
                                         Thadughgwesera</persName></cell>
                                 </row>
                             </table>
-                            <pb n="195" facs="SW_JP1796_Page_196"/>
+                            <pb n="195" facs="SW_JP1796_196"/>
                             <lb/>
                             <table cols="2">
                                 <row>
@@ -2492,7 +2495,7 @@
                         last; and having it<lb/> clearly drawn out, it was sign-<lb/>ed by all our
                         number and six<lb/> of their Chiefs; we endeavoured<lb/> to explain the
                         reason of our<lb/>
-                        <pb n="196" facs="SW_JP1796_Page_197"/> present Offers falling short<lb/> of
+                        <pb n="196" facs="SW_JP1796_197"/> present Offers falling short<lb/> of
                         the Suggestions contained<lb/> in our general Letter of last<lb/> Spring;
                         which we understood<lb/> they had observed, with Express-<lb/>ions of
                         surprise; letting them<lb/> know, that every thing must<lb/> have a
@@ -2501,7 +2504,7 @@
                         They<lb/> appeared to be pretty well<lb/> reconciled to our plan; and<lb/>
                         expressed their Readiness<lb/> to adopt it; and recommend-<lb/>ed to their
                         young Men, who<lb/> were present to engage with<lb/>
-                        <pb n="197" facs="SW_JP1796_Page_198"/> willingness into the Business:<lb/>
+                        <pb n="197" facs="SW_JP1796_198"/> willingness into the Business:<lb/>
                         This Council was however not<lb/> quite so satisfactory as could<lb/> have
                         been desired, none of their<lb/> women being present tho’ de-<lb/>sired by
                         us, and some other Cir-<lb/>cumstances was not altogether<lb/> agreeable*:
@@ -2514,7 +2517,7 @@
                         part for the use of<lb/> our Friends <emph rend="underline">who stay
                             here.</emph></p>
                     <p>*The Interpreter being in Liquor</p>
-                    <pb n="198" facs="SW_JP1796_Page_199"/>
+                    <pb n="198" facs="SW_JP1796_199"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-07-07">7th.</date><placeName key="stockbridge"
@@ -2529,7 +2532,7 @@
                         felt our Minds disposed<lb/> to sit down together to wait,<lb/> for the
                         renewal of our Strength<lb/> in inward Retirement,<lb/>
                         <persName key="jevan1">Joshua Evans</persName> being also<lb/>
-                        <pb n="199" facs="SW_JP1796_Page_200"/> with us; and leaving the Door<lb/>
+                        <pb n="199" facs="SW_JP1796_200"/> with us; and leaving the Door<lb/>
                         and windows open, the Indians<lb/> came and looked at us <del>in</del><lb/>
                         with silent Admiration, <del><unclear>behav</unclear></del><lb/> behaving in
                         a good Degree Solid,<lb/> and making no D<emph rend="underline"
@@ -2540,7 +2543,7 @@
                         under an Expectation of the<lb/> Goods being divided, and some<lb/> of us
                         also haveing a like Desire,<lb/> not being fully relieved by<lb/> the
                         Opportunity of yesterday;<lb/> it was at length proposed<lb/>
-                        <pb n="200" facs="SW_JP1796_Page_201"/> to the Indians, and agreed<lb/> to,
+                        <pb n="200" facs="SW_JP1796_201"/> to the Indians, and agreed<lb/> to,
                         the Interpreter <persName key="jreed1">Jacob Reed</persName><lb/> being
                         present, and in a better<lb/>
                         <del>agreeable</del> Situation for such Bu-<lb/>siness, than at last
@@ -2552,7 +2555,7 @@
                         who<lb/> are in general much more<lb/> Solid and reachable than<lb/> the
                         men.</p>
                     <p> After which they<lb/>
-                        <pb n="201" facs="SW_JP1796_Page_202"/> made us a short Speech,
+                        <pb n="201" facs="SW_JP1796_202"/> made us a short Speech,
                         ex-<lb/>pressive of their Satisfaction<lb/> with this opportunity; and<lb/>
                         our Business in general; <del>among</del><lb/>
                         <del>them;</del> Observing that all the<lb/> Time we had been amongst<lb/>
@@ -2562,7 +2565,7 @@
                         Sisters, observed in<lb/> substance, That it was not<lb/> common for their
                         women<lb/> to speak in Council; but<lb/> that they were very glad<lb/> to
                         hear our good Words, and<lb/> heartily thanked us.</p>
-                    <pb n="202" facs="SW_JP1796_Page_203"/>
+                    <pb n="202" facs="SW_JP1796_203"/>
                     <p> After this Opportunity we<lb/> agreed upon the following<lb/> Minute; a Copy
                         of which was<lb/> left with our Friends who<lb/> stay here; viz.</p>
                     <floatingText>
@@ -2578,7 +2581,7 @@
                                 all<lb/> Expences up to this Day, One<lb/> Hundred Dollars.</p>
                         </body>
                     </floatingText>
-                    <pb n="203" facs="SW_JP1796_Page_204"/>
+                    <pb n="203" facs="SW_JP1796_204"/>
                     <p> About four in the afternoon<lb/> took an affectionate leave of<lb/> our
                         Friends <persName key="jtayl1">Jacob Taylor</persName>, <persName
                             key="hsimm1">Hen-<lb/>ry Simmons</persName>, and <persName key="ewalk1"
@@ -2591,7 +2594,7 @@
                         and do enjoy: viz. The<lb/>
                         <emph rend="underline">Sugar Maple</emph> &amp; <emph rend="underline">Salt
                             Springs.</emph></p>
-                    <pb n="204" facs="SW_JP1796_Page_205"/>
+                    <pb n="204" facs="SW_JP1796_205"/>
                     <p> From the Maple, they are<lb/> able, with a small Expence,<lb/> to furnish
                         themselves with<lb/> a plentiful supply of Sugar,<lb/> Molasses, and
                         Vinegar: And<lb/> from the Salt Spring they<lb/> are furnished
@@ -2604,7 +2607,7 @@
                     <p>Pursued our Jour-<lb/>ney, and in about a mile<lb/> and an half crossed the
                             <placeName key="india">In-<lb/>dian Line</placeName>; and a few
                         miles<lb/> further came to a place<lb/>
-                        <pb n="205" facs="SW_JP1796_Page_206"/> called <geogName key="deeps">deep
+                        <pb n="205" facs="SW_JP1796_206"/> called <geogName key="deeps">deep
                             Spring</geogName>: This place<lb/> pertinently takes its Name from<lb/>
                         the following curious Appear-<lb/>ance: There is a nearly round<lb/> Hole in
                         the Earth, of about<lb/> 50 or 60 Feet Diameter at<lb/> the Top, and
@@ -2614,7 +2617,7 @@
                         into<lb/> a Cavity at the Bottom.</p>
                     <p> Thence through a fertile and<lb/> well improved new Country;<lb/> more than
                         one half of the cleared Land<lb/>
-                        <pb n="206" facs="SW_JP1796_Page_207"/> within sight of the Road, being<lb/>
+                        <pb n="206" facs="SW_JP1796_207"/> within sight of the Road, being<lb/>
                         either in Grain, or Timothy and<lb/> Clover; some of the latter
                         es-<lb/>pecially exceeding any Grass<lb/> that I have ever seen in<lb/> the
                         most fertile Marshes<lb/> of Pennsylvania; dined<lb/> at <persName
@@ -2625,7 +2628,7 @@
                         <orgName key="onondaga">Onandago’s</orgName>, at their Settlement<lb/> about
                         two miles up the Creek.<lb/> There are but a small Body<lb/> of them here,
                         some of their<lb/> Tribe being removed to<lb/>
-                        <pb n="207" facs="SW_JP1796_Page_208"/>
+                        <pb n="207" facs="SW_JP1796_208"/>
                         <geogName key="buffc1">Buffalo Creek</geogName>, in the <orgName
                             key="seneca">Seneca</orgName><lb/> Country; and many of those<lb/> who
                         live here, having nothing<lb/> to eat, were gone a hunting<lb/> and fishing
@@ -2635,7 +2638,7 @@
                         great<lb/> Detension to us; we therefore<lb/> proposed, that if they
                         would<lb/> give us an Opportunity to ex-<lb/>press our Minds to them<lb/> in
                         Council, and give us such<lb/> Information as they could<lb/>
-                        <pb n="208" facs="SW_JP1796_Page_209"/> respecting their
+                        <pb n="208" facs="SW_JP1796_209"/> respecting their
                         Circumstan-<lb/>ces, that we would leave the<lb/> Substance of what we
                         had<lb/> to say to them, relative to the<lb/> Business in writing; that<lb/>
                         their Interpreter might read<lb/> and explain it to them when<lb/> they
@@ -2646,7 +2649,7 @@
                         to them, and who had lived ma-<lb/>ny years amongst them, being<lb/> our
                         Interpreter: We let them<lb/> know the nature of our Bu-<lb/>siness, and
                         endeavoured to press<lb/> on the necessity of a<lb/>
-                        <pb n="209" facs="SW_JP1796_Page_210"/> Change in their manner of
+                        <pb n="209" facs="SW_JP1796_210"/> Change in their manner of
                         Liv-<lb/>ing; and the Advantage that<lb/> would arise to them from
                         their<lb/> Improving in Industry and<lb/> Sobriety: After which
                         obtained<lb/> the following Information, viz.<lb/> That they consist of
@@ -2655,7 +2658,7 @@
                         them<lb/> can either sell or lease to white<lb/> people; they have 1250
                         Dollars<lb/> a year coming in from the<lb/> State of new York, besides
                         their<lb/> share of the Gratuity from<lb/> general Government to the<lb/>
-                        <pb n="210" facs="SW_JP1796_Page_211"/>
+                        <pb n="210" facs="SW_JP1796_211"/>
                         <orgName key="Six Nations">Six Nations</orgName>: but they have<lb/> neither
                         plow, Ox, Cow, now Horse;<lb/> and, we are informed, generally<lb/> spend
                         their Money in a few<lb/> Days after they receive it, in<lb/> Rum, and some
@@ -2665,7 +2668,7 @@
                     <p> They appear to have form-<lb/>ed great Expectations from<lb/> our Letter;
                         and shewed evident<lb/> Marks of <del>their</del> Dissatisfac-<lb/>tion at
                         their present Disap-<lb/>pointment: we let them<lb/>
-                        <pb n="211" facs="SW_JP1796_Page_212"/> know, that our Design was more<lb/>
+                        <pb n="211" facs="SW_JP1796_212"/> know, that our Design was more<lb/>
                         to try to prevail with them to help<lb/> themselves, and to make the
                         best<lb/> use of what they had, as well as<lb/> to help them a little in
                         the<lb/> Beginning; rather than to<lb/> make them large presents, or<lb/> to
@@ -2677,7 +2680,7 @@
                         Cows with their Annual Income,<lb/> instead of laying it out for Rum,<lb/>
                         &amp;c. they answered, that they had<lb/> concluded to buy a pair of
                         Oxen<lb/> with<lb/>
-                        <pb n="212" facs="SW_JP1796_Page_213"/> with the money which they<lb/>
+                        <pb n="212" facs="SW_JP1796_213"/> with the money which they<lb/>
                         received in this month; but<lb/> when they received our Letter,<lb/> they
                         thought it not necessary<lb/> to lay out their own money for<lb/> that
                         purpose; intimating that<lb/> they supposed we would find<lb/> them Teams
@@ -2687,7 +2690,7 @@
                         haughty Contempt of any<lb/> Thing that bore the name of<lb/> Labour;
                         together with their<lb/> apparent utter Insensibility<lb/> of any thing that
                         was said<lb/> to them, on the necessity of<lb/>
-                        <pb n="213" facs="SW_JP1796_Page_214"/> a Reformation in their Life
+                        <pb n="213" facs="SW_JP1796_214"/> a Reformation in their Life
                         &amp;<lb/> Manners.</p>
                     <p> We parted from them under<lb/> serious Discouragments returning to the
                         afores’d <persName key="mdanf1">A. Danfords</persName> to lodge and
@@ -2703,7 +2706,7 @@
                                 useful Trades:<lb/> They have directed us to visit<lb/> you in your
                                 Towns, and acquaint<lb/> ourselves with your Circumstan-<lb/>ces,
                                 and so inform them that<lb/>
-                                <pb n="214" facs="SW_JP1796_Page_215"/> they may judge what to
+                                <pb n="214" facs="SW_JP1796_215"/> they may judge what to
                                 do<lb/> for you: we have settled Three<lb/> of our Friends at
                                     <placeName key="oneid">Oneida</placeName>; and<lb/> some Time
                                 hence, we could<lb/> with some of you to go and<lb/> see them: and
@@ -2714,7 +2717,7 @@
                                 expect,<lb/> however that next Spring we<lb/> can send you some
                                 Hoes, Axes,<lb/> Sythes, and other Tools to<lb/> work with: and if
                                 you have<lb/>
-                                <pb n="215" facs="SW_JP1796_Page_216"/> a mind to send six or
+                                <pb n="215" facs="SW_JP1796_216"/> a mind to send six or
                                 eight<lb/> of your Boys, from Eight to<lb/> Twelve years of Age to
                                 learn<lb/> reading, writing, farming &amp;<lb/> Trades our Friends
                                 at <placeName key="oneid">Oneida</placeName><lb/> will tell you how
@@ -2726,7 +2729,7 @@
                             <p> Brothers,</p>
                             <p> We find you have<lb/> good Land, and we see you<lb/> raise some
                                 Corn; we advise<lb/> you<lb/>
-                                <pb n="216" facs="SW_JP1796_Page_217"/> you to plant twice as
+                                <pb n="216" facs="SW_JP1796_217"/> you to plant twice as
                                 much<lb/> next year; and besides you<lb/> have 1250 Dollars a year,
                                 which<lb/> give enough for each family<lb/> to buy a Cow in one or
                                 two<lb/> years; we advise every Hous-<lb/>keeper to buy one with
@@ -2735,7 +2738,7 @@
                                 then you might make But-<lb/>ter and Cheese, for you to eat;<lb/>
                                 and besides your Cows would<lb/> make Beef when they<lb/> got
                                 old.</p>
-                            <pb n="217" facs="SW_JP1796_Page_218"/>
+                            <pb n="217" facs="SW_JP1796_218"/>
                             <p> Brothers,</p>
                             <p> Take our Advice, and<lb/> we shall be encouraged to do<lb/> more for
                                 you; for we wish to<lb/> help you; if you will but be<lb/> willing
@@ -2758,7 +2761,7 @@
                         rode 15 miles<lb/> to Breakfast, at <persName key="mcarp1">Moses
                             Car-<lb/>penters</persName>: most of this Stage<lb/> good Limestone
                         Land; but<lb/> thinly<lb/>
-                        <pb n="218" facs="SW_JP1796_Page_219"/> thinly settled; where there<lb/> are
+                        <pb n="218" facs="SW_JP1796_219"/> thinly settled; where there<lb/> are
                         farms they appear<lb/> flourishing.</p>
                     <p> Thence to <persName key="hmore1">Henry Moors</persName><lb/> where we dined,
                         16 miles:<lb/> Thence leaving the <placeName key="genes3">Genesee<lb/>
@@ -2769,7 +2772,7 @@
                             <del>the <gap/></del><lb/>34. him to the Indian Town;<lb/> where we
                         arrived in the<lb/> Evening; but finding se-<lb/>veral of their Number<lb/>
                         were gone out a fishing and this<lb/>
-                        <pb n="219" facs="SW_JP1796_Page_220"/> being seventh Day, we
+                        <pb n="219" facs="SW_JP1796_220"/> being seventh Day, we
                         con-<lb/>cluded to put off the Coun-<lb/>cil ‘till Second Day morn-<lb/>ing;
                         and returned with the<lb/> aforesaid <persName key="fgeer1">Frederick
                             Gerard</persName><lb/> to lodge: This man, with<lb/> his family, had
@@ -2783,7 +2786,7 @@
                     <p>This being first Day,<lb/> our Friend <persName key="jevan1">Joshua
                             Evans</persName> had<lb/> notice given of a Meeting<lb/> to be held at
                         the House of<lb/> our Host for the Benefit<lb/> of<lb/>
-                        <pb n="220" facs="SW_JP1796_Page_221"/> of the white Inhabitants;<lb/> which
+                        <pb n="220" facs="SW_JP1796_221"/> of the white Inhabitants;<lb/> which
                         we attended; as well<lb/> as about 20 of the Neighbour-<lb/>ing white
                         people; who be-<lb/>haved in a good Degree solid.</p>
                     <p> In the Afternoon Accom-<lb/>panied our aforesaid Friend<lb/> to the <orgName
@@ -2793,7 +2796,7 @@
                         one<lb/> them came to the place ap-<lb/>pointed, and even the
                         In-<lb/>terpreter, <persName key="jjour1"><emph rend="underline">John
                                 Jourdan</emph></persName>,<lb/> at whose Cabbin we met,<lb/>
-                        <pb n="221" facs="SW_JP1796_Page_222"/> had himself gone away just<lb/>
+                        <pb n="221" facs="SW_JP1796_222"/> had himself gone away just<lb/>
                         before we got there, and returned<lb/> no more whilst we staid: On<lb/> our
                         Return, some of our Com-<lb/>pany met him; and he ap-<lb/>peared totally
                         insensible of<lb/> any impropriety in his own,<lb/> or people’s Conduct,
@@ -2806,7 +2809,7 @@
                     <p>This morning agreeably<lb/> to the Appointment of seventh<lb/> Day Evening,
                         we again attended<lb/> at <placeName key="cayug1">Cayuga</placeName>; and
                         after wasting<lb/> several Hours, a few of the <del>prin</del><lb/> principal<lb/>
-                        <pb n="222" facs="SW_JP1796_Page_223"/> principal Indians, of men<lb/> and
+                        <pb n="222" facs="SW_JP1796_223"/> principal Indians, of men<lb/> and
                         women, came together:<lb/> They opened the Council by<lb/> producing our
                         Letter of last<lb/> Spring, and informing that<lb/> they had answered it by
                         Let-<lb/>ter to <persName key="ichap1">Cap. Chapin</persName>: After<lb/>
@@ -2816,7 +2819,7 @@
                         how<lb/> far we had proceeded in it;<lb/> particularly towards their<lb/>
                         Brothers the <orgName key="oneida">Oneidas</orgName>; and<lb/> that our
                         Regard was equally<lb/>
-                        <pb n="223" facs="SW_JP1796_Page_224"/> towards them all; but that<lb/> we
+                        <pb n="223" facs="SW_JP1796_224"/> towards them all; but that<lb/> we
                         could not begin with all<lb/> at once; and therefore our par-<lb/>ticular
                         Business, at this Time,<lb/> with them, and all the other<lb/> Tribes
                         westward of the <orgName key="oneida">Oneida’s</orgName>,<lb/> was, to
@@ -2826,7 +2829,7 @@
                         informed<lb/> them, that as their Number<lb/> was so small, it was not
                         likely<lb/> that we could settle any of our<lb/> Friends amongst them;
                         but<lb/> that we thought Friends would<lb/> be<lb/>
-                        <pb n="224" facs="SW_JP1796_Page_225"/> be willing to take four or<lb/> five
+                        <pb n="224" facs="SW_JP1796_225"/> be willing to take four or<lb/> five
                         of their Boys, between<lb/> seven and twelve years old,<lb/> and learn them
                         to work at<lb/> farming, and some Trades,<lb/> and give them so much
                         school-<lb/>ing, as to learn them to read<lb/> and write English: And<lb/>
@@ -2835,7 +2838,7 @@
                     <p> They expressed their Satis-<lb/>faction with our proposals,<lb/> and a
                         willingness to send some<lb/> of their Children to us, but<lb/> said they
                         must consult some<lb/> more of their women, their<lb/>
-                        <pb n="225" facs="SW_JP1796_Page_226"/> being but few of them present,<lb/>
+                        <pb n="225" facs="SW_JP1796_226"/> being but few of them present,<lb/>
                         we closed the Council, after having<lb/> obtained the following
                         Information,<lb/> viz. That they consist of about<lb/> 13 Families, between
                         50 and<lb/> 60 Individuals, who live on this<lb/> Reservation; They have
@@ -2845,7 +2848,7 @@
                         their<lb/> Share of the Gratuity from<lb/> General Government to the<lb/>
                         <orgName key="Six Nations">Six Nations</orgName>; but that part<lb/> of this
                         Tribe which has re-<lb/>moved westward, and which<lb/> is<lb/>
-                        <pb n="226" facs="SW_JP1796_Page_227"/> Is about one half; they say<lb/> has
+                        <pb n="226" facs="SW_JP1796_227"/> Is about one half; they say<lb/> has
                         a Right to their Share<lb/> of this Money if they call<lb/> for it. They
                         have<lb/> six Cows, neither oxen nor Horses,<lb/> and raise very little of
                         any<lb/> Thing, living principally by<lb/> Fishing and hunting; and
@@ -2854,7 +2857,7 @@
                         as well as the <orgName key="onondaga">Onandago’s</orgName><lb/> appear
                         totally averse to all La-<lb/>bour; and very insensible of<lb/> any thing
                         that could be said<lb/> to them on the most interest-<lb/>ing Occasions.</p>
-                    <pb n="227" facs="SW_JP1796_Page_228"/>
+                    <pb n="227" facs="SW_JP1796_228"/>
                     <p> After this Council we proceeded<lb/> on towards <placeName key="conan"
                             >Conandarque</placeName>; and<lb/> after riding along side of the<lb/>
                         lake about 7 1/2 miles we<lb/> crossed in a good sail Boat;<lb/> and having
@@ -2868,7 +2871,7 @@
                             Castle</placeName>
                         <del><unclear>Town</unclear></del>; in which<lb/> was an Account of the
                         various<lb/> Tosts<lb/>
-                        <pb n="228" facs="SW_JP1796_Page_229"/> Tosts drunk at a Dinner<lb/> in that
+                        <pb n="228" facs="SW_JP1796_229"/> Tosts drunk at a Dinner<lb/> in that
                         Town on the 4th. of<lb/> this month; amongst which<lb/> was the following: </p>
                     <floatingText type="speech">
                         <body>
@@ -2884,7 +2887,7 @@
                         is herein<lb/> before noted, of the favour-<lb/>able Disposition of the
                         Fron-<lb/>tier Inhabitants in these<lb/> parts, to our Business.</p>
                     <p> After Dinner pursued<lb/> our Journey, and arived at<lb/>
-                        <pb n="229" facs="SW_JP1796_Page_230"/>
+                        <pb n="229" facs="SW_JP1796_230"/>
                         <placeName key="genev">Geneva</placeName>, a small Town on
                             the<lb/>14.<geogName key="senec">Seneca Lake</geogName>, about 14
                         Miles;<lb/> where we lodged.</p>
@@ -2897,7 +2900,7 @@
                         feet,<lb/> afforded as an agreeable Sensation<lb/> both to the Eye and
                         Ear.</p>
                     <p> At this place we had the<lb/> Com-<lb/>
-                        <pb n="230" facs="SW_JP1796_Page_231"/> Company of a female follower<lb/> of
+                        <pb n="230" facs="SW_JP1796_231"/> Company of a female follower<lb/> of
                         the deluded <persName key="jwilk1">Jemima Wilkin-<lb/>son</persName>, whose
                         settlement is a few<lb/> Miles up this Lake; her de-<lb/>portment was Grave
                         and Sober;<lb/> we observed a cautious Guard<lb/> in her Conversation, &amp;
@@ -2909,7 +2912,7 @@
                         her principal<lb/> followers having left her: and<lb/> the following curious
                         Inter<lb/>view between her and <persName key="cbran1">Cap.<lb/>
                             Brant</persName>, an Indian <del>at</del>from <geogName key="grand">Grand<lb/>
-                            <pb n="231" facs="SW_JP1796_Page_232"/> River,</geogName> was related to
+                            <pb n="231" facs="SW_JP1796_232"/> River,</geogName> was related to
                         me as a<lb/> fact, by <persName key="haupa1">Cap. Hendrick</persName> at<lb/>
                         <placeName key="stock">Stockbridge</placeName>; viz. That the said<lb/>
                         <emph rend="underline"><persName key="cbran1">Brant</persName></emph> being
@@ -2922,7 +2925,7 @@
                         answered<lb/> in another Indian Language;<lb/> and so the third time:
                         When<lb/> he observed to him that she<lb/> had heard of him, that he
                         was<lb/> a Scholar and a man of Informa<lb/>tion, and that she had promised<lb/>
-                        <pb n="232" facs="SW_JP1796_Page_233"/> herself some satisfaction from<lb/>
+                        <pb n="232" facs="SW_JP1796_233"/> herself some satisfaction from<lb/>
                         his Company and Conversation;<lb/> and that she had now asked him<lb/> a
                         civil Question; and that he<lb/> had answered her three Several<lb/> Times
                         in a Language that she<lb/> did not understand; and as she<lb/> knew he
@@ -2933,7 +2936,7 @@
                         not<lb/> understand your Indian Lan-<lb/>guages: - <del>To which</del> Very
                         well<lb/> Madam, replied <persName key="cbran1">Brant</persName>, then<lb/>
                         you are not the person you<lb/>
-                        <pb n="233" facs="SW_JP1796_Page_234"/> pretend to be, for <emph
+                        <pb n="233" facs="SW_JP1796_234"/> pretend to be, for <emph
                             rend="underline">Jesus Christ</emph><lb/> understands <emph
                             rend="underline">Indian</emph> as well<lb/> as English.</p>
                 </div>
@@ -2950,7 +2953,7 @@
                         Letter of last spring,<lb/> that he was willing to receive<lb/> Friends, and
                         that he would be glad<lb/> to have them come and settle<lb/> about him;
                         because he believed<lb/> they<lb/>
-                        <pb n="234" facs="SW_JP1796_Page_235"/> they were good people; but<lb/>
+                        <pb n="234" facs="SW_JP1796_235"/> they were good people; but<lb/>
                         Farmer’s Brother, on behalf of the<lb/> settlement at <geogName key="buffc1"
                             >Buffalo Creek</geogName>,<lb/> which is called the main <orgName
                             key="seneca">Seneca</orgName><lb/> Settlement, answered that he<lb/>
@@ -2961,7 +2964,7 @@
                         see them; and if conve-<lb/>nient, rest ourselves a Day or<lb/> two &amp;c.
                         Accordingly we set out,<lb/> having a young man, son to<lb/> one of these
                         people for our<lb/> Guide; we seperated on the<lb/> way<lb/>
-                        <pb n="235" facs="SW_JP1796_Page_236"/> Way, some of us going to <persName
+                        <pb n="235" facs="SW_JP1796_236"/> Way, some of us going to <persName
                             key="jsmit1">Jacob<lb/> Smiths</persName>, and others to <persName
                             key="ncoms1">Nathan<lb/> Cumstalks</persName> and <persName key="alaph1"
                             >Abraham Lap-<lb/>pums</persName>: amongst these people<lb/> we were
@@ -2981,7 +2984,7 @@
                         by which<lb/> we learn, that the <orgName key="seneca"
                         >Seneca's</orgName><lb/> have various settlements west<lb/> of the <geogName
                             key="genes2">Genesee River</geogName>, and con-<lb/>sist<lb/>
-                        <pb n="236" facs="SW_JP1796_Page_237"/> sist of the following number<lb/> of
+                        <pb n="236" facs="SW_JP1796_237"/> sist of the following number<lb/> of
                         Individuals; viz.</p>
                     <table>
                         <row>
@@ -3046,7 +3049,7 @@
                     <p> The <orgName key="seneca">Seneca’s</orgName> have five<lb/> Hundred Dollars
                         a year from<lb/>
                         <persName key="ophel1">Oliver Phelps</persName>; besides their Share<lb/>
-                        <pb n="237" facs="SW_JP1796_Page_238"/> of the 4500 Dollars from the
+                        <pb n="237" facs="SW_JP1796_238"/> of the 4500 Dollars from the
                         gene-<lb/>ral Government, to the <orgName key="Six Nations">Six
                             Nations</orgName>.</p>
                     <p> This Evening we wrote the follow-<lb/>ing Letter to our Friends at
@@ -3063,7 +3066,7 @@
                                 Difficulty in getting as many<lb/> of the young Indians to
                                 undertake,<lb/> and stick to the Business, on the<lb/> particular
                                 portion of Land alotted<lb/> us, as was expected; we wish you<lb/> not<lb/>
-                                <pb n="238" facs="SW_JP1796_Page_239"/> not to suffer
+                                <pb n="238" facs="SW_JP1796_239"/> not to suffer
                                 Discouragements<lb/> too much to take place in your<lb/> Minds on
                                 that Account; but<lb/> endeavour to get them to divide<lb/> off
                                 particular portions of Land<lb/> to particular persons, in some<lb/>
@@ -3074,7 +3077,7 @@
                                 they must<lb/> wait for their wages, we are<lb/> willing you should
                                 advance some<lb/> necessary Goods &amp;c. to such, (which<lb/> we
                                 desire you to purchase for<lb/>
-                                <pb n="239" facs="SW_JP1796_Page_240"/> that purpose) or actually
+                                <pb n="239" facs="SW_JP1796_240"/> that purpose) or actually
                                 hire<lb/> others in Case of necessity; keeping<lb/> a regular
                                 account thereof, and<lb/> letting them know, that the value<lb/> of
                                 all such Advance and hire is<lb/> to be deducted out of the
@@ -3095,7 +3098,7 @@
                         further prosecution<lb/> of the Business before us; but not<lb/> being able
                         to come to a clear and<lb/> Satisfactory Judgment relative<lb/> to any
                         further Movements; and<lb/> it<lb/>
-                        <pb n="240" facs="SW_JP1796_Page_241"/> it being now near the End of<lb/>
+                        <pb n="240" facs="SW_JP1796_241"/> it being now near the End of<lb/>
                         the week, we concluded to spend<lb/> a day or two more amongst our<lb/>
                         Friends and to meet at <persName key="wingl1">William<lb/>
                             <del rend="overwrite">E</del>Ingles</persName> on First Day; where
@@ -3111,7 +3114,7 @@
                         this<lb/> Time; and two of our number,<lb/> now approaching they felt<lb/> a
                         releasment in their minds<lb/> from any further prosecution<lb/> of the
                         Business at the present;<lb/>
-                        <pb n="241" facs="SW_JP1796_Page_242"/> whilst the other two approached<lb/>
+                        <pb n="241" facs="SW_JP1796_242"/> whilst the other two approached<lb/>
                         the Business not completed<lb/> for which we were sent out, and<lb/> that
                         this was the right time to<lb/> perform a visit to the <orgName key="seneca"
                             >Seneca's</orgName><lb/> in some of their different Set-<lb/>tlements;
@@ -3121,7 +3124,7 @@
                         after our<lb/> present Situation, and trying<lb/> our several Concerns and
                         pros-<lb/>pects, and a Spirit of brotherly<lb/> Condiscension prevailing, it
                         was<lb/> at length resulted, as most safe<lb/> to<lb/>
-                        <pb n="242" facs="SW_JP1796_Page_243"/> to keep together, and return<lb/>
+                        <pb n="242" facs="SW_JP1796_243"/> to keep together, and return<lb/>
                         homewards.</p>
                     <p> After this Conclusion we<lb/> had another Conference with<lb/>
                         <persName key="ichap1">Cap. Chapin</persName>; informed him<lb/> what we had
@@ -3137,7 +3140,7 @@
                                 <date when="1796-07-18">7th. mo 18th. 1796</date></dateline>
                             <opener> To <persName key="cornp1">Captain Abeel</persName>, and the
                                 differ-<lb/>ent <orgName key="seneca">Seneca</orgName> Villages, who answer<lb/>
-                                <pb n="243" facs="SW_JP1796_Page_244"/> with him to our Letter
+                                <pb n="243" facs="SW_JP1796_244"/> with him to our Letter
                                 of<lb/> last Spring.</opener>
                             <p> Brothers,</p>
                             <p> You received a Letter<lb/> from your Brothers, the peo-<lb/>ple
@@ -3152,7 +3155,7 @@
                                 Friends to do something for your<lb/> Brothers the <orgName
                                     key="oneida">Oneida’s</orgName>, whose
                                         <del><unclear>answer</unclear></del><lb/> answer<lb/>
-                                <pb n="244" facs="SW_JP1796_Page_245"/> answer to our Letter we<lb/>
+                                <pb n="244" facs="SW_JP1796_245"/> answer to our Letter we<lb/>
                                 had received before we left<lb/> home; we have accordingly<lb/>
                                 settled three of our Friends<lb/> there, and furnished them<lb/>
                                 with farming Utensils,<lb/> in order to instruct, and
@@ -3164,7 +3167,7 @@
                             <p> Brothers, Our Regard is e-<lb/>qually towards <del>you</del> all
                                 our<lb/> Indian Brothers of the <orgName key="Six Nations">Six<lb/>
                                     Nations</orgName>; but you know that<lb/> we cannot begin with all<lb/>
-                                <pb n="245" facs="SW_JP1796_Page_246"/> at once, nor do every thing
+                                <pb n="245" facs="SW_JP1796_246"/> at once, nor do every thing
                                 at a<lb/> Time; therefore our friends at<lb/> home desired us to
                                 call and see<lb/> some of our other Brothers of<lb/> the <orgName
                                     key="Six Nations">Six Nations</orgName>, in order to
@@ -3178,7 +3181,7 @@
                                 carry a true Account home to our<lb/> Friends: Now Brothers, we<lb/>
                                 had thought of coming to see you<lb/> also, for the same purpose;
                                 but<lb/> it is now got late in the season<lb/>
-                                <pb n="246" facs="SW_JP1796_Page_247"/> before we could get here,
+                                <pb n="246" facs="SW_JP1796_247"/> before we could get here,
                                 and<lb/> before we got your answer; and<lb/> as the Road is very
                                 long through<lb/> the wilderness, and the Hot<lb/> Weather coming
                                 on, we think<lb/> we can’t call to see you now;<lb/> but we have
@@ -3189,7 +3192,7 @@
                                     key="oneida">Oneida’s</orgName> how<lb/> our Friends behave
                                 amongst<lb/> them, and how they like<lb/> our plan and Conduct;
                                 that<lb/> so you may be fully satisfied<lb/> against we are ready to help<lb/>
-                                <pb n="247" facs="SW_JP1796_Page_248"/> you in the same way.</p>
+                                <pb n="247" facs="SW_JP1796_248"/> you in the same way.</p>
                             <p> Brothers,</p>
                             <p> We must desire you<lb/> to have patience with us, if we<lb/> don’t
                                 do every Thing you ex-<lb/>pect, all at once: for if we settle<lb/>
@@ -3201,7 +3204,7 @@
                                 do<lb/> you good are not to be bought with<lb/> Money, nor hired to
                                 come amongst<lb/> you, without they feel this good<lb/> Spirit
                                 enfluencing them there.</p>
-                            <pb n="248" facs="SW_JP1796_Page_249"/>
+                            <pb n="248" facs="SW_JP1796_249"/>
                             <p> Brothers,</p>
                             <p> In Love, we bid you farewell.</p>
                             <p>
@@ -3225,7 +3228,7 @@
                         head<lb/> of it, where we dined: - This<lb/> Lake is nearly equal in Width
                         to<lb/> the <geogName key="senec">Seneca</geogName> or <geogName key="cayug"
                             >Cayuga</geogName>; but not<lb/> much more than half the Length:<lb/>
-                        <pb n="249" facs="SW_JP1796_Page_250"/> After Dinner continued our
+                        <pb n="249" facs="SW_JP1796_250"/> After Dinner continued our
                         Jour-<lb/>ney and lodged at one <persName key="rhook1">Huckers</persName> -;
                         about 12 miles:<lb/>Here we lay on the floor, and<lb/> our Horses fared
                         badly, having<lb/> neither pasture, hay, nor grain;<lb/> A little Grass cut
@@ -3238,7 +3241,7 @@
                         unnecessary Stay, break-<lb/>fasted in the woods, on Bread and<lb/> Cheese,
                         which we had with us, about<lb/> 8 miles on our way; Our Horses<lb/> having
                         no better repast after a<lb/> trying night, than what they<lb/>
-                        <pb n="250" facs="SW_JP1796_Page_251"/> could collect for themselves
+                        <pb n="250" facs="SW_JP1796_251"/> could collect for themselves
                             <unclear>about/along</unclear><lb/> the Range where we stopped, &amp;
                         which<lb/> was very poor: thence to a small<lb/> Town, called <placeName
                             key="bath">Bath</placeName>, in a very poor<lb/> Country, where we
@@ -3253,7 +3256,7 @@
                             <placeName key="lyork">little York</placeName>; On the Bank<lb/> of a
                         water called <geogName key="llake">little Lake</geogName>:<lb/> This Lake is
                         of a circular form,<lb/>
-                        <pb n="251" facs="SW_JP1796_Page_252"/> about half a mile Diameter, has<lb/>
+                        <pb n="251" facs="SW_JP1796_252"/> about half a mile Diameter, has<lb/>
                         no visible Inlet, nor outlet; the<lb/> water nevertheless being clear and
                         fresh,<lb/> and wearing no appearance of<lb/> Stagnation; and we are
                         informed<lb/> no bottom has ever been discovered<lb/> in some parts of it,
@@ -3271,7 +3274,7 @@
                         we got pasture, and also<lb/> Grain for our Horses; and <del>got</del><lb/>
                         a small supply of Grain to<lb/> carry with us; against tomorrow<lb/> Ride;
                         when we are informed we<lb/>
-                        <pb n="252" facs="SW_JP1796_Page_253"/> shall get no kind of
+                        <pb n="252" facs="SW_JP1796_253"/> shall get no kind of
                         Entertain-<lb/>ment, either for ourselves or<lb/> Horses, for upwards of 40
                         Miles.<lb/> Thence to <persName key="wcart1">William Carter’s</persName>
                         about<lb/> 15 miles, where we lodged out<lb/>29.of necessity; there being no
@@ -3288,7 +3291,7 @@
                         Ground, and<lb/> others in Holes cut <del>cut</del> for that<lb/> purpose in
                         the Logs; about 15<lb/> Miles on our way. Thence proceed-<lb/>ing up the
                         Mountain; our Roads<lb/>
-                        <pb n="253" facs="SW_JP1796_Page_254"/> increased not only in
+                        <pb n="253" facs="SW_JP1796_254"/> increased not only in
                         Roughness,<lb/> but in most intolerable Bogs &amp;<lb/> Mire, for about 10
                         Miles, to<lb/> a place called the <placeName key="block">Block
                             House</placeName>:<lb/> where we dined, and fed out Horses,<lb/> much in
@@ -3299,7 +3302,7 @@
                         its present<lb/> Occupant is not only so unpro-<lb/>vided with Accommodation
                         that<lb/> it is seldom anything can<lb/> be had either for man or Beast<lb/>
                         excepting a little Liquor; but<lb/> is<lb/>
-                        <pb n="254" facs="SW_JP1796_Page_255"/> also of so desperate a
+                        <pb n="254" facs="SW_JP1796_255"/> also of so desperate a
                         Charac-<lb/>ter, that most Travailers are<lb/> afraid to trust themselves
                         under<lb/> his Roof all Night. Then <lb/><del>still</del> over the Mountains
                         for<lb/> about 12 Miles further; where<lb/> we again fed our Horses at the
@@ -3310,7 +3313,7 @@
                         fatigued, the satisfaction<lb/> we felt from the Reflection<lb/> of being
                         over the most dif-<lb/>ficult part of our Journey<lb/> and near a Settlement
                         of<lb/> Friends<lb/>
-                        <pb n="255" facs="SW_JP1796_Page_256"/> was reviving, and tended to<lb/>
+                        <pb n="255" facs="SW_JP1796_256"/> was reviving, and tended to<lb/>
                         sweeten our present Situ-<lb/>ation.</p>
                 </div>
                 <div type="entry">
@@ -3323,7 +3326,7 @@
                             key="welli1">William Ellis’</persName> in <placeName key="muncy"
                             >Munsey</placeName>.<lb/> This being Seventh Day, we<lb/> concluded to
                         rest ourselves<lb/> and Horses here until<lb/> Second Day.</p>
-                    <pb n="256" facs="SW_JP1796_Page_257"/>
+                    <pb n="256" facs="SW_JP1796_257"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-07-24">24th.</date><placeName key="muncy"
@@ -3348,7 +3351,7 @@
                             Levenburg’s</persName> on the east side<lb/>28. of the <geogName
                             key="lmoun">Little Mountain</geogName> about<lb/> 13 miles; where we
                         lodged.</p>
-                    <pb n="257" facs="SW_JP1796_Page_258"/>
+                    <pb n="257" facs="SW_JP1796_258"/>
                 </div>
                 <div type="entry">
                     <dateline><date when="1796-07-27">27th.</date><geogName key="maide"/></dateline>
@@ -3377,7 +3380,7 @@
         </body>
         <back>
             <div type="undetermined">
-                <pb n="258" facs="SW_JP1796_Page_259"/>
+                <pb n="258" facs="SW_JP1796_259"/>
                 <p> Subduplicate ratio, The ratio of<lb/> their square roots.</p>
                 <p> Duplicate ratio. The ratio of<lb/> their squares</p>
                 <p> Thus the duplicate ratio of 2 to 4<lb/> is the ratio of 4 to 16.</p>
@@ -3391,7 +3394,7 @@
                 <p><gap/></p>
             </div>
             <div type="undetermined">
-                <pb n="259" facs="SW_JP1796_Page_260"/>
+                <pb n="259" facs="SW_JP1796_260"/>
                 <p> £ <del><gap/></del></p>
                 <p> School to open this fall, say<lb/> beginning 11th. mo. </p>
                 <p> 25 Boys admitted, and no more<lb/> this winter.</p>
@@ -3403,7 +3406,7 @@
                     be provided, how many sets, whether<lb/> for 2 Children in a bed, or one.<lb/>
                     Committee to provide it to<lb/> be ready by such a time.</p>
                 <p> School Books necessary. a com.</p>
-                <pb n="260" facs="SW_JP1796_Page_261"/>
+                <pb n="260" facs="SW_JP1796_261"/>
                 <p>
                     <del>after Dinner pursued our Journey<lb/> lodged at one <persName key="rhook1"
                             >Hookers</persName> about 12<lb/>36. Miles further: Here we
@@ -3414,7 +3417,7 @@
                 <gap/>
                 <p>authorized to set them to the present<lb/> and compilations.<lb/>mmittee to
                     examine some proposals.</p>
-                <pb n="261" facs="SW_JP1796_Page_262"/>
+                <pb n="261" facs="SW_JP1796_262"/>
                 <p>
                     <del><persName key="jhott1">James <unclear>Hotton</unclear></persName>,
                         living<lb/> No <unclear>14</unclear>North Market
