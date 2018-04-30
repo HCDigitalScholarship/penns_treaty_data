@@ -135,10 +135,12 @@
     </teiHeader>
     <text>
         <front>
-            <pb n="inside cover" facs="SW_JT1798_Page_01"/>
+            <div type="undetermined">
+                <pb n="inside cover" facs="SW_JT1798_001"/>
+            </div>
             
             <div type="preface">
-                <pb n="preface" facs="SW_JT1798_Page_02"/>
+                <pb n="preface" facs="SW_JT1798_002"/>
                 <p>In the following sheets I propose to give a short account of<lb/> Indian affairs
                     in this settlement <orgName key="oneida">(Oneida)</orgName> for my own
                     amusement<lb/> and the satisfaction of having our proceedings in black and<lb/>
@@ -151,7 +153,7 @@
 
             <div type="narrative">
 
-                <pb n="1" facs="SW_JT1798_Page_03"/>
+                <pb n="1" facs="SW_JT1798_003"/>
                 <dateline>In the fall of the year <date when="1795">1795</date> at the <orgName
                         key="pym">Yearly Meeting</orgName> held<lb/> in <placeName key="phila"
                         >Philadelphia</placeName> for Pennsylvania and New Jersey,</dateline>
@@ -166,7 +168,7 @@
                     this concern. From the several<lb/> quarterly and monthly meetings about six
                     thousand pounds<lb/> was raised. In the spring of the year 1796 several
                     young<lb/> men<lb/>
-                    <pb n="2" facs="SW_JT1798_Page_04"/> men expressed a willingness to reside some
+                    <pb n="2" facs="SW_JT1798_004"/> men expressed a willingness to reside some
                     time amongst<lb/> the natives (to wit) <persName key="jtayl1">Jacob
                         Taylor,</persName>
                     <persName key="ewalt1">Enoch Walter</persName>, and <persName key="hsimm1">Henry
@@ -185,7 +187,7 @@
                     about the<lb/>
                     <del>beginning</del> middle of the 6th Mo. of this year amongst them, after
                         <lb/><note rend="asterisk" resp="author">see page 21 this book</note><lb/>
-                    <pb n="5" facs="SW_JT1798_Page_05"/> viewing the situations of the <orgName
+                    <pb n="5" facs="SW_JT1798_005"/> viewing the situations of the <orgName
                         key="oneida">Oneidas</orgName>, Muheecosick or <orgName key="stockbridge"
                         >Stockbridge</orgName> and<lb/>
                     <orgName key="tuscarora">Tuscaroras</orgName> the concluded to settle the young
@@ -202,7 +204,7 @@
                             body for help </p>
                         <p> Brothers As you cannot but thankfully acknowledge<lb/> this to be the
                             care with your Nation in general and as you<lb/> know we want to help
-                            many of your Indian Brothers a <lb/><pb n="2" facs="SW_JT1798_Page_06"/>
+                            many of your Indian Brothers a <lb/><pb n="2" facs="SW_JT1798_006"/>
                             little who stand in much more need than you do; we trust<lb/> you will
                             not think hard of us if we do not do a great deal for<lb/> you at this
                             time; But, Brothers in order to encourage you to be<lb/> still more
@@ -215,7 +217,7 @@
                             our friend <persName key="jtayl1">Jacob Taylor</persName> whom we left
                             behind<lb/> in order to bring them up by water.</p>
                         <p> 2nd Brothers We also are willing to encourage you in <lb/>building
-                                <lb/><pb n="5" facs="SW_JT1798_Page_07"/> building a Grist mill by
+                                <lb/><pb n="5" facs="SW_JT1798_007"/> building a Grist mill by
                             agreeing to advance three dollars<lb/> to your one of all the money
                             actually to be paid for Materials,<lb/> Mechanical, labour and vitualing
                             the workmen, you finding<lb/> the timber and delivering it on the spot,
@@ -228,7 +230,7 @@
                             nation, shall be consider<lb/> -ed as a part of this advance, and left
                             in your hands for<lb/> the aforesaid purpose providing always that if
                             the government<lb/> shall at any time pay the expense of said mill
-                            agreeable to <lb/><pb n="6" facs="SW_JT1798_Page_08"/> to an article,
+                            agreeable to <lb/><pb n="6" facs="SW_JT1798_008"/> to an article,
                             which you say is contained in a late treaty,<lb/> then, in that case you
                             are to refund to our committee all<lb/> and every part of the advance
                             made by us towards said mill. </p>
@@ -242,7 +244,7 @@
                             of your grain and to keep the mill in order and that<lb/> you agree upon
                             some certain and fixed portions for this man to<lb/> have out of every
                             grist that shall be ground, sufficient to <lb/><pb n="7"
-                                facs="SW_JT1798_Page_09"/> to pay him well for his time and trouble,
+                                facs="SW_JT1798_009"/> to pay him well for his time and trouble,
                             and to enable<lb/> him to keep the mill in good <del>order</del> repair
                             which he ought to do at<lb/> his own expense out of his profits, which
                             you allow him, and<lb/> further we propose that you admit your brothers
@@ -255,7 +257,7 @@
                             willing to pay 25 dollars<lb/> a Quarter for one year at least, if you
                             will agree to make up as<lb/> much more as <del>will</del> to encourage
                             him to keep steadily. Our Friends<lb/> who stay amongst you will pay the
-                            money punctually when a <lb/><pb n="8" facs="SW_JT1798_Page_10"/> a
+                            money punctually when a <lb/><pb n="8" facs="SW_JT1798_010"/> a
                             certificate is produced to them signed by two of your Chiefs<lb/>
                             certifying that the school has been kept steadily for the length<lb/> of
                             time above mentioned for payment, the <orgName key="tuscarora"
@@ -270,7 +272,7 @@
                             every 50 bushels of wheat raised in one<lb/> year within said term by
                             any one farmer of either of these<lb/> two nations, on his own land nor
                             worked by any white people the sum <lb/><pb n="9"
-                                facs="SW_JT1798_Page_22"/> of two dollars, 2nd For every 100 bushels
+                                facs="SW_JT1798_022"/> of two dollars, 2nd For every 100 bushels
                             of Indian<lb/> corn raised in like manner; aforesaid the sum of two
                             dollars<lb/> 3rd For every 100 bushels of potatoes raised as
                             aforesaid<lb/> the sum of one dollar and an half; 4th For every three
@@ -281,7 +283,7 @@
                             the woman<lb/> 6th For every 12 yards of woolen cloth made as
                             afore<lb/>-said out of the wool of her own or her husband’s sheep<lb/>
                             spun in like manner as aforesaid the sum of one dollar <lb/><pb n="10"
-                                facs="SW_JT1798_Page_12"/> to be paid to the woman. Now the
+                                facs="SW_JT1798_012"/> to be paid to the woman. Now the
                             condition of<lb/> obtaining the above premiums are that the persons
                             applying<lb/> shall produce a certificate signed, at least by two of the
                             Chiefs<lb/> of his or her particular Tribe Certifying the particular
@@ -291,7 +293,7 @@
                             the best of their knowledge been intoxicated<lb/> with strong drink at
                             least for the space of one full year<lb/> before such application be
                             made, And we further pro<lb/>-pose that any man or woman of these two
-                            nations by <lb/>produceing <lb/><pb n="11" facs="SW_JT1798_Page_13"/>
+                            nations by <lb/>produceing <lb/><pb n="11" facs="SW_JT1798_013"/>
                             producing a Certificate from two of the chiefs, as aforesaid<lb/> that
                             he or she is highest or foremost in any one or more<lb/> of the above
                             particulars, or any other person in that Nation,<lb/> He or she shall be
@@ -310,7 +312,7 @@
             <div type="narrative">
                 <dateline><date when="1790-06">Sixth Month 1790</date></dateline>
                 <p>After several councils with the <orgName key="oneida">Oneidas</orgName> the
-                    following <lb/>agreement <lb/><pb n="12" facs="SW_JT1798_Page_14"/> Agreement
+                    following <lb/>agreement <lb/><pb n="12" facs="SW_JT1798_014"/> Agreement
                     was come to, proposed on the <date when="1796-06-25">25th</date> and agreed<lb/>
                     on the <date when="1796-06-30">30th of the 6 Mo 1796</date></p>
                 <floatingText type="letter">
@@ -324,7 +326,7 @@
                             raise a great deal of food and clothing off, of<lb/> a little land; that
                             you may become able to support your<lb/>-selves and your children
                             comfortably, without being beholding to <lb/><pb n="13"
-                                facs="SW_JT1798_Page_15"/> to any body, and have something to spare
+                                facs="SW_JT1798_015"/> to any body, and have something to spare
                             for the old and infirm<lb/> as well as to lay by against times of
                             scarcity –- </p>
                         <p>Brothers<lb/> Remember that we have left all that was near and dear<lb/>
@@ -335,7 +337,7 @@
                             reflected<lb/> upon your situation and consulted one another for your
                             the future<lb/> prosperity of your whole <orgName key="oneida"
                                 >Nation</orgName> and three Tribes you have <lb/>kindly <lb/><pb
-                                n="14" facs="SW_JT1798_Page_16"/> kindly permitted to settle on your
+                                n="14" facs="SW_JT1798_016"/> kindly permitted to settle on your
                             lands and we have put our<lb/> conclusions in writing, that it may be
                             know what we are willing to<lb/> undertake for you, and what we desire
                             you to do towards it yourselves<lb/> for we mean to set before you a
@@ -349,7 +351,7 @@
                             <persName key="hsimm1">Henry Simmons</persName> and <persName
                                 key="ewalk1">Enoch Walker</persName>; but they are not bound<lb/> to
                             remain by anything but good will; neither are they obliged <lb/><pb
-                                n="15" facs="SW_JT1798_Page_17"/> obliged to work more than they
+                                n="15" facs="SW_JT1798_017"/> obliged to work more than they
                             think necessary nor to be alto<lb/>-gether among you as they are to go
                             sometimes to <orgName key="tuscarora">Tuscarora</orgName>
                             <placeName key="stockbridge">Stock<lb/>-bridge</placeName> and
@@ -365,7 +367,7 @@
                             bounda<lb/>-ry of the old fort and north of <geogName>skanandoah
                                 creek</geogName> excepting any<lb/> part thereof now occupied by
                             your families<lb/><lb/> Brothers <lb/><pb n="16"
-                                facs="SW_JT1798_Page_18"/> Brothers; if we think there is
+                                facs="SW_JT1798_018"/> Brothers; if we think there is
                             encouragement to under<lb/>-take more another year, we shall ask you for
                             it seasonably,<lb/> and agree together where it shall be </p>
                         <p> Brothers, you know it is hardly practicable for all to learn<lb/>
@@ -376,7 +378,7 @@
                             will be wis<lb/>-hing that we should feed our Horses, Cattle, &amp;c.,
                             upon the com<lb/>-mon and that you will allow us some Grass lots, to
                             provide<lb/> hay for them in the winter. to cut firewood railing and
-                            timber for <lb/><pb n="17" facs="SW_JT1798_Page_19"/> for building in
+                            timber for <lb/><pb n="17" facs="SW_JT1798_019"/> for building in
                             your woods use your sawmill and smith shop<lb/> when we have occasion
                             for them and sometimes work your<lb/> Horses and oxen, when you are not
                             using them </p>
@@ -389,7 +391,7 @@
                             their labour and have something to begin with for themselves when<lb/>
                             other apprentices are taken in their stead provided they<lb/> behave
                             well: but in the case of continued idleness drunkenness <lb/><pb n="18"
-                                facs="SW_JT1798_Page_20"/> drunkenness, swearing or misbehavior in
+                                facs="SW_JT1798_020"/> drunkenness, swearing or misbehavior in
                             any of them, our<lb/> friends must not keep bad company, and we request
                             you to appoint<lb/> three of your Chiefs to unite with our three friends
                             as Judges<lb/> that, if four of them agree the person offending may be
@@ -406,7 +408,7 @@
                 </floatingText>
             </div>
             <div type="narrative">
-                <pb n="19" facs="SW_JT1798_Page_21"/>
+                <pb n="19" facs="SW_JT1798_021"/>
                 <p>The Indians replied on the <date when="1796-06-30">30th of the 6 Mo</date> in
                     substance<lb/> as follows, </p>
                 <floatingText type="letter">
@@ -422,7 +424,7 @@
                             another place to you which we think<lb/> may suit you better, we will go
                             shew it to you </p>
                         <p> Upon this the spot was viewed, and mutually agreed <del>on</del><lb/>
-                            <pb n="20" facs="SW_JT1798_Page_22"/> to as follows, begining at the gut
+                            <pb n="20" facs="SW_JT1798_022"/> to as follows, begining at the gut
                             south, south east of<lb/>
                             <persName key="ashon1">Anthony Shononleyo</persName> house. and running
                             nearly south by a tree<lb/> marked to a tree marked as far as
@@ -438,7 +440,7 @@
                                 Skanan<lb/>-doah</persName>, <persName key="ashon1">Anthony
                                 Shononleyo</persName>, and <persName key="nshag1">Nicholas
                                 Shagnokorongo</persName>, were <lb/><pb n="21"
-                                facs="SW_JT1798_Page_23"/> were appointed as Judges under the 9th
+                                facs="SW_JT1798_023"/> were appointed as Judges under the 9th
                             paragraph</p>
                         <closer> In confirmation of all which preceding agreements we<lb/> have
                             Hereunto interchangeably set our hands the <dateline><date
@@ -457,7 +459,7 @@
                                 Brethren of the six Nations<lb/> Brothers;</salute></opener>
                         <p> We rejoice that you are now at peace<lb/> and we pray to the good spirit
                             that he may continue to preserve <lb/><pb n="22"
-                                facs="SW_JT1798_Page_24"/> you from the miseries of war, We have
+                                facs="SW_JT1798_024"/> you from the miseries of war, We have
                             always had your<lb/> welfare at heart, ever since our Grandfather,
                                 <persName key="wpenn1">Onas *</persName> cam[e]<lb/> into this
                             country; and the present time appears to us to be a<lb/> favorable one,
@@ -470,7 +472,7 @@
                             lands are much less than they<lb/> once were, they are with a small
                             degree of Industry<lb/>
                             <note rend="asterisk" resp="author">*Onas implies William Penn</note><lb/>
-                            <pb n="23" facs="SW_JT1798_Page_25"/> abundantly sufficient to supply
+                            <pb n="23" facs="SW_JT1798_025"/> abundantly sufficient to supply
                             all your wants,</p>
                         <p>Brothers; Our hearts are open to you. we are desirous<lb/> to help you to
                             make the best use of your lands. We are<lb/> united in this matter and
@@ -481,7 +483,7 @@
                             and in the method which the white people take<lb/> to live
                             plentifully</p>
                         <p>Brothers, do you desire to learn some of our useful trades <lb/><pb
-                                n="24" facs="SW_JT1798_Page_26"/> trades, such as, blacksmith,
+                                n="24" facs="SW_JT1798_026"/> trades, such as, blacksmith,
                             Millwrights Wheelwrights and Carpenter <lb/> that you may build houses
                             and Mills and do other necessary<lb/> things to make your lives more
                             comfortable,</p>
@@ -493,7 +495,7 @@
                             for you to attend to and we wish you would open<lb/> your heart, do not
                             hide your thoughts from us, we<lb/> desire none of your lands nor any
                             thing that you have<lb/> but only to do you and your children good think well<lb/>
-                            <pb n="25" facs="SW_JT1798_Page_27"/> of what we now propose to you, and
+                            <pb n="25" facs="SW_JT1798_027"/> of what we now propose to you, and
                             send us an answer<lb/> as soon as you can</p>
                         <p> Brothers, We desire you would seriously reflect upon they<lb/> many
                             difficulties you are under the hunger, fatigue and<lb/> cold you are
@@ -503,7 +505,7 @@
                             land, and<lb/> then we hope that your good understanding will incline
                             you to think<lb/> as we do that your pursuing this mode of life in<lb/>
                             which we are ready to assist you will be of lasting<lb/> advantage
-                                <lb/><pb n="26" facs="SW_JT1798_Page_28"/> advantage to you and your
+                                <lb/><pb n="26" facs="SW_JT1798_028"/> advantage to you and your
                             wives and children for generations<lb/> to come </p>
                         <closer><salute>Signed on behalf of your Old friends the people<lb/> called
                                 Quakers in Pennsylvania New Jersey and parts adjacent</salute><lb/>
@@ -536,7 +538,7 @@
 
             </div>
             <div type="narrative">
-                <pb n="27" facs="SW_JT1798_Page_29"/>
+                <pb n="27" facs="SW_JT1798_029"/>
                 <dateline><date when="1796" type="unattested">1796</date></dateline>
                 <p>The foregoing Articles opened business for the young<lb/> men to
                     attend too which will be treated of and some observa[tions]<lb/> made as they
@@ -547,14 +549,14 @@
                     to the house, all which they fulfilled, and cleared *<lb/> several acres of land
                     adjoining there to and had several<lb/> good crops of wheat, grass, turnips and
                     garden, track before after <lb/> they<lb/>
-                    <pb n="28" facs="SW_JT1798_Page_30"/> they or we had enjoyed it two years our
+                    <pb n="28" facs="SW_JT1798_030"/> they or we had enjoyed it two years our
                     landlord became un<lb/>-easy and wished to enjoy it himself in consequence of
                     this we<lb/> and several other matters we thought it best to build on the<lb/>
                     land set apart by the <orgName key="oneida">Nation</orgName> for our use to
                     instruct they young<lb/> Men, &amp;c.</p>
             </div>
             <div type="udetermined">
-                <pb n="29" facs="SW_JT1798_Page_31"/>
+                <pb n="29" facs="SW_JT1798_031"/>
                 <figure>
                     <figDesc>On this page is a sectioned sketch that appears to be an outline of a
                         building. In various rectangular sections, appear the following words, which
