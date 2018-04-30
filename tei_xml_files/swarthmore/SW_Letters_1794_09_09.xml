@@ -120,7 +120,7 @@
     <text>
         <body>
 
-            <div type="letter"><pb n="1" facs="SW_Letters_1794_09_09_Page_1"/>
+            <div type="letter"><pb n="1" facs="SW_Letters_1794_09_09_001"/>
 
 
            
@@ -150,7 +150,7 @@
                     You--with<lb/>desires to do you Good.</p>
                 <p>Brothers--We meddle not with the Affairs<lb/>of Government-- <del>we hate Wars
                         and Bloodshed</del><lb/> But <del>on the other hand</del> we desire to do
-                    all we can to <lb/> preserve<pb n="2" facs="SW_Letters_1794_09_09_Page_2"/>preserve and promote Peace and Good-Will
+                    all we can to <lb/> preserve<pb n="2" facs="SW_Letters_1794_09_09_002"/>preserve and promote Peace and Good-Will
                     amongst all<lb/>Men.</p>
                 <p>Brothers<lb/>Our Grand-fathers and friend Onas<lb/>were careful in their Day to
                     preserve Peace and Love with<lb/>their Brothers the Indians--We their Children
@@ -172,7 +172,7 @@
                     their Care a small token<lb/>of Love for You--as the Descendents of the
                     first<lb/>Inhabitants of this Land of North America<lb/>whom our forefathers
                     found here after they had crossd<lb/>the great Water--and <del>we hope</del>
-                    desiring the Chain <lb/>of <lb/><pb n="3" facs="SW_Letters_1794_09_09_Page_3"/>of Friendship may be kept Bright <del>and
+                    desiring the Chain <lb/>of <lb/><pb n="3" facs="SW_Letters_1794_09_09_003"/>of Friendship may be kept Bright <del>and
                         Clean from <lb/>all Rust</del></p>
                 <closer><salute>We bid you farewell <lb/><del>Brothers <lb/>Now we bid you farewell
                         -- hoping you <lb/>will be enabled by the great Spirit at the Council fire
@@ -231,11 +231,15 @@
                 </closer>
 
             </div>
+            
+            <div type="undetermined">
+                <pb n="4" facs="SW_Letters_1794_09_09_004"/>
+            </div>
 
             <div type="letter">
 
 
-                <pb n="5" facs="SW_Letters_1794_09_09_Page_5"/>
+                <pb n="5" facs="SW_Letters_1794_09_09_005"/>
                 <opener>The People called Quakers in Pennsylvania and New Jersey &amp;c.<lb/>By their
                     Representatives assembled at <placeName key="phila">Philadelphia</placeName>
                     <dateline><date when="1794-09-09">9th. mo. 9th. 1794</date></dateline>
@@ -268,7 +272,7 @@
                     can prevail on the People to be kind, and do good, and not evil to one
                     another.</p>
                 <p>Brothers<lb/>We pity the Indians as well as the White People when they <lb/>are
-                    <lb/><pb n="6" facs="SW_Letters_1794_09_09_Page_6"/> are brought into Suffering and Distress, and would do them all the
+                    <lb/><pb n="6" facs="SW_Letters_1794_09_09_006"/> are brought into Suffering and Distress, and would do them all the
                     Good in our<lb/>Power--and we hope the Great and Good Spirit will put it into
                     the Hearts<lb/>of the Great Men of the United States, and your Great Men, to
                     adjust<lb/>and Compromise all their differences.</p>
@@ -286,7 +290,8 @@
             </div>
 
             <div type="undetermined">
-                <pb n="7" facs="SW_Letters_1794_09_09_Page_8"/>
+                <pb n="7" facs="SW_Letters_1794_09_09_007"/>
+                <pb n="8" facs="SW_Letters_1794_09_09_008"/>
                 <note resp="unknown">During our Stay with them they made<lb/>several Speeches to us,
                     and some difficulties<lb/>occuring in the course of the Treaty, they
                     re-<lb/>quested our Counsel &amp; Advice w.ch we gave<lb/>them as well as we
