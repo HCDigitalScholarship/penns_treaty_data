@@ -114,9 +114,13 @@
     </teiHeader>
     <text>
         <front>
-
+            
+            <div type="undetermined">
+                <pb n="Title page" facs="SW_HJ1830_001"/>
+            </div>   
+            
             <div type="preface">
-                <pb n="Preface" facs="SW_HJ1830_Page_02"/>
+                <pb n="Preface" facs="SW_HJ1830_002"/>
                 <head>PREFACE.</head>
                 <p>The following account of the <orgName key="seneca">Seneca Indians</orgName>, was
                     published some<lb/> months since, in the columns of The Friend, or Advocate of
@@ -156,7 +160,7 @@
         <body>
             <div type="narrative">
 
-                <pb n="5" facs="SW_HJ1830_Page_03"/>
+                <pb n="5" facs="SW_HJ1830_003"/>
                 <head>An Account of the Seneca Indians</head>
                 <p>As the present seems to be an interesting crisis respecting the abori-<lb/>gines
                     of our country, and particularly some of the southern tribes,<lb/> whose
@@ -198,7 +202,7 @@
                     <lb/>after describing the boundaries of the lands belonging to the <orgName
                         key="seneca">Seneca <lb/> Nation</orgName>, the treaty further states- Now
                     the United States acknowledge <lb/>
-                    <pb n="6" facs="SW_HJ1830_Page_04"/> all land within the afore-mentioned
+                    <pb n="6" facs="SW_HJ1830_004"/> all land within the afore-mentioned
                     boundaries to be the property of<lb/> the <orgName key="seneca">Seneca
                         nation</orgName>; and the United States will never claim the same,<lb/> nor
                     disturb the <orgName key="seneca">Seneca nation</orgName>, nor any of the
@@ -250,7 +254,7 @@
                     President's answers, the famous<lb/> Chief had recorded in a book, of which the
                     writer obtained a copy in<lb/> the year 1800. They were printed some years since
                     by the committee<lb/>
-                    <pb n="7" facs="SW_HJ1830_Page_05"/> who had the charge of promoting civilized
+                    <pb n="7" facs="SW_HJ1830_005"/> who had the charge of promoting civilized
                     habits among the Indians-<lb/> but are rarely to be met with at present. Our
                     limits will not admit<lb/> their republication here, but to give the reader some
                     specimens of the<lb/> superior powers of mind with which this native son of the
@@ -299,7 +303,7 @@
                             it, you<lb/> could crush us to nothing-and you demanded from us a great
                             country<lb/> as the price of that peace you had offered to us, as if our
                             want of <lb/>
-                            <pb n="8" facs="SW_HJ1830_Page_06"/> strength had destroyed our rights.
+                            <pb n="8" facs="SW_HJ1830_006"/> strength had destroyed our rights.
                             Our chiefs had felt your power, and<lb/> were unable to contend against
                             you, and they, therefore, gave up that<lb/> country. What they agreed
                             to, has bound our nation; but by this time<lb/> your anger against u
@@ -346,7 +350,7 @@
                             <orgName key="Six Nations">Six Nations</orgName>. No part of it ever
                             belonged to the King of England, and<lb/> he could not give it to you.
                             The land we live on, our fathers received<lb/>
-                            <pb n="9" facs="SW_HJ1830_Page_07"/> from God, and they transmitted it
+                            <pb n="9" facs="SW_HJ1830_007"/> from God, and they transmitted it
                             to us for our children, and we cannot<lb/> part with it.</p>
                         <p>Father, These are to us very great things - we know that you are<lb/>
                             very strong - and we have heard that you are wise - and we shall
@@ -401,7 +405,7 @@
 
             </div>
             <div type="narrative">
-                <pb n="10" facs="SW_HJ1830_Page_08"/>
+                <pb n="10" facs="SW_HJ1830_008"/>
                 <p>The Second Speech of <persName key="cornp2">Cornplanter</persName>, <persName
                         key="halft1">Half-town</persName>, and <persName key="great1">Big
                         Tree</persName>.</p>
@@ -456,7 +460,7 @@
                                 >Fort Stan-<lb/>wix</placeName>, and we are willing it should remain
                             to be yours. And if you de-<lb/>sire to reserve a passage through the
                                 <geogName key="conew">Conewango</geogName>, and through the <lb/>
-                            <pb n="11" facs="SW_HJ1830_Page_09"/>
+                            <pb n="11" facs="SW_HJ1830_009"/>
                             <geogName key="chaut"> Chautauque Lake</geogName>, and land for a path
                             from that Lake to <geogName key="lakee">Lake Erie</geogName>,<lb/> take
                             it where you like best. Our nation will rejoice to see it an open<lb/>
@@ -505,7 +509,7 @@
                         <p>Father, the blood that was spilt near <geogName key="pinec">Pine
                                 Creek</geogName>, is covered, and<lb/> we shall never look where it
                             lies. We know that Pennsylvania will<lb/>
-                            <pb n="12" facs="SW_HJ1830_Page_10"/> satisfy us for that which we speak
+                            <pb n="12" facs="SW_HJ1830_010"/> satisfy us for that which we speak
                             to them, wherefore we speak to you.<lb/> The chain of friendship will
                             now, we hope, be made strong, as you desire<lb/> it to be - we will hold
                             it fast - our end of it shall never rust in our hands.</p>
@@ -558,7 +562,7 @@
                             children, and our hearts are very glad. We will persuade the<lb/>
                             <orgName key="wyandot">Wyandots</orgName> and other western nations to
                             open their eyes, and look to-<lb/>
-                            <pb n="13" facs="SW_HJ1830_Page_11"/> wards the bed which you have made
+                            <pb n="13" facs="SW_HJ1830_011"/> wards the bed which you have made
                             for us, and to ask of you a bed for<lb/> themselves and their children,
                             that will not slide from under them.</p>
                         <p>Father, we thank you for your presents to us, and rely on your
@@ -611,7 +615,7 @@
 
             </div>
             <div type="narrative">
-                <pb n="14" facs="SW_HJ1830_Page_12"/>
+                <pb n="14" facs="SW_HJ1830_012"/>
                 <head>Manners and Customs of the <orgName key="seneca">Seneca Nation</orgName> of
                     Indians, in the year 1800.</head>
                 <p>In their persons, the <orgName key="seneca">Senecas</orgName> are generally of a
@@ -649,7 +653,7 @@
                     somewhat below the waist, made of linen or<lb/> calico, and in some instances a
                     short waistcoat, with an overcoat of cloth,<lb/> or blanketing, (which they call
                     match-coat,) clumsily made, and the<lb/>
-                    <pb n="15" facs="SW_HJ1830_Page_13"/> addition of moccasins on their feet, and a
+                    <pb n="15" facs="SW_HJ1830_013"/> addition of moccasins on their feet, and a
                     cap on their head, mostly<lb/>/ complete their apparel. The materials of their
                     dress, however, vary<lb/> according to the season. In warm weather they are very
                     thinly<lb/> clad, and in the winter they generally wrap their blanket round
@@ -691,7 +695,7 @@
                     the inside rind of hickory or other strong bark.</p>
                 <p>Two courses thus laid on, generally cover one side of the house, and<lb/> the
                     ridge of the roof is made tight by laying broad pieces lengthways,<lb/>
-                    <pb n="16" facs="SW_HJ1830_Page_14"/> and tying them down as aforesaid. A roof
+                    <pb n="16" facs="SW_HJ1830_014"/> and tying them down as aforesaid. A roof
                     of good bark, thus put on,<lb/> will stand water proof for several years, and
                     the labour of renewing it<lb/> is not very considerable in a country where
                     timber abounds. In a long<lb/> house, the logs are joined together at the ends
@@ -731,7 +735,7 @@
                     other animals, which furnish furs, and especially<lb/> the beaver, the meat of
                     which they esteem a luxury.</p>
                 <note resp="author">*The Delaware word for house.</note>
-                <pb n="17" facs="SW_HJ1830_Page_15"/>
+                <pb n="17" facs="SW_HJ1830_015"/>
                 <p>The females, who are subject, (as amongst other uncivilized nation)<lb/> to
                     almost every kind of domestic drudgery, are industrious in the culture<lb/> of
                     Indian corn, beans, squashes, melons, potatoes, and many other vege-<lb/>tables.
@@ -774,7 +778,7 @@
                 <p>When their new corn becomes fit for use, which is generally in the<lb/>
                     ninth-month, they feast plentifully on it, sometimes boiling it, as usual<lb/>
                     among white people, and also make soup or dumplings of it, while in a<lb/>
-                    <pb n="18" facs="SW_HJ1830_Page_16"/> milky state. The process of the latter is,
+                    <pb n="18" facs="SW_HJ1830_016"/> milky state. The process of the latter is,
                     to cut it off the cob and tie<lb/> it up in small cakes, in the corn husks,
                     mixed with whortleberries or<lb/> dried blackberries, and boiled like a pudding.
                     This when seasoned<lb/> with a little salt, makes a palatable food, and with the
@@ -815,7 +819,7 @@
                     these<lb/> sprightly inhabitants of the wilderness.</p>
                 <p>The economy of the women in procuring sustenance, far exceeds that<lb/> of the
                     men, as they carefully collect almost every natural or sponta-<lb/>
-                    <pb n="19" facs="SW_HJ1830_Page_17"/> neous production of their country,
+                    <pb n="19" facs="SW_HJ1830_017"/> neous production of their country,
                     suitable for the support of human<lb/> life, and lay up against times of
                     scarcity, which sometimes occur, and<lb/> more frequently in the fore part of
                     summer. For though many of them<lb/> raise a competence of corn, to serve, with
@@ -858,7 +862,7 @@
                     conquer or quiet them, it is repeated, till<lb/> the end is effected. As the
                     child gets a little older, they will sometimes<lb/> talk to it a long while,
                     endeavouring to impress on its mind what it<lb/>
-                    <pb n="20" facs="SW_HJ1830_Page_18"/> ought to do, and what to leave undone. At
+                    <pb n="20" facs="SW_HJ1830_018"/> ought to do, and what to leave undone. At
                     other times, they ridicule<lb/> their children for doing wrong, and tell them
                     they are not wise in doing<lb/> so.</p>
                 <p>And one remarkable trait in the character of the children, is, that<lb/> they are
@@ -900,7 +904,7 @@
                     disengage itself. If the weather is cold,<lb/> the skin of some animal, with
                     soft fur on it, is put next to it; and if a<lb/> female, a small block is placed
                     between the heels to give the toes an<lb/>
-                    <pb n="21" facs="SW_HJ1830_Page_19"/> inclination inwards, but if a male, they
+                    <pb n="21" facs="SW_HJ1830_019"/> inclination inwards, but if a male, they
                     endeavour to keep the feet in<lb/> a direction straight forward. One consequence
                     of this is, that the<lb/> track of the different sexes may easily be
                     distinguished. In this vehi-<lb/>cle, their children are carried about at
@@ -943,7 +947,7 @@
                     carcass in quarters, he hangs it<lb/> up in a tree, and then makes his way to
                     the path along the water<lb/> course, breaking down the bushes from the deer,
                     till he reaches it,<lb/>
-                    <pb n="22" facs="SW_HJ1830_Page_20"/> where he scrapes with his feet in the
+                    <pb n="22" facs="SW_HJ1830_020"/> where he scrapes with his feet in the
                     leaves or snow, or otherwise in<lb/> case of snow falling to cover his marks on
                     the ground; he cuts down a<lb/> bush, and sharpening a stick, sets it in a
                     position pointing in a direct<lb/> line to the deer he has killed; this
@@ -986,7 +990,7 @@
                     should he get benighted at too great a<lb/> distance to reach his cabin, and has
                     killed any deer, he strikes up a fire<lb/> in the woods, and roasts a ham or
                     shoulder of venison on a sharp stick<lb/>
-                    <pb n="23" facs="SW_HJ1830_Page_21"/> stuck in the ground before it; beginning
+                    <pb n="23" facs="SW_HJ1830_021"/> stuck in the ground before it; beginning
                     to eat as soon as one side is<lb/> done, and sometimes continuing to eat, as his
                     venison cooks, until he is<lb/> satisfied or the whole is consumed. It is said
                     that some of the hunters<lb/> when very hungry, will eat a ham of venison
@@ -1031,7 +1035,7 @@
                     exist among them, and whether any have committed offences<lb/> or evil acts. Of
                     these it is often the case that the offender makes con-<lb/>fession, the design
                     of which is, that all wrong things may be done away,<lb/>
-                    <pb n="24" facs="SW_HJ1830_Page_22"/> and reconciliation take place, where any
+                    <pb n="24" facs="SW_HJ1830_022"/> and reconciliation take place, where any
                     differences have occurred,<lb/> and a promise on the part of the aggressor or to
                     try to do better for the<lb/> future; which done, the council then assembled
                     forgive them.</p>
@@ -1072,7 +1076,7 @@
                     but it is rather expected that many<lb/> should run as if terrified; these are
                     pursued, and if overtaken before<lb/> they get into a house, are laid hold of,
                     and blackened with their hands,<lb/>
-                    <pb n="25" facs="SW_HJ1830_Page_23"/> but no other injury is offered, and,
+                    <pb n="25" facs="SW_HJ1830_023"/> but no other injury is offered, and,
                     except a frightful yelling noise, no-<lb/>thing is spoken.</p>
                 <p>The design of these frightful representations is, to personify and imi-<lb/> tate
                     the bad spirit, and to remind the Indians of the necessity to amend<lb/> their
@@ -1122,7 +1126,7 @@
                         which they appeared struck with<lb/> astonishment, and considerably alarmed,
                         but let it remain as they found it.</p>
                 </note>
-                <pb n="26" facs="SW_HJ1830_Page_24"/>
+                <pb n="26" facs="SW_HJ1830_024"/>
                 <p>He then addresses the people, advising them how they ought to con-<lb/>duct, and
                     pointing out some of the prominent evils which they ought to<lb/> avoid; one of
                     the greatest of these is stealing, and another is, for the<lb/> husband to
@@ -1164,7 +1168,7 @@
                     exercised in this way when their friends are with them, and the subject<lb/> of
                     aspiration is a thanksgiving for the preservation of their particular<lb/>
                     family or tribe, and for supplying the varied necessaries and comforts<lb/>
-                    <pb n="27" facs="SW_HJ1830_Page_25"/> of life, desiring their continuance; an
+                    <pb n="27" facs="SW_HJ1830_025"/> of life, desiring their continuance; an
                     evidence, this, that among all<lb/> their superstition and ignorance, they are
                     not destitute of the divine<lb/> principle operating within them, and raising in
                     their minds a sense of<lb/> their dependent state, the obligations they are
@@ -1207,7 +1211,7 @@
                     was formed in digging, the ancient Indian was then<lb/> let down, and taking his
                     last seat, the other Indians began to fill in the<lb/> earth, doing it very
                     gently and tenderly till it had risen to his chin. A<lb/>
-                    <pb n="28" facs="SW_HJ1830_Page_26"/> pause was then made, and some ceremony
+                    <pb n="28" facs="SW_HJ1830_026"/> pause was then made, and some ceremony
                     used, after which the young<lb/> warriors threw in the dirt very hastily, so as
                     to prevent their being<lb/> witnesses to his struggles, and to terminate his
                     sufferings as speedily as<lb/> possible. Happily there exists no such barbarous
@@ -1249,7 +1253,7 @@
                     otherwise some female relative, of his<lb/> intentions, who imparts his desires
                     to the mother or sister, or other fe-<lb/>male relative of her with whom he is
                     enamoured, and this proposal they<lb/> communicate to the young woman.</p>
-                <pb n="29" facs="SW_HJ1830_Page_27"/>
+                <pb n="29" facs="SW_HJ1830_027"/>
                 <p>It is also common to present her or her father with some kind of<lb/> trinkets or
                     merchandise to the value of several dollars. If his proposal<lb/> of marriage is
                     not accepted, a negative is put upon it by returning the<lb/> present, but if,
@@ -1292,7 +1296,7 @@
                     important connexion in life, is lightly formed and dissolved, and<lb/> shifted
                     about in a manner unknown among any people rightly civilized.</p>
                 <p>When such separations take place, the mother generally takes the<lb/>
-                    <pb n="30" facs="SW_HJ1830_Page_28"/> children, and I believe their property
+                    <pb n="30" facs="SW_HJ1830_028"/> children, and I believe their property
                     also descends by inheritance, in<lb/> the female line of succession.</p>
                 <p>It is said that, formerly, when an Indian of distinction died, his gun,<lb/>
                     blanket, knife, and other property, not buried with him, were preserved<lb/>
@@ -1336,7 +1340,7 @@
                     government, their chiefs have no pecuniary advantage above other In-<lb/>dians,
                     nor in their private capacity are they treated with any dis-<lb/>tinguished mark
                     of respect.</p>
-                <pb n="31" facs="SW_HJ1830_Page_29"/>
+                <pb n="31" facs="SW_HJ1830_029"/>
                 <p>The genealogy of each particular tribe is traced, according to their<lb/> degrees
                     of consanguinity, by the side of the mother. They do not live<lb/> in separate
                     villages, but are settled promiscuously throughout the <orgName key="seneca"
@@ -1380,7 +1384,7 @@
                     when justly charged, and also that their eyes<lb/> and countenances immediately
                     betray them. There is no corporeal<lb/> punishment practised among them, except
                     where the crime is consider-<lb/>ed worthy of death.</p>
-                <pb n="32" facs="SW_HJ1830_Page_30"/>
+                <pb n="32" facs="SW_HJ1830_030"/>
                 <p>The Indian names are often significant of something in nature, as<lb/>
                     <persName key="cornp2">Cornplanter</persName>'s name in the Seneca language is
                     Ky-on-twa-ky; Connu-<lb/>dia signifies a handsome lake, Ogis-quah-tah is dry
@@ -1423,7 +1427,7 @@
                     they were going to kill<lb/> him. After this wild treatment, and having
                     thoroughly dirtied the<lb/> house with ashes, they withdraw, and leave the nurse
                     to clean after<lb/> them.</p>
-                <pb n="33" facs="SW_HJ1830_Page_31"/>
+                <pb n="33" facs="SW_HJ1830_031"/>
                 <p>Absurd as this practice appears, in many cases it is said to have had<lb/> a
                     beneficial effect, by restoring perspiration, working on the imagina-<lb/>tion,
                     and rousing the indisposed person to a salutary exertion.</p>
@@ -1464,7 +1468,7 @@
                     that constant success will attend all their undertakings while<lb/> they possess
                     it. They also believe that fire taken from a tree burning<lb/> by lightning and
                     kindled in their houses, is an antidote against fatal <lb/>5 <pb n="34"
-                        facs="SW_HJ1830_Page_32"/> disorders. This they keep burning for a certain
+                        facs="SW_HJ1830_032"/> disorders. This they keep burning for a certain
                     time, and then ex-<lb/>tinguish it, and kindle another fire in it, stead. In
                     times of drought,<lb/> they frequently go to a tree that has been lately struck
                     with lightning,<lb/> and kindle a fire at the root, in the smoke whereof
