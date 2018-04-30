@@ -115,6 +115,7 @@
 
         <body>
             <div type="report">
+                <pb n="1" facs="SW_1796_12_15_001"/>
                 <head>The Committee appointed in the 5mo 1795 to prepare <lb/>some Articles to be
                     sent to the <orgName key="shawnee">Shawanese</orgName>, <orgName key="delaware"
                         >Delaware</orgName>, <lb/><orgName key="wyandot">Wyandot</orgName> &amp;
@@ -143,6 +144,9 @@
                     <lb/>Sign'd on behalf of the Committee by <signed><persName key="jparrr1">John
                             Parrish</persName></signed></closer>
 
+            </div>
+            <div type="undetermined">
+                <pb n="2" facs="SW_1796_12_15_002"/>
             </div>
         </body>
 
