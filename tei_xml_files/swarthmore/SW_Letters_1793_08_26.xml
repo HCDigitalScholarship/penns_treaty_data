@@ -124,7 +124,7 @@
             <div type="letter">
 
 
-                <pb n="1" facs="SW_Letters_1793_08_26_Page_1"/>
+                <pb n="1" facs="SW_Letters_1793_08_26_001"/>
                 <opener>
                     <dateline>
                         <placeName key="miamr1">Foot of the Miami Rapids</placeName>
@@ -140,7 +140,7 @@
                     heart &amp; that I have long<lb/>most sincerely wished to see a--- to the
                     effusion of<lb/>human blood.</p>
                 <p>I can not tell when the treaty will<lb/>commence at <placeName key="sandu"
-                    >Sandusky</placeName>, the Indians being at <pb n="2" facs="SW_Letters_1793_08_26_Page_2"/><lb/>present much Alarmed with a
+                    >Sandusky</placeName>, the Indians being at <pb n="2" facs="SW_Letters_1793_08_26_002"/><lb/>present much Alarmed with a
                     report of an Army<lb/>having advanced into their Country; as soon<lb/>however as
                     it shall be in my Power ye may<lb/>expect, with all others concerned, to be
                     informed<lb/>of the time it may probably commence</p>
@@ -155,6 +155,11 @@
                         <item><persName key="jelli1">John Elliott</persName></item>
                         <item><persName key="whart">Wm. Hartshorn</persName></item>
                     </list></note>
+            </div>
+            
+            <div type="undetermined">
+                <pb n="3" facs="SW_Letters_1793_08_26_003"/>
+                <pb n="4" facs="SW_Letters_1793_08_26_004"/>
             </div>
 
         </body>
