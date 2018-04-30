@@ -102,7 +102,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="accounts"><pb n="1" facs="SW_Letters_1795_05_25invoice_Page_1"/>
+            <div type="accounts"><pb n="1" facs="SW_Letters_1795_05_25invoice_001"/>
                 
                 <p> Invoice of sundry articles provided by Friends of
                     Pennsylvania &amp;c. and <lb/> sent to the Treaty expected to be
@@ -156,6 +156,10 @@
                         up</item>
                 </list>
              </div>
+            
+            <div type="undetermined">
+                <pb n="2" facs="SW_Letters_1795_05_25invoice_002"/>
+            </div>
         </body>
     </text>
 </TEI>
