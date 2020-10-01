@@ -1682,12 +1682,14 @@
                     thank-<lb/>-ful, having been from home Just <lb/>Seven Weeks, and traveled by
                     com-<lb/>-putation near one thousand miles.</p>
             </div>
-
-
+            <div type="undetermined">
+                <pb n="76" facs="SW_JS1797_Page_76"/>
+                <pb n="77" facs="SW_JS1797_Page_77"/>
+            </div>
 
         </body>
         <back>
-            <pb n="80" facs="SW_JS1797_Page_78"/>
+            <pb n="78" facs="SW_JS1797_Page_78"/>
             <div type="itinerary">
                 <table cols="2">
                     <row>
@@ -1733,7 +1735,7 @@
                 </table>
             </div>
             <div type="undetermined">
-                <pb n="81" facs="SW_JS1797_Page_79"/>
+                <pb n="79" facs="SW_JS1797_Page_79"/>
                 <p>on Boards instead of Socking Bottom <lb/>except when we lay in the Woods on bark,
                     <lb/>the mostly appeared dirty, uniformly with <lb/>out any Sheet <del>on</del>
                     over us, but in its place <lb/>a rough Coarse Blanket, our meal has been
@@ -1758,7 +1760,7 @@
                 </p>
             </div>
             <div type="accounts">
-                <pb n="82" facs="SW_JS1797_Page_80"/>
+                <pb n="80" facs="SW_JS1797_Page_80"/>
                 <table cols="2">
                     <row>
                         <cell role="data"><unclear>Ex</unclear>
@@ -1840,7 +1842,7 @@
                 </table>
                 <p>Settled all the above accounts </p>
 
-                <pb n="83" facs="SW_JS1797_Page_81"/>
+                <pb n="81" facs="SW_JS1797_Page_81"/>
                 <table cols="2">
                     <row>
                         <cell role="data"><persName key="mmasy1">Michal Mosyers</persName></cell>
@@ -1960,7 +1962,7 @@
 
                 </table>
 
-                <pb n="84" facs="SW_JS1797_Page_82"/>
+                <pb n="82" facs="SW_JS1797_Page_82"/>
                 <table cols="2">
                     <row>
                         <cell><gap/></cell>
@@ -2076,7 +2078,7 @@
                 </table>
 
 
-                <pb n="85" facs="SW_JS1797_Page_83"/>
+                <pb n="83" facs="SW_JS1797_Page_83"/>
                 <p>An account of what expenses we were <lb/>from <placeName key="upcan"
                         >Canada</placeName> homewards</p>
                 <table cols="2">
@@ -2186,7 +2188,7 @@
                     </row>
                 </table>
 
-                <pb n="86" facs="SW_JS1797_Page_84"/>
+                <pb n="84" facs="SW_JS1797_Page_84"/>
                 <table cols="2">
                     <row>
                         <cell role="data">At Fox’s 5 suppers at 2/6 </cell>
@@ -2290,7 +2292,7 @@
                     </row>
                 </table>
 
-                <pb n="87" facs="SW_JS1797_Page_85"/>
+                <pb n="85" facs="SW_JS1797_Page_85"/>
                 <p>at the <placeName key="block">Blockhouse</placeName></p>
                 <table>
                     <row>
@@ -2358,6 +2360,10 @@
                     </row>
                 </table>
 
+            </div>
+            <div type="undetermined">
+                <pb n="86" facs="SW_JS1797_Page_86"/>
+                <pb n="87" facs="SW_JS1797_Page_87"/>
             </div>
         </back>
     </text>
