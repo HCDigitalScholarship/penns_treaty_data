@@ -55,7 +55,7 @@
                         publication will be made available at a cost or free of charge.</p>
                 </availability>
                 <date when="2015">2015</date>
-                <idno type="local">BYM_AB</idno>
+                <idno type="local">SW_BYM_minutes</idno>
             </publicationStmt>
             <seriesStmt>
                 <title level="s" type="project">Native Americans and Quakers: An Electronic
@@ -120,6 +120,7 @@
     <text>
         <front>
             <div type="titlepage">
+                <pb n="?" facs="SW_BYM_minutes_001"/>
                 <p>Minutes &amp; Proceedings<lb/>of the<lb/>Committee on Indian
                     Concerns<lb/>appointed by the<lb/><orgName key="bym">Yearly Meeting of
                         Balt.</orgName><lb/>from the <date when="1795-10">10th Mo.
@@ -128,6 +129,7 @@
                 <p>Book A</p>
             </div>
             <div type="preface">
+                <pb n="?" facs="SW_BYM_minutes_002"/>
                 <p><title>Roll</title><lb/><list>
                         <item><persName key="ethom1">Evan Thomas</persName></item>
                         <item><del><gap/> Wright</del></item>
@@ -196,7 +198,7 @@
 
 
             <div type="minutes">
-                <pb n="1" facs="BYM_Page_001"/>
+                <pb n="1" facs="SW_BYM_minutes_003"/>
                 <opener>At a yearly Meeting held in <placeName key="balti1"
                     >Baltimore</placeName><lb/>for the Western Shore of Maryland and
                     the<lb/>adjacent parts of Pennsylvania &amp; Virginia by<lb/>adjournments from
@@ -220,7 +222,7 @@
                     to<lb/>our quarterly and Monthly Meetings to take this<lb/>concern into serious
                     consideration and open subscriptions<lb/>among our Members for their relief. The
                     encouragement<lb/>of School Education Husbandry and the Mechanic<pb n="2"
-                        facs="BYM_Page_002"/><lb/>Arts amongst that people, and it appears their<lb/>situation demands
+                        facs="SW_BYM_minutes_004"/><lb/>Arts amongst that people, and it appears their<lb/>situation demands
                     immediate attention we hope a<lb/>spirit of liberality will be manifested and
                     those<lb/>who find freedom to subscribe are desired to put
                     their<lb/>contributions into the hands of the following Friends<lb/>who are now
@@ -258,7 +260,7 @@
                         <date when="1795-10-16">10 Mo 16 1795</date></dateline></opener>
                 <p>the members being generally present some time was<lb/>spent in a weighty
                     attention to the subject</p>
-                <pb n="3" facs="BYM_Page_003"/>
+                <pb n="3" facs="SW_BYM_minutes_005"/>
 
                 <p><persName key="eelli1">Elias Ellicott</persName> was appointed to receive the
                     several<lb/>sums of many subscribed in the Yearly Meeting and also<lb/>such sums
@@ -293,7 +295,7 @@
                             natives have had divers conferences on<lb/>that interesting concern, and
                             selected from their<lb/>Number a sub. committee of 15 friends to afford
                             a<lb/>close attention thereto in the intervals between the<lb/>adjourned
-                            Meetings of the committee at large<pb n="4" facs="BYM_Page_004"/><lb/>and among other
+                            Meetings of the committee at large<pb n="4" facs="SW_BYM_minutes_006"/><lb/>and among other
                             services particularly enjoined on the<lb/>said sub committee, they were
                             requested to corres-<lb/>pond with such committees of the
                             neighbouring<lb/>Yearly Meetings as are or may be appointed<lb/>for the
@@ -314,7 +316,7 @@
                             Individuals a feeling sympathy with them<lb/>and an increasing desire to
                             be helpful in promoting<lb/>their civil and religious improvement,
                             several<lb/>Sober religious minded persons having already <pb n="5"
-                                facs="BYM_Page_005"/><lb/>signified a willingness to devote their time <del>and</del>
+                                facs="SW_BYM_minutes_007"/><lb/>signified a willingness to devote their time <del>and</del>
                             to<lb/>go and reside amongst them for that purpose</p>
                         <p>We have also written a circular letter to the<lb/>different tribes of
                             those called the <orgName key="sxntns">Six Nations</orgName>
@@ -336,7 +338,7 @@
                             the<lb/>welfare of the Indians which will appear or perusing<lb/>a copy
                             of his letter to the six nations herewith sent,</p>
                         <p>And we may further inform you that <persName key="ichap1">Israel<pb n="6"
-                            facs="BYM_Page_006"/><lb/>Chapin</persName>, Superindendant of Indian Affairs
+                            facs="SW_BYM_minutes_008"/><lb/>Chapin</persName>, Superindendant of Indian Affairs
                             who<lb/>resides at <placeName key="conan">Conadarque</placeName> in
                             their country and<lb/>we have reason to believe has great influence<lb/>
                             among them, being lately in this City, we<lb/> have fully and freely
@@ -353,7 +355,7 @@
                             bartered for Rum and Whiskey<lb/>and thus through their attachment to
                             this de-<lb/>basing and destructive Enjine of Satan, they are
                             left<lb/>destitute and miserable, their morals corrupted and<lb/>as they
-                            come to reflect with coolness their minds are<pb n="7" facs="BYM_Page_007"/><lb/>embittered
+                            come to reflect with coolness their minds are<pb n="7" facs="SW_BYM_minutes_009"/><lb/>embittered
                             against the white people. The Committee<lb/>have used some endeavours to
                             excite in the minds of our<lb/>Rulers a due sense of this envimity
                             desiring they would<lb/>devise means for restraining or prohibiting the
@@ -387,7 +389,7 @@
                                     <item><persName key="jsans1">Joseph Sansom</persName></item>
                                     <item><persName key="jelli4">John Ellicott</persName></item>
                                 </list></signed></closer>
-                        <pb n="8" facs="BYM_Page_008"/>
+                        <pb n="8" facs="SW_BYM_minutes_010"/>
                     </body>
                 </floatingText>
                 <p>This committee believing that such a correspondence<lb/>as is mentioned in the
@@ -418,7 +420,7 @@
                 <opener><dateline>
                         <date when="1796-05-23">5 Mo 23</date></dateline>.</opener>
                 <p>Eleven members<lb/>met<lb/><persName key="jbond1">Joseph Bond</persName> is added
-                    to the committee to<pb n="9" facs="BYM_Page_009"/><lb/>visit the Indians</p>
+                    to the committee to<pb n="9" facs="SW_BYM_minutes_011"/><lb/>visit the Indians</p>
 
                 <p>The committee yesterday appointed produced<lb/>a letter in answer to that rec.
                     from the committee<lb/>of <placeName key="phila">Philadelphia</placeName> which
@@ -449,7 +451,7 @@
                                 key="jbond1">Joseph Bond</persName>, and as we<lb/>apprehend it may
                             be necessary to have the perm-<lb/>ission of Government, therefore
                             request your attention<lb/>to that subject and so far as you may think
-                            right<pb n="10" facs="BYM_Page_010"/><lb/>to make application and procure what you
+                            right<pb n="10" facs="SW_BYM_minutes_012"/><lb/>to make application and procure what you
                             may<lb/>deem necessary and forward as soon as convenient<lb/>to our
                             corresponding members <persName key="jbrow1">John Brown</persName> &amp;
                                 <persName key="jmcki1">John<lb/>McKim</persName> of Baltimore which
@@ -482,7 +484,7 @@
                             <persName key="mdill1">Moses Dillon</persName> &amp; <persName
                                 key="jbond1">Joseph Bond</persName><lb/>to shake hands with you in
                             your tents and to ask<lb/>if you wish to be instructed how to raise
-                            Corn<pb n="11" facs="BYM_Page_011"/><lb/>wheat for Bread on your own Lands as we
+                            Corn<pb n="11" facs="SW_BYM_minutes_013"/><lb/>wheat for Bread on your own Lands as we
                             do<lb/>and to get meat at home without hunting &amp; to <lb/>take
                             blankets and other cloathing for yourselves<lb/><gap/> Children, and
                             also whether you desire to have your<lb/>Children taught to read, write
@@ -517,7 +519,7 @@
                         <date when="1796-10">10 Mo 1796</date></dateline></opener>
 
                 <p>The committee appointed to visit the Indians brought<lb/>in the following
-                    Report,<pb n="12" facs="BYM_Page_012"/><lb/>We of the Committee appointed in the <date
+                    Report,<pb n="12" facs="SW_BYM_minutes_014"/><lb/>We of the Committee appointed in the <date
                         when="1796-05">5 Mon last</date> to<lb/>visit some of the Indians tribes NW
                     of the river ohio<lb/>have so far attended to the trust reposed in us as
                     to<lb/>meet at <placeName key="bees">Beesan Town</placeName> at which place we
@@ -542,7 +544,7 @@
                         <item><persName key="jbrow1">John Brown</persName></item>
                         <item><persName key="ijann1">Israel Janney</persName></item>
                         <item><persName key="mdill1">Moses Dillon</persName></item>
-                        </list><pb n="13" facs="BYM_Page_013"/><lb/>The above Committee previous to these proceedings
+                        </list><pb n="13" facs="SW_BYM_minutes_015"/><lb/>The above Committee previous to these proceedings
                     on<lb/>the above mentioned Journey were furnished with<lb/>permission from
                     Government expressed in Letters<lb/>from the secretary of State addressed to
                         <persName key="gstcl1">gov. St.<lb/>Clair</persName> and <persName
@@ -568,7 +570,7 @@
                             request of you towards the<lb/>delegation all the protection &amp;
                             countenance to which<lb/>their respectable characters and philanthropic
                             views<lb/>entitle them. Most attempts at civilizing the Indians<pb
-                                n="14" facs="BYM_Page_014"/><lb/>which I have heard of have been preposterous.
+                                n="14" facs="SW_BYM_minutes_016"/><lb/>which I have heard of have been preposterous.
                             We<lb/>have aimed at teaching Religion &amp; the Sciences before<lb/>we
                             have taught them the simple and essential<lb/>labours of civil life.</p>
                         <closer><persName key="gstcl1">Gov. St. Clair,</persName><lb/>I am very
@@ -596,7 +598,7 @@
                             according<lb/>by 5 Wise nominated for that pupose 4 of whom
                             after<lb/>being furnished with permission from Government<lb/>proceeded
                             to the mouth of <placeName key="wheel">Wheeling</placeName> on the
-                            <placeName key="ohior">Ohio river</placeName><pb n="15" facs="BYM_Page_015"/><lb/>and
+                            <placeName key="ohior">Ohio river</placeName><pb n="15" facs="SW_BYM_minutes_017"/><lb/>and
                             were there informed by <persName key="ezane1">Ebenezer Zane</persName> a
                             well<lb/>disposed man of good account in that place that a<lb/>number of
                             chiefs and hunters had lately been about the<lb/>forks of <placeName
@@ -620,7 +622,7 @@
                             some addition<lb/>to our number in this weighty undertaking
                             woud<lb/>also be useful all which we submit to the <orgName key="bym"
                                 >Yearly<lb/>Meeting</orgName></p>
-                        <closer>Signed on behalf of the Committee. By<pb n="16" facs="BYM_Page_016"/><lb/><signed><list>
+                        <closer>Signed on behalf of the Committee. By<pb n="16" facs="SW_BYM_minutes_018"/><lb/><signed><list>
                                     <item><persName key="ethom1">Evan Thomas</persName></item>
                                     <item><persName key="jwils2">John Wilson</persName></item>
                                 </list></signed><dateline><placeName key="balti1">Balt.</placeName>
@@ -655,7 +657,7 @@
                     to<lb/>request the necessary attention of friends in each<lb/>meeting in
                     forwarding to<lb/><persName key="eelli1">Elias Ellicott</persName> our
                     Treasurer<lb/>the sums already subscribed and endeavor to promote<lb/>an
-                    increase of the number of Subscriptions in order that<pb n="17" facs="BYM_Page_017"/><lb/>to the
+                    increase of the number of Subscriptions in order that<pb n="17" facs="SW_BYM_minutes_019"/><lb/>to the
                     reputation of the society we may be enabled to proceed</p>
                 <p>The above was directed to be transcribed and signed<lb/>on behalf of the
                     committee and forwarded to the different<lb/>Quarterly &amp; Monthly
@@ -692,7 +694,7 @@
                     the proposal<lb/>leave him at liberty to pursue his prospects and direct<lb/>him
                     to apply to the treasurer for money to defray<lb/>the Expence</p>
                 <p>Then adjourned to the 4th hour on <date><date when="1797-10-07">7th Day</date><pb
-                    n="18" facs="BYM_Page_018"/><lb/>preceeding our next Yearly Meeting</date></p>
+                    n="18" facs="SW_BYM_minutes_020"/><lb/>preceeding our next Yearly Meeting</date></p>
             </div>
             <div type="minutes">
                 <opener> At a Meeting of the Committee of Indian<lb/>concerns held at
@@ -728,7 +730,7 @@
                                 creek</placeName> aforsaid<lb/>and thence nearly reversing our
                             former route back.</p>
                         <p>In the course of this journey having visited a<lb/>number of Indian
-                            Hunting Camps and several of their<pb n="19" facs="BYM_Page_019"/><lb/>Towns we have had
+                            Hunting Camps and several of their<pb n="19" facs="SW_BYM_minutes_021"/><lb/>Towns we have had
                             large opportunity of discovering<lb/>their present situation often
                             exposed to the inclemen-<lb/>cy of the Seasons with a very precarious
                             and freq-<lb/>uently a scanty supply of food and cloathing
@@ -758,7 +760,7 @@
                                     council of the sons of peace the<lb/>Quakers who live on the
                                     other side of the great Moun-<lb/>tains towards the sun
                                     rising.</p>
-                                <pb n="20" facs="BYM_Page_020"/>
+                                <pb n="20" facs="SW_BYM_minutes_022"/>
                                 <p>Brothers<lb/>We have thought of you we have spoken<lb/>of the 16
                                     council fires for you he has given us<lb/>liberty to come and
                                     speak with you, in your tents<lb/>to take you by the hand.</p>
@@ -779,7 +781,7 @@
                                     we want to know if you desire to<lb/>be instructed in these
                                     things—we want to make<lb/>for you smooth waters and a clear
                                     sky—to show<lb/>you how to spread for yourselves on your own<pb
-                                        n="21" facs="BYM_Page_021"/><lb/>land a large Beaver blanket, that you
+                                        n="21" facs="SW_BYM_minutes_023"/><lb/>land a large Beaver blanket, that you
                                     your<lb/>young men, your wives and children may rest
                                     easy<lb/>under the shade of the great tree of peace,
                                     Farewell</p>
@@ -811,7 +813,7 @@
                             the principal<lb/>chiefs of the <orgName key="delaware">Delaware
                                 nation</orgName> at <placeName key="sandu">Sandusky</placeName>,
                             but<lb/>our Interpreter an old man of that nation not being<pb n="22"
-                                facs="BYM_Page_022"/><lb/>very perfect in the English Language, themselves<lb/>of our
+                                facs="SW_BYM_minutes_024"/><lb/>very perfect in the English Language, themselves<lb/>of our
                             business, we thought did not seem so clearly<lb/>comprehended yet they
                             treated us with civility<lb/>and informed us they would return an answer
                             after<lb/>it had been laid before their council,</p>
@@ -848,7 +850,7 @@
                             S. W. course from the Mouth of <placeName key="wheel"
                                 >Wheeling</placeName><lb/>on said river about 100 Miles to the
                             Scioto 45<lb/>Miles from its mouth thence up said River<pb n="23"
-                                facs="BYM_Page_023"/><lb/>near a N. course 70 Miles thence westerly upward of 30<lb/>Miles
+                                facs="SW_BYM_minutes_025"/><lb/>near a N. course 70 Miles thence westerly upward of 30<lb/>Miles
                             to the head waters of the great <placeName key="miamr">Miami</placeName>
                             of the<lb/>Ohio thence N. Easterly 50 Miles to the <placeName
                                 key="sandu">Upper San<lb/>Dusky</placeName> an Indian Town on the
@@ -875,7 +877,7 @@
                                 >Wyandots</orgName><lb/><orgName key="shawnee">Shawanese</orgName>
                             &amp; <orgName key="delaware">Delawares</orgName> from that of the
                             Nations<lb/>Westerly they were impressed with a belief that those<pb
-                                n="24" facs="BYM_Page_024"/><lb/>who reside in this country unless they alter
+                                n="24" facs="SW_BYM_minutes_026"/><lb/>who reside in this country unless they alter
                             their<lb/>present mode of living must in a few years<lb/>from the
                             scarcity of game be reduced to a State<lb/>of extream want and distress
                             and in order to awaken<lb/>the minds of these people to a reflection on
@@ -900,7 +902,7 @@
                                     to grind their corn, to build<lb/>houses and make clothes to
                                     keep them warm when the<lb/>weather is could, to teach their
                                     children to read and write,</p>
-                                <pb n="25" facs="BYM_Page_025"/>
+                                <pb n="25" facs="SW_BYM_minutes_027"/>
                                 <p>Brothers,<lb/>We are not able to make you great<lb/>presents but
                                     we want to know if you desire to be<lb/>instructed in these
                                     things,</p>
@@ -928,7 +930,7 @@
                             the <orgName key="bym">Yearly Meeting</orgName><lb/>it appearing to us
                             that a less sum than 2000 dollars<lb/>would not answer the purpose for
                             proceeding in<lb/>the business on a suitable plan and the sum<pb n="26"
-                                facs="BYM_Page_026"/><lb/>now in our Treasurers hands only amounting to about<lb/>854
+                                facs="SW_BYM_minutes_028"/><lb/>now in our Treasurers hands only amounting to about<lb/>854
                             Dollars.</p>
                         <closer>Submitted to the <orgName key="bym">Yearly Meeting</orgName>
                             and<lb/>signed on behalf of the committee<lb/><dateline><placeName
@@ -966,7 +968,7 @@
                 <p>, the number being too small to proceed<lb/>to procede to business adjourned to
                     meet at <placeName key="pipec">Pipe Creek</placeName><lb/>in the <date
                         when="1798-05">5th Mon next</date>,</p>
-                <pb n="27" facs="BYM_Page_027"/>
+                <pb n="27" facs="SW_BYM_minutes_029"/>
             </div>
             <div type="minutes">
                 <opener>At a Meeting of the Committee at <dateline><placeName key="pipec">Pipe
@@ -999,7 +1001,7 @@
                     appoint a few friends to inspect<lb/>into the circumstances of those Indians
                     with liberty<lb/>if they shall believe is necessary to afford them
                     some<lb/>assistance by the furnishing them with <del>such assistance</del><pb
-                        n="28" facs="BYM_Page_028"/><lb/>articles as they may be in immediate want of and report<lb/>the
+                        n="28" facs="SW_BYM_minutes_030"/><lb/>articles as they may be in immediate want of and report<lb/>the
                     state of the business to this committee at a future<lb/>Meeting. <persName
                         key="rcadw1">Rees Cadwalader</persName>
                     <persName key="nheal1">Nathan Heald</persName> and<lb/><persName key="jwrig2"
@@ -1035,7 +1037,7 @@
                             those<lb/>Indians, that they ware dispursed in hunting camps<lb/>and few
                             of them at their Town, we did not think it<lb/>necessary, we proceded in
                             that direction, but <persName key="tsmit1">Thomas Smith</persName><pb
-                                n="29" facs="BYM_Page_029"/><lb/>a friend who lives near <placeName key="geort"
+                                n="29" facs="SW_BYM_minutes_031"/><lb/>a friend who lives near <placeName key="geort"
                                 >Georgetown</placeName>, having informed<lb/>us that 8 or 10
                             families of other Indians dispersed<lb/>in hunting parties on the
                             braches of <placeName key="tuscr">Tuscrawas</placeName><lb/>were very
@@ -1057,7 +1059,7 @@
                             would tend to increase among the<lb/>western Indians a confidence in us
                             as a people if Friends<lb/>could believe it right to send a few suitable
                             persons<lb/>to attend next spring at their general Council in<pb n="30"
-                                facs="BYM_Page_030"/><lb/>which the <orgName key="ojibwe">chippeways</orgName> &amp;
+                                facs="SW_BYM_minutes_032"/><lb/>which the <orgName key="ojibwe">chippeways</orgName> &amp;
                                 <orgName key="odawa">ottoways</orgName> two powerful
                             Nations<lb/>have considerable influence and who have not yet<lb/>been
                             addressed on the subject proposed to the <orgName key="wyandot"
@@ -1093,7 +1095,7 @@
                             (should any have opened) amongst<lb/>the Natives west of the <placeName
                                 key="ohior">river Ohio</placeName> may be more<lb/>especially useful
                             the <orgName key="miami">Miami Nation</orgName> have made<lb/>a request
-                            to us for some friends to settle amongst<pb n="31" facs="BYM_Page_031"/><lb/>them and a
+                            to us for some friends to settle amongst<pb n="31" facs="SW_BYM_minutes_033"/><lb/>them and a
                             speech we have lately received from<lb/>the <orgName key="delaware"
                                 >Delawares</orgName> leaves scarce a doubt but a like<lb/>request
                             will be made from that nation—hitherto<lb/>we have proceeded no further
@@ -1117,7 +1119,7 @@
                             Committee<lb/>who were in that Country as from us none have<lb/>as yet
                             been amongst the Nations West of the <placeName key="ohior"
                                 >River<lb/>Ohio</placeName>. If you have any answer to make
-                            thereto<pb n="32" facs="BYM_Page_032"/><lb/>it is probable <persName key="jshef1"
+                            thereto<pb n="32" facs="SW_BYM_minutes_034"/><lb/>it is probable <persName key="jshef1"
                                 >Jonathan Shefflin</persName> will remain<lb/>here until the end of
                             next month, it is desirable<lb/>the same may be forwarded as early as
                             convenient<lb/>we are aware that Indians very generally take
@@ -1151,7 +1153,7 @@
                             things were said, and<lb/>much friendship was professed between us,
                             Brethren—<lb/>you told us at that time when we met together:
                             That<lb/>you not only took us by the hand, but that you<lb/>held us fast
-                            by the arm, That you then formed a<pb n="33" facs="BYM_Page_033"/><lb/>Chain of Friendship:
+                            by the arm, That you then formed a<pb n="33" facs="SW_BYM_minutes_035"/><lb/>Chain of Friendship:
                             you said it was not a<lb/>Chain of Iron, but that is was a chain
                             of<lb/>precious Metal, a chain of silver, which would<lb/>bind us in
                             brotherly affection forever,</p>
@@ -1169,7 +1171,7 @@
                             your<lb/>Brethren, are happy to hear that you have not<lb/>forgot what
                             our Grandfathers agreed on at that time</p>
                         <p>We have often heard—That you were a good and<lb/>Faithful People, ever
-                            ready to do Justis and good to all<pb n="34" facs="BYM_Page_034"/><lb/>Men whether they were
+                            ready to do Justis and good to all<pb n="34" facs="SW_BYM_minutes_036"/><lb/>Men whether they were
                             white or black—Therefore we<lb/>love you the more sincerely, because of
                             the goodness<lb/>of your hearts, what has been talked of amongst
                             our<lb/>nations long since,</p>
@@ -1191,7 +1193,7 @@
                             friendship and brotherly love, concidering us<lb/>as one and the same
                             people, which chain we pray,<lb/>that the great Spirit will never permit
                             to be<lb/>divided,</p>
-                        <pb n="35" facs="BYM_Page_035"/>
+                        <pb n="35" facs="SW_BYM_minutes_037"/>
                         <p>Brethren Listen!<lb/>By strictly adhering to the<lb/>treaty of brotherly
                             love which our Grandfathers<lb/>(who now exist no longer) formed for us
                             and our<lb/>future generations we will the more peaceful-<lb/>lly and
@@ -1221,7 +1223,7 @@
                     if they find the way open to afford them<lb/>assistance viz. <persName
                         key="ethom1">Evan Thomas</persName> &amp; <persName key="gelli1">George
                         Ellicott</persName></p>
-                <pb n="36" facs="BYM_Page_036"/>
+                <pb n="36" facs="SW_BYM_minutes_038"/>
                 <p><persName key="ethom1">Evan Thomas</persName>
                     <persName key="gelli1">Geo Ellicott</persName> and <persName key="jwrig2">Joel
                         Wright</persName> are<lb/>appointed to draw an Essay of an answer to
@@ -1247,7 +1249,7 @@
                             have aluded<lb/>to former transactions it seems the more
                             necessary<lb/>for us to apply to you for information on<lb/>that
                             head—Aware of our own inability at present<lb/>to do any great matters
-                            we have endeavourd to<pb n="37" facs="BYM_Page_037"/><lb/>guard against raising their
+                            we have endeavourd to<pb n="37" facs="SW_BYM_minutes_039"/><lb/>guard against raising their
                             expectations—A speech<lb/>was sime time ago communicated to some
                             of<lb/>the chiefs of the <orgName key="wyandot">Wyandot Nation</orgName>
                             at the <placeName key="sandu">Upper<lb/>San Dusky</placeName>, with a
@@ -1272,7 +1274,7 @@
                             communicate<lb/>to us such further information on the subject<lb/>as you
                             may conceive to be necessary we also<lb/>suggest the propriety and
                             usefulness of your app-<lb/>ointing few friends to unite in the visit,
-                            since<pb n="38" facs="BYM_Page_038"/><lb/>the prudent conducting of the matter may be
+                            since<pb n="38" facs="SW_BYM_minutes_040"/><lb/>the prudent conducting of the matter may be
                             of<lb/>great importance</p>
                         <p>As you are better acquainted than we are<lb/>with the mode of conducting
                             business with the<lb/>Indians if you think a Belt of wampum will<lb/>be
@@ -1306,7 +1308,7 @@
                     to the <orgName key="bym">yearly Meeting</orgName> and<lb/>produce it to next
                     sitting</p>
                 <p>Then adjourned to the 7th Hour to<lb/>morrow afternoon</p>
-                <pb n="39" facs="BYM_Page_039"/>
+                <pb n="39" facs="SW_BYM_minutes_041"/>
             </div>
             <div type="minutes">
                 <opener><dateline>
@@ -1335,7 +1337,7 @@
                             the Indians<lb/>five Friends were appointed to attend their
                             Council<lb/>at <placeName key="sandu">San Dusky</placeName> at the time
                             they had proposed four of<lb/>whom proceeded on the Journey and have
-                            produced<pb n="40" facs="BYM_Page_040"/><lb/>the following Report</p>
+                            produced<pb n="40" facs="SW_BYM_minutes_042"/><lb/>the following Report</p>
                         <p>Pursuant to our appointment we set out<lb/>on a visit to the Indians the
                                 <date when="1799-05">7th of the 5 Mo last</date><lb/>and after
                             passing through two of their towns arrived<lb/>on the 3rd of the most
@@ -1357,7 +1359,7 @@
                             our visit</p>
                         <p>Our communication appeard to be rec.<lb/>with great satisfaction by them
                             and in their<lb/>answer deliverd to us on some strings of Wampum<pb
-                                n="41" facs="BYM_Page_041"/><lb/>which we were desired to take with us to Friends
+                                n="41" facs="SW_BYM_minutes_043"/><lb/>which we were desired to take with us to Friends
                             they<lb/>expressed the gratitude they felt for the care
                             and<lb/>friendship their beloved brethren the Quakers had
                             always<lb/>manifested for the Indians &amp; informed us that as<lb/>soon
@@ -1379,7 +1381,7 @@
                             over the Indians<lb/>to keep them in their present way of living as
                             most<lb/>conducive to their own interest, notwithstanding<lb/>which
                             present discouragement, they great affection<lb/>they have fore our
-                            society manifested on all occasions<pb n="42" facs="BYM_Page_042"/><lb/>while we were
+                            society manifested on all occasions<pb n="42" facs="SW_BYM_minutes_044"/><lb/>while we were
                             amongst them, induces us to<lb/>wish friends may endeavour to keep under
                             the<lb/>weight of the concern and be prepared to proceed<lb/>in this
                             benevolent word whenever the way may<lb/>open for further service
@@ -1418,7 +1420,7 @@
                     an<lb/>answer to the speech some time ago received<lb/>and produced it to a
                     future sitting of the<lb/>
                     <note resp="unknown">there here appears to be a chasm of near 2 years in
-                        the<lb/>proceedings of this committee</note><pb n="43" facs="BYM_Page_043"/><lb/>committee</p>
+                        the<lb/>proceedings of this committee</note><pb n="43" facs="SW_BYM_minutes_045"/><lb/>committee</p>
                 <p>Then adjourned to the 5th hour this afternoon</p>
             </div>
             <div type="minutes">
@@ -1448,7 +1450,7 @@
                         <p>Brothers In that speech you told us, that if any<lb/>amongst us were sent
                             to visit you in your<lb/>tents the next summer that they would be
                             likely<lb/>to go by <placeName key="sandu">San Dusky</placeName> and
-                            that you would then<pb n="44" facs="BYM_Page_044"/><lb/>take them not only by the hand but
+                            that you would then<pb n="44" facs="SW_BYM_minutes_046"/><lb/>take them not only by the hand but
                             by the arm<lb/>and conduct them safe to the grand Council<lb/>fire of
                             your great Sasteretsy where every thing<lb/>good is transacted &amp;
                             nothing bad is permited to<lb/>appear</p>
@@ -1468,7 +1470,7 @@
                             intended<lb/>to send us soon the conclusion of your great</p>
                         <p>council respecting our business with you &amp;<lb/>we have had no account
                             from you since</p>
-                        <p>Brothers They were also discouraged on account<pb n="45" facs="BYM_Page_045"/><lb/>of the
+                        <p>Brothers They were also discouraged on account<pb n="45" facs="SW_BYM_minutes_047"/><lb/>of the
                             abundant use of Spiritous Liquors amongst<lb/>your people apprehending
                             it did them much injury &amp;<lb/>if continued you might prevent our
                             being capable of<lb/>rendering you much service</p>
@@ -1503,7 +1505,7 @@
                     <body>
                         <opener>To the <orgName key="bym">Yearly Meeting</orgName> now
                             siting</opener>
-                        <p>We have received no accounts from the Indians<pb n="46" facs="BYM_Page_046"/><lb/>since last
+                        <p>We have received no accounts from the Indians<pb n="46" facs="SW_BYM_minutes_048"/><lb/>since last
                             year though we have given some attention<lb/>to the subject of our
                             appointment and having pre-<lb/>pared a letter to the Indians it was
                             forwarded in<lb/>due season to <placeName key="sandu">San
@@ -1529,7 +1531,7 @@
                     use of spiritous Liquors &amp; who<lb/>had presented a memorial to congress on
                     the<lb/>last mentioned subject were communicated &amp;<lb/>approved their
                     communications to &amp; from<lb/>the Indians being as follows</p>
-                <pb n="47" facs="BYM_Page_047"/>
+                <pb n="47" facs="SW_BYM_minutes_049"/>
                 <note resp="transcr">The following newspaper accounts are tipped-in</note>
                 <floatingText type="undetermined">
                     <body>
@@ -1670,7 +1672,7 @@
                             taken the great chief of the<lb/>white people by the hand, I hope he
                             will<lb/>give you full information with respect to<lb/>us.<lb/>The
                             friend who had been interrupted, then<lb/>proceeded: <lb/><gap/></p>
-                        <pb n="48" facs="BYM_Page_048"/>
+                        <pb n="48" facs="SW_BYM_minutes_050"/>
                         <p>Two years, last spring, seven of us went<lb/>over the <placeName
                                 key="ohior">Ohio</placeName>, and thence to <placeName key="sandu"
                                 >Upper San-<lb/>dusky</placeName>, at the time mentioned in the
@@ -1806,7 +1808,7 @@
                             where we may be found gene-<lb/>rally together. The great council of
                             our<lb/>tribes of Indians, is held at <placeName key="fwayn">Fort
                                 Wayne</placeName><lb/>at the time we receive our annuity from<pb
-                                    n="49" facs="BYM_Page_049"/><lb/>the United States. At that time any
+                                    n="49" facs="SW_BYM_minutes_051"/><lb/>the United States. At that time any
                             com-<lb/>munications our Brothers wish to make to<lb/>their red
                             brethren, will be safely handed to<lb/>us by your white brother, our
                             interpreter<lb/>now with us, who is our agent at that<lb/>place.</p>
@@ -1939,7 +1941,7 @@
                             beginning at the<lb/>right end of the business.</p>
                         <p>[The proceedings of the second conference will<lb/>appear in our
                             next.]</p>
-                        <pb n="53" facs="BYM_Page_053"/>
+                        <pb n="53" facs="SW_BYM_minutes_052"/>
                         <p>Proceedings of a committee appointed by the<lb/>yearly meeting of the
                             respectable society of<lb/>Friends, with the Indian
                             chiefs—conclud-<lb/>ed from yesterday’s Gazette.</p>
@@ -2067,7 +2069,7 @@
                                 had better be at war with<lb/>the white people: this liquor that
                                 they in-<lb/>troduce into our country is more to be<lb/>feared than
                                 the gun and the tomahawk:<lb/>there are more of us dead since the
-                                treaty<pb n="55" facs="BYM_Page_055"/><lb/>Grenville, than we lost by the
+                                treaty<pb n="55" facs="SW_BYM_minutes_053"/><lb/>of Grenville, than we lost by the
                                 six<lb/>years war before; it is all owning to the in-<lb/>troduction
                                 of this liquor amongst us.</said>—<lb/>Brothers, how to remove this
                             evil from our<lb/>country we do not know; if we had known<lb/>that it
@@ -2215,7 +2217,7 @@
                                 when="1802-01-01">1st month 1st, 1802</date></dateline>
                     </body>
                 </floatingText>
-                <pb n="57" facs="BYM_Page_057"/>
+                <pb n="57" facs="SW_BYM_minutes_054"/>
 
                 <p>A letter being lately received from the agent of<lb/>Indian affairs at <placeName
                         key="fwayn">Fort wayne</placeName> containing a request of the<lb/>Indians
@@ -2250,7 +2252,7 @@
                                 Ohio</placeName> they being chiefs of those<lb/>Indians whom the
                                 <orgName key="bym">Yearly Meeting</orgName> had in
                             contemplation<lb/>to adjust. The first conference was on the subject of
-                            the Intro-<pb n="58" facs="BYM_Page_058"/><lb/>duction of agriculture and some other useful
+                            the Intro-<pb n="58" facs="SW_BYM_minutes_055"/><lb/>duction of agriculture and some other useful
                             arts of<lb/>Civil life, part of the <persName key="lturt1">little
                                 Turtles</persName> reply being as<lb/>follows</p>
                         <floatingText type="speech">
@@ -2282,7 +2284,7 @@
                                         young<lb/>men to say, We had better be at war with the white
                                         people,<lb/>this liquor that they introduce into our country
                                         is more<lb/>to be feared than the Gun and the Tomahawk<pb
-                                            n="59" facs="BYM_Page_059"/><lb/>there are more of us dead since the treaty
+                                            n="59" facs="SW_BYM_minutes_056"/><lb/>there are more of us dead since the treaty
                                         of Genville<lb/>than we last by the six years war before. It
                                         is all<lb/>owing to the Introduction of this liquor amongst
                                         us</p></said>
@@ -2307,7 +2309,7 @@
                             amount of such presents<lb/>and allowance to such agents shall not
                             exceed $15000<lb/>Per annum</p>
                         <p>Some of the committee have also had an<lb/>opportunity with the Secretary
-                            of war, who now has the<pb n="60" facs="BYM_Page_060"/><lb/>direction &amp; management of
+                            of war, who now has the<pb n="60" facs="SW_BYM_minutes_057"/><lb/>direction &amp; management of
                             Indian Affairs, &amp; informed<lb/>them that Government had agreeable to
                             the request<lb/>of the Indians established a trading House at <placeName
                                 key="fwayn">fort<lb/>Wayne</placeName>, that they were in want of
@@ -2342,7 +2344,7 @@
                             importance<lb/>of the object of our appointment the situation in
                             which<lb/>we are placed, and with a full persuasion that
                             the<lb/>situation of the business requires speedy attention—<pb n="61"
-                                facs="BYM_Page_061"/><lb/>as the obstructions that have heretofore prevented<lb/>Friends
+                                facs="SW_BYM_minutes_058"/><lb/>as the obstructions that have heretofore prevented<lb/>Friends
                             from moving forward in extending to<lb/>The Western Indians the
                             benefits, some years ago<lb/>contemplated by the <orgName key="bym"
                                 >Yearly Meeting</orgName> appear to be<lb/>now removed,--but the
@@ -2377,7 +2379,7 @@
                     and<lb/>other useful articles for the benefit of the Indians—<lb/>the amount not
                     to excede four Hundred Dollars<lb/>and endeavour to have them reasonably
                     conveyed to the<lb/>neighbourhood of <placeName key="fwayn">fort
-                        Wayne</placeName> &amp; report to the next meeting<pb n="62" facs="BYM_Page_062"/><lb/>of the
+                        Wayne</placeName> &amp; report to the next meeting<pb n="62" facs="SW_BYM_minutes_059"/><lb/>of the
                     Committee</p>
                 <p>Adjourned</p>
             </div>
@@ -2405,7 +2407,7 @@
                                 <placeName key="pitts">Pittsburgh</placeName> from whence they
                             were<lb/>to be immediately conveyd to <placeName key="fwayn">Fort
                                 Wayne</placeName> &amp; deliv-<lb/>ered as a present from the
-                            Society of Friends here<pb n="63" facs="BYM_Page_063"/><lb/>to the <persName key="lturt1"
+                            Society of Friends here<pb n="63" facs="SW_BYM_minutes_060"/><lb/>to the <persName key="lturt1"
                                 >little Turtle</persName> &amp; other Chiefs and to be by
                             them<lb/>disposed of to such of their people as they knew were
                             desirous<lb/>of using them. We also wrote a letter to the Indians
@@ -2430,7 +2432,7 @@
                         <p>The agent further adds <said who="wwell1">that the Indians<lb/>appear
                                 very desirous of procuring for themselves<lb/>the necessarys of life
                                 in our way, but say they<lb/>do not know how to begin—some of their
-                            old<pb n="64" facs="BYM_Page_064"/><lb/>men say to him, the white people want
+                            old<pb n="64" facs="SW_BYM_minutes_061"/><lb/>men say to him, the white people want
                                 for<lb/>nothing we wish them to show us how to pro-<lb/>cure the
                                 many good things we see amongst<lb/>them if it is their wish to
                                 instruct us Indians in<lb/>their way of living as they tell us it is
@@ -2460,7 +2462,7 @@
                 <p>Finis</p>
             </div>
             <div type="minutes">
-                <pb n="65" facs="BYM_Page_065"/>
+                <pb n="65" facs="SW_BYM_minutes_062"/>
                 <opener>At a yearly Meeting of Friends held in<lb/><placeName key="balti1"
                         >Baltimore</placeName> for the Western Shore of Maryland and<lb/>the
                     adjacent parts of Pennsylvania &amp; Virginia by<lb/>the adjournments from the
@@ -2504,7 +2506,7 @@
                         <item><persName key="wstab1">Wm. Stabler</persName></item>
                     </list></p>
                 <note resp="author">Note * For which see Page 62 &amp; Sequel</note>
-                <pb n="66" facs="BYM_Page_066"/>
+                <pb n="66" facs="SW_BYM_minutes_063"/>
             </div>
             <div type="minutes">
                 <opener><dateline><placeName key="balti1">Baltimore</placeName>
@@ -2545,7 +2547,7 @@
                                 Chiefs<lb/>To <persName key="ethom1">Evan Thomas</persName>
                                 <persName key="gelli1">George Ellicott</persName> &amp; <persName
                                     key="jwrig2">Joel<lb/>Wright</persName></salute></opener>
-                        <p>Brothers &amp; Friends of our Hearts!<pb n="67" facs="BYM_Page_067"/><lb/>We have received
+                        <p>Brothers &amp; Friends of our Hearts!<pb n="67" facs="SW_BYM_minutes_064"/><lb/>We have received
                             your speech from our<lb/>friend <persName key="wwell1">Wells</persName>,
                             with the implements of Husbandry that<lb/>you were so kind as to send us
                             to his care, all in good<lb/>order</p>
@@ -2568,7 +2570,7 @@
                         <p>Brothers<lb/>You will see from what we have said<lb/>that our prospects
                             are bad at present, though we hope<lb/>the Great Spirit will change the
                             minds of our people<lb/>and tell them that it would be better for them
-                            to<pb n="68" facs="BYM_Page_068"/><lb/>cultivate the Earth than to drink whiskey</p>
+                            to<pb n="68" facs="SW_BYM_minutes_065"/><lb/>cultivate the Earth than to drink whiskey</p>
                         <p>Brothers<lb/>We hope the great Spirit will permit some<lb/>of you to come
                             and see us, when you will be able to<lb/>know whether you can do any
                             thing for us or not</p>
@@ -2600,7 +2602,7 @@
                 <p>The subject of a visit being made to the Indians<lb/>agreeable to the desire they
                     express in the foregoing letter<lb/>being solidly considered, the committee are
                     united in<lb/>judgment that a visit at this time to them would<lb/>be the most
-                    likely means of obtaining a knowledge<pb n="69" facs="BYM_Page_069"/><lb/>of the disposition they
+                    likely means of obtaining a knowledge<pb n="69" facs="SW_BYM_minutes_066"/><lb/>of the disposition they
                     are in and enable Friends to ascertain<lb/>what would be the best course to
                     pursue to be useful to them<lb/>the following friends are therefore nominated to
                     that<lb/>service and requested to proceed in the visit as soon
@@ -2634,7 +2636,7 @@
                                     <orgName key="miami">Miamie</orgName> &amp; <orgName key="potaw"
                                     >Pottowattomie</orgName> Nations of Indians
                                 and<lb/>others</salute></opener>
-                        <pb n="70" facs="BYM_Page_070"/>
+                        <pb n="70" facs="SW_BYM_minutes_067"/>
                         <p>We have received your Talk communicated by our<lb/>friend <persName
                                 key="wwell1">William Wells</persName>, after the reception of
                             the<lb/>implements of husbandry sent last spring for your<lb/>use, in
@@ -2673,7 +2675,7 @@
                                 <date when="1804-02-06">2 Mo. 6 1804</date></dateline></closer>
                     </body>
                 </floatingText>
-                <pb n="71" facs="BYM_Page_071"/>
+                <pb n="71" facs="SW_BYM_minutes_068"/>
 
                 <p>no further business appearing at this time the<lb/>committee adjourns</p>
             </div>
@@ -2704,7 +2706,7 @@
                         <p>Shortly after our arrival we convened a few<lb/>Indians, amongst whom
                             were the <persName key="lturt1">Little Turtle</persName> and<lb/>the
                                 <persName key="fmeda1">Five Medals</persName> (by whom we were
-                            received with<pb n="72" facs="BYM_Page_072"/><lb/>much apparent affection and friendship)
+                            received with<pb n="72" facs="SW_BYM_minutes_069"/><lb/>much apparent affection and friendship)
                             and ac-<lb/>quianted them through the interpreter <persName key="wwell1"
                                 >William Wells</persName><lb/>with the contents of the letter from
                             the committee<lb/>directed to them and others. After which we
@@ -2727,7 +2729,7 @@
                                 Dennis</persName> who was willing to remain with them<lb/>during the
                             season for the purpose of assisting them in<lb/>raising a crop of corn,
                             and shewing them how to<lb/>do other things, that the time for him to
-                            commence his<pb n="73" facs="BYM_Page_073"/><lb/>operations being near at hand, required
+                            commence his<pb n="73" facs="SW_BYM_minutes_070"/><lb/>operations being near at hand, required
                             that we<lb/>should make haste. They replied that our reasons
                             for<lb/>wishing them to meet early were very good and that<lb/>they
                             would meet us on the <date when="1804-04-11">11 of the 4
@@ -2758,7 +2760,7 @@
                                     words<lb/>communicated when at some future time you may
                                     be<lb/>more generally assembled</p>
                                 <p>Brothers<lb/>When we were together eight days ago<pb n="74"
-                                    facs="BYM_Page_074"/><lb/>with the <persName key="lturt1">Little Turtle</persName>
+                                    facs="SW_BYM_minutes_071"/><lb/>with the <persName key="lturt1">Little Turtle</persName>
                                     and the <persName key="fmeda1">Five Medals</persName>
                                     the<lb/>letter was read to them, which has just now been
                                     read<lb/>that letter you observe, says that we were
@@ -2784,7 +2786,7 @@
                                     we also rejoice that he has<lb/> given us this opportunity of
                                     seeing you and of taking<lb/>you by the hand</p>
                                 <p>Brothers<lb/>It is now a little more than two<pb n="75"
-                                    facs="BYM_Page_075"/><lb/>years since your brothers of <placeName key="balti1"
+                                    facs="SW_BYM_minutes_072"/><lb/>years since your brothers of <placeName key="balti1"
                                         >Baltimore</placeName> had an oppor-<lb/>tunity of becoming
                                     acquainted with their brothers<lb/>the <persName key="fmeda1"
                                         >Five Medals</persName>, <persName key="lturt1">Little
@@ -2814,7 +2816,7 @@
                                     which we then had with our red brothers, we sent<lb/>to the care
                                     of <persName key="wwell1">William Wells</persName> some plows,
                                     harness for Horses<lb/>axes hoes and other implements of
-                                    Husbandry, which were<pb n="76" facs="BYM_Page_076"/><lb/>made for the use of our
+                                    Husbandry, which were<pb n="76" facs="SW_BYM_minutes_073"/><lb/>made for the use of our
                                     red brethren &amp; desired that<lb/>they might be distributed
                                     amongst them as tokens of<lb/>our friendship</p>
                                 <p>Brothers<lb/>Your brothers of <placeName key="balti1"
@@ -2842,7 +2844,7 @@
                                     cloathing<lb/>come. We are sure brothers that with but little
                                     labour &amp;<lb/>attention you may raise much more corn and
                                     other<lb/>grain, than will be necessary for yourselves, your
-                                    women<pb n="77" facs="BYM_Page_077"/><lb/>and children and may also with great
+                                    women<pb n="77" facs="SW_BYM_minutes_074"/><lb/>and children and may also with great
                                     ease raise many<lb/>more horses, cows, sheep, hogs and other
                                     valuable animals<lb/>than will be necessary for your own use we
                                     are also con-<lb/>fident that if you will pursue our method in
@@ -2869,7 +2871,7 @@
                                     out<lb/>at the other but that it will be remembered by our
                                     red<lb/>brothers, for we know that we shall not be ashamed
                                     of<lb/>what we say when in time to come you compare the
-                                    things<pb n="78" facs="BYM_Page_078"/><lb/>we are saying to you with your
+                                    things<pb n="78" facs="SW_BYM_minutes_075"/><lb/>we are saying to you with your
                                     experience in practising<lb/>them</p>
                                 <p>Brothers<lb/>We will mention that the time was<lb/>when the
                                     forefathers of your brothers, the white people lived<lb/>beyond
@@ -2896,7 +2898,7 @@
                                     of<lb/>Corn and other Grain, as also many other
                                     valuable<lb/>productions of the Earth</p>
                                 <p>Brothers<lb/>We hope your Eyes will be open to see clearly<pb
-                                    n="79" facs="BYM_Page_079"/><lb/>the things which are best for you, and that
+                                    n="79" facs="SW_BYM_minutes_076"/><lb/>the things which are best for you, and that
                                     you<lb/>will desire to pursue them—we are sure brothers, that
                                     it<lb/>is in the heart of your father the President of the
                                     Un-<lb/>ited States, to assist his red children in the
@@ -2924,7 +2926,7 @@
                                     who are very dear to him. He has<lb/>come from a sincere desire
                                     to be useful to our red brethren<lb/>brothers his motives are
                                     pure he will ask no reward from<lb/>you his greatest reward will
-                                    be in the satisfaction he will<pb n="80" facs="BYM_Page_080"/><lb/>feel in finding
+                                    be in the satisfaction he will<pb n="80" facs="SW_BYM_minutes_077"/><lb/>feel in finding
                                     you inclined to take hold of the<lb/>same tools which he takes
                                     hold of, to receive from him<lb/>instruction in the cultivation
                                     of your Lands and to<lb/>pursue the example he will set you</p>
@@ -2950,7 +2952,7 @@
                                     the<lb/>cloathing of their families clean &amp; to take care
                                     of<lb/>their children</p>
                                 <p>Brothers<lb/>We desire not to mention too<lb/>many things to you
-                                    but we must add a little further<pb n="81" facs="BYM_Page_081"/><lb/>we are fully of
+                                    but we must add a little further<pb n="81" facs="SW_BYM_minutes_078"/><lb/>we are fully of
                                     the mind brothers that if you will<lb/>turn your attention to
                                     the cultivation of the Earth to<lb/>raising the different kinds
                                     of grain, to building comfort-<lb/>table dwelling houses for
@@ -2985,7 +2987,7 @@
 
                         <p>After which the <persName key="lturt1">Little Turtle</persName> made a
                             reply<lb/>which was taken down in short hand as delivered and<pb n="82"
-                                facs="BYM_Page_082"/><lb/>is as follows</p>
+                                facs="SW_BYM_minutes_079"/><lb/>is as follows</p>
                         <floatingText type="speech">
                             <body><dateline><date when="1804-04-11"/><placeName key="fwayn"/></dateline>
                                 <said who="lturt1"><p>Brothers<lb/>It appears to me necessary that I
@@ -3015,7 +3017,7 @@
                                         with<lb/>those who are here alone, it will be communicated
                                         to<lb/>all your red brethren in this country and I again
                                         repeat<lb/>that I am convinced they will be glad to hear
-                                        what<pb n="83" facs="BYM_Page_083"/><lb/>you have said to us—to our women
+                                        what<pb n="83" facs="SW_BYM_minutes_080"/><lb/>you have said to us—to our women
                                         and to our children</p>
                                     <p>Brothers<lb/>When we saw you with the rest of our
                                         brothers<lb/>in <placeName key="balti1"
@@ -3046,7 +3048,7 @@
                                         chiefs<lb/>when they assemble</p>
                                     <p>Brothers<lb/>All the things you have said to day
                                         were<lb/>certainly calculated for our good, you have
-                                        enumerated<pb n="84" facs="BYM_Page_084"/><lb/>to us the different kinds of
+                                        enumerated<pb n="84" facs="SW_BYM_minutes_081"/><lb/>to us the different kinds of
                                         Grain, and animals we<lb/>ought to raise for our comfort,
                                         you have told us that<lb/>if we adopt the plan you propose,
                                         we should want<lb/>for nothing. This brothers myself and
@@ -3072,7 +3074,7 @@
                                         be highly advantageous to your red brethren—<lb/>we are
                                         convinced you have observed very justly, that<lb/>we shall
                                         not be so liable to sickness—we are certain<pb n="85"
-                                            facs="BYM_Page_085"/><lb/>we shall then be able to make a more
+                                            facs="SW_BYM_minutes_082"/><lb/>we shall then be able to make a more
                                         comfortable<lb/>living with less labour than at present and
                                         we hope<lb/>this will be the opinion of us all</p>
                                     <p>Brothers<lb/>I again repeat I am extremely glad to
@@ -3107,7 +3109,7 @@
                                         conjecture was right</p>
                                     <p>Brothers<lb/>The sentiments which I have delivered to<lb/>you
                                         were his sentiments, you have now told us that<pb n="86"
-                                            facs="BYM_Page_086"/><lb/>your brother has a mind to live amongst us
+                                            facs="SW_BYM_minutes_083"/><lb/>your brother has a mind to live amongst us
                                         to<lb/>shew us how to cultivate the Earth and have
                                         desired<lb/>us to shew him the spot where to begin</p>
                                     <p>We agreed then that he should be at neither<lb/>of our
@@ -3136,7 +3138,7 @@
                             much<lb/>indisposed to go such a distance, they
                             accordingly<lb/>appointed a guide, who together with <persName
                                 key="wwell1">William Wells</persName><lb/>accopanyed us. We were
-                            much pleased with the situation<pb n="87" facs="BYM_Page_087"/><lb/>of the place as also
+                            much pleased with the situation<pb n="87" facs="SW_BYM_minutes_084"/><lb/>of the place as also
                             with the soil, it being equal in<lb/>fertility to any land in the
                             western Country. Near it<lb/>are two good seats for Mills, one on the
                                 <placeName key="wabas">Wabash</placeName>, with-<lb/>out injuring
@@ -3168,7 +3170,7 @@
                             well filled with<lb/>wheat in the Straw, the land they cultivate is
                             enclosed<lb/>under good fences &amp; they have also Peach &amp; apple
                             orchards</p>
-                        <pb n="88" facs="BYM_Page_088"/>
+                        <pb n="88" facs="SW_BYM_minutes_085"/>
                         <p>At this Village as well at several others, we were<lb/>informed that the
                             Wyandots residing at <placeName key="sandu">Sandusky</placeName>
                             had<lb/>within a few years turned their attention to agricul-<lb/>ture,
@@ -3204,7 +3206,7 @@
                             letter from <persName key="pdeni1">Philip Dennis</persName>
                                 dated<lb/><date when="1804-06-26">6 Mo 26</date> last which informs
                             that he had been afflicted<lb/>5 weeks from the time we left him with a
-                            Sciatic<pb n="89" facs="BYM_Page_089"/><lb/>complaint so that it was with difficulty he
+                            Sciatic<pb n="89" facs="SW_BYM_minutes_086"/><lb/>complaint so that it was with difficulty he
                             could<lb/>go about, which has no doubt disabled him from do-<lb/>ing as
                             much as he other ways would have done. He<lb/>informs that he had
                             between 16 &amp; 20 acres of land<lb/>enclosed under a substancial fence
@@ -3228,7 +3230,7 @@
                                 >Samuel</persName> the principal chief of the <orgName key="eel">Eal
                                 river Indians</orgName><lb/>who informed him that he expects the
                             Indians of his<lb/>village will settle at his station, and further
-                            informs<pb n="90" facs="BYM_Page_090"/><lb/>that they would gladly receive assistance
+                            informs<pb n="90" facs="SW_BYM_minutes_087"/><lb/>that they would gladly receive assistance
                             from<lb/>Friends. Some farming utensils such as Plows, Hoes<lb/>&amp;
                             axes he says would be very acceptable. This chief<lb/>added that he does
                             not expect they will make a<lb/>great progress immediately but thinks it
@@ -3253,7 +3255,7 @@
 
                 <p><date when="1804-06-13">June 13 1804</date><lb/>The council was opened<lb/>by the
                     agent of Indians affairs who observed that he<lb/>was ready to receive any
-                    communications they might<pb n="91" facs="BYM_Page_091"/><lb/>wish to make. When a letter from the
+                    communications they might<pb n="91" facs="SW_BYM_minutes_088"/><lb/>wish to make. When a letter from the
                     Society of<lb/>friends at <placeName key="balti1">Baltimore</placeName> in
                     Maryland was produced<lb/>read and interpreted wherein it appeared
                         that<lb/><persName key="gelli1">George Ellicott</persName> &amp; <persName
@@ -3287,7 +3289,7 @@
                                 about the way we<lb/>have been brought up, my brothers let us go
                                 together as<lb/>one people and we will hand to you our way
                                 of<lb/>living, I told him this was several times he had<pb n="92"
-                                    facs="BYM_Page_092"/><lb/>mentioned this to us, now will take hold of it<lb/>and
+                                    facs="SW_BYM_minutes_089"/><lb/>mentioned this to us, now will take hold of it<lb/>and
                                 receive it. I told him we wanted it soon<lb/>as I was an old man and
                                 wanted to see it before<lb/>I died, if once I see it I will die in
                                 pleasure to<lb/>think I have left my women &amp; children in
@@ -3316,7 +3318,7 @@
             <div type="minutes">
                 <opener><dateline><date when="1804-06-15">June 15</date></dateline></opener>
                 <p>Council opened, present<lb/>the same as yesterday. After several of the chiefs<pb
-                    n="93" facs="BYM_Page_093"/><lb/>had spoken on different subjects—The <persName key="lturt1"
+                    n="93" facs="SW_BYM_minutes_090"/><lb/>had spoken on different subjects—The <persName key="lturt1"
                         >little Turtle</persName><lb/>spoke as follows</p>
                 <floatingText type="speech">
                     <body><dateline><date when="1804-06-15"/><placeName key="checkPlace"/></dateline>
@@ -3344,7 +3346,7 @@
                                 assure<lb/>you we thank you for the goodness you have had
                                 in<lb/>offering to afford your red brethren assistance—a
                                 thing<lb/>they are so much in need of</p>
-                            <pb n="94" facs="BYM_Page_094"/>
+                            <pb n="94" facs="SW_BYM_minutes_091"/>
                             <p>Brothers<lb/>The implements of husbandry that you<lb/>sent to this
                                 place have been all distributed by the<lb/>person you sent them to
                                 expect 2 ploughs which he<lb/>now offers to any of us who will make
@@ -3365,7 +3367,7 @@
                                     key="pdeni1">Philip Dennis</persName> commenced his work, still
                                 we<lb/>are convinced it will be for the service of your<lb/>brothers
                                 and although we are unable to say what sort of<lb/>a crop he will
-                                raise, yet let it be good or bad it will<pb n="95" facs="BYM_Page_095"/><lb/>be of
+                                raise, yet let it be good or bad it will<pb n="95" facs="SW_BYM_minutes_092"/><lb/>be of
                                 service to us &amp; when ever our brother informs<lb/>us he is done
                                 his work and ready to return we will<lb/>attend to the distribution
                                 of the corn agreeable to your<lb/>request</p>
@@ -3394,7 +3396,7 @@
                     Society of Friends to shew the<lb/>Indians how much they have their happiness at
                     heart.</p>
 
-                <pb n="96" facs="BYM_Page_096"/>
+                <pb n="96" facs="SW_BYM_minutes_093"/>
                 <p>He also observes that the <orgName key="eel">Eal river Indians</orgName> (a tribe
                     <lb/> of the Miami Nation) intend to settle on the <geogName key="wabas"
                         >wabash</geogName>
@@ -3421,7 +3423,7 @@
                 <p>The <orgName key="miami">Delawares Miamies</orgName> &amp; <orgName key="eel">Eal
                         river Indians</orgName>
                     <lb/>requesting of the government to have their annuities<lb/>
-                    <pb n="97" facs="BYM_Page_097"/>
+                    <pb n="97" facs="SW_BYM_minutes_094"/>
                     <lb/>in the amount thereof expended in the employment <lb/>of suitable men to
                     assist them in building comfortable <lb/>dwelling houses and making fences
                     &amp;c. we apprehended <lb/>plainly shews their disposition — Under all
@@ -3449,7 +3451,7 @@
                     friends under appoint- <lb/>ment of the <orgName key="pym">Yearly Meeting of
                         Philadelphia on Indian <lb/>concerns</orgName> would tend to promote the
                     object of our mu- <lb/>tual concern the following friends are therefore app- <pb
-                        n="98" facs="BYM_Page_098"/>
+                        n="98" facs="SW_BYM_minutes_095"/>
                     <lb/>-ointed to prepare a communication to them and<lb/>produce it to a future
                     meeting of the committee to<lb/>wit <persName key="gelli1">Geo
                         Ellicott</persName>, <persName key="estab1">Edward Stabler</persName>,
@@ -3482,7 +3484,7 @@
                             by expressing a hope<lb/>that the Great Spirit would permit some of us
                             to<lb/>make them a visit in order to shew them how to use<lb/>the Tools
                             sayin they did not know how to begin</p>
-                        <p>The committee upon solidly considering<pb n="99" facs="BYM_Page_099"/><lb/>the subject were
+                        <p>The committee upon solidly considering<pb n="99" facs="SW_BYM_minutes_096"/><lb/>the subject were
                             united in judgement that a visit to<lb/>them would be the best means to
                             obtain a knowledge<lb/>of their disposition &amp; appointed <persName
                                 key="gelli1">Geo. Ellicott</persName>
@@ -3516,7 +3518,7 @@
                     concerns<lb/>under appointment of the <orgName key="pym">Yearly
                         Meeting</orgName> of Phi-<lb/>ladelphia produced the following which was
                     approved<lb/>and directed to be signed &amp; forwarded by the clerk</p>
-                <pb n="100" facs="BYM_Page_100"/>
+                <pb n="100" facs="SW_BYM_minutes_097"/>
                 <floatingText type="letter">
                     <body>
                         <opener>To the Committee on Indian affairs app-<lb/>ointed by the <orgName
@@ -3538,7 +3540,7 @@
                             was in our power, &amp;<lb/>we have the satisfaction to inform that
                             from<lb/>the report of the last of those deputations, our<lb/>efforts
                             are like to be crowned with as much success<lb/>as (from the means in
-                            our power to employ) we had<pb n="101" facs="BYM_Page_101"/><lb/>reason to expect. That a
+                            our power to employ) we had<pb n="101" facs="SW_BYM_minutes_098"/><lb/>reason to expect. That a
                             number of the Indians<lb/>appear very much inclined to cultivate the
                             Earth &amp;<lb/>no longer depend on their accustomed precarious<lb/>mode
                             of procuring subsistence</p>
@@ -3564,7 +3566,7 @@
                             the <placeName key="wabas">Wabash</placeName><lb/>distant about 100
                             Miles west from the settlement of Friends<lb/>on the <placeName
                                 key="miamr">miamie</placeName></p>
-                        <pb n="102" facs="BYM_Page_102"/>
+                        <pb n="102" facs="SW_BYM_minutes_099"/>
                         <p>We may also inform you that from information<lb/>which we have received,
                             the <orgName key="delaware">Delaware</orgName>, <orgName key="miami"
                                 >Miamie</orgName> &amp; <orgName key="eel">Eal
@@ -3593,7 +3595,7 @@
                                 <date when="1804-10-17">10 Mo. 17. 1804</date></dateline></closer>
                     </body>
                 </floatingText>
-                <pb n="103" facs="BYM_Page_103"/>
+                <pb n="103" facs="SW_BYM_minutes_100"/>
 
                 <p>Information having been received by the committee<lb/>that <persName key="tarh1"
                         >Tarhie</persName> the principal chief of the <orgName key="wyandot"
@@ -3620,7 +3622,7 @@
                     committee</p>
                 <p>The friends appointed to prepare an address to<lb/><persName key="tarh1"
                         >Tarhie</persName> produced the following which was approved &amp;<pb
-                            n="104" facs="BYM_Page_104"/><lb/>directed to be signed &amp; forwarded to wit</p>
+                            n="104" facs="SW_BYM_minutes_101"/><lb/>directed to be signed &amp; forwarded to wit</p>
                 <floatingText type="letter">
                     <body>
                         <opener>To <persName key="tarh1">Tarhie</persName> &amp; the other principal
@@ -3646,7 +3648,7 @@
                             communication, made to<lb/>you at <placeName key="sandu"
                                 >Sandusky</placeName> 5 years since, and we are sorry to
                             in-<lb/>form you from some unknown cause it has not come<lb/>to hand</p>
-                        <pb n="105" facs="BYM_Page_105"/>
+                        <pb n="105" facs="SW_BYM_minutes_102"/>
                         <p>Brothers<lb/>As we had not received your answer, and<lb/>thinking you did
                             not wish our assistance, we have<lb/>since that period turned our minds
                             to assist some other<lb/>nations of our Red brethren</p>
@@ -3675,7 +3677,7 @@
                     Indian concerns report that they have attended to<lb/>the service and that all
                     the minutes as far as they<lb/>could be collected are correctly recorded,--they
                     are released</p>
-                <pb n="106" facs="BYM_Page_106"/>
+                <pb n="106" facs="SW_BYM_minutes_103"/>
                 <p>Adjourned to the 7th hour tomorrow evening</p>
             </div>
             <div type="minutes">
@@ -3704,7 +3706,7 @@
                             Beans<lb/>Parsnips &amp; other garden vegetables and left at
                             the<lb/>farm he had been cultivating (with the family of<lb/>Indians
                             with whom he resided) 23 Hogs &amp; Pigs 7 of which<lb/>were in good
-                            order to kill, and would weigh 1500 lbs<pb n="107" facs="BYM_Page_107"/><lb/>these he
+                            order to kill, and would weigh 1500 lbs<pb n="107" facs="SW_BYM_minutes_104"/><lb/>these he
                             engaged <persName key="wwell1">William Wells</persName> to attend to
                             the<lb/>killing &amp; Salting of they were small when brought to<lb/>the
                             farm in the spring and had no other food than<lb/>what they gathered in
@@ -3728,7 +3730,7 @@
                             disbursement<lb/>need not be as great a considerable piece of land
                             being<lb/>now enclosed and a house built. He also informs that<lb/>one
                             of his horses died a few days before he left that country<lb/>and that
-                            previous to his departure he was with a number<pb n="108" facs="BYM_Page_108"/><lb/>of
+                            previous to his departure he was with a number<pb n="108" facs="SW_BYM_minutes_105"/><lb/>of
                             principal Indian chiefs who requested him to<lb/>inform friends that
                             they and the Indians generally were<lb/>much obliged to friends for the
                             assistance they had given<lb/>them, and hoped we would continue our
@@ -3757,7 +3759,7 @@
                     weightily considering the subject<lb/>conclude to instruct the sub-committee to
                     endeavour<lb/>to procure one or more suitable offer to agree with them<lb/>and
                     call on the Treasurer for the expences that may<lb/>be incured</p>
-                <p>No further business appearing at this time<pb n="109" facs="BYM_Page_109"/><lb/>the committee
+                <p>No further business appearing at this time<pb n="109" facs="SW_BYM_minutes_106"/><lb/>the committee
                     adjourns to meet on the 7th day<lb/>preceeding our next quarterly meeting at the
                     7th hour<lb/>in the evening</p>
             </div>
@@ -3784,7 +3786,7 @@
                             present<lb/>season be best to write to <persName key="wwell1">William
                                 Wells</persName> Indian<lb/>agent and request him to procure for
                             Friends the<lb/>most suitable person he could who under his direction<pb
-                                n="110" facs="BYM_Page_110"/>would assist them in ploughing &amp;c and accord-<lb/>ingly
+                                n="110" facs="SW_BYM_minutes_107"/>would assist them in ploughing &amp;c and accord-<lb/>ingly
                             we addressed the following letter to him</p>
                         <floatingText type="letter">
                             <body>
@@ -3817,7 +3819,7 @@
                                     who<lb/>under thy direction will plough the land
                                         which<lb/><persName key="pdeni1">Philip Dennis</persName>
                                     cultivated the last season and plant<lb/>it in Corn, in the
-                                    performance of which, we hope he<pb n="111" facs="BYM_Page_111"/><lb/>will be
+                                    performance of which, we hope he<pb n="111" facs="SW_BYM_minutes_108"/><lb/>will be
                                     assisted by the Indians—after their corn is<lb/>planted we are
                                     willing to believe they will be able<lb/>to mannage it should a
                                     second ploughing however<lb/>be necessary we wish that also to
@@ -3852,7 +3854,7 @@
                                         </list></signed></closer>
                             </body>
                         </floatingText>
-                        <pb n="112" facs="BYM_Page_112"/>
+                        <pb n="112" facs="SW_BYM_minutes_109"/>
 
                         <p>We have since received his Answer in which he<lb/>says he will loose no
                             time in complying with<lb/>the request of the Committee and that he
@@ -3880,7 +3882,7 @@
                             present season and he is confident the settlement<lb/>will increase very
                             fast. The Indian that worked<lb/>all last season with <persName
                                 key="pdeni1">Philip Dennis</persName> was about<lb/>building himself
-                            a comfortable house and had about<pb n="113" facs="BYM_Page_113"/><lb/>2 acres more of
+                            a comfortable house and had about<pb n="113" facs="SW_BYM_minutes_110"/><lb/>2 acres more of
                             Ground cleared and was ploughing<lb/>in the field that was cleared by
                                 <persName key="pdeni1">Philip Dennis</persName>—the<lb/>Hogs that
                             were left there had increased to 100 in<lb/>number</p>
@@ -3916,7 +3918,7 @@
                     &amp; <persName key="pthom1">P. E. Thomas</persName> were appointed, to
                     examine<lb/>the treasurer’s accounts report the state of our funds<lb/>and
                     prepare a report to the <orgName key="bym">Yearly Meeting</orgName> and
-                    produce<pb n="114" facs="BYM_Page_114"/><lb/>it to a future sitting of the Committee</p>
+                    produce<pb n="114" facs="SW_BYM_minutes_111"/><lb/>it to a future sitting of the Committee</p>
                 <p>The following letter was produced and read</p>
                 <floatingText type="letter">
                     <body>
@@ -3943,7 +3945,7 @@
                             particularly<lb/>claims our thankful commemoration, after some<lb/>trial
                             of our faith and patience, waiting for suitable<lb/>characters to reside
                             amongst the Indians, such<lb/>have come forward measurably under the
-                            weight<pb n="115" facs="BYM_Page_115"/><lb/>of the concern, and voluntarily offerin
+                            weight<pb n="115" facs="SW_BYM_minutes_112"/><lb/>of the concern, and voluntarily offerin
                             their services<lb/>producing certificates of the concurrence of the
                             Monthly<lb/>Meetings of which they were members</p>
                         <p>For your information we herewith forward 20<lb/>Copies of a publication
@@ -3973,7 +3975,7 @@
                         approved<lb/><note resp="author">For which SEE our Proceedings from Page
                         106<lb/>To Page 115 inclusive</note></p>
                 <p>then adjourned</p>
-                <pb n="116" facs="BYM_Page_116"/>
+                <pb n="116" facs="SW_BYM_minutes_113"/>
             </div>
             <div type="minutes">
                 <opener><dateline><date when="1805-10-17">10 Mo. 17 1805</date></dateline></opener>
@@ -3995,7 +3997,7 @@
                     copies of their report connected with<lb/>a narrative of their previous
                     proceedings as they apprehend<lb/>may be usefully distributed amongst our
                     members<lb/>and directed to call upon the Treasurer for the<pb n="117"
-                        facs="BYM_Page_117"/><lb/>amount of expence incured.</p>
+                        facs="SW_BYM_minutes_114"/><lb/>amount of expence incured.</p>
                 <p><persName key="jjess1">Jonathan Jessop</persName>, <persName key="jhugh1">Jessee
                         Hughes</persName>, <persName key="ckirk1">Caleb Kirk</persName><lb/>and
                         <persName key="jclea1">John Cleaver</persName> were now added to the
@@ -4026,7 +4028,7 @@
 
             </div>
             <div type="minutes">
-                <pb n="118" facs="BYM_Page_118"/>
+                <pb n="118" facs="SW_BYM_minutes_115"/>
                 <opener><dateline><placeName key="balti1">Baltimore</placeName>
                         <date when="1806-02-03">2 Mo 3 1806</date><lb/></dateline></opener>
                 <p>At a Meeting of the Committee on Indian Concerns<lb/>present 13 members</p>
@@ -4057,7 +4059,7 @@
                             The<lb/>Quakers have taken up a plan for doing something<lb/>for the
                                 <orgName key="delaware">Delaware</orgName> and <orgName
                                 key="wyandot">Wyandot</orgName> People. As you have<lb/>two fathers,
-                            the President of the United States and<pb n="119" facs="BYM_Page_119"/><lb/>King of England,
+                            the President of the United States and<pb n="119" facs="SW_BYM_minutes_116"/><lb/>King of England,
                             who give you presents every year<lb/>--the President gives 1000 $
                             annually, we have a design<lb/>to go on the same footing, and give $1000
                             a year, if<lb/>the chiefs our Brothers would accept of it. We
@@ -4084,7 +4086,7 @@
                             in cultivating<lb/>your lands and in building houses—another
                             thing<lb/>brothers we wish you to send some of your children<lb/>to us,
                             and we will school them and give them learning<lb/>as the Wyandots are
-                            the only Nation that have no<pb n="120" facs="BYM_Page_120"/><lb/>learned men amongst them,
+                            the only Nation that have no<pb n="120" facs="SW_BYM_minutes_117"/><lb/>learned men amongst them,
                             the parents of the<lb/>children may choose what their children shall
                             learn<lb/>either for Council of for Religion or to Trade</p>
 
@@ -4106,7 +4108,7 @@
                             only difficulty in the way we wish<lb/>our brethren Quakers to consider
                             this matter, &amp;<lb/>the danger we shall be in, and if they are
                             deter-<lb/>mined to help us to send us word in the spring early<lb/>and
-                            also to see how many nations they will help<pb n="121" facs="BYM_Page_121"/><lb/>if you send
+                            also to see how many nations they will help<pb n="121" facs="SW_BYM_minutes_118"/><lb/>if you send
                             on in the spring and are still de-<lb/>termined to help us, we shall
                             then have matters<lb/>regulated and will accept your offer</p>
                         <p>Brothers!<lb/>We have both been under the same diffi-<lb/>culty it is
@@ -4126,7 +4128,7 @@
                             send to school and what they shall study</p>
                         <p>The chiefs return you thanks that you have<lb/>not given over helping
                             them and are now willing to<lb/>accept your offer, the ground of our
-                            accepting your offer<pb n="122" facs="BYM_Page_122"/><lb/>is, that we believe as you are a
+                            accepting your offer<pb n="122" facs="SW_BYM_minutes_119"/><lb/>is, that we believe as you are a
                             progressing<lb/>people, and mention the name of God in your<lb/>offer,
                             you will not act the Hypocrite and deceive<lb/>us</p>
                         <p>Brethren!<lb/>We desire you to do your best, we<lb/>have chosen our
@@ -4158,7 +4160,7 @@
 
 
                 </floatingText>
-                <pb n="123" facs="BYM_Page_123"/>
+                <pb n="123" facs="SW_BYM_minutes_120"/>
                 <p>It being evident that the views of Friends<lb/>towards their Nations have been
                     greatly misre-<lb/>presented, and no such letter as they appear to<lb/>have
                     received ever having been addressed to them<lb/>by us, their communication is
@@ -4182,7 +4184,7 @@
                         Country, I will take<lb/>the liberty to observe that the present is a
                         very<lb/>favourable time, to put in execution, their be-<lb/>nevolent views
                         towards the distressed Natives of<lb/>this land and that much good may be
-                    done on<pb n="124" facs="BYM_Page_124"/><lb/>the <placeName key="wabas">Wabash</placeName> by
+                    done on<pb n="124" facs="SW_BYM_minutes_121"/><lb/>the <placeName key="wabas">Wabash</placeName> by
                         sending one or two suitable men<lb/>to reside amongst the Indians, and teach
                         them<lb/>how to raise stock and cultivate the Earth, Wit-<lb/>ness what
                             <persName key="pdeni1">Philip Dennis</persName> effected amongst
@@ -4205,7 +4207,7 @@
             <div type="minutes">
                 <opener><dateline><placeName key="balti1">Baltimore</placeName>
                         <date when="1806-08-03">8 Mo 3 1806</date></dateline></opener>
-                <p>At a meeting of the Committee on Indian<pb n="125" facs="BYM_Page_125"/><lb/>concerns present 14
+                <p>At a meeting of the Committee on Indian<pb n="125" facs="SW_BYM_minutes_122"/><lb/>concerns present 14
                     Members</p>
                 <p>The Sub-committee informed that they had<lb/>agreeably to the instructions of
                     this committee at<lb/>our meeting in the <date when="1806-02">2nd Month
@@ -4233,7 +4235,7 @@
                             wrote to you, we herewith send you<lb/>an exact copy of, by reading of
                             it you will see<lb/>the reasons why we have not given you more
                             assis-<lb/>tance</p>
-                        <p>Brothers!<lb/>The misrepresentations which have<pb n="126" facs="BYM_Page_126"/><lb/>been
+                        <p>Brothers!<lb/>The misrepresentations which have<pb n="126" facs="SW_BYM_minutes_123"/><lb/>been
                             made to you, renders it necessary for<lb/>us, at this time, to explain
                             our views and pros-<lb/>pects at large towards you, that may not
                             any<lb/>longer be deceived, or hereafter suppose, we have<lb/>held out
@@ -4254,7 +4256,7 @@
                             see which of the Indian Nations<lb/>would be most likely to be willing
                             to receive<lb/>instruction from us, we had not at that time<lb/>any
                             particular prospects exclusively towards any<lb/>Tribe or nation, we
-                            felt them all as brethren<pb n="127" facs="BYM_Page_127"/><lb/>whom we loved, and were
+                            felt them all as brethren<pb n="127" facs="SW_BYM_minutes_124"/><lb/>whom we loved, and were
                             disposed to assist as far<lb/>as our power extended either of them whom
                             we<lb/>might find willing to accept of our aid</p>
                         <p>Brothers!<lb/>After having visited several Indian<lb/>families of the
@@ -4280,7 +4282,7 @@
                             their<lb/>chiefs and people consult together and send a<lb/>written
                             answer to us as soon as you came to a<lb/>conclusion amongst
                             yourselves</p>
-                        <pb n="128" facs="BYM_Page_128"/>
+                        <pb n="128" facs="SW_BYM_minutes_125"/>
                         <p>Brothers<lb/>We have never since that time<lb/>until now received any
                             direct communication<lb/>from you—after having waited three years<lb/>
                             we were discouraged and thought you had<lb/>declined accepting any
@@ -4301,7 +4303,7 @@
                             their<lb/>other Red Children all the assistance in their<lb/>power, in
                             making their situations more comforta-<lb/>ble, and we hope the support
                             they will<lb/>continue to receive from them will release us<pb n="129"
-                                facs="BYM_Page_129"/><lb/>from the necessity of furnishing our aid at that<lb/>place much
+                                facs="SW_BYM_minutes_126"/><lb/>from the necessity of furnishing our aid at that<lb/>place much
                             longer</p>
                         <p>Brothers<lb/>Should this be the case and our<lb/>brethren of the <orgName
                                 key="wyandot">Wyandot Nation</orgName> at upper <placeName
@@ -4330,7 +4332,7 @@
                                 </list></signed></closer>
                     </body>
                 </floatingText>
-                <pb n="130" facs="BYM_Page_130"/>
+                <pb n="130" facs="SW_BYM_minutes_127"/>
 
                 <p>The sub-committee further informed that they had<lb/>engaged <persName
                         key="wkirk1">William Kirk</persName> (at 35$ per Mo) and his
@@ -4360,7 +4362,7 @@
                             discretion<lb/>not doubting but that there are several in
                             the<lb/>neighbourhood of Dennis’ station, who have removed<lb/>to reside
                             thereabouts, in latter time, to whom a<lb/>respect is due from us</p>
-                        <pb n="131" facs="BYM_Page_131"/>
+                        <pb n="131" facs="SW_BYM_minutes_128"/>
                         <p>Our young men will upon all occasions advise<lb/>with thee upon the
                             important objects of their visit<lb/>Thy willingness to promote our
                             benevolent purposes<lb/>we have in time past fully proven, and have
@@ -4388,7 +4390,7 @@
                                 </list></signed></closer>
                     </body>
                 </floatingText>
-                <pb n="132" facs="BYM_Page_132"/>
+                <pb n="132" facs="SW_BYM_minutes_129"/>
                 <floatingText type="letter">
                     <body>
                         <opener>From a committee of the Society of Friends<lb/>of <placeName
@@ -4415,7 +4417,7 @@
                             bro-<lb/>thers, that you will make their situation a-<lb/>mongst you as
                             comfortable as circumstances will<lb/>admit of and hope that you will be
                             disposed to<lb/>regard the instruction which they may offer you<pb
-                                n="133" facs="BYM_Page_133"/><lb/>as being calculated to promote your real interests</p>
+                                n="133" facs="SW_BYM_minutes_130"/><lb/>as being calculated to promote your real interests</p>
                         <p>Brothers—We hope that many of your people, will<lb/>be disposed to join
                             our young men in taking<lb/>hold of the plough, the Hoe, the Axe, and
                             other<lb/>implements of husbandry, so that the production<lb/>of the
@@ -4445,7 +4447,7 @@
                     governor<lb/>of the Michigan Teritory were received and refered to<lb/><persName
                         key="ghopk1">Gerard T. Hopkins</persName>
                     <persName key="gelli1">George Ellicott</persName>
-                    <persName key="aelli2">Andrew Ellicott Jr.</persName><pb n="134" facs="BYM_Page_134"/><lb/>and
+                    <persName key="aelli2">Andrew Ellicott Jr.</persName><pb n="134" facs="SW_BYM_minutes_131"/><lb/>and
                         <persName key="pthom1">Philip E. Thomas</persName>, who were directed to
                     write<lb/>him a suitable answer to them on behalf of the<lb/>committee</p>
                 <floatingText type="letter">
@@ -4477,7 +4479,7 @@
                                 >Nation</orgName> live in those two<lb/>Villages, where also resides
                             the public Interpreter for<lb/>that <orgName key="wyandot"
                                 >Nation</orgName>. I have conferred with this Inter-<lb/>preter and
-                            these Chiefs, who rejoice in the con-<pb n="135" facs="BYM_Page_135"/><lb/>contemplation of
+                            these Chiefs, who rejoice in the con-<pb n="135" facs="SW_BYM_minutes_132"/><lb/>contemplation of
                             your goodness and kind thoughts<lb/>towards the Indians and would gladly
                             accept of your<lb/>profered aid. But I have doubts whether it
                             would<lb/>meet your purpose to bestow the bounty you mention<lb/>on this
@@ -4501,7 +4503,7 @@
                             blacksmith<lb/>--As these Indians have frequent communications<lb/>with
                             their brethren at <placeName key="sandu">Sanduskey</placeName> I thought
                             proper<lb/>to deliver your address to their Interpreter desiring him<pb
-                                n="136" facs="BYM_Page_136"/><lb/>to commit it to faithful Men to carry
+                                n="136" facs="SW_BYM_minutes_133"/><lb/>to commit it to faithful Men to carry
                                 to<lb/><placeName key="sandu">Sanduskey</placeName> where there are
                             persons (particularly <persName key="iwill2"
                                 >Isaac<lb/>Williams</persName> a half blooded <orgName key="wyandot"
@@ -4525,7 +4527,7 @@
                             States Treasury for a draft on the<lb/>collector of this district. You
                             will know what sum<lb/>of money you can spare to devote to this object,
                             &amp;<lb/>if committed to me it shall be faithfully applied
-                            &amp;<lb/>accounted for to you<pb n="137" facs="BYM_Page_137"/>
+                            &amp;<lb/>accounted for to you<pb n="137" facs="SW_BYM_minutes_134"/>
                             <lb/>Friends! I approve greatly of your charitable <lb/>intentions
                             towards the Indians, and applaud your <lb/>benevolent and disinterested
                             exertions to civilize <lb/>them. ALl to whom I have mentioned the
@@ -4546,7 +4548,7 @@
                             you <lb/>may have contemplated, but substantially founded <lb/>on the
                             same principles, but which you appear to be <lb/>governed in your
                             efforts towards them, I will <lb/>take the liberty to make it known to
-                            you soon requesting <pb n="138" facs="BYM_Page_138"/>
+                            you soon requesting <pb n="138" facs="SW_BYM_minutes_135"/>
                             <lb/>Your consideration of and Interest in its favour<lb/>should it meet
                             with your approbation. I am also<lb/>collecting materials for a history
                             of all this part<lb/>of the Country, particularly of the Indians, and
@@ -4577,7 +4579,7 @@
                             preacher<lb/>interfered and strongly urged the chiefs and people<lb/>not
                             to hearken to the Quakers nor accept any<lb/>thing from them, not even
                             the implements of<lb/>Husbandry offered by you as a present- that if<pb
-                                n="139" facs="BYM_Page_139"/><lb/>they wanted such things he (the preacher) made
+                                n="139" facs="SW_BYM_minutes_136"/><lb/>they wanted such things he (the preacher) made
                             no<lb/>doubt the missionary society in whose service he<lb/>was employed
                             would furnish them with what they<lb/>wanted- and- that they could get
                             no particular<lb/>answer from the chiefs at that time. But, it
@@ -4598,7 +4600,7 @@
                             could do it<lb/>and still suffer the poor Indians to receive
                             the<lb/>benefit of yours- the Natives in question are ripe<lb/>for
                             exchanging the savage life for civilization, &amp;<lb/>are very desirous
-                            to obtain ploughs, hoes &amp; which you<pb n="140" facs="BYM_Page_140"/><lb/>offer- those in
+                            to obtain ploughs, hoes &amp; which you<pb n="140" facs="SW_BYM_minutes_137"/><lb/>offer- those in
                             this vicinity are frequently<lb/>speaking to me to procure for them
                             these things<lb/>from the U.S- From the concern taken by
                                 the<lb/><persName key="hdear1">Secretary of War</persName>
@@ -4631,7 +4633,7 @@
                         key="phila">Phila.</placeName><lb/>The sub committee informed that <persName
                         key="wkirk1">Wm Kirk</persName>
                     <lb/>had returned and made the following report<lb/>(for the Substance of which
-                    see report to Yearly<lb/>Meeting page 141 and sequel) <pb n="141" facs="BYM_Page_141"/><lb/>The
+                    see report to Yearly<lb/>Meeting page 141 and sequel) <pb n="141" facs="SW_BYM_minutes_138"/><lb/>The
                     following friends were appointed to examine<lb/>the Treasurers account and
                     prepare a report to the<lb/>yearly Meeting now acting and produce it to
                     the<lb/>next meeting of the committee to wit <persName key="gelli1">Geo.
@@ -4702,7 +4704,7 @@
                             would be<lb/>sufficient for their own use, which would be distributed
                             amongst<lb/>the Indians; they have also erected a stable, 16 by 18 feet,
                             and<lb/>assisted the Indians in building three houses. He further
-                            informs,<pb n="142" facs="BYM_Page_142"/><lb/>that half a mile below the Station, is a
+                            informs,<pb n="142" facs="SW_BYM_minutes_139"/><lb/>that half a mile below the Station, is a
                             village, where they found<lb/>fourteen families of the <orgName
                                 key="eel">Eel River Indians</orgName>, which has this
                             summer,<lb/>been increased by several families and many more are
@@ -4790,7 +4792,7 @@
                                     services would be most beneficial, as<lb/>you did when you first
                                     arrived amongst us, which has prevented<lb/>your red brethren,
                                     residing elsewhere, from participating in your services</p>
-                                <pb n="143" facs="BYM_Page_143"/>
+                                <pb n="143" facs="SW_BYM_minutes_140"/>
                                 <p>Brothers, <lb/>We believe your intentions towards your red
                                     brethren<lb/>are good, for which we are thankful to you; we hope
                                     that<lb/>the Great Spirit will continue it in your hearts, to
@@ -4863,7 +4865,7 @@
                     committee<lb/>Adjourned</p>
             </div>
             <div type="minutes">
-                <pb n="143a"/>
+                <pb n="143a" facs="SW_BYM_minutes_141"/>
                 <note resp="transc">The following minutes are loose, but appear to have been tipped
                     in at one time.</note>
                 <opener><dateline><placeName key="balti1">Balto.</placeName>
@@ -4888,7 +4890,7 @@
                     appears<lb/>overdrawn to the debit of Mahlon Kirk<lb/>then adjourned</p>
             </div>
             <div type="minutes">
-                <pb n="143b" facs="BYM_Page_143a"/>
+                <pb n="143b" facs="SW_BYM_minutes_142"/>
                 <note resp="transc">The following minutes are loose, but appear to have been tipped
                     in at one time.</note>
                 <opener>
@@ -4919,7 +4921,7 @@
 
             </div>
             <div type="minutes">
-                <pb n="144" facs="BYM_Page_144"/>
+                <pb n="144" facs="SW_BYM_minutes_143"/>
                 <opener><dateline><placeName key="balti1">Baltimore</placeName>
                         <date when="1807-02-09">2mo 9 1807</date></dateline></opener>
                 <p>At a Meeting of the committee on Indian<lb/>concerns present 16 Members</p>
@@ -4943,7 +4945,7 @@
                     ensueing season and inform them that the <persName key="tjeff2">President<lb/>of
                         the United States</persName>, having employed the persons<lb/>which we had
                     sent out to aid them, and no one<lb/>having offered to succeed them we had
-                    adopted this<pb n="145" facs="BYM_Page_145"/><lb/>measure as the best at the present time in<lb/>our
+                    adopted this<pb n="145" facs="SW_BYM_minutes_144"/><lb/>measure as the best at the present time in<lb/>our
                     power to be useful to them, and at the<lb/>same time assure the Indians of the
                     continu<lb/>ance of our friendship and regard</p>
                 <p>The sub committee were also directed to<lb/>write to our Members over the
@@ -4966,7 +4968,7 @@
                         <persName key="ethom1">Evan Thomas</persName>, <persName key="tmoor1">Thomas
                         Moore</persName>, <persName key="estab1">Edward Stabler</persName>
                     <lb/><persName key="amoor1">Asa Moore</persName> &amp; <persName key="pthom1"
-                        >P.E. Thomas</persName><lb/>then adjourned<pb n="146" facs="BYM_Page_146"/></p>
+                        >P.E. Thomas</persName><lb/>then adjourned<pb n="146" facs="SW_BYM_minutes_145"/></p>
             </div>
             <div type="minutes">
                 <opener><dateline><placeName key="balti1">Baltimore</placeName>
@@ -4997,7 +4999,7 @@
                             soon<lb/>after <persName key="mkirk1">Mahlon</persName> withdraws, we
                             earnestly solicit your<lb/>active attention to the subject, and hope you
                             will<lb/>without delay communicate to us, your prospect of<pb n="147"
-                                facs="BYM_Page_147"/><lb/>succeeding, as we shall if you are not likely to obtain<lb/>one
+                                facs="SW_BYM_minutes_146"/><lb/>succeeding, as we shall if you are not likely to obtain<lb/>one
                             on the other side of the mountains exert our<lb/>selves here, it would
                             however be very desirable <lb/>that you could succeed there on account
                             of the<lb/>saving of expence in traveling out</p>
@@ -5032,7 +5034,7 @@
                                 </list></signed></closer>
                     </body>
                 </floatingText>
-                <p>They also informed that they had <pb n="148" facs="BYM_Page_148"/><lb/>addressed the following letter
+                <p>They also informed that they had <pb n="148" facs="SW_BYM_minutes_147"/><lb/>addressed the following letter
                     to <persName key="wkirk1">Wm Kirk</persName></p>
                 <floatingText type="letter">
                     <body>
@@ -5059,7 +5061,7 @@
                             was<lb/>done before thee went into that country but if<lb/>they should
                             succeed in obtaining a person to reside<lb/>at Dennis Station we hope
                             thee will render any<lb/>service or advice that may be convenient<pb
-                                n="149" facs="BYM_Page_149"/></p>
+                                n="149" facs="SW_BYM_minutes_148"/></p>
                         <p>Thee will please to forward <persName key="mkirk1">Mahlons</persName>
                             account as<lb/>soon as possible after thy arrival, and as we
                             have<lb/>paid a draft drawn by <persName key="wwell1">Wm
@@ -5088,7 +5090,7 @@
                 </floatingText>
                 <p>The committee appointed to prepare and forward<lb/>an address to <persName
                         key="wkirk1">William Kirk</persName>, informed that they<lb/>had complied
-                    with the service and forwarded the <pb n="150" facs="BYM_Page_150"/><lb/>following communication to
+                    with the service and forwarded the <pb n="150" facs="SW_BYM_minutes_149"/><lb/>following communication to
                     him </p>
                 <floatingText type="letter">
                     <body>
@@ -5113,7 +5115,7 @@
                         <p>on the prudent management of the<lb/>charge now committed to thee,
                             circumstances<lb/>of very great importance to our Country will<lb/>rest,
                             perhaps indeed the existence of whole<lb/>nations of those people who
-                            are to become<pb n="151" facs="BYM_Page_151"/><lb/>the objects of thy care, may depend upon
+                            are to become<pb n="151" facs="SW_BYM_minutes_150"/><lb/>the objects of thy care, may depend upon
                             the<lb/>effect produced, by the present liberal and<lb/>christian effort
                             to civilize them;- for should<lb/>this attempt not succeed, the failure
                             may be<lb/>discouraging not only to the Government but<lb/>to the
@@ -5131,7 +5133,7 @@
                             Govern<lb/>ment of the United States. Under this<lb/>consideration of
                             the subject, the committee<lb/>have been led to view thy situation as
                             a<lb/>highly responsible and important one,<lb/>the great confidence
-                            reposed in thee has<pb n="152" facs="BYM_Page_152"/><lb/>certainly a strong claim upon thy
+                            reposed in thee has<pb n="152" facs="SW_BYM_minutes_151"/><lb/>certainly a strong claim upon thy
                             utmost<lb/>zeal, and the committee earnestly hope, that<lb/>the
                             philanthropic views of the government<lb/>will not be frustrated, by any
                             want of an<lb/>active, faithful and concientious discharge<lb/>of thy
@@ -5150,7 +5152,7 @@
                             policy<lb/>toward the Indians, and the committee<lb/>strongly desire
                             that the same disinterestedness <lb/>may be manifested by thee and that
                             thou<lb/>mayest in all thy movements be preserved<lb/>from any views of
-                            pecuniary emolument <pb n="153" facs="BYM_Page_153"/><lb/>beyond the liberal salary allowed
+                            pecuniary emolument <pb n="153" facs="SW_BYM_minutes_152"/><lb/>beyond the liberal salary allowed
                             thee, being<lb/>influenced in thy conduct,<lb/>solely by a desire to
                             promote their<lb/>comfort and welfare- To relieve the wants<lb/>and be
                             instrumental in promoting the comfort of<lb/>so many thousands of our
@@ -5169,7 +5171,7 @@
                             always been effected slowly, and thou<lb/>must not expect, that the
                             Indians will gene<lb/>rally fall in with thy views until they
                             become<lb/>fully convinced, that the change proposed<pb n="154"
-                                facs="BYM_Page_154"/><lb/>will promote their advantage; the committee<lb/>therefore advise
+                                facs="SW_BYM_minutes_153"/><lb/>will promote their advantage; the committee<lb/>therefore advise
                             thee not to undertake too<lb/>much at first, but commence thy
                             operations<lb/>on a small scale; thou will recollect, that<lb/>thy
                             business is not to raise food for the Indi<lb/>ans, without being
@@ -5190,7 +5192,7 @@
                             should be fully satisfied, the Government in<lb/>its present undertaking
                             is actuated solely by a<lb/>desire to benefit them, for we apprehend
                             that<lb/>the Traders residing amongst them being interested<pb n="155"
-                                facs="BYM_Page_155"/><lb/>in keeping them in their present uncivilized<lb/>state will use
+                                facs="SW_BYM_minutes_154"/><lb/>in keeping them in their present uncivilized<lb/>state will use
                             great efforts to counteract thy<lb/>exertions, and will throw every
                             obstacle they<lb/>can in the way of any plan that may be adopted<lb/>for
                             their civilization, they will also probably<lb/>endeavour to persuade
@@ -5208,7 +5210,7 @@
                         <p>In thy communications with<lb/>the <persName key="hdear1">Secretary of
                                 War</persName> thou shouldest at all<lb/>times exhibit a candid and
                             unreserved<lb/>view of the state of business under the care<pb n="156"
-                                facs="BYM_Page_156"/><lb/>in as clear and concise a manner as<lb/>thou art capable of and
+                                facs="SW_BYM_minutes_155"/><lb/>in as clear and concise a manner as<lb/>thou art capable of and
                             in the disburse<lb/>ment of the public money observe the
                             strictest<lb/>regard to economy and the interests of the<lb/>government,
                             keeping thy expenditures by<lb/>all means within the amount allowed
@@ -5225,7 +5227,7 @@
                             act as well calculated to<lb/>effect the object desired, and from
                             an<lb/>honest discharge of the trust confided to<lb/>thee they
                             confidently expect a result, highly<lb/>beneficial to the Indians and
-                            gratifying<lb/>to the friends of humanity<pb n="157" facs="BYM_Page_157"/></p>
+                            gratifying<lb/>to the friends of humanity<pb n="157" facs="SW_BYM_minutes_156"/></p>
                         <p>As a member for the society of friends, whose<lb/>appointment to this
                             very important charge<lb/>perhaps has its origin in that
                             confidence<lb/>which our committee lately placed in<lb/>thee, by giving
@@ -5254,7 +5256,7 @@
                                 </list></signed></closer>
                     </body>
                 </floatingText>
-                <pb n="158" facs="BYM_Page_158"/>
+                <pb n="158" facs="SW_BYM_minutes_157"/>
                 <p>The sub committee further informed that a<lb/>letter was recd. in the 5 month
                     last from that <lb/>part of our committee residing at <placeName key="redst1"
                         >Red Stone</placeName><lb/>informing that they had agreeably to
@@ -5273,7 +5275,7 @@
                     suitable<lb/>persons in their country for that purpose</p>
                 <p>A communication was received from a <lb/>committee of the meeting for sufferings
                         of<lb/><placeName key="phila">Philadelphia</placeName> accompanied by a
-                    minute of<pb n="159" facs="BYM_Page_159"/><lb/>that Meeting informing that friends of <placeName
+                    minute of<pb n="159" facs="SW_BYM_minutes_158"/><lb/>that Meeting informing that friends of <placeName
                         key="gbrit">Great <lb/>Britain</placeName> having benevolently raised and
                     placed<lb/>in their care a sum of money to be applied<lb/>in the aid of the
                     exertions of friends in America<lb/>towards the civilization of the Indian
@@ -5294,7 +5296,7 @@
                     which sum he has recd. and<lb/>now holds in his hands. And the com<lb/>mittee
                     having taken into consideration the <lb/>letter and minutes received from
                     Friends<lb/>of <placeName key="lond">London</placeName> on the subject of the
-                    money<pb n="160" facs="BYM_Page_160"/><lb/>rasied by our brethren of <placeName key="gbrit"
+                    money<pb n="160" facs="SW_BYM_minutes_159"/><lb/>rasied by our brethren of <placeName key="gbrit"
                         >Great Britain</placeName><lb/>for the purpose of aiding the
                     exertions<lb/>of friends in this country in promoting<lb/>the civilization of
                     the Indian nations,<lb/>concluded, to appoint <persName key="tmoor1">Thomas
@@ -5312,7 +5314,7 @@
                 <p>A letter was recd. from <persName key="wwell1">Wm Wells</persName><lb/>giving
                     information respecting the situation<lb/>our settlement on the <geogName
                         key="wabas">Wabash</geogName> the <lb/>sub committee was directed to write
-                    &amp;<lb/>inform him of its reception and also to <pb n="161" facs="BYM_Page_161"/><lb/>forward to
+                    &amp;<lb/>inform him of its reception and also to <pb n="161" facs="SW_BYM_minutes_160"/><lb/>forward to
                     our agents there a com<lb/>munication suitable to the occasion<lb/> Then
                     adjourned</p>
             </div>
@@ -5341,7 +5343,7 @@
                     Hour- At which time<lb/>the committee again met present 17 Members</p>
 
                 <p>The friends appointed to prepare a report to the Yearly Meeting produced the
-                    following <pb n="162" facs="BYM_Page_162"/><lb/> which was read and approved</p>
+                    following <pb n="162" facs="SW_BYM_minutes_161"/><lb/> which was read and approved</p>
                 <floatingText type="report">
                     <body>
                         <opener>To the Yearly Meeting now sitting</opener>
@@ -5363,7 +5365,7 @@
                             raised<lb/>&amp; not wanted for his own use, had been
                             distributed<lb/>amongst such of the Indian families as were
                             in<lb/>necessitous circumstances</p>
-                        <p>The Government of the United States<pb n="163" facs="BYM_Page_163"/><lb/>has evidenced a
+                        <p>The Government of the United States<pb n="163" facs="SW_BYM_minutes_162"/><lb/>has evidenced a
                             friendly &amp;liberal disposition<lb/>towards the Indians bordering on
                             our frontier<lb/>and appeared on all occasions, anxiously<lb/>disposed
                             to promote as far as its influence<lb/>&amp; ability extended the work
@@ -5383,7 +5385,7 @@
                             have<lb/>since been since recovered</p>
                         <p>a letter has lately been recd. from these<lb/>young men dated the <date
                                 when="1807-08-21">21 of the 8Mo 1807</date> in<lb/>which they
-                            inform, that they have a promising <pb n="164" facs="BYM_Page_164"/><lb/>prospect of Corn,
+                            inform, that they have a promising <pb n="164" facs="SW_BYM_minutes_163"/><lb/>prospect of Corn,
                             Beans, Pumpkins, Potatoes<lb/>Hemp, Tobacco and a number of
                             Garden<lb/>Vegetables- They also inform that they have<lb/>assisted many
                             of the Indians in rendering<lb/>their houses more comfortable &amp;
@@ -5406,7 +5408,7 @@
                             themselves with great propriety<lb/>were good Examples of industry &amp;
                             sobriety<lb/>to the Indians ad had a very promising crop<lb/>coming
                             forward</p>
-                        <pb n="165" facs="BYM_Page_165"/>
+                        <pb n="165" facs="SW_BYM_minutes_164"/>
                         <p>The committee have received from the meeting<lb/>for sufferings of
                                 <placeName key="phila">Phila.</placeName> $8000 as a part of
                             our<lb/>proportion of money raised by our brethren<lb/>of <placeName
@@ -5429,7 +5431,7 @@
                             not understood that<lb/>those residing at our station or
                             <lb/>immediately in its neighbourhood have yet<lb/>had any concern or
                             taken any part in these<lb/>controversies, but should this hereafter
-                            un<lb/>happily be the case, the committee are <pb n="166" facs="BYM_Page_166"/><lb/>
+                            un<lb/>happily be the case, the committee are <pb n="166" facs="SW_BYM_minutes_165"/><lb/>
                             apprehensive it may for a short time<lb/>probably interrupt that
                             progress towards<lb/>civilization which has heretofore been
                             so<lb/>conspicuous amongst them</p>
@@ -5458,7 +5460,7 @@
                     23 Members and our friends<lb/><persName key="jparr1">John Parrish</persName>
                     &amp; <persName key="gchur1">George Churchman</persName> from the
                     Yearly<lb/>Meeting of <placeName key="phila">Phila</placeName></p>
-                <pb n="167" facs="BYM_Page_167"/>
+                <pb n="167" facs="SW_BYM_minutes_166"/>
                 <p>The following minute from the Yearly Meeting<lb/>was produced and read</p>
                 <floatingText type="minutes">
                     <body>
@@ -5489,7 +5491,7 @@
                         >Henry<lb/>Mills</persName> to make them a visit, if way should open<lb/>in
                     the course of the ensuing spring or summer<lb/>in order that we may be more
                     fully ascertained<lb/>of their present disposition and the progress they <pb
-                        n="168" facs="BYM_Page_168"/><lb/>have made in the knowledge of Husbandry<lb/>&amp;</p>
+                        n="168" facs="SW_BYM_minutes_167"/><lb/>have made in the knowledge of Husbandry<lb/>&amp;</p>
                 <p>It appears by a minute of the Yearly<lb/>Meeting that our friend <persName
                         key="jgill2">James Gillingham</persName><lb/>was added to this committee in
                     the place<lb/>of <persName key="wkirk1">Wm Kirk</persName> who was at his
@@ -5511,7 +5513,7 @@
                     the committee concluded<lb/>to employ him, and authorised him to engage
                     a<lb/>friend whom he may approve to accompany<lb/>&amp; remain with him at our
                     station for the ensuing<lb/>season at such wages as he may think reasonable <pb
-                        n="169" facs="BYM_Page_169"/><lb/>&amp; just. He was also instructed to have prepared
+                        n="169" facs="SW_BYM_minutes_168"/><lb/>&amp; just. He was also instructed to have prepared
                     &amp;<lb/>taken out with him such implements of Husbandry<lb/>as he may deem
                     necessary for the further<lb/>prosecution of the Views of the Yearly
                     Meeting<lb/>and draw on the Treasurer for the amount of<lb/>expence incured</p>
@@ -5535,7 +5537,7 @@
 
                 <p>At a Meeting of the Committee on Indian<lb/>concerns present 15 members</p>
                 <p>The friends appointed to invest the funds<lb/>remited to us on acct. of the money
-                    raised by our <pb n="170" facs="BYM_Page_170"/><lb/>brethren in <placeName key="gbrit">Great
+                    raised by our <pb n="170" facs="SW_BYM_minutes_169"/><lb/>brethren in <placeName key="gbrit">Great
                         Britain</placeName> reported that they<lb/>have not yet had an opportunity
                     of investing<lb/>the whole amount received but expected in a<lb/>short time to
                     be able to accomplish if they<lb/>were continued</p>
@@ -5561,7 +5563,7 @@
                     <persName key="ethom1">Evan Thomas</persName> &amp; <persName key="pthom1"
                         >Philip E. Thomas</persName></p>
                 <p>Then adjourned to meet on <date when="1808-03-19">7th day the <pb n="171"
-                    facs="BYM_Page_171"/><lb/>19th of the 3rd month 1808</date> at the 6th hour in
+                    facs="SW_BYM_minutes_170"/><lb/>19th of the 3rd month 1808</date> at the 6th hour in
                     the<lb/>evening</p>
             </div>
             <div type="minutes">
@@ -5591,7 +5593,7 @@
                         of<lb/><persName key="hhowa1">Horton Howard</persName> &amp; <persName
                         key="jwrig1">Jonathan Wright</persName> and request<lb/>their company in the
                     visit</p>
-                <pb n="172" facs="BYM_Page_172"/>
+                <pb n="172" facs="SW_BYM_minutes_171"/>
                 <p>The committee appointed produced the follow<lb/>ing essays which were approved
                     signed &amp;<lb/>directed to be forwarded to wit<lb/><persName key="jshaw1">John
                         Shaw</persName></p>
@@ -5634,7 +5636,7 @@
                             spend<lb/>another season in your Country Argreeably to the
                             request<lb/>made by our Red Brothers Through <persName key="wwell1"
                                 >William Welles</persName>;<lb/>We felt such a desire for you
-                            improvement that we <pb n="173" facs="BYM_Page_173"/><lb/>prevailed on him to spend another
+                            improvement that we <pb n="173" facs="SW_BYM_minutes_172"/><lb/>prevailed on him to spend another
                             season with you</p>
                         <p>Brothers he comes with no other view but to be of<lb/>benefit to our Red
                             Brothers. With no other view<lb/>but to encourage you to turn your
@@ -5662,7 +5664,7 @@
                             mode of living.</p>
                         <p>Brothers. Some of you have now made a beginning<lb/>and we hope see the
                             advantage resulting from cultiva<lb/>ting your lands, We wish you to
-                            persevere.<pb n="174" facs="BYM_Page_174"/></p>
+                            persevere.<pb n="174" facs="SW_BYM_minutes_173"/></p>
                         <p>Brothers remember as we have before said<lb/>we want nothing from you for
                             our services. We dont<lb/>want any of your lands.<lb/>Brothers there is
                             one thing more which we<lb/>cannot omit mentioning to you, It is
@@ -5709,7 +5711,7 @@
                             on our behalf. they will <lb/>have a long distance to travel but we hope
                             they will be<lb/>able to give you such advice as will if attended to be
                             of<lb/>great service to you and that you will make their <pb n="175"
-                                facs="BYM_Page_175"/><lb/>situation whilst in your country as comfortable as you<lb/>can
+                                facs="SW_BYM_minutes_174"/><lb/>situation whilst in your country as comfortable as you<lb/>can
                             they are our brothers in whom we can confide and we<lb/>request that you
                             will receive whatever they may have to say<lb/>as coming immediately
                             from us</p>
@@ -5744,7 +5746,7 @@
                             Welles</persName><lb/>for your use some ploughs Harness for horses axes
                             Hoes &amp;</p>
                         <p>Brothers You afterwards informed us that you had rcd<lb/>these implements
-                            of Husbandry, and that it was your wish <pb n="176" facs="BYM_Page_176"/><lb/>to make use of
+                            of Husbandry, and that it was your wish <pb n="176" facs="SW_BYM_minutes_175"/><lb/>to make use of
                             them but that you did not know<lb/>how to begin in the cultivation of
                             your lands, and<lb/>invited us to send some of our friends into your
                             country<lb/>to see your situation, and to give you such
@@ -5780,7 +5782,7 @@
                             consideration if they<lb/>wish us to extend assistance to any other
                             place &amp; if they<lb/>should conclude to request it leave them at
                             liberty<lb/>to propose such other spot as they may prefer.<pb n="177"
-                                facs="BYM_Page_177"/></p>
+                                facs="SW_BYM_minutes_176"/></p>
                         <p>Brethren As we have already told you so we again<lb/>repeat it, it is
                             only by the cultivation of your lands<lb/>and rearing of stock that you
                             can ever raise your<lb/>selves from the situation which you have
@@ -5809,7 +5811,7 @@
                             its destructive consequences<lb/>Whiskey not only corrupts the minds of
                             those that<lb/>drink it but also occasions great poverty &amp; distress
                             in<lb/>the families of those men who get drunk because it<lb/>destroys
-                            their reason and disqualifies them for work <pb n="178" facs="BYM_Page_178"/><lb/>It has
+                            their reason and disqualifies them for work <pb n="178" facs="SW_BYM_minutes_177"/><lb/>It has
                             this effect upon the white people who drink<lb/>it and will have the
                             same effect upon you</p>
                         <p>Brethren we believe that the good Spirit<lb/>placed all men on this earth
@@ -5836,7 +5838,7 @@
                     </body>
                 </floatingText>
                 <p>Then adjourned</p>
-                <pb n="179" facs="BYM_Page_179"/>
+                <pb n="179" facs="SW_BYM_minutes_178"/>
             </div>
             <div type="minutes">
                 <opener>At a Meeting of the committee on Indian<lb/>concerns <dateline><date
@@ -5865,7 +5867,7 @@
                     desire<lb/>these people have for spirituous liquors, and the<lb/>quantity they
                     obtain from the state of <placeName key="ohio">Ohio</placeName><lb/>renders it a
                     matter of doubt in the opinion<lb/>of the Committee whether much
-                    progress<lb/>will be made in civilization whilst it remains <pb n="180" facs="BYM_Page_180"/><lb/>in
+                    progress<lb/>will be made in civilization whilst it remains <pb n="180" facs="SW_BYM_minutes_179"/><lb/>in
                     their power to possess themselves of that<lb/>destructive article. The young men
                     in the<lb/>employ of friends at that place were<lb/>engaged in preparing for a
                     crop of corn &amp;c.<lb/>and appeared to be acting prudently, the<lb/>Indians as
@@ -5890,7 +5892,7 @@
                     communications<lb/>took place between them</p>
                 <p>The address of the committee of the Yearly <lb/>meeting of <placeName
                         key="balti1">Baltimore</placeName> dated <date when="1808-03-19">19th of the
-                            third month 1808</date><lb/><pb n="181" facs="BYM_Page_181"/> was read &amp; interpreted. The
+                            third month 1808</date><lb/><pb n="181" facs="SW_BYM_minutes_180"/> was read &amp; interpreted. The
                     committee then proceeded<lb/>to read speeches delivered at different
                     conferences<lb/>held at <placeName key="balti1">Baltimore</placeName> on the
                         <date when="1801-12-26">26th</date> &amp; <date when="1801-12-27">27th of
@@ -5930,7 +5932,7 @@
                             the <geogName key="wabas">Wabash</geogName> &amp; were glad to see
                             that<lb/>some of our red Brethren are likely to do well there<lb/>and
                             hope that they &amp; all the rest of our red Brothers <pb n="182"
-                                facs="BYM_Page_182"/><lb/>will get their eyes open so that they may see and<lb/>their
+                                facs="SW_BYM_minutes_181"/><lb/>will get their eyes open so that they may see and<lb/>their
                             hearts made good, that they may be willing<lb/>to do the things that are
                             best for them.</p>
                         <p>Brothers we decided to visit several of your towns<lb/>but there fell so
@@ -5957,7 +5959,7 @@
                         <persName key="etyso1">Elisha Tyson</persName> rose &amp;<lb/>observed that
                     you have heard what your Chiefs<lb/>have said some years ago that they had
                     applied<lb/>to their father the President of the United States <pb n="183"
-                        facs="BYM_Page_183"/><lb/>for assistance. Your father is rich and is able and<lb/>willing to assist
+                        facs="SW_BYM_minutes_182"/><lb/>for assistance. Your father is rich and is able and<lb/>willing to assist
                     you. You have plainly seen he<lb/>is willing to assist you he has sent you tools
                     and<lb/>his young men into your Country to work for you<lb/>&amp; instruct you
                     how to use them. that they came<lb/>into your very towns for this purpose. All
@@ -5983,7 +5985,7 @@
                                 will endeavor to answer- You have told<lb/>us you had a pity on and
                                 this has been the uniform<lb/>language to us from you since we first
                                 knew you<lb/>In consequence of what we have said we saw <pb n="184"
-                                    facs="BYM_Page_184"/><lb/>the aid of our father last spring at this place<lb/>you will
+                                    facs="SW_BYM_minutes_183"/><lb/>the aid of our father last spring at this place<lb/>you will
                                 now hear the reason why we did<lb/>not receive it. I suppose that
                                 the man that<lb/>was sent here last spring, was sent here for
                                 the<lb/>purpose of aiding us but as it often happens<lb/>that we are
@@ -6005,7 +6007,7 @@
                                 at this place last spring- he was<lb/>asked if he had an address
                                 from their father<lb/>they did not see his name to any paper, they
                                 then<lb/>believed that their father had been liberal<lb/>towards
-                            them that he had appropriated money <pb n="185" facs="BYM_Page_185"/><lb/>for their use
+                            them that he had appropriated money <pb n="185" facs="SW_BYM_minutes_184"/><lb/>for their use
                                 but they had never seen it. I only<lb/>give you this information we
                                 have given our<lb/>father the reason of our rejecting him &amp; we
                                 ought<lb/>not to be questioned for our reasons at this
@@ -6034,7 +6036,7 @@
                                 you sent two<lb/>men amongst us &amp; told us they were to aid
                                 &amp;<lb/>assist us it has now been two years since you sent<lb/>men
                                 amongst us it is seldom or never we see them <pb n="186"
-                                    facs="BYM_Page_186"/><lb/>working inside of our fences from this you<lb/>must not
+                                    facs="SW_BYM_minutes_185"/><lb/>working inside of our fences from this you<lb/>must not
                                 understand me that I am displea<lb/>sed with the aid we have
                                 received we are<lb/>entirely satisfied with it It is two years
                                 since<lb/>you sent these people amongst us. I repeat<lb/>they have
@@ -6053,7 +6055,7 @@
                                 us<lb/>in this way. It also has been said amongst us<lb/>when our
                                 Brethren wish to withdraw from us<lb/>altogether, who is to take
                                 possession of their<lb/>improvements they are not sufficient for us
-                                all <pb n="187" facs="BYM_Page_187"/><lb/>last year the young men you sent raised a
+                                all <pb n="187" facs="SW_BYM_minutes_186"/><lb/>last year the young men you sent raised a
                                 fine<lb/>crop of corn. We were glad when we were going<lb/>home to
                                 hear them say it should be divided<lb/>among us, this was very
                                 pleasing to us I<lb/>thanked you in my heart for the aid you<lb/>had
@@ -6074,7 +6076,7 @@
                                 might suffer<lb/>for want of it during the absence of Wm Wells &amp;
                                 that<lb/>the said Wm Wells had requested him to lend him<lb/>some of
                                 the corn, When Friends &amp; Wm Wells came &amp; went <pb n="188"
-                                    facs="BYM_Page_188"/><lb/>away again. I was to that the corn was all gone<lb/>when my
+                                    facs="SW_BYM_minutes_187"/><lb/>away again. I was to that the corn was all gone<lb/>when my
                                 people went down to receive the corn<lb/>they found it had almost
                                 all been removed<lb/>I then told the people not to receive it as
                                 there<lb/>would not be enough for them all- I am high<lb/>ly pleased
@@ -6094,7 +6096,7 @@
                     rich &amp; able to help them, and<lb/>we had learned that he had promised
                     them<lb/>his aid &amp; we cannot understand why the young<lb/>men with their
                     tools which their father had<lb/>sent were turned back when the expense
-                    was<lb/>nothing to the Indians yet it cost your father <pb n="189" facs="BYM_Page_189"/><lb/>the
+                    was<lb/>nothing to the Indians yet it cost your father <pb n="189" facs="SW_BYM_minutes_188"/><lb/>the
                     President much money. When your gen<lb/>eral council meets we shall expect an
                     answer<lb/>to all we have said &amp; particularly to the<lb/>address of the
                     committee herewith handed &amp;<lb/>deposited with <persName key="wwell1">Wm
@@ -6112,7 +6114,7 @@
                     thorny<lb/>path and wished to walk after us, We want them<lb/>to do as we do, to
                     accustom their children to work<lb/>when young &amp; this is the way to walk in
                     the path <lb/>which we have walked in<lb/>after which the council adjourned</p>
-                <pb n="190" facs="BYM_Page_190"/>
+                <pb n="190" facs="SW_BYM_minutes_189"/>
                 <p>It appearing to be he united judgment<lb/>of the committee that but little
                     permanent<lb/>advantage will likely to result to the <lb/>Indians from the aid
                     furnished them by<lb/>Friends whilst they have access to spirituous<lb/>liquors,
@@ -6141,7 +6143,7 @@
                     recd.</p>
                 <p>The prospect of addressing the legislature of<lb/>Ohio on the subject of the
                     introduction of spirituous<lb/>liquors amongst the Indians was refered for
-                    further <pb n="191" facs="BYM_Page_191"/><lb/>consideration.</p>
+                    further <pb n="191" facs="SW_BYM_minutes_190"/><lb/>consideration.</p>
                 <p><persName key="gelli1">George Ellicott</persName>, <persName key="ethom1">Even
                         Thomas</persName>, <persName key="jgill2">James Gillingham</persName>,
                         <persName key="amoor1">Asa<lb/>Moore</persName>, <persName key="ghopk1"
@@ -6172,7 +6174,7 @@
                         <p>Some time after our last yearly meeting<lb/>the young men who had been
                             engaged by friends<lb/>to assist the Indians at our settlement on
                                 the<lb/><geogName key="wabas">Wabash</geogName> returned and
-                            informed us that they had <pb n="192" facs="BYM_Page_192"/><lb/>raised a good crop of corn
+                            informed us that they had <pb n="192" facs="SW_BYM_minutes_191"/><lb/>raised a good crop of corn
                             which they<lb/>had previous to their leaving that place<lb/>secured in a
                             crib- on their departure<lb/>from the station they were
                             accompanyed<lb/>by several of the principal Indians of<lb/>the Village
@@ -6190,7 +6192,7 @@
                             received from them it appears that<lb/>the Indians were much pleased at
                             their return<lb/>&amp; they found the settlement in as good a
                             situ<lb/>ation as could be expected, the corn which<lb/>had been the
-                            last fall secured in cribs <pb n="193" facs="BYM_Page_193"/><lb/>would be very seasonable
+                            last fall secured in cribs <pb n="193" facs="SW_BYM_minutes_192"/><lb/>would be very seasonable
                             relief to divers of the<lb/>families in the Village who were much
                             in<lb/>need of it at that time, having lost many of<lb/>their Hogs
                             during the winter for want of food</p>
@@ -6213,7 +6215,7 @@
                             at that place were engaged in<lb/>preparing for a crop of corn, and
                             appeared to<lb/>be acting prudently, the Indians as well as
                             whites<lb/>in the neighbourhood expressed satisfaction <pb n="194"
-                                facs="BYM_Page_194"/><lb/>with their conduct since their residence<lb/>amongst them-</p>
+                                facs="SW_BYM_minutes_193"/><lb/>with their conduct since their residence<lb/>amongst them-</p>
                         <p>These friends whilst at the station<lb/>had a conference with the Indians
                             of the<lb/>Village and delivered a communication<lb/>addressed to them
                             by the committee- The<lb/><persName key="wloon1">white Loon</persName> a
@@ -6232,7 +6234,7 @@
                             he<lb/>felt thankful to the great spirit for having<lb/>permited them to
                             meet at that time and<lb/>expressed his satisfaction with what was
                             said<lb/>but observed that as only a few of the princi<lb/>pal chiefs
-                            were present they could not reply <pb n="195" facs="BYM_Page_195"/><lb/>to the speech
+                            were present they could not reply <pb n="195" facs="SW_BYM_minutes_194"/><lb/>to the speech
                             delivered to them until after it was<lb/>laid before their general
                             council and deliberated<lb/>on there when a full reply would be
                             made<lb/>- neither of these have yet been recd. by us</p>
@@ -6254,7 +6256,7 @@
                             heretofore lived in, being nearly 2 stories<lb/>high with floors
                             &amp;Partition, and had moreover<lb/>aided another Indian in one which
                             he<lb/>was building for himself. And several<lb/>of the other Indians
-                            having expressed a wish <pb n="196" facs="BYM_Page_196"/><lb/>to remove a small distance out
+                            having expressed a wish <pb n="196" facs="SW_BYM_minutes_195"/><lb/>to remove a small distance out
                             of the<lb/>Village in order to have separate fields and<lb/>better
                             opportunity of raising stock they con<lb/>templated assisting them in
                             building houses<lb/>for that purpose as soon as the crop<lb/>would be in
@@ -6281,7 +6283,7 @@
                 <p>Then adjourned to meet on the evening<lb/>of the 13th Inst. at the 7th hour in
                     the evening</p>
             </div>
-            <pb n="197" facs="BYM_Page_197"/>
+            <pb n="197" facs="SW_BYM_minutes_196"/>
             <div type="minutes">
                 <opener><dateline><date when="1808-10-13"/>10mo 13 1808</dateline></opener>
 
@@ -6317,7 +6319,7 @@
                 <p>A letter was received from <persName key="wwell1">William
                     Wells</persName><lb/>dated <date when="1808-09-30">9 mo 30 last</date> enclosing
                     minutes of the proceedings<lb/>of the General Council of the <orgName
-                        key="miami">Miami</orgName> confederacy of <pb n="198" facs="BYM_Page_198"/><lb/>Indians held at
+                        key="miami">Miami</orgName> confederacy of <pb n="198" facs="SW_BYM_minutes_197"/><lb/>Indians held at
                         <placeName key="fwayn">Fort Wayne</placeName>
                     <date when="1808-09-25">25 of the 9th month</date><lb/>which were read
                     &amp;refered to further consideration<lb/>also the copy of an address on behalf
@@ -6358,7 +6360,7 @@
                                 <placeName key="penns">Pennsylvania</placeName> &amp;<placeName
                                 key="virgi">Virginia</placeName> &amp; the<lb/>state of <placeName
                                 key="ohio">Ohio</placeName>. Respectfully Represents</opener>
-                        <p>That a concern having several years <pb n="199" facs="BYM_Page_199"/><lb/>past originated in
+                        <p>That a concern having several years <pb n="199" facs="SW_BYM_minutes_198"/><lb/>past originated in
                             our yearly Meeting to introduce among<lb/>some of the Indian Tribes
                             bordering on your state<lb/>the most necessary acts of civil life, your
                             Memorialists<lb/>were appointed by that Body to carry into effect
@@ -6385,7 +6387,7 @@
                             for<lb/>a time increasingly to pervade them, but as the<lb/>settlements
                             of white People approached their villages<lb/>and hunting camps,
                             Spiritious Liquors were again<lb/>brought within their reach, and they
-                            are now in the habit of procuring large <pb n="200" facs="BYM_Page_200"/><lb/>quantities by
+                            are now in the habit of procuring large <pb n="200" facs="SW_BYM_minutes_199"/><lb/>quantities by
                             going for it into the State of <placeName key="ohio">Ohio</placeName>,
                             <lb/>the <placeName key="indiana">Indiana</placeName> &amp; <placeName
                                 key="michi1">Michigan</placeName> Territories: This has<lb/>much
@@ -6412,7 +6414,7 @@
                             the<lb/>subject, and that you will adopt such measures<lb/>for their
                             benefit as to you may seem right &amp; proper<lb/>under a solid
                             consideration of the importance<lb/>of the proposed movement the
-                            committee after mature <pb n="201" facs="BYM_Page_201"/><lb/>deliberation were of the
+                            committee after mature <pb n="201" facs="SW_BYM_minutes_200"/><lb/>deliberation were of the
                             judgment that it will be<lb/>most prudent to lay the subject before our
                             Meeting<lb/>for sufferings for its sympathy &amp; advice previous<lb/>to
                             any further proceedure therein</p>
@@ -6439,7 +6441,7 @@
                     the<lb/>assembly of <placeName key="ohio">Ohio</placeName> under the care of
                     some sui<lb/>table person who would use the necessary care in<lb/>laying it
                     before that Body.<lb/>Then adjourned</p>
-                <pb n="202" facs="BYM_Page_202"/>
+                <pb n="202" facs="SW_BYM_minutes_201"/>
             </div>
             <div type="minutes">
                 <opener><dateline><date when="1808-12-23">12 Mo 23 1808</date></dateline>
@@ -6470,7 +6472,7 @@
                     the <geogName key="wabas">Wabash</geogName>, early in the last spring<lb/>and
                     remained there until about the middle of<lb/>last month, during which time they
                     had raised a<lb/>crop of good corn, of between 5&amp;600 Bushels, which <pb
-                        n="203" facs="BYM_Page_203"/><lb/>was carefully secured before they came away, they<lb/>also
+                        n="203" facs="SW_BYM_minutes_202"/><lb/>was carefully secured before they came away, they<lb/>also
                     raised some Hemp, Tobacco, Potatoes, Turnips &amp;a<lb/>variety of Garden
                     Vegetables. The corn was not dis<lb/>tributed amongst the Indians this fall, on
                     acct.<lb/>of many of them being absent, on Hunting expi<lb/>ditions, &amp; their
@@ -6492,7 +6494,7 @@
                     <lb/>permanent establishment, should friends continue<lb/>to pursue their
                     efforts, towards the civilization of <lb/>the Indians in the neighbourhood of
                         <placeName key="fwayn">Fort Wayne</placeName>,<lb/>which was refered for
-                    further consideration <pb n="204" facs="BYM_Page_204"/><lb/><persName key="jelli3">James
+                    further consideration <pb n="204" facs="SW_BYM_minutes_203"/><lb/><persName key="jelli3">James
                         Ellicott</persName>
                     <persName key="ghopk1">Gerard T. Hopkins</persName> &amp;<persName key="eelli1"
                         >Elias Ellicott</persName><lb/>were appointed to examine &amp;adjust the
@@ -6527,7 +6529,7 @@
                             attended by a strong desire for the welfare<lb/>of you my red brethren:
                             The conference which<lb/>we then had, has been strongly impressed upon
                             my<lb/>mind; I have often remembered our communications,<lb/>and
-                            particularly the solitude expressed by them, at <pb n="205" facs="BYM_Page_205"/><lb/>that
+                            particularly the solitude expressed by them, at <pb n="205" facs="SW_BYM_minutes_204"/><lb/>that
                             time, that our society would afford some assis<lb/>tence to our red
                             brethren, in instructing them in<lb/>the cultivation of the Earth, and
                             in the knowledge<lb/>of some of the more useful arts of civil life.</p>
@@ -6552,7 +6554,7 @@
                             and<lb/>as we were not fully acquainted with the situ<lb/>ation of of
                             our red Brethren we concluded to<lb/>send some of our Brothers into your
                             Country, where<lb/>they had a conference with divers of the chiefs of
-                            our <pb n="206" facs="BYM_Page_206"/><lb/>red brethren, and a situated was pointed
+                            our <pb n="206" facs="SW_BYM_minutes_205"/><lb/>red brethren, and a situated was pointed
                             out<lb/>where we should commence our operations &amp;<lb/>make an
                             establishment, for it appeared to us<lb/>that the most effectual way of
                             carrying our views<lb/>into execution, was to begin our efforts at
@@ -6576,7 +6578,7 @@
                             minds, the necessity there was<lb/>for all those, who desire to make
                             improvements in<lb/>agriculture and other useful arts of civil life,
                             to<lb/>decline the use of spiritous liquors, but we have been <pb
-                                n="207" facs="BYM_Page_207"/><lb/>satisfactorily informed, that tho these
+                                n="207" facs="SW_BYM_minutes_206"/><lb/>satisfactorily informed, that tho these
                             communicating<lb/>had not reached the Chiefs, before the
                             commencement<lb/>of their general council, they had themselves
                             taken<lb/>the subject into consideration, and addressed a<lb/>petition
@@ -6600,7 +6602,7 @@
                             with<lb/>them, they would freely open to us their minds</p>
                         <p>Brothers! As our concern has led us to sympathise<lb/>with our red
                             brethren in different parts of this<lb/>Country, we have never found
-                            ourselves confined <pb n="208" facs="BYM_Page_208"/><lb/>in our prospects, and if at any
+                            ourselves confined <pb n="208" facs="SW_BYM_minutes_207"/><lb/>in our prospects, and if at any
                             time, any become<lb/>dissatisfied with us, we desire that they
                             would<lb/>freely commuicate to us their dissatisfaction, yet<lb/>tho' we
                             are sensible our motives are pure, having<lb/>no prospect of reaping any
@@ -6629,7 +6631,7 @@
                         <p>In rising to salute you, I<lb/>feel happy, &amp; thank the great spirit
                             who has put it<lb/>into our power, to take each other by the
                             hand<lb/>once more. All that you have said to us is pleasing <pb n="209"
-                                facs="BYM_Page_209"/><lb/>and nothing bad</p>
+                                facs="SW_BYM_minutes_208"/><lb/>and nothing bad</p>
                         <p>Brothers! This is not the first time that I have<lb/>heard you speak as
                             you now speak; when you<lb/>spoke these words to us some years ago we
                             then<lb/>answered you</p>
@@ -6653,7 +6655,7 @@
                             we wished. But brothers I have never seen this<lb/>except in the
                             neighbourhood of <placeName key="fwayn">Fort Wayne</placeName>;
                             there<lb/>only our young men have not been able to get <pb n="210"
-                                facs="BYM_Page_210"/><lb/>supplied with liquor. They get supplies <lb/>from the mouth of
+                                facs="SW_BYM_minutes_209"/><lb/>supplied with liquor. They get supplies <lb/>from the mouth of
                             the <geogName key="gmiam">great Miamy</geogName> to<lb/><placeName
                                 key="detro">Detroit</placeName>, and down the <geogName key="ohior"
                                 >Ohio</geogName> to the mouth<lb/>of the <geogName key="wabas"
@@ -6679,7 +6681,7 @@
                             unannimous<lb/>opinion of your red brethren; Those who have
                             said<lb/>this have never received any services from you.- as<lb/>they
                             have recd. none, consequently they have none to <pb n="211"
-                                facs="BYM_Page_211"/><lb/>dispense with. I am not now prepared to say<lb/>anything more to
+                                facs="SW_BYM_minutes_210"/><lb/>dispense with. I am not now prepared to say<lb/>anything more to
                             you, but shall carry home<lb/>to my people all that you have said to
                             us</p>
                     </body>
@@ -6712,7 +6714,7 @@
                 <p>In reply he made many expressions of thanks<lb/>and of his sense of our kindness,
                     and the benefits<lb/>those of his people whom we had had under our care<lb/>had
                     derived from our aid, He also stated his entire<lb/>conviction of the
-                    correctness of our ideas respecting <pb n="212" facs="BYM_Page_212"/><lb/>the means of improving
+                    correctness of our ideas respecting <pb n="212" facs="SW_BYM_minutes_211"/><lb/>the means of improving
                     their condition &amp; inform<lb/>ed us that whenever we might feel
                     ourselves<lb/>disposed to aid his Town, he would seize our<lb/>offer with both
                     hands, and appeared very<lb/>desirous of receiving assistance from us.
@@ -6740,7 +6742,7 @@
                         <persName key="hdrin1">Henry Drinker</persName>.- <persName key="eelli1"
                         >Elias Ellicott</persName> our<lb/>Treasurer was accordingly desired to draw
                     for that<lb/>sum, and the clerk directed to furnish him<lb/>with a copy of this
-                    minute <pb n="213" facs="BYM_Page_213"/><lb/>Then adjourned until tomorrow at the 2nd hour<lb/>in
+                    minute <pb n="213" facs="SW_BYM_minutes_212"/><lb/>Then adjourned until tomorrow at the 2nd hour<lb/>in
                     the afternoon when the committee again met<lb/>present 13 members<lb/>The
                     friends appointed at the last meeting of<lb/>the committee, to consider of the
                     propriety of our<lb/>obtaining a permanent settlement in the Indian<lb/>country,
@@ -6766,7 +6768,7 @@
                                 Wayne</placeName>, and in order that full information<lb/>may be
                             obtained, we propose that a deputation<lb/>from the committee wait upon
                             the proper public<lb/>officer, ascertain the practicability of procuring
-                            <pb n="214" facs="BYM_Page_214"/><lb/>such a piece of land not exceeding 1000
+                            <pb n="214" facs="SW_BYM_minutes_213"/><lb/>such a piece of land not exceeding 1000
                             acres<lb/>and the terms upon which it may be purchased<lb/>and if it be
                             procured obtain such information<lb/>of the divisions of the
                             reservation, as may enable<lb/>the committee to locate a farm suitable
@@ -6799,7 +6801,7 @@
                         >Phila.</placeName> as our proportion of the fund<lb/>raised by our brethren
                     of <placeName key="gbrit">Great Britain</placeName> for the<lb/>benevolent
                     purpose of promoting the improvement<lb/>of the Indian nations &amp; report of
-                    their care to the next <pb n="215" facs="BYM_Page_215"/><lb/>Meeting of the committee</p>
+                    their care to the next <pb n="215" facs="SW_BYM_minutes_214"/><lb/>Meeting of the committee</p>
                 <p>Then adjourned until <date when="1808-12-31">7th day evening the 31</date>
                     Inst.<lb/>when the committee again meet present 9 members &amp;
                         the<lb/><persName key="lturt1">little Turtle</persName> principal cheif of
@@ -6824,7 +6826,7 @@
                     retired</p>
                 <p>The committee having taken into consideration<lb/>the proposal from the <persName
                         key="lturt1">Turtle</persName>,- after a free conference <pb n="216"
-                            facs="BYM_Page_216"/><lb/>on the subject, were unitedly of the opinion<lb/>that it will be right to
+                            facs="SW_BYM_minutes_215"/><lb/>on the subject, were unitedly of the opinion<lb/>that it will be right to
                     gratify him, as soon as<lb/>we become in a situation to accomplish
                         it-<lb/><persName key="jgill2">James Gillingham</persName>, <persName
                         key="jelli3">James Ellicott</persName> &amp; <persName key="pthom1">Philip
@@ -6853,7 +6855,7 @@
                         <p>Brother! It was by the agreement of our red<lb/>brethren that we
                             commenced our operations on<lb/>the <geogName key="wabas"
                                 >Wabash</geogName>- and they have been informed that <pb n="217"
-                                    facs="BYM_Page_217"/><lb/>we have not heretofore, thought our brothers at<lb/>that place
+                                    facs="SW_BYM_minutes_216"/><lb/>we have not heretofore, thought our brothers at<lb/>that place
                             sufficiently instructed to admit of our<lb/>withdrawing from them</p>
                         <p>Brother! As soon as we believed the time was<lb/>approaching, when the
                             situation of our brothers<lb/>there, would admit of our extending
@@ -6877,7 +6879,7 @@
                             us<lb/>we have listened with attention to the request<lb/>of our brother
                             to build him a mill, and as we<lb/>feel great love for him, and a strong
                             disposition<lb/>to meet his wishes, as far as in our power, we<lb/>have
-                            concluded to do this for him, as we may find <pb n="218" facs="BYM_Page_218"/><lb/>ourselves
+                            concluded to do this for him, as we may find <pb n="218" facs="SW_BYM_minutes_217"/><lb/>ourselves
                             in a situation to accomplish it</p>
                         <p>Brothers! we will therefore endeavour to divide<lb/>our aid between the
                                 <geogName key="wabas">Wabash</geogName> &amp; the <placeName
@@ -6905,7 +6907,7 @@
                                 >Wabash</geogName> are unwilling to part with you- this<lb/>I know
                             to be true, and I rejoice that you still retain<lb/>your friendship for
                             them, notwithstanding attempts have<lb/>been made to prejudice you
-                            against them, and the <pb n="219" facs="BYM_Page_219"/><lb/>discouragements which you have
+                            against them, and the <pb n="219" facs="SW_BYM_minutes_218"/><lb/>discouragements which you have
                             had to encounter</p>
                         <p>Brothers! I believed the building of a mill was the<lb/>best thing you
                             can do for my people, I have therefore<lb/>asked it of you; I think it
@@ -6937,7 +6939,7 @@
                         <orgName key="nanti">Nanticokes</orgName> who he said still possessed
                     <lb/>certain Lands on the Eastern Shore of this <placeName key="maryl"
                         >State</placeName><lb/>which it was their desire might be disposed of <pb
-                            n="220" facs="BYM_Page_220"/><lb/>and the proceeds remited to them; They had accord<lb/>ingly
+                            n="220" facs="SW_BYM_minutes_219"/><lb/>and the proceeds remited to them; They had accord<lb/>ingly
                     appointed him as their attorney to accom<lb/>plish this object &amp; he had made
                     a visit to the<lb/>seat of Government in this State in order to<lb/>possess
                     himself of the necessary information<lb/>respecting their Title and its Value
@@ -6960,7 +6962,7 @@
                 <p>The sub committee informed that they <lb/>had had a full conference with
                         <persName key="haupa1">Hendrick<lb/>Aupamut</persName> and recd. from him
                     the following<lb/>statement of the views of himself &amp; the nation<lb/>of
-                    which he is chief <pb n="221" facs="BYM_Page_221"/></p>
+                    which he is chief <pb n="221" facs="SW_BYM_minutes_220"/></p>
                 <floatingText type="letter">
                     <body><dateline><date when="1809"/></dateline>
                         <p>Whereas certain of my friends at this place who<lb/>have the good of the
@@ -6994,7 +6996,7 @@
                             the articles of<lb/>the treaty of peace with the U.S- We found
                             many<lb/>of these Indians in a deplorable situation these<lb/>many years
                             past- And we are sensible our good<lb/>wishes can never do them any good
-                            without our <pb n="222" facs="BYM_Page_222"/><lb/>utmost exertions indeed</p>
+                            without our <pb n="222" facs="SW_BYM_minutes_221"/><lb/>utmost exertions indeed</p>
                         <p>4th The history of the indians since the Europeans<lb/>first settled on
                             this Island as well as our own<lb/>experience convinces us that all the
                             different<lb/>tribes would decrease until they become extinct<lb/>as
@@ -7022,7 +7024,7 @@
                                 <lb/>Vincennes</placeName> forty years ago</p>
                         <p>6th Influenced by the same sentiments my nation<lb/>again appointed me,
                             also <persName key="jjaco1">John Jacobs</persName>- <persName
-                                key="jnaun1">Jacob <pb n="223" facs="BYM_Page_223"/><lb/>Nannuhsstang</persName>
+                                key="jnaun1">Jacob <pb n="223" facs="SW_BYM_minutes_222"/><lb/>Nannuhsstang</persName>
                             <persName key="wnoru1">Wm Noruuqshen</persName>
                             <persName key="emaun1">Ebenezer Maun-<lb/>nautheet</persName> &amp;
                                 <persName key="rshek1">Robert Sheket</persName> to visit those
@@ -7049,7 +7051,7 @@
                             <lb/>is an ingenious Carpenter- understands the<lb/>management of a
                             grist and saw mill- And <lb/>can keep them in repair- the other three
                             young men<lb/>are active and industrious and can use the axe <pb n="224"
-                                facs="BYM_Page_224"/><lb/>and hoe on a farm. they left home with me<lb/>well cloathed but
+                                facs="SW_BYM_minutes_223"/><lb/>and hoe on a farm. they left home with me<lb/>well cloathed but
                             before I came away they<lb/>were nearly naked but in order to
                             encourage<lb/>&amp; make them as comfortable as I could while<lb/>I am
                             absent from them I had on 50 dols<lb/>worth of cloath from Johnston for
@@ -7071,7 +7073,7 @@
                                 key="whiter">white river</geogName><lb/>in a general council held by
                             the Chiefs &amp; <lb/>head warriors, with the young men at
                             that<lb/>place last August they passed a law by<lb/>general consent that
-                            if any person should bring <pb n="225" facs="BYM_Page_225"/><lb/>any liquors to our town it
+                            if any person should bring <pb n="225" facs="SW_BYM_minutes_224"/><lb/>any liquors to our town it
                             should be imme<lb/>diately spilled on the ground and the<lb/>person
                             should loose it-</p>
                         <p>As my friends will probably wish to<lb/>know what assistance we may most
@@ -7103,7 +7105,7 @@
                     would be best to<lb/>make known his situation to the Government<lb/>who had
                     thereupon so far patronised his undertaking<lb/>as to direct the Indian agent at
                         <placeName key="fwayn">Fort Wayne</placeName>
-                    <pb n="226" facs="BYM_Page_226"/><lb/>to yield him the necessary aid to enable him<lb/>to carry into
+                    <pb n="226" facs="SW_BYM_minutes_225"/><lb/>to yield him the necessary aid to enable him<lb/>to carry into
                     effect his plan</p>
                 <p>The committee after solid deliberation on<lb/>the present situation of the
                     concern refered to<lb/>us by the yearly meeting, were united in the<lb/>judgment
@@ -7121,7 +7123,7 @@
                     years crop which<lb/>had been secured in cribs to be divided amongst<lb/>the
                     Indians at the village in such way as the<lb/>chiefs &amp; <persName
                         key="jshaw1">John Shaw</persName> might think right and<lb/>deliverd to them
-                    as a present from Friends<lb/>Then adjourned <pb n="227" facs="BYM_Page_227"/></p>
+                    as a present from Friends<lb/>Then adjourned <pb n="227" facs="SW_BYM_minutes_226"/></p>
             </div>
             <div type="minutes">
                 <opener>At a meeting of the committee on Indian<lb/>concerns <dateline><date
@@ -7159,7 +7161,7 @@
                 <p>The sub committee informed that they had<lb/>as directed written to those of our
                     members<lb/>who reside West of the mountains &amp; to <persName key="jjohn2"
                         >John Johnson</persName>
-                    <pb n="228" facs="BYM_Page_228"/><lb/>informing them of the Judgment which<lb/>we had come to
+                    <pb n="228" facs="SW_BYM_minutes_227"/><lb/>informing them of the Judgment which<lb/>we had come to
                     respecting our proceedings toward<lb/>the Indians for the present season</p>
                 <p>A letter from <persName key="jjohn2">John Johnson</persName> dated <date
                         when="1809-02-20">2 mo 20th</date><lb/>was received &amp; read &amp; refered
@@ -7184,7 +7186,7 @@
                             pay a fine not exceeding one hundred<lb/>dollars nor less than five
                             dollars to be recov<lb/>ered with costs of suit by Indictment in
                             the<lb/>county where the offence was committed to be <pb n="229"
-                                facs="BYM_Page_229"/><lb/>paid into the county treasury, and the per<lb/>son so offending
+                                facs="SW_BYM_minutes_228"/><lb/>paid into the county treasury, and the per<lb/>son so offending
                             shall moreover forfeit the<lb/>article of whatsoever nature or kind he
                             she<lb/>or they have received in exchange which<lb/>shall be restored to
                             any Indian or Indians<lb/>claiming the same n giving
@@ -7219,7 +7221,7 @@
                     Grave</persName>, <persName key="hmill2">Henry Mills</persName> &amp; <persName
                         key="jhugh1">Jesse Hughes</persName><lb/>were appointed to examine &amp;
                     adjust the Treasurers<lb/>accounts &amp; prepare a report to the Yearly Meeting
-                    <pb n="230" facs="BYM_Page_230"/><lb/>now siting to be produced at a future meeting<lb/>of the
+                    <pb n="230" facs="SW_BYM_minutes_229"/><lb/>now siting to be produced at a future meeting<lb/>of the
                     committee</p>
                 <p>Then adjourned until <date when="1809-10-11">tomorrow evening</date></p>
             </div>
@@ -7246,7 +7248,7 @@
                             families as appeared most in need<lb/>of it- our young men further
                             informed that<lb/>they had aided the Indians in building
                             several<lb/>Houses after the crop was in a situation to admit<lb/>of
-                            their attention being withdrawn from it, and <pb n="231" facs="BYM_Page_231"/><lb/>that some
+                            their attention being withdrawn from it, and <pb n="231" facs="SW_BYM_minutes_230"/><lb/>that some
                             of them appeared industrious and<lb/>worked steadily, but the corrupting
                             and debasing<lb/>influence of Spiritous liquors upon them
                             which<lb/>article they at that time continued to introduce<lb/>in large
@@ -7269,7 +7271,7 @@
                             General<lb/>council in the <date when="1808-09">9th mo 1808</date> and
                             that they had on<lb/>a full consideration of the subject,
                             unitedly<lb/>agreed to Petition the Government of the U. States <pb
-                                n="232" facs="BYM_Page_232"/><lb/>to interdict the future transportation of
+                                n="232" facs="SW_BYM_minutes_231"/><lb/>to interdict the future transportation of
                             that<lb/>article into their country, which petition<lb/>they forwarded
                             to us and at the same time<lb/>solicited the aid of Friends in promoting
                             such<lb/>measures as might hereafter relieve them from<lb/>the dreadful
@@ -7290,7 +7292,7 @@
                                 >Michigan</placeName><lb/>from whence the Indians principally
                             drew<lb/>their supplies of this article, to obtain<lb/>such relief and
                             could be procured. The<lb/>committee also with the concurence of the <pb
-                                n="233" facs="BYM_Page_233"/><lb/>Meeting for Sufferings forwarded a memorial<lb/>to
+                                n="233" facs="SW_BYM_minutes_232"/><lb/>Meeting for Sufferings forwarded a memorial<lb/>to
                             legislature of <placeName key="ohio">Ohio</placeName> requesting its
                             attention<lb/>to the subject and that it would adopt such<lb/>measures
                             for the relief of the Indians<lb/>as might appear beneficial &amp;
@@ -7308,7 +7310,7 @@
                             pernicious article has heretofore<lb/>thrown in their way and which had
                             discouraged<lb/>them from extending much assistance the<lb/>present
                             year, they therefore cannot but rejoice<lb/>in the prospect which now
-                            opens before them <pb n="234" facs="BYM_Page_234"/><lb/>and feel strongly animated to
+                            opens before them <pb n="234" facs="SW_BYM_minutes_233"/><lb/>and feel strongly animated to
                             continue their<lb/>efforts with increased diligence &amp; zeal</p>
                         <p>The committee may further inform that<lb/> a considerable number of the
                             principal<lb/>cheifs of the different nations of Indians<lb/>bordering
@@ -7326,7 +7328,7 @@
                             encounter<lb/>yet there is encouragement for Friends to<lb/>persevere in
                             the benevolent work they have<lb/>engaged in and a comfortable hope
                             that<lb/>as we are favoured patiently to abide under<lb/>the weight of
-                            this concern our labours will <pb n="235" facs="BYM_Page_235"/><lb/>ultimately be crowned
+                            this concern our labours will <pb n="235" facs="SW_BYM_minutes_234"/><lb/>ultimately be crowned
                             with success</p>
                         <p>We have since the last yearly meeting recd.<lb/>from the meeting for
                             sufferings of <placeName key="phila">Phila.</placeName>
@@ -7355,7 +7357,7 @@
                 <p>The situation of that portion of the <orgName key="delaware"
                         >Dela<lb/>ware</orgName> Tribe of Indians residing near <placeName
                         key="mojl">Mohicken<lb/>Johns Lake</placeName> being again brought into view
-                    and <pb n="236" facs="BYM_Page_236"/><lb/>the committee being informed that Friends<lb/>of
+                    and <pb n="236" facs="SW_BYM_minutes_235"/><lb/>the committee being informed that Friends<lb/>of
                         <placeName key="phila">Phila.</placeName> yearly meeting have declined
                     extending<lb/>any care towards them, after consideration<lb/>it was concluded to
                     refer the subject of<lb/>their request to the care of the following
@@ -7383,7 +7385,7 @@
                     and also<lb/>from <persName key="jshaw1">John Shaw</persName> stating that from
                     the disposition<lb/>which appears at this time to prevail amongst<lb/>the
                     Indians on the <geogName key="wabas">Wabash</geogName> there was not
-                    a<lb/>prospect of much benefit being likely to result <pb n="237" facs="BYM_Page_237"/><lb/>to these
+                    a<lb/>prospect of much benefit being likely to result <pb n="237" facs="SW_BYM_minutes_236"/><lb/>to these
                     Indians from friends continuing their aid<lb/>to them. And at the same time
                     remarking that the<lb/>settlement of the <orgName key="shawnee"
                         >Shawanese</orgName> at <placeName key="wapak">Wapakanetta</placeName>
@@ -7403,7 +7405,7 @@
                 <p>After solid consideration the committee<lb/>were united in judgment that it will
                     be proper<lb/>to withdraw for a time from the <placeName key="wabas"
                         >wabash</placeName> and<lb/>direct our exertions to the assistance of the
-                    settlement <pb n="238" facs="BYM_Page_238"/><lb/>at <placeName key="wapak">Wapakanetta</placeName>,
+                    settlement <pb n="238" facs="SW_BYM_minutes_237"/><lb/>at <placeName key="wapak">Wapakanetta</placeName>,
                     and in order that our views<lb/>and prospects may be fully communicated to
                     these<lb/>Indians, the following Friends were appointed to<lb/>make them a
                     visit, and hold such conference<lb/>with them as may appear necessary- They
@@ -7434,7 +7436,7 @@
                         Dilwin</persName> &amp; <persName key="jbrow1">John Brown</persName> from
                     the<lb/>Yearly Meeting of <placeName key="phila">Phila.</placeName></p>
                 <p>The friends appointed to visit the Indians<lb/>at <placeName key="wapak"
-                    >Wapakennetta</placeName> reported that way had not <pb n="239" facs="BYM_Page_239"/><lb/>opened
+                    >Wapakennetta</placeName> reported that way had not <pb n="239" facs="SW_BYM_minutes_238"/><lb/>opened
                     to perform this service- The subject<lb/>was refered to the further
                     consideration of the<lb/>committee</p>
                 <p>A report was received from the<lb/>friends who were appointed to make a<lb/>visit
@@ -7457,7 +7459,7 @@
                 <opener><dateline><date when="1810-10-16"/></dateline></opener>
                 <p>at which time the<lb/>committee again met</p>
                 <p>The friends appointed to prepare<lb/>a report to the Yearly Meeting
-                    produced<lb/>the following which was approovd &amp; <pb n="240" facs="BYM_Page_240"/><lb/>directed
+                    produced<lb/>the following which was approovd &amp; <pb n="240" facs="SW_BYM_minutes_239"/><lb/>directed
                     to be signed by the Clerk</p>
                 <floatingText type="report">
                     <body>
@@ -7532,7 +7534,7 @@
                     interest was felt in the prosecution<lb/>of the concern, and the following
                     friends were<lb/>appointed to pursue the views of the committee<lb/>as stated in
                     the minute made upon the subject<lb/>in the siting of the 2nd month last, to wit
-                    <persName key="pdeni1">Philip <pb n="241" facs="BYM_Page_241"/><lb/>Dennis</persName>, <persName
+                    <persName key="pdeni1">Philip <pb n="241" facs="SW_BYM_minutes_240"/><lb/>Dennis</persName>, <persName
                         key="jelli4">John Ellicott</persName>
                     <persName key="belli1">Benjamin Ellicott</persName><lb/><persName key="ityso1"
                         >Isaac Tyson</persName>, <persName key="jwrig1">Jonathan Wright</persName>,
@@ -7554,7 +7556,7 @@
                     time that the contemp<lb/>lated visit is proposed to be made, and<lb/>request
                     them to engage a suitable person<lb/>to compleat the mill, who will be in
                     readi<lb/>ness to engage in the work against the time<lb/>the committee is
-                    expected to get out<lb/>Then adjourned <pb n="242" facs="BYM_Page_242"/></p>
+                    expected to get out<lb/>Then adjourned <pb n="242" facs="SW_BYM_minutes_241"/></p>
             </div>
             <div type="minutes">
                 <opener>At a Meeting of the Committee on<lb/>Indian concerns <dateline><date
@@ -7579,7 +7581,7 @@
                     consideration it was<lb/>unitedly concluded that a deputation from<lb/>those of
                     our committee who reside west of the<lb/>mountains be appointed to take an
                     opportunity<lb/>with the Presiding Judge of the District in which <pb n="243"
-                        facs="BYM_Page_243"/><lb/>these Indians live and lay before him the abuses <lb/>which are found to
+                        facs="SW_BYM_minutes_242"/><lb/>these Indians live and lay before him the abuses <lb/>which are found to
                     exist, in order to interest him<lb/>to cause the law which has been
                     obtained<lb/>from the legislature of <placeName key="ohio">Ohio</placeName>
                     prohibiting the<lb/>sale of Spiritous Liquors to Indians to be
@@ -7601,7 +7603,7 @@
                 <p>A report was also recd. from the<lb/>friends appointed to render
                     assistance<lb/>to the settlement of <orgName key="delaware">Delawares</orgName>
                         near<lb/><placeName key="mojl">Mohicken Johns Lake</placeName>
-                    <pb n="244" facs="BYM_Page_244"/></p>
+                    <pb n="244" facs="SW_BYM_minutes_243"/></p>
                 <p>The following report to the Yearly<lb/>Meeting was agreed on</p>
                 <floatingText type="report">
                     <body>
@@ -7677,7 +7679,7 @@
                 <p>It being expected that the Grist &amp; Saw<lb/>Mills which were undertaken to be
                     put up<lb/>for the use of the settlement of Indians<lb/>at <placeName
                         key="wapak">Waupaukanetta</placeName> will be compleated<lb/>with in the
-                    course of the present season <pb n="245" facs="BYM_Page_245"/><lb/>the sub committee were diricted
+                    course of the present season <pb n="245" facs="SW_BYM_minutes_244"/><lb/>the sub committee were diricted
                     to to write<lb/>to <persName key="jwrig1">Jonathan Wright</persName> and request
                     him<lb/>to engage on behalf of this committee<lb/>a suitable person to take the
                     management<lb/>of them until the Indians shall have<lb/>become sufficiently
@@ -7700,7 +7702,7 @@
                         >Shawanese</orgName> nation, at the <placeName key="mingot">Mingo
                         Town</placeName></p>
                 <p><lb/><persName key="clewi2">Captain Lewis</persName> stated that he had several
-                    times <pb n="246" facs="BYM_Page_246"/><lb/>before visited his Friends &amp; Brothers the Quakers
+                    times <pb n="246" facs="SW_BYM_minutes_245"/><lb/>before visited his Friends &amp; Brothers the Quakers
                     &amp;<lb/>held talks with them, and has found upon experience<lb/>that what they
                     have heretofore told him, respecting the<lb/>benefits he would receive from
                     cultivating the ground<lb/>is true. He remarked that he felt a strong
@@ -7723,7 +7725,7 @@
                     at <placeName key="wapak">Waupaukanetta</placeName>, He also stated<lb/>that his
                     people some time since unanimously <lb/>determined to listen to the advice they
                     had received<lb/>to abstain from spirituous liquors and that none
-                    had<lb/>latterly been introduced amongst them. <pb n="247" facs="BYM_Page_247"/></p>
+                    had<lb/>latterly been introduced amongst them. <pb n="247" facs="SW_BYM_minutes_246"/></p>
                 <p>The committee after taking into consideration<lb/>the communication from
                         <persName key="clewi2">Captain Lewis</persName> con<lb/>cluded to return him
                     the following answer<lb/>To <persName key="clewi2">Captain Lewis</persName></p>
@@ -7750,7 +7752,7 @@
                             the <placeName key="mingot">Mingo Town</placeName> having
                             totally<lb/>abandoned the use of spirituous liquors has been<lb/>very
                             pleasing to us, and it is this information that<lb/>has determined us to
-                            extend the assistance we now<lb/>give them<lb/>cont. <pb n="248" facs="BYM_Page_248"/></p>
+                            extend the assistance we now<lb/>give them<lb/>cont. <pb n="248" facs="SW_BYM_minutes_247"/></p>
                         <p>Brothers<lb/>We hope you will not suffer any more<lb/>of this poison to
                             be brought to your town you have<lb/>seen the effect of it &amp; must
                             know its consequences;<lb/>Spirituous Liquors not only corrupt the minds
@@ -7774,7 +7776,7 @@
                         <placeName key="dayt">Dayton</placeName> the implements of husbandry<lb/>now
                     promised to <persName key="clewi2">Capt Lewis</persName>, and draw on<lb/>our
                     Treasurer for the amount of Expence<lb/>incured<lb/>Then adjourned <pb n="249"
-                        facs="BYM_Page_249"/></p>
+                        facs="SW_BYM_minutes_248"/></p>
             </div>
             <div type="minutes">
                 <opener>At a meeting of the committee on Indian concerns<lb/><dateline><date
@@ -7809,7 +7811,7 @@
                                 >Baltimore</placeName> informing of the<lb/>situation in which we
                             are placed, and if Friends<lb/>of the <orgName key="bymindian">Indian committee in Baltimore</orgName> saw
                             no<lb/>material objection, it would be acceptable to receive <pb n="250"
-                                facs="BYM_Page_250"/><lb/>a sketch of such facts and occurences as they<lb/>might judge
+                                facs="SW_BYM_minutes_249"/><lb/>a sketch of such facts and occurences as they<lb/>might judge
                             proper for communication- we do<lb/>not mean any copies of minutes nor
                             the least allusion<lb/>to any expenditure of money sent from <placeName
                                 key="engl">England</placeName> but<lb/>merely a brief narrative of
@@ -7842,7 +7844,7 @@
                             them<lb/>until the Year <date when="1804">1804</date>, at which time a
                             deputation from<lb/>the committee, after a full conference with the
                             Chiefs<lb/>of the <orgName key="miami">Miamy</orgName> confederacy, at
-                            their request, commenced <pb n="251" facs="BYM_Page_251"/>
+                            their request, commenced <pb n="251" facs="SW_BYM_minutes_250"/>
                             <lb/>an establishment on the <geogName key="wabas">Wabash</geogName>
                             river, where a number<lb/>of Indian families from the neighbouring
                             villages removed,<lb/>for the purpose of being instructed in agriculture
@@ -7876,7 +7878,7 @@
                             at the <geogName key="wabas">Wabash</geogName>, to turn their
                             attention<lb/>towards them, a grist and saw mill have accordingly
                             <lb/>been erected in their country and implements of husbandry <pb
-                                n="252" facs="BYM_Page_252"/><lb/>furnished to them; and as this nation appear
+                                n="252" facs="SW_BYM_minutes_251"/><lb/>furnished to them; and as this nation appear
                             earnestly<lb/>disposed to avail themselves of the assistance which is
                             given<lb/>them, and manifest a disposition to become industrious<lb/>the
                             committee indulge an expectation, that their efforts<lb/>here will
@@ -7910,7 +7912,7 @@
                             impatient of labour &amp;<lb/>in some measure averse to the pursuits of
                             a steady industrious<lb/>life Those more immediately under the care of
                             the Yearly<lb/>Meeting of <placeName key="maryl">Maryland</placeName>
-                            have also less inducements to abandon <pb n="253" facs="BYM_Page_253"/><lb/>their ancient
+                            have also less inducements to abandon <pb n="253" facs="SW_BYM_minutes_252"/><lb/>their ancient
                             mode of living than some others<lb/>Possessing a vast extent of country
                             which abounds in<lb/>wild animals upon which they have been
                             accustomed<lb/>to feed, they are under less necessity of resorting
@@ -7940,7 +7942,7 @@
                     charge of the Mills when<lb/>completed and instruct the Indians in
                     the<lb/>management of them, and give them such advice<lb/>&amp; assistance in
                     their agriculture as may appear<lb/>necessary<lb/>Then adjourned</p>
-                <pb n="254" facs="BYM_Page_254"/>
+                <pb n="254" facs="SW_BYM_minutes_253"/>
             </div>
             <div type="minutes">
                 <opener>At a Meeting of the Committee <dateline><date when="1812-10-15">10 mo 15th
@@ -7976,7 +7978,7 @@
                                     >Henry Mills</persName><lb/>J. Ellicott</signed></closer>
                     </body>
                 </floatingText>
-                <pb n="255" facs="BYM_Page_255"/>
+                <pb n="255" facs="SW_BYM_minutes_254"/>
                 <p>The Committee appointed to prepare a report to<lb/>the Yearly Meeting produced
                     the following which<lb/>was approved and the Clerk directed to sign it<lb/>on
                     behalf of the Committee, to wit</p>
@@ -8005,7 +8007,7 @@
                             white settlements and the Indians becoming<lb/>almost intirely cut off,
                             our operations necessarily<lb/>have been altogether suspended and the
                             committee<lb/>have lately been informed that nearly the whole of the <pb
-                                n="256" facs="BYM_Page_256"/><lb/>Indians at that place have abandoned their
+                                n="256" facs="SW_BYM_minutes_255"/><lb/>Indians at that place have abandoned their
                             settlement<lb/>and been removed for safety amongst the white
                             people<lb/>as it was believed their lives would be endangered
                             by<lb/>remaining at their village</p>
@@ -8034,7 +8036,7 @@
                             the<lb/>villages being remote from the residence of these
                             friends<lb/>rendered it inconvenient to them personally to yield
                             the<lb/>necessary care, they therefore engaged a suitable person<lb/>in
-                            the neighbourhood of the Villages to make the in <pb n="257" facs="BYM_Page_257"/><lb/>
+                            the neighbourhood of the Villages to make the in <pb n="257" facs="SW_BYM_minutes_256"/><lb/>
                             frequent visits, and advise and instruct them where<lb/>it might appear
                             necessary. He was also authorized to<lb/>furnish what for the purpose of
                             sowing to such of<lb/>them as he might find disposed to cultivate it,
@@ -8060,7 +8062,7 @@
                             time may return, when they will<lb/>be able to renew their efforts and
                             perhaps more efficiently<lb/>than heretofore</p>
                         <p>We have examined the Treasurer acct. and<lb/>find a balance in his Hands
-                            of $ 1972 53/100 exclusive of <pb n="258" facs="BYM_Page_258"/><lb/> $196 68/100 place in
+                            of $ 1972 53/100 exclusive of <pb n="258" facs="SW_BYM_minutes_257"/><lb/> $196 68/100 place in
                             the hands of the members of the<lb/>committee west of the mountains and
                             the principal<lb/>of the donation from our brethren in <placeName
                                 key="gbrit">Great<lb/>Britain</placeName></p>
@@ -8097,7 +8099,7 @@
                             have been heretofore under our care had<lb/>returned to their Villages,
                             and had raised a good crop of<lb/>corn from which they had sold about
                             3000 Bushels and that<lb/>they have a prospect of a large crop the
-                            present season <pb n="259" facs="BYM_Page_259"/><lb/>and he expresses it as his opinion,
+                            present season <pb n="259" facs="SW_BYM_minutes_258"/><lb/>and he expresses it as his opinion,
                             that when Peace is<lb/>restored in that country these People will be
                             more than<lb/>Ever disposed to pursue the farming business, he
                             also<lb/>states that these Indians have manifested on all<lb/>occasions
@@ -8137,7 +8139,7 @@
                 </opener>
                 <p>Present 9 Members</p>
                 <p><persName key="sdins1">Silas Dinsmoore</persName> the agent of the <orgName
-                    key="choctaw">Choctaw</orgName> nation <pb n="260" facs="BYM_Page_260"/><lb/>of Indians having
+                    key="choctaw">Choctaw</orgName> nation <pb n="260" facs="SW_BYM_minutes_259"/><lb/>of Indians having
                     left 2 Indian Boys under our care<lb/>until his return from a Visit to the
                     Secretary of War<lb/>and <persName key="etyso1">Elisha Tyson</persName> having
                     stated to the Committee<lb/>that these boys were now greatly in want of
@@ -8167,7 +8169,7 @@
                             committee feel engaged to stand ready<lb/>to embrace the earliest
                             opportunity which may occur<lb/>to carry into effect the benevolent
                             views of friends<lb/>towards them</p>
-                        <p>We have examined the Treasurers a/c and <pb n="261" facs="BYM_Page_261"/><lb/>find a balance
+                        <p>We have examined the Treasurers a/c and <pb n="261" facs="SW_BYM_minutes_260"/><lb/>find a balance
                             in his hands of $ exclusive of<lb/>the principal of the Donation from
                             our brethren in<lb/><placeName key="gbrit">Great Britain</placeName>
                             &amp; $236 18/4/100 which had been placed<lb/>in the hands of the
@@ -8200,7 +8202,7 @@
                 <p>present 11 Members</p>
                 <p>The secretary laid before the committee a copy<lb/>of the letter which he had as
                     directed at our last<lb/>meeting forwarded to <persName key="jjohn2">John
-                        Johnson</persName> and also a letter <pb n="262" facs="BYM_Page_262"/><lb/>which had been
+                        Johnson</persName> and also a letter <pb n="262" facs="SW_BYM_minutes_261"/><lb/>which had been
                     received in reply enclosing a commu<lb/>nication signed by 8 Indians of the
                         <placeName key="wapak">Waupaukannetta</placeName><lb/>Village, stating the
                     distressed condition to which they<lb/>had been reduced by the late war and
@@ -8223,7 +8225,7 @@
                     until the 4th hour on second <lb/>day afternoon when the committee again
                     met<lb/>present 14 members</p>
                 <p>The committee appointed at last<lb/>Meeting produced a communication directed <pb
-                    n="263" facs="BYM_Page_263"/><lb/>to the secretary of War which was read
+                    n="263" facs="SW_BYM_minutes_262"/><lb/>to the secretary of War which was read
                     approved<lb/>&amp;directed to be signed, and the friends therein<lb/>named
                     directed to proceed in the service as soon<lb/>as way open<lb/>Then
                     adjourned</p>
