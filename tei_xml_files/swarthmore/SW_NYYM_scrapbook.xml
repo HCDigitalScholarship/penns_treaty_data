@@ -123,8 +123,14 @@
     </teiHeader>
     <text>
         <front>
+            <div type="undetermined">
+                <pb facs="SW_NYYM_scrapbook_001"/>
+                <pb facs="SW_NYYM_scrapbook_002"/>
+                <pb facs="SW_NYYM_scrapbook_003"/>
+            </div>
+
             <div type="preface">
-                <pb n="1" facs="NYYM_scrapbook_003"/>
+                <pb n="1" facs="SW_NYYM_scrapbook_004"/>
                 <head>Indian Documents; <lb/>consisting of <lb/>Reports of Committees, and Letters
                     relating <lb/>the civilization of the American Indians,<lb/><date when="1807"
                         >1807</date> to <date when="1848">1848</date></head>
@@ -142,7 +148,7 @@
         <body>
 
             <div type="letter">
-                <pb n="3" facs="NYYM_scrapbook_004"/>
+                <pb n="3" facs="SW_NYYM_scrapbook_005"/>
                 <head>Donation of 4000 dolls. from England for benefit <lb/>of the Indians.</head>
                 <opener>
                     <dateline>
@@ -172,7 +178,7 @@
             </div>
 
             <div type="minutes">
-                <pb n="5" facs="NYYM_scrapbook_005"/>
+                <pb n="5" facs="SW_NYYM_scrapbook_006"/>
                 <head>Proposition In teaching the <orgName key="oneida">Oneida</orgName>
                     Children.</head>
                 <p>The Committee, under whose care the <orgName key="nym">Yearly Meeting</orgName>
@@ -202,7 +208,7 @@
             </div>
 
             <div type="letter">
-                <pb n="7" facs="NYYM_scrapbook_006"/>
+                <pb n="7" facs="SW_NYYM_scrapbook_007"/>
                 <head>Letter from <orgName key="stockbridge">Stockbridge</orgName> Women--
                     <lb/>asking to be taught to spin, &amp;c.</head>
                 <opener>Copy of a Letter from several Indian Women <lb/><dateline><placeName
@@ -242,7 +248,7 @@
             </div>
 
             <div type="letter">
-                <pb n="8" facs="NYYM_scrapbook_007"/>
+                <pb n="8" facs="SW_NYYM_scrapbook_008"/>
                 <head>Copy of Letter on page 9. </head>
                 <head>Copy of <lb/>a Letter from the <orgName key="onondaga">Onondaga</orgName>
                     Indians, to the <orgName key="nym">Yearly <lb/>Meeting of Friends in New
@@ -263,7 +269,7 @@
                     we now see we must work, we <lb/>are willing to work: we begin to raise Wheat,
                     and will <lb/>do more if we can get help.</p>
                 <p>Brothers <lb/>A part of our Tribe lives at <placeName key="buffa"
-                    >Buffalo</placeName>; they are of <lb/><pb n="8b" facs="NYYM_scrapbook_008"/>the same mind with us; We all agree:
+                    >Buffalo</placeName>; they are of <lb/><pb n="8b" facs="SW_NYYM_scrapbook_009"/>the same mind with us; We all agree:
                     We wish you, if you <lb/>will, to help us to oxen and farming tools and that you
                     <lb/>would send them as soon as you can, as we are much in <lb/>want. You will
                     find us of the mind as you did when <lb/>you were here. We hope to hear from you
@@ -279,7 +285,7 @@
             </div>
 
             <div type="letter">
-                <pb n="9" facs="NYYM_scrapbook_009"/>
+                <pb n="9" facs="SW_NYYM_scrapbook_010"/>
                 <head>Epistle from the <orgName key="onondaga">Onondagas</orgName>. <date
                         when="1811-04">4 mo 1811</date></head>
                 <opener><salute>to the Friends or Quakers at <placeName key="nycit">New
@@ -306,7 +312,7 @@
                     <lb/>you Can as we air much in want you will <lb/>find us of the mind as you did
                     when you was <lb/>hear we hope to hear from you soon.</p>
 
-                <lb/><pb n="9b" facs="NYYM_scrapbook_010"/>
+                <lb/><pb n="9b" facs="SW_NYYM_scrapbook_011"/>
                 <closer> Brothers we respect you and wish you all well remember <lb/>us at your
                     grate Counsell we Look to you as our <lb/>frinds. Signed by four of our Cheafs <signed><list>
                             <item><persName key="youno1">You non e talack</persName>
@@ -336,7 +342,7 @@
             </div>
 
             <div type="letter">
-                <pb n="11a" facs="NYYM_scrapbook_011"/>
+                <pb n="11a" facs="SW_NYYM_scrapbook_012"/>
                 <head>Letter <lb/>from <lb/><orgName key="onondaga">Onandaga</orgName>
                     <lb/>Chiefs <lb/>to <lb/>Friends <lb/> of <lb/><orgName key="nym">New
                         York</orgName>
@@ -365,7 +371,7 @@
                     same mind, as <del/> when you ware <lb/>here, we hope to hear from you soon</p>
                 <p>Brothers We respect you and wish you <lb/>all well remember us at your great
                     Council <lb/>we look to you as our friends. </p>
-                <closer>Signed by four <lb/>of our Chiefs.<lb/><signed><list><pb n="11b" facs="NYYM_scrapbook_012"/>
+                <closer>Signed by four <lb/>of our Chiefs.<lb/><signed><list><pb n="11b" facs="SW_NYYM_scrapbook_013"/>
                             <item><persName key="youno1">You non e talach</persName></item>
                             <item><persName key="ieong1">Ieong</persName></item>
                             <item><persName key="tutio1">Tulios</persName></item>
@@ -415,10 +421,10 @@
             </div>
 
             <div type="accounts">
-                <pb n="13" facs="NYYM_scrapbook_013"/>
+                <pb n="13" facs="SW_NYYM_scrapbook_014"/>
                 <head>Treasurer's Account <lb/><date when="1811-05-20">5 mo 20. 1811</date></head>
 
-                <lb/><pb n="14" facs="NYYM_scrapbook_014"/>
+                <lb/><pb n="14" facs="SW_NYYM_scrapbook_015"/>
                 <opener>Indian Committee <gap/> with <persName key="jbarr1">John Barrow</persName>
                     Treas.</opener>
                 <table>
@@ -620,7 +626,7 @@
             </div>
 
             <div type="report">
-                <pb n="15" facs="NYYM_scrapbook_015"/>
+                <pb n="15" facs="SW_NYYM_scrapbook_016"/>
                 <head> Report <lb/>of <lb/>Committee <lb/>to visit <lb/><orgName key="onondaga"
                         >Onondagas</orgName>
                     <lb/><date when="1811">1811</date>
@@ -657,7 +663,7 @@
                     of Worship near all the Na- <lb/>tion present they again thanked the Great
                     Spirit for preserving <lb/>us another night and gibing us another oppertunity,
                     we then <lb/>told them that we whare very glad to find them thus mindfull
-                    <lb/>of the Great Spirit and that we desired to join with them in the <lb/><pb n="16" facs="NYYM_scrapbook_016"/>same,
+                    <lb/>of the Great Spirit and that we desired to join with them in the <lb/><pb n="16" facs="SW_NYYM_scrapbook_017"/>same,
                     and that we hoped that they would continue in their good <lb/>resolution and as
                     the Great Spirit sees and knows all that we did <lb/>that we hoped they would be
                     carefull not to do any thing which <lb/>they thought would be wrong in his
@@ -709,7 +715,7 @@
             </div>
 
             <div type="letter">
-                <pb n="17" facs="NYYM_scrapbook_017"/>
+                <pb n="17" facs="SW_NYYM_scrapbook_018"/>
                 <head><orgName key="onondaga">Onondagas</orgName></head>
                 <opener>
                     <salute>Dear Friend <lb/><persName key="spars1">Sam. A.
@@ -740,7 +746,7 @@
                     practice of benevolence, acording to ability, <lb/>it is a common practice among
                     them to to Care for the Sick &amp; <lb/>lame Old men and widdows--as to plant a
                     piece of corn for <lb/>them; all the young men turn out hoe and harvest it
-                    <lb/><pb n="17b" facs="NYYM_scrapbook_018"/>then day they all can have Bread of there own, they have <lb/>a piece of
+                    <lb/><pb n="17b" facs="SW_NYYM_scrapbook_019"/>then day they all can have Bread of there own, they have <lb/>a piece of
                     land now prepared to sow to wheat for the same <lb/>Benovelent use it apears
                     they will have a comfortable suply <lb/>of Corn for their Bread, they are most
                     Defishant for forage <lb/>for their Cattle</p>
@@ -771,7 +777,7 @@
 
             </div>
 
-            <div type="report"><pb n="17c" facs="NYYM_scrapbook_019"/>
+            <div type="report"><pb n="17c" facs="SW_NYYM_scrapbook_020"/>
                 <p>Agreeable to the request of some <del/> of the committee <lb/>I shall endeavour
                     to state the present condition of the <orgName key="onondaga">onondaga
                         <lb/>tribe</orgName> they have 7000-two hundred acres of land <gap/> of
@@ -826,7 +832,7 @@
             </div>
 
             <div type="report">
-                <pb n="19" facs="NYYM_scrapbook_020"/>
+                <pb n="19" facs="SW_NYYM_scrapbook_021"/>
                 <head>Report of <lb/>Indian Committee</head>
                 <opener><salute>To the <orgName key="nym">Yearly Meeting</orgName>
                         <lb/>The Committee on the Concern relative to the Indian <lb/>Natives
@@ -855,7 +861,7 @@
                     <lb/>are very desirous to do; and it appearing by a late Act of <lb/>the
                     Legislature that the disposal of their Annuity is confided <lb/>to the Agents
                     appointed by Government to receive &amp; pay the same <lb/>it is hoped that this
-                    change in the appropriation of their funds <lb/><pb n="19b" facs="NYYM_scrapbook_021"/>will enable each one to obtain
+                    change in the appropriation of their funds <lb/><pb n="19b" facs="SW_NYYM_scrapbook_022"/>will enable each one to obtain
                     his equitable proportion, <lb/>and thereby encourage a system of industry, which
                     may not <lb/>only furnish decent apparrel, but attract their attention <lb/>so
                     as in some measure to draw them off from those wandering <lb/>habits which lead
@@ -890,7 +896,7 @@
             </div>
 
             <div type="letter">
-        
+
                 <head>Memorandum for <persName key="cwill1">Charles Willets</persName></head>
                 <p>Upon making a further inquiry we found that the tract of Land <lb/>Friends had in
                     view at <placeName key="onond">Onondago</placeName> contained 180 Acres and the
@@ -908,7 +914,7 @@
             </div>
 
             <div type="letter">
-                <pb n="20" facs="NYYM_scrapbook_022"/>
+                <pb n="20" facs="SW_NYYM_scrapbook_023"/>
                 <head>Letter from the <lb/><q><orgName key="normis">Northern Missionary
                             Society</orgName></q> to the Indian Committee</head>
                 <opener><salute>To the General Meeting of Friends in the City of <placeName
@@ -959,7 +965,7 @@
 
             <div type="report">
 
-                <pb n="21" facs="NYYM_scrapbook_023"/>
+                <pb n="21" facs="SW_NYYM_scrapbook_024"/>
                 <head><persName key="wjenk1">Wm. Jenkins</persName>' <lb/>(the Missionary)
                     <lb/>charge against <lb/>Friends</head>
                 <p>The Board of Directors of the <orgName key="normis">Northern Missionary
@@ -1002,7 +1008,7 @@
                             her see that I still remembered it, and <lb/>therefore immediately
                             walked with a number of Indians into the <lb/>house where we were to
                             hold meeting. The Indians immediate- <lb/>ly of their own accord began
-                            to sing a Psalm, and I believe with <lb/><pb n="21a" facs="NYYM_scrapbook_024"/>the intention of putting a stop
+                            to sing a Psalm, and I believe with <lb/><pb n="21a" facs="SW_NYYM_scrapbook_025"/>the intention of putting a stop
                             to further conversation with the <lb/>Quaker, who had likewise followed
                             us into the meeting. A large <lb/>number of Indians were collected.
                             After the prayer I read Rom. 16 and 26 <lb/>verse. I had spoken to them
@@ -1052,7 +1058,7 @@
             </div>
 
             <div type="letter">
-                <pb n="23a" facs="NYYM_scrapbook_025"/>
+                <pb n="23a" facs="SW_NYYM_scrapbook_026"/>
                 <head>Draft <lb/>of <lb/>Letter <lb/>to <lb/><orgName key="normis">Missionary
                         <lb/>Society <lb/>1812</orgName></head>
                 <opener><salute>Respected Friends,</salute></opener>
@@ -1078,7 +1084,7 @@
                     <del/><lb/>information <gap/> of them untill we received your <lb/>letter. Had
                     these charges been brought forward at <lb/>an earlier period, it would doubtless
                     have been much <lb/>easier to ascertain how far they are correct, for when
-                    <lb/><pb n="23b" facs="NYYM_scrapbook_026"/>we reflect that nearly three years have elapsed since <lb/>the occurance;
+                    <lb/><pb n="23b" facs="SW_NYYM_scrapbook_027"/>we reflect that nearly three years have elapsed since <lb/>the occurance;
                     &amp; that to prove facts recoursd must <lb/>be had to imperfect interpreters,
                     the difficulties atten- <lb/>ding <del/>an investigation at this time are
                     obvious.</p>
@@ -1120,7 +1126,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="24" facs="NYYM_scrapbook_027"/>
+                <pb n="24" facs="SW_NYYM_scrapbook_028"/>
                 <head>Account of Oxen and farming Utensils furnished <lb/>to the <orgName
                         key="onondaga">Onondago</orgName> Tribe</head>
                 <table>
@@ -1162,7 +1168,7 @@
             </div>
 
             <div type="letter">
-                <pb n="25" facs="NYYM_scrapbook_028"/>
+                <pb n="25" facs="SW_NYYM_scrapbook_029"/>
                 <opener><salute>Dear Friend <lb/><persName key="spars1">Samuel
                         Parsons</persName></salute></opener>
                 <p>We attended to the Concern of Friends <lb/>Respecting the gore of Land lately
@@ -1197,7 +1203,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="26" facs="NYYM_scrapbook_029"/>
+                <pb n="26" facs="SW_NYYM_scrapbook_030"/>
                 <head>Committee on Indian affairs, with <persName key="ahatf1">Absalom
                         Hatfield</persName>.</head>
                 <table>
@@ -1332,7 +1338,7 @@
             </div>
 
             <div type="letter">
-                <pb n="27a" facs="NYYM_scrapbook_030"/>
+                <pb n="27a" facs="SW_NYYM_scrapbook_031"/>
                 <opener><salute>Dear Friend <lb/><persName key="spars1">Sam.
                         Parsons</persName></salute></opener>
                 <p>we have visited the Natives at <placeName key="stock">Stockbridge</placeName> and
@@ -1361,7 +1367,7 @@
                     therefore I desire Friends may <lb/>not depend much upon me, great care is
                     Meidfull (it seems to me) Least <lb/>things are crouded upon them faster then
                     they can bare, and by doing <lb/>much for them they depend on it, and so not
-                    help themselves <lb/><pb n="27b" facs="NYYM_scrapbook_031"/>another thing which I have Considered a little has prodused
+                    help themselves <lb/><pb n="27b" facs="SW_NYYM_scrapbook_032"/>another thing which I have Considered a little has prodused
                     <lb/>some concern on my mind Respecting a Famely's living among <lb/>them, many
                     things present to view, which when Duely considered <lb/>will make the
                     undertaking apear a great one, serounded as these People <lb/>are with People of
@@ -1389,7 +1395,7 @@
 
             </div>
 
-            <div type="letter"><pb n="27c" facs="NYYM_scrapbook_032"/>
+            <div type="letter"><pb n="27c" facs="SW_NYYM_scrapbook_033"/>
 
                 <head>A Coppy of a Letter to <persName key="jfros1">Joseph Frost</persName> from the
                     Natives of <lb/><placeName key="newst">Newstockbridge</placeName></head>
@@ -1425,7 +1431,7 @@
                     us.</p>
                 <closer>We would wish to be remembered to the Mem- <lb/>bers composing the Committee
                     and our sincere <lb/>and hearty thanks for their continued <del>thanks
-                    </del><lb/><pb n="27d" facs="NYYM_scrapbook_033"/>remembrance of us and shall ever remain <lb/>thine and theirs
+                    </del><lb/><pb n="27d" facs="SW_NYYM_scrapbook_034"/>remembrance of us and shall ever remain <lb/>thine and theirs
                     respectfully. <signed><list>
                             <item><persName key="jshau1">Joseph Shauguthqueat</persName></item>
                             <item><persName key="bcalv1">Barth. Calvin</persName>, Town Clark</item>
@@ -1486,7 +1492,7 @@
             </div>
 
             <div type="report">
-                <pb n="28" facs="NYYM_scrapbook_034"/>
+                <pb n="28" facs="SW_NYYM_scrapbook_035"/>
                 <head>Statement of the <orgName key="oneida">Oneida Tribe</orgName> including both
                     <lb/>parties. The south settlements being under the care of friends <lb/>the
                     north part under the care of the missionary society.</head>
@@ -1649,7 +1655,7 @@
             </div>
 
             <div type="report">
-                <pb n="29" facs="NYYM_scrapbook_035"/>
+                <pb n="29" facs="SW_NYYM_scrapbook_036"/>
                 <head>A Statement of <orgName key="stockbridge">Newstockbridge Tribe</orgName></head>
                 <p>No. of Persons including 39 <gap/>--475 <lb/>they Possess six Mills Square of
                     Land except <lb/>eighteen hundred acres Leased out <lb/>they have improved about
@@ -1690,7 +1696,7 @@
             </div>
 
             <div type="letter">
-                <pb n="30" facs="NYYM_scrapbook_036"/>
+                <pb n="30" facs="SW_NYYM_scrapbook_037"/>
                 <opener><dateline>
                         <placeName key="broth">Brothertown</placeName>
                         <date when="1813-01-27">27th of 1st Mo. 1813</date>
@@ -1777,7 +1783,7 @@
                     might all be ingaged for that Sperit which will unite <lb/>us together as in one
                     Sperit and one mind this would be a good <lb/>prepariation for teaching
                     others.</p>
-                <p>Respecting the Land which <lb/><pb n="30c" facs="NYYM_scrapbook_037"/>Friends have talked of assisting the <orgName
+                <p>Respecting the Land which <lb/><pb n="30c" facs="SW_NYYM_scrapbook_038"/>Friends have talked of assisting the <orgName
                         key="oneida">Oneidas</orgName> to exchange <lb/>for lands laying further
                     back from their settlement those <lb/>people are often inquiring of us about it
                     wishing to <lb/>know if Friends <del/> have or can arange it any <lb/>way for
@@ -1797,7 +1803,7 @@
             </div>
 
             <div type="letter">
-                <pb n="31a" facs="NYYM_scrapbook_038"/>
+                <pb n="31a" facs="SW_NYYM_scrapbook_039"/>
                 <opener>
                     <salute>Respected Friend <lb/><persName key="jmurr1">John Murry
                         Jun.</persName></salute></opener>
@@ -1838,7 +1844,7 @@
                     have died within a year <lb/>(as they informed us) above 30 in the South or
                     Pagan <gap/></p>
 
-                <p><pb n="31b" facs="NYYM_scrapbook_039"/>I have sent an acount of all the articles and expences as delivered <lb/>to each
+                <p><pb n="31b" facs="SW_NYYM_scrapbook_040"/>I have sent an acount of all the articles and expences as delivered <lb/>to each
                     Tribe, <persName key="jmott1">James Mott</persName> will present it when our
                     mind <lb/>are turn'd towards the poor Natives we feel the want of Counsel
                     <lb/>and help, a viset on this acount and the benefit of the Indians <lb/>would
@@ -1923,7 +1929,7 @@
 
             </div>
 
-            <div type="accounts"><pb n="31d" facs="NYYM_scrapbook_040"/>
+            <div type="accounts"><pb n="31d" facs="SW_NYYM_scrapbook_041"/>
 
                 <head>Account of the money Paid in 1812</head>
 
@@ -2196,7 +2202,7 @@
             </div>
 
             <div type="report">
-                <pb n="33a" facs="NYYM_scrapbook_041"/>
+                <pb n="33a" facs="SW_NYYM_scrapbook_042"/>
                 <dateline><date when="1815-04-08"/></dateline>
                 <head><persName key="tdean1">Thomas Dean</persName> Statement relating to <orgName
                         key="brothertown">Brothertown Indians</orgName></head>
@@ -2227,7 +2233,7 @@
                     always disatis <lb/>-fyed with the Indians and their government--and in <lb/>the
                     winter of <date when="1810">1810</date>-<date when="1811">11</date> he &amp;
                         <persName key="tisaa1">Thomas Isaac</persName> petitioned the
-                    <lb/><pb n="33b" facs="NYYM_scrapbook_042"/>legislature to be naturalized or made subject to the Laws <lb/>of the state
+                    <lb/><pb n="33b" facs="SW_NYYM_scrapbook_043"/>legislature to be naturalized or made subject to the Laws <lb/>of the state
                     as other citizen are subject to and there was <lb/>an act passed accordingly
                     absolving them from all <lb/>Laws and regulations enjoined on the <orgName
                         key="brothertown">Brothertown Indions</orgName>
@@ -2275,7 +2281,7 @@
                     <lb/>taken it or paid any money. Though I did not take <lb/>it with a view of
                     speculation I considered that it <lb/>is as much money as it is worth in the
                     state of <lb/>repair it was in when I took it. I could have sold <lb/>my right
-                    in it for the money I was to give for it <lb/><pb n="33d" facs="NYYM_scrapbook_043"/>but I did not buy it to sell to
+                    in it for the money I was to give for it <lb/><pb n="33d" facs="SW_NYYM_scrapbook_044"/>but I did not buy it to sell to
                     any one with out it was to the <lb/>Indions or the superintendants under the 23
                     section of the <lb/>Act entitled an act relative to the different tribes &amp;
                     <lb/>Nations of Indions within this state passed <date when="1813-04-10">10th
@@ -2325,7 +2331,7 @@
                     years past and <lb/>thay Beleave that you had <lb/>asisted them and Enabled them
                     <lb/>to keep from it and would Continue <lb/>so to Due as long as thay tride to
                     <lb/>keep from it. </p>
-                <p><pb n="33f" facs="NYYM_scrapbook_044"/>thay also stated that thay had made <lb/>sum progrees in Cultivating <lb/>thair
+                <p><pb n="33f" facs="SW_NYYM_scrapbook_045"/>thay also stated that thay had made <lb/>sum progrees in Cultivating <lb/>thair
                     lands thay acnoleged the <lb/>assistance of friends as to helping <lb/>them to
                     oxen and farming uatesels <lb/>thay acnolegd that thay had don <lb/>Rong in not
                     keeping the oxen <lb/>Better that thay wair now Better <lb/>provided with hay
@@ -2398,7 +2404,7 @@
                     given us <lb/>great satisfaction with regard to her faithfulness in said
                     business.</p>
 
-                <p><pb n="33h" facs="NYYM_scrapbook_045"/>Several of our youth have also been sent to different semenaries for instruction,
+                <p><pb n="33h" facs="SW_NYYM_scrapbook_046"/>Several of our youth have also been sent to different semenaries for instruction,
                     but <lb/>none have made so great proficiencies in the inglish language, as those
                     two, who <lb/>have been brought up under your tuition, namely <persName
                         key="jquin2">Jn. Quinney</persName> &amp; <persName key="shend1">Solomon
@@ -2472,7 +2478,7 @@
                     their great prjudice; <lb/>I fear will not be removed soon, withour considerable
                     exertion, they <lb/>use so much art and contrivance to get the chiefs in favour
                     of their <lb/>continuing. For altho they have been proceded against as the law
-                    directs, yet <lb/><pb n="33j" facs="NYYM_scrapbook_046"/>by their influence with the chiefs, the matter has been so
+                    directs, yet <lb/><pb n="33j" facs="SW_NYYM_scrapbook_047"/>by their influence with the chiefs, the matter has been so
                     represented <lb/>to the governor that he and the attorney general have directed
                     that <lb/>further proceedings against them be <del/>stoped for the present.
                     <lb/>and the probability is, that the chiefs will address the Legislature
@@ -2490,7 +2496,7 @@
             </div>
 
             <div type="report">
-                <pb n="34" facs="NYYM_scrapbook_047"/>
+                <pb n="34" facs="SW_NYYM_scrapbook_048"/>
                 <head>Information <lb/>from <lb/>Friends in <lb/><placeName key="canad"/>Canada
                     <lb/>respecting <lb/>Indians <lb/><date when="1816">1816</date></head>
                 <dateline><date when="1816"/></dateline>
@@ -2539,7 +2545,7 @@
             </div>
 
             <div type="letter">
-                <pb n="35" facs="NYYM_scrapbook_048"/>
+                <pb n="35" facs="SW_NYYM_scrapbook_049"/>
                 <opener><dateline>
                         <placeName key="newha">Newhartford</placeName>
                         <date when="1816-03-16">3 mo 16th 1816</date>
@@ -2572,7 +2578,7 @@
                     encourage <lb/>them in building sd. Mill I have thought to stipulate <lb/>a
                     particular sum would be well--and I have thought of two <lb/>hundred dollars.
                     This sum would pay for the Irons &amp; geering <lb/>the Indians could more
-                    conveniantly do the rest <lb/><pb n="35b" facs="NYYM_scrapbook_049"/>I should be glad if conveniant to have a bill
+                    conveniantly do the rest <lb/><pb n="35b" facs="SW_NYYM_scrapbook_050"/>I should be glad if conveniant to have a bill
                     <lb/>of all the Money which <del/> has ben paid to me <lb/>or that I have drew
                     for on acount of Indian affairs <lb/>and inclose it in the answare to this
                     directed to <persName key="jmott1">James <lb/>Mott</persName> or me. I should be
@@ -2618,7 +2624,7 @@
 
             <div type="undetermined">
 
-                <pb n="36" facs="NYYM_scrapbook_050"/>
+                <pb n="36" facs="SW_NYYM_scrapbook_051"/>
                 <head>Queries.</head>
                 <p><list type="numbered">
                         <item>What tribes of Indians are settled in the Province <lb/>of Upper
@@ -2649,7 +2655,7 @@
                         <item>Have missionaries been among them either <lb/>permanently or
                             temporarily. What effects have <lb/>they produced.</item>
                         <lb/>
-                    <pb n="36b" facs="NYYM_scrapbook_051"/>
+                    <pb n="36b" facs="SW_NYYM_scrapbook_052"/>
                         <item>Have any Schools been kept among them.</item>
                         <item>Have they learnt the domestic arts of spinning <lb/>weaving or
                             knitting</item>
@@ -2671,7 +2677,7 @@
             </div>
 
             <div type="letter">
-                <pb n="37" facs="NYYM_scrapbook_052"/>
+                <pb n="37" facs="SW_NYYM_scrapbook_053"/>
                 <opener><dateline>
                         <placeName key="norw">Norwich</placeName>
                         <date when="1816-07-15">7th Mo 15th 1816</date>
@@ -2724,7 +2730,7 @@
                     <lb/>effects or Tendency will be examined with a very scrutinizing Eye <lb/>you
                     will at once see that your propositions, under the most <lb/>disinterested
                     views, and with intentions perfectly landable unless we <lb/>complained with
-                    some evidence of this concern having no recent <lb/><pb n="37b" facs="NYYM_scrapbook_053"/>Date--as also an explicit
+                    some evidence of this concern having no recent <lb/><pb n="37b" facs="SW_NYYM_scrapbook_054"/>Date--as also an explicit
                     avowal of the ultimate view motive <lb/>and exciting cause of this concern, it
                     will be easy for a sus- <lb/>picios apprehension to arrise--that the hand of
                     Joab is in <lb/>this thing, to nutralize as many of the natives as possible here
@@ -2760,7 +2766,7 @@
 
 
             </div>
-            <div type="letter"><pb n="37c" facs="NYYM_scrapbook_054"/>
+            <div type="letter"><pb n="37c" facs="SW_NYYM_scrapbook_055"/>
 
 
                 <opener><dateline>
@@ -2796,7 +2802,7 @@
                     who seem <lb/>disheartened and talk of leaving the country on account of the bad
                     <lb/>effects of the wicked White peoples influence among them. I have <lb/>also
                     confered with some of the Deputy Agents for Indian affairs <lb/>and am of the
-                    mind that a few friends settled amongst them <lb/><pb n="37d" facs="NYYM_scrapbook_055"/>And a judicious Committee to
+                    mind that a few friends settled amongst them <lb/><pb n="37d" facs="SW_NYYM_scrapbook_056"/>And a judicious Committee to
                     cooperate with <lb/>them and occasionally Represent their case to <lb/><orgName
                         key="usag">Government</orgName>--which has the power to order out <lb/>from
                     amongst them--such as should be represented <lb/>as improper persons to reside
@@ -2824,7 +2830,7 @@
             </div>
 
             <div type="letter">
-                <pb n="38" facs="NYYM_scrapbook_056"/>
+                <pb n="38" facs="SW_NYYM_scrapbook_057"/>
                 <head>Speech of <persName key="jsky1">John Sky</persName>
                     <date when="1817-09">9 mo 1817</date></head>
                 <opener><salute>Brothers</salute><dateline><date when="1817"/></dateline></opener>
@@ -2871,7 +2877,7 @@
                 <p>Brothers. perhaps you have heard that <gap/>
                     <lb/>some reports have <gap/>that propositions have <lb/>been made to sell their
                     lands. Some white <lb/>people have possesd them going to white <gap/>
-                    <lb/><pb n="38b" facs="NYYM_scrapbook_057"/>but they have concluded not to leave the lands <lb/>perhaps brethren your
+                    <lb/><pb n="38b" facs="SW_NYYM_scrapbook_058"/>but they have concluded not to leave the lands <lb/>perhaps brethren your
                     <gap/>have been unea <lb/>-sy at this reports, but you may rest satisfied
                     <lb/>we ahve taken a firm resolution not to go. <lb/>If any thing more occurs he
                     will let us know. <lb/>I will learn it to you to your own breasts. <lb/>Indean
@@ -2890,7 +2896,7 @@
             </div>
 
             <div type="letter">
-                <pb n="39" facs="NYYM_scrapbook_058"/>
+                <pb n="39" facs="SW_NYYM_scrapbook_059"/>
                 <opener><dateline><placeName key="phila">Philadelphia</placeName>
                         <date when="1816-11-28">11th Mo 28th 1816</date>
                         <lb/></dateline> (From Indian Committee of Phila.) <salute><persName
@@ -2913,7 +2919,7 @@
                     more Land than any other Family <lb/>of the Nation--for the Indian Law in the
                     distribution <lb/>of national property is that all share alike, and <lb/>they
                     hold in joint Tenancy under the same received <lb/>custom</p>
-                <p>Should the Indians be dispossessed of their present <lb/><pb n="39b" facs="NYYM_scrapbook_059"/>residence and have to
+                <p>Should the Indians be dispossessed of their present <lb/><pb n="39b" facs="SW_NYYM_scrapbook_060"/>residence and have to
                     remove further West, there is scarce a <lb/>doubt they would have for white
                     neighbours a profligate <lb/>people compared with those amongst whom they now
                     <lb/>reside--in short such a step appears likely to effect their <lb/>ruin as a
@@ -2951,7 +2957,7 @@
 
             </div>
 
-            <div type="letter"><pb n="39d" facs="NYYM_scrapbook_060"/>
+            <div type="letter"><pb n="39d" facs="SW_NYYM_scrapbook_061"/>
 
                 <opener><dateline>
                         <placeName key="nycit">New York</placeName>
@@ -2979,7 +2985,7 @@
                     <lb/>composd of the remains of the <orgName key="sxntns">Six nations</orgName>,
                     &amp; likewise an <lb/>establishment of <orgName key="mohawk">Mohawks</orgName>
                     in the vicinity of <placeName key="adolph">Adolphus</placeName>
-                    <lb/>where friends reside. These tribes it is believed would be <lb/><pb n="39f" facs="NYYM_scrapbook_061"/>grateful
+                    <lb/>where friends reside. These tribes it is believed would be <lb/><pb n="39f" facs="SW_NYYM_scrapbook_062"/>grateful
                     for any aid on the part of Friends to Ameliorate their <lb/>condition, and to
                     enable them to depend less upon their antient <lb/>habits of procuring
                     subsistance, which is becoming more and <lb/>more precarious. The accompanying
@@ -3038,7 +3044,7 @@
             </div>
 
             <div type="letter">
-                <pb n="40" facs="NYYM_scrapbook_062"/>
+                <pb n="40" facs="SW_NYYM_scrapbook_063"/>
                 <opener><dateline>
                         <placeName key="ononc">Onondaga castle</placeName>
                         <date when="1817-09-10">Sept 10 1817</date>
@@ -3076,9 +3082,8 @@
                             when="1816-01-01">1st Mo 1st 1816</date></dateline></closer>
 
             </div>
-            <pb n="41a" facs="NYYM_scrapbook_063"/>
+            <pb n="41a" facs="SW_NYYM_scrapbook_064"/>
             <div type="letter">
-                <pb n="41"/>
                 <head>
                     <persName key="aruth1">Acors Rathbone</persName>
                     <date when="1816-05-11">5 mo 11. 1816</date>
@@ -3100,7 +3105,7 @@
                     for there in <lb/>coragement and there are upwards of 20 <del/><lb/>that have
                     sowed and are Preparing to sow <lb/>flax I have Procure the Looms other
                     <lb/>articles as the sub Commitee Directed and <lb/>Shall send my account in the
-                    faul or <lb/><pb n="41b" facs="NYYM_scrapbook_064"/>soner if oppertunity offers should <lb/>have sent it now if I had
+                    faul or <lb/><pb n="41b" facs="SW_NYYM_scrapbook_065"/>soner if oppertunity offers should <lb/>have sent it now if I had
                     not forgot <lb/>to bring it with me when I came from <lb/>home</p>
                 <p>I am of opinion that if some small fame <lb/>ly could go and liv at the
                         <placeName key="oneid">Oneida</placeName> that are <lb/>tidy smart farmers
@@ -3116,7 +3121,7 @@
 
             </div>
 
-            <div type="letter"><pb n="41d" facs="NYYM_scrapbook_065"/>
+            <div type="letter"><pb n="41d" facs="SW_NYYM_scrapbook_066"/>
 
                 <opener>
                     <dateline>
@@ -3151,7 +3156,7 @@
 
             </div>
 
-            <div type="accounts"><pb n="41f" facs="NYYM_scrapbook_066"/>
+            <div type="accounts"><pb n="41f" facs="SW_NYYM_scrapbook_067"/>
 
                 <head>Indian Committee Dz.</head>
                 <p>
@@ -3269,7 +3274,7 @@
             </div>
 
             <div type="letter">
-                <pb n="42" facs="NYYM_scrapbook_067"/>
+                <pb n="42" facs="SW_NYYM_scrapbook_068"/>
                 <head>Address of Indian Chiefs at <placeName key="tonne">Tonawanda</placeName>.
                         <lb/><date when="1817">1817</date></head>
                 <opener><salute>The Chiefs of the People of the village of <placeName key="tonne"
@@ -3306,7 +3311,7 @@
             </div>
 
             <div type="letter">
-                <pb n="43" facs="NYYM_scrapbook_068"/>
+                <pb n="43" facs="SW_NYYM_scrapbook_069"/>
                 <head>Address from <orgName key="stockbridge">Stockbridge Indians</orgName>
                     <lb/>dated 12 Sept. 1817</head>
                 <opener>
@@ -3343,7 +3348,7 @@
                     as it has been this season. <lb/>The corn in general <gap/> very promising at
                     present <lb/>and have reason to <gap/>will turn out abundantly <lb/>if the
                     frosts do not <gap/> off again.</p>
-                <p>We <lb/><pb n="43b" facs="NYYM_scrapbook_069"/>feel happy to state that our young men improve greatly <lb/>in husbandry
+                <p>We <lb/><pb n="43b" facs="SW_NYYM_scrapbook_070"/>feel happy to state that our young men improve greatly <lb/>in husbandry
                     and that they love to labor much within <lb/>one year since. Many are now
                     preparing to their fields <lb/>in order to sow wheat &amp; other winter
                     grain.</p>
@@ -3369,7 +3374,7 @@
             </div>
 
             <div type="letter">
-                <pb n="44" facs="NYYM_scrapbook_070"/>
+                <pb n="44" facs="SW_NYYM_scrapbook_071"/>
                 <opener><dateline>
                         <placeName key="onond">Onondaga</placeName>
                         <date when="1819-03-13">March the 13, 1819</date>
@@ -3393,7 +3398,7 @@
             </div>
 
             <div type="letter">
-                <pb n="45a" facs="NYYM_scrapbook_071"/>
+                <pb n="45a" facs="SW_NYYM_scrapbook_072"/>
                 <opener><dateline>
                         <placeName key="nycit">New York</placeName>
                         <date when="1817-09-23">9th Mo. 23rd. 1817</date>
@@ -3419,7 +3424,7 @@
                     usefull. From our knowledge <lb/>of Indians, we are satisfied it requires great
                     caution and care <lb/>in <del/>assisting them, otherways it may often injure
                     instead <lb/>of helping them--on this account we think it would be most
-                    <lb/>prudent to do it rather sparingly, and then if they <del/>increase <lb/><pb n="45b" facs="NYYM_scrapbook_072"/>in
+                    <lb/>prudent to do it rather sparingly, and then if they <del/>increase <lb/><pb n="45b" facs="SW_NYYM_scrapbook_073"/>in
                     sobriety and industry we may be encouraged to do <lb/>more. We should be very
                     glad if two or more Friends from <lb/>your place would be encouraged as soon as
                     convenient to pay them a friendly <lb/>visit, impart such advice as you may
@@ -3440,7 +3445,7 @@
                     Women <del/>engaged in spin- <lb/>ing and weaving Cloth, have very much
                     increased, <lb/>and some of them have made more than 100 yds Cloth this
                     <lb/>year.</p>
-                <p>For your information and government we inclose <lb/><pb n="45c" facs="NYYM_scrapbook_072"/>a Copy of an address we sent
+                <p>For your information and government we inclose <lb/>a Copy of an address we sent
                     by <persName key="jsky1">Sky</persName> to the <persName key="seneca">Senaca
                         <lb/>Nation</persName>.</p>
                 <closer><salute>We are <lb/>Your Affectionate Friends</salute>
@@ -3457,7 +3462,7 @@
 
             </div>
 
-            <div type="letter"><pb n="45" facs="NYYM_scrapbook_073"/>
+            <div type="letter"><pb n="45" facs="SW_NYYM_scrapbook_074"/>
 
                 <head>Letters to Friends in <placeName key="farmi">Farmington</placeName>.</head>
                 <opener><dateline>
@@ -3483,7 +3488,7 @@
             </div>
 
             <div type="letter">
-                <pb n="46a" facs="NYYM_scrapbook_074"/>
+                <pb n="46a" facs="SW_NYYM_scrapbook_075"/>
                 <opener>
                     <dateline>
                         <placeName key="broth">Brother Town</placeName>
@@ -3544,7 +3549,7 @@
                     to the asembly two <lb/>winter on their business bore his own expenc and part of
                     theirs to the amount of <lb/>forty one dollars the peace makers sent for him to
                     come and git his money <lb/>when he went <persName key="jserg2">John
-                        serjant</persName> told him he had the money but could not <lb/><pb n="46b" facs="NYYM_scrapbook_075"/>spare it but
+                        serjant</persName> told him he had the money but could not <lb/><pb n="46b" facs="SW_NYYM_scrapbook_076"/>spare it but
                     he would get an order from the peace makers and would give him <lb/>an order on
                     the superintendants but they would not exept his order for they see <lb/>his
                     policy to get all his own orders and his sons answer, first they told Thomas
@@ -3609,7 +3614,7 @@
             </div>
 
             <div type="letter">
-                <pb n="47a" facs="NYYM_scrapbook_076"/>
+                <pb n="47a" facs="SW_NYYM_scrapbook_077"/>
                 <opener>
                     <dateline>
                         <placeName key="nycit">New York</placeName>
@@ -3650,7 +3655,7 @@
                     the lands they relinquish; the <lb/>real consideration being that paid for the
                     fee simple.</p>
 
-                <p><pb n="47b" facs="NYYM_scrapbook_077"/>With respect to the particular Tract of Country in which the <lb/>Reservations in
+                <p><pb n="47b" facs="SW_NYYM_scrapbook_078"/>With respect to the particular Tract of Country in which the <lb/>Reservations in
                     question are situate, the title as you may recollect <lb/>was disputed between
                     the <orgName key="masscw">Commonwealth of Massachusetts</orgName> and <lb/>the
                         <orgName key="nystate">State of New York</orgName>, each claiming under
@@ -3713,7 +3718,7 @@
                     would be under the <lb/>more immediate care and inspectionof those who may be
                     <lb/>disposed to take the charge of their instruction; but whether <lb/>this
                     advantage would not be counterbalanced by the <lb/>continual approaches of
-                    Settlers, deserves consideration. <lb/><pb n="47d" facs="NYYM_scrapbook_078"/>If not, the reserved Lands on the
+                    Settlers, deserves consideration. <lb/><pb n="47d" facs="SW_NYYM_scrapbook_079"/>If not, the reserved Lands on the
                         <placeName key="alleg1">Allegany</placeName>, amounting to <lb/>upwards of
                     20,000 Acres appear to me best calculated for <lb/>their residence. These Lands
                     are very fertile, they skirt <del/>
@@ -3744,7 +3749,7 @@
                     extensive Wilderness is to be preserved in the heart of <lb/>Population and
                     Improvement, and a property which to <lb/>add to the public resources and
                     prosperity is made to <lb/>interfere with both. Individual feelings and
-                    interests <lb/><pb n="47e" facs="NYYM_scrapbook_079"/>are in unison with the public policy on this question, and
+                    interests <lb/><pb n="47e" facs="SW_NYYM_scrapbook_080"/>are in unison with the public policy on this question, and
                     <lb/>so plain and palpable is the necessity of the speedy removal <lb/>of the
                     Indians from the <placeName key="buffa">Buffalo</placeName> and <placeName
                         key="tonne">Tonnewanta</placeName> Reservations <lb/>that there would be no
@@ -3763,7 +3768,7 @@
             </div>
 
             <div type="letter">
-                <pb n="48" facs="NYYM_scrapbook_080"/>
+                <pb n="48" facs="SW_NYYM_scrapbook_081"/>
                 <opener><dateline>
                         <placeName key="alban">Albany</placeName>
                         <date when="1819-03-30">30th March 1819</date>
@@ -3784,7 +3789,7 @@
             </div>
 
             <div type="letter">
-                <pb n="49a" facs="NYYM_scrapbook_081"/>
+                <pb n="49a" facs="SW_NYYM_scrapbook_082"/>
                 <p>The brave <persName key="dhill1">David Hill</persName> one of the <orgName
                         key="onondaga">Ononda-<lb/>go</orgName> tribe of Indians is on his way to
                         <placeName key="nycit">New <lb/>York</placeName> on business for his Nation
@@ -3800,7 +3805,7 @@
 
             </div>
 
-            <div type="letter"><pb n="49b" facs="NYYM_scrapbook_082"/>
+            <div type="letter"><pb n="49b" facs="SW_NYYM_scrapbook_083"/>
 
                 <opener><dateline>
                         <placeName key="alban">Albany</placeName>
@@ -3828,12 +3833,12 @@
                     that he is <lb/>a very smart man for business and that he seems <lb/>to have
                     good judgment in what he undertakes <lb/>and further that he believes it would
                     be likely to have <lb/>a very good effect on other young men of his tribe
-                    <lb/>if he was incoraged and enabled to prosecute business <lb/><pb n="113ar" facs="NYYM_scrapbook_212"/>to advantage, he
+                    <lb/>if he was incoraged and enabled to prosecute business <lb/>to advantage, he
                     think the subject under consider- <lb/>ation and having in view the Interests
                     friends had <lb/>taken to improve the conditions of the Indians <lb/>together
                     with their being disposed to look up to <lb/>friends for their advice and
                     assistance, that at <lb/>least it might not be amis to forwar his pitition
-                    <lb/><pb n="49c" facs="NYYM_scrapbook_083"/>as it might be taken unkind by that people <lb/>if we did not. A line
+                    <lb/><pb n="49c" facs="SW_NYYM_scrapbook_084"/>as it might be taken unkind by that people <lb/>if we did not. A line
                     address'd to <persName key="ewill3">E Williams</persName>
                     <lb/>Missionary to the <orgName key="oneida">Oneida Indians</orgName> as to
                         <persName key="dhill1">David <lb/>Hill</persName> the pititioner might be as
@@ -3844,7 +3849,7 @@
 
             </div>
 
-            <div type="letter"><pb n="49e" facs="NYYM_scrapbook_084"/>
+            <div type="letter">
 
                 <opener><salute>Brothers &amp; Friends</salute></opener>
                 <p>at Different times when you <lb/>Visited the <orgName key="onondaga"
@@ -3862,7 +3867,7 @@
                     welfare and prosperity of the Indians <lb/>it is more than five years I have
                     struggled <lb/>to Get along in improving my land but for <lb/>want of a suitable
                     team I have Laboured <lb/>under Great Disadvantages</p>
-
+                <pb n="49e" facs="SW_NYYM_scrapbook_085"/>
                 <p>Brothers <lb/>Now Listen to the petition of <persName key="dhill1">David
                         Hill</persName>
                     <lb/>the subscriber of this, and hear his prayer <lb/>which is that some of the
@@ -3891,7 +3896,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="50" facs="NYYM_scrapbook_085"/>
+                <pb n="50" facs="SW_NYYM_scrapbook_086"/>
                 <head><persName key="aruth1">Acors. Rathbun</persName> To the Committee to
                     Superintend Indians</head>
                 <dateline><date when="1818-05-05"/></dateline>
@@ -4111,7 +4116,7 @@
             </div>
 
             <div type="letter">
-                <pb n="51a" facs="NYYM_scrapbook_086"/>
+                <pb n="51a" facs="SW_NYYM_scrapbook_087"/>
                 <head>Letter from <placeName key="phila">Philadelphia</placeName> Committee,
                     <lb/>with copy of a Letter from <persName key="jmonr1">James Munroe</persName>
                     to the Indians <lb/>1819</head>
@@ -4157,7 +4162,7 @@
                     <lb/>to us that those Indians who are the immediate subjects of this Communi-
                     <lb/>cation, require much, if any pecuniary aid at this time from <orgName
                         key="usag">Government</orgName>
-                    <lb/><pb n="51b" facs="NYYM_scrapbook_087b"/>provided the annuities paid to them were applied as they ought to be.</p>
+                    <lb/><pb n="51b" facs="SW_NYYM_scrapbook_088"/>provided the annuities paid to them were applied as they ought to be.</p>
                 <p>Our Society have engaged in this important Concern, under <lb/>an apprehendsion
                     of Religious duty, and in the prosection of which, <lb/>they have been careful
                     not to mix with the policy or the funds of the <lb/><orgName key="usag"
@@ -4230,7 +4235,7 @@
             </div>
 
             <div type="report">
-                <pb n="52" facs="NYYM_scrapbook_088"/>
+                <pb n="52" facs="SW_NYYM_scrapbook_089"/>
                 <opener>At a Yearly Meeting held in <dateline><placeName key="nycit"
                             >NewYork</placeName>
                         <date when="1819-05">5m 1819</date></dateline>,</opener>
@@ -4246,7 +4251,7 @@
 
             </div>
 
-            <div type="speech"><pb n="52a" facs="NYYM_scrapbook_089"/>
+            <div type="speech"><pb n="52a" facs="SW_NYYM_scrapbook_090"/>
 
                 <head>Address of an <orgName key="oneida">Oneida</orgName> Chief. <lb/><date
                         when="1819-01">1 mo. 1819</date></head>
@@ -4279,7 +4284,7 @@
                                 <lb/>respects to be given to our brethren the <orgName
                                     key="nymindian">committee in <lb/>New York</orgName> and tell
                                 them their kindness in leading us, by <lb/>the hand, and the good
-                                counsel we have received shall <lb/><pb n="52b" facs="NYYM_scrapbook_090"/>not stop here but we shall
+                                counsel we have received shall <lb/><pb n="52b" facs="SW_NYYM_scrapbook_091"/>not stop here but we shall
                                 convey it to the <orgName key="seneca">Seneca Nation</orgName>
                                 <lb/>one of their tribe is now with us.</p>
                         </body>
@@ -4301,7 +4306,7 @@
             </div>
 
             <div type="speech">
-                <pb n="53a" facs="NYYM_scrapbook_091"/>
+                <pb n="53a" facs="SW_NYYM_scrapbook_092"/>
                 <head>Address of <orgName key="stockbridge">Stockbridge Indians</orgName> to
                         <orgName key="nymindian">N. York Committee</orgName>
                     <lb/><date when="1819-06">6mo 1819</date></head>
@@ -4327,7 +4332,7 @@
                 <p>Brothers, <lb/>Be it known to you, that many of <lb/>your colour siting around
                     our dish &amp; diping out <lb/>therefrom, and taking all the advantages
                     <lb/>they possibly can of our ignorance, their <lb/>eyes being wide open. Of
-                    course therefore <lb/><pb n="53b" facs="NYYM_scrapbook_092"/>we stand in very great need of such a character <lb/>as
+                    course therefore <lb/><pb n="53b" facs="SW_NYYM_scrapbook_093"/>we stand in very great need of such a character <lb/>as
                     you made mention of to us to sit by us for our <lb/>instruction &amp; may the
                     great Spirit protect you <lb/>through your long journey safe back to your fire
                     place.</p>
@@ -4360,7 +4365,7 @@
             </div>
 
             <div type="letter">
-                <pb n="54" facs="NYYM_scrapbook_093"/>
+                <pb n="54" facs="SW_NYYM_scrapbook_094"/>
                 <opener>
                     <salute>Respected Friend</salute></opener>
                 <p>The <orgName key="brotherton">Brothertown Indians</orgName> appear to be rather
@@ -4394,7 +4399,7 @@
             </div>
 
             <div type="letter">
-                <pb n="55a" facs="NYYM_scrapbook_094"/>
+                <pb n="55a" facs="SW_NYYM_scrapbook_095"/>
                 <head>To the <orgName key="nymindian">Committee on Indian affairs</orgName> at N.
                     York</head>
                 <lb/>
@@ -4423,7 +4428,7 @@
                     three other friends, to visit the in- <lb/>dians at the abovementioned place, at
                     their particular <lb/>request. From what we observed while there of their
                     regular <lb/>deportment, the improvements they had made, as well as <lb/>the
-                    prudent use they have made of the tools that were given <lb/><pb n="55b" facs="NYYM_scrapbook_095"/>to them by friends,
+                    prudent use they have made of the tools that were given <lb/><pb n="55b" facs="SW_NYYM_scrapbook_096"/>to them by friends,
                     we were induced to believe that the <lb/>present is a favorable time for friends
                     to lend them <lb/>some assistance.</p>
                 <p>It may be proper to state, that the indians residing <lb/>at <placeName
@@ -4467,7 +4472,7 @@
                     large number of immoral and profligate families and <lb/>were prevented from
                     removing themselves or their children <lb/>to any other part of the State to
                     avoid such contaminating <lb/>example, they would think their case a trying one,
-                    and <lb/><pb n="55d" facs="NYYM_scrapbook_096"/>is not what is proposed by your House of Assembly <q>to <lb/>induce the
+                    and <lb/><pb n="55d" facs="SW_NYYM_scrapbook_097"/>is not what is proposed by your House of Assembly <q>to <lb/>induce the
                         several Indian tribes within your State to <lb/>concentrate themselves in
                         some suitable situation</q>to that <lb/>effect--there is much said in the
                     Newspapers of the evil <lb/>conduct of many of the Indians in your State, and
@@ -4488,11 +4493,11 @@
             </div>
 
             <div type="letter">
-                <pb n="56" facs="NYYM_scrapbook_097"/>
+                <pb n="56" facs="SW_NYYM_scrapbook_098"/>
                 <opener><dateline>
                         <placeName
                             key="nycit
-                            
+
                             "
                             >New York</placeName>
                         <date when="1822-05-31">5th month 31st 1822</date>
@@ -4524,7 +4529,7 @@
 
             </div>
 
-            <div type="letter"><pb n="57a" facs="NYYM_scrapbook_098"/>
+            <div type="letter"><pb n="57a" facs="SW_NYYM_scrapbook_099"/>
 
                 <head>Complaint <lb/>of <lb/>Indians <lb/>to <lb/><persName key="jhobe1">Bishop
                         Hobart</persName>
@@ -4557,7 +4562,7 @@
                         Williams</persName> by some means or <lb/>other has obtained without our
                     approbation and <lb/>renders no account for it We had designed that <lb/>money
                     to pay for building our Missionary house <lb/>by <persName key="willi1">Mr.
-                        Williams</persName> pretended that there was no <lb/>money left and we have
+                        Williams</persName> pretended that there was no <lb/><pb n="57c" facs="SW_NYYM_scrapbook_100"/>money left and we have
                     had to pay 200 Doll. out of our <lb/>annuity for that Building but we have since
                     aserta- <lb/>ined how the business stands.</p>
                 <p>Father, <lb/><persName key="willi1">Mr. Williams</persName> is taking every
@@ -4584,7 +4589,7 @@
                     among <lb/>us whose feelings are much wounded with the cond- <lb/>uct of
                         <persName key="willi1">Mr. Williams</persName> they say they never knew an
                     minis- <lb/>ter conduct as he has done before.</p>
-                <p>Father <lb/>We are sory to find that these things have a bad <lb/><pb n="57d" facs="NYYM_scrapbook_100"/>affect in the
+                <p>Father <lb/>We are sory to find that these things have a bad <lb/><pb n="57d" facs="SW_NYYM_scrapbook_101"/>affect in the
                     minds of the Indians of other Tribes <lb/>and prejudices them against receiving
                     the Gospel <lb/>They say that they are better off without it than <lb/>we are
                     with it while we are all confusion among <lb/>us they remain in peace</p>
@@ -4609,7 +4614,7 @@
                     he could not live unless we should give him <lb/>more Dollars that the Bishop
                     gave him but little <lb/>But we think if he had been a true chrisian he
                     <lb/>would have been contented <persName key="willi1">Mr. Wlliams</persName>
-                    told us <lb/>before he started his journey that the Bishop had <lb/><pb n="57b" facs="NYYM_scrapbook_099"/>directed him
+                    told us <lb/>before he started his journey that the Bishop had <lb/><pb n="57b" facs="SW_NYYM_scrapbook_102"/>directed him
                     to go and that he would go if he <lb/>had to go through a lake of fire <persName
                         key="willi1">Mr. Williams</persName>
                     <lb/>had always told the Nation that they ware not <lb/>worthy to speak to the
@@ -4655,7 +4660,7 @@
 
             </div>
 
-            <div type="letter">
+            <div type="letter"><pb n="57e" facs="SW_NYYM_scrapbook_103"/>
 
                 <opener>To the Society of Friends convened in a <lb/><orgName key="nym">Yearly
                         meeting</orgName> in the City of New York &amp; elsewhere. <lb/>The
@@ -4689,7 +4694,7 @@
                     <lb/>who was brought up among Friends. She is a pattern <lb/>to us in all the
                     various branches, of femenine duty <lb/>In short, she is, as a parent constantly
                     overseeing &amp; <lb/>guiding us: &amp; seems to have pure desires for our true
-                    <lb/><pb n="57f" facs="NYYM_scrapbook_101"/>Interests. We therefore recommend her with that <lb/>confidence, that she
+                    <lb/><pb n="57f" facs="SW_NYYM_scrapbook_104"/>Interests. We therefore recommend her with that <lb/>confidence, that she
                     will meet that reception among <lb/>every sentiment of respect &amp; esteem your
                     friends &amp;</p>
                 <closer>
@@ -4761,7 +4766,7 @@
                     little use to them, unless some <lb/>person qualified to instruct them resided
                     with them.</p>
 
-                <p><pb n="57h" facs="NYYM_scrapbook_102"/>It appears by <persName key="acory1">Adin's</persName> statement that he has
+                <p><pb n="57h" facs="SW_NYYM_scrapbook_105"/>It appears by <persName key="acory1">Adin's</persName> statement that he has
                     completely <lb/>gained the confidence of the indians, which they have
                     <lb/>manifested by consulting him on all important subjects, <lb/>more
                     particularly in relation to purchases and sales, and <lb/>by deposition with him
@@ -4799,7 +4804,7 @@
             </div>
 
             <div type="letter">
-                <pb n="58" facs="NYYM_scrapbook_103"/>
+                <pb n="58" facs="SW_NYYM_scrapbook_106"/>
                 <opener><dateline>
                         <placeName key="verona">Veron</placeName>
                         <date when="1824-05-09">5th Mo. 9th 1824</date>
@@ -4833,7 +4838,7 @@
             </div>
 
             <div type="letter">
-                <pb n="59" facs="NYYM_scrapbook_104"/>
+                <pb n="59" facs="SW_NYYM_scrapbook_107"/>
                 <head>From <lb/><orgName key="tonaw">Tonawanda</orgName>
                     <lb/>Tribe</head>
                 <opener>To the great council of our white brothers the <orgName key="nym">Quakers
@@ -4871,7 +4876,7 @@
                     council and advice to keep our land. We united, all <lb/>our nation, to keep
                     this land, and to lay our bones on it <lb/>and our childrens too. Brothers, we
                     look to you! we wish <lb/>you to come and instruct us, because You know our <del/>
-                    <lb/><pb n="59b" facs="NYYM_scrapbook_105"/>darkness. And learn and children to read and till the ground <lb/>and our
+                    <lb/><pb n="59b" facs="SW_NYYM_scrapbook_108"/>darkness. And learn and children to read and till the ground <lb/>and our
                     women to spin and make cloth. We wish if you <lb/>will to take three of our boys
                     and learn them, one to be <lb/>a Blacksmith and two to read and write. We want
                     them <lb/>sent away off. We wish to hear from you. We want to <lb/>know what you
@@ -4927,7 +4932,7 @@
                     It was signed &amp; assented to by every <lb/>chief who was present &amp; by
                         <persName key="redja1">Red Jacket</persName> as well as the <gap/>.</p>
                 <p>He had opposed it, but when at last the terms of the Purchase <lb/>were agreed
-                    to, he was not only willing, but insisted on his right <lb/><pb n="59d" facs="NYYM_scrapbook_106"/>to put his name to
+                    to, he was not only willing, but insisted on his right <lb/><pb n="59d" facs="SW_NYYM_scrapbook_109"/>to put his name to
                     the treaty. Since the treaty was concludid <persName key="redja1">Red
                         <lb/>Jacket</persName> urged on by the white people living in the Ficinity
                     of the Reservations <lb/>has started various objections to it and has been doing
@@ -4968,7 +4973,7 @@
 
             </div>
 
-            <div type="letter"><pb n="59a" facs="NYYM_scrapbook_107"/>
+            <div type="letter"><pb n="59a" facs="SW_NYYM_scrapbook_110"/>
 
 
                 <opener><dateline><placeName key="canan">Canandaigua</placeName>. <date
@@ -5000,7 +5005,7 @@
                     interfere with the depending nego- <lb/>tiation--to which I replied that, having
                     made an appoint- <lb/>ment to meet the Indians for the purpose above mentioned,
                     <lb/>I must be there until 15th.</p>
-                <p><pb n="59h" facs="NYYM_scrapbook_108"/>That after arriving at <placeName key="buffa">Buffaloe</placeName> for the
+                <p><pb n="59h" facs="SW_NYYM_scrapbook_111"/>That after arriving at <placeName key="buffa">Buffaloe</placeName> for the
                     purpose of <lb/>making the distribution of goods, I was requested by
                         <lb/><persName key="jgrei1">John Greig</persName>, dsg. agent for the
                     proprietors to remain <lb/>during the negotiation, in order to see that the
@@ -5031,7 +5036,7 @@
             </div>
 
             <div>
-                <pb n="60" facs="NYYM_scrapbook_109"/>
+                <pb n="60" facs="SW_NYYM_scrapbook_112"/>
                 <head>Letters in relation to the Treaty</head>
                 <opener>Department of War, <lb/>Off: Ind: Affaires, <lb/><dateline><date
                             when="1827-08-14">14th August 1827</date><placeName key="wash"
@@ -5062,7 +5067,7 @@
             </div>
 
             <div type="letter">
-                <pb n="61" facs="NYYM_scrapbook_110"/>
+                <pb n="61" facs="SW_NYYM_scrapbook_113"/>
 
                 <opener><dateline><placeName key="buffa">Buffalo</placeName>, <date
                             when="1827-01-30">January 30th 1827</date></dateline> To the President
@@ -5089,7 +5094,7 @@
                     <lb/>the time. <persName key="jjame2">Dr. Jacob Jimeson</persName>, an educated
                     native, <lb/>also a young man of great worth, and of highly respecta- <lb/>ble
                     literary attainments, officiated as principal inter- <lb/>preter, and was
-                    employed by me as such, in consequence <lb/><pb n="61b" facs="NYYM_scrapbook_111"/>of the perfect knowledge which he
+                    employed by me as such, in consequence <lb/><pb n="61b" facs="SW_NYYM_scrapbook_114"/>of the perfect knowledge which he
                     possessed of the English, <lb/>as well as his native language. The proposals
                     made by <lb/>the agent of the proprietors, to the Chiefs in council, <lb/>were
                     fully explained to them; and they were distinctly ad- <lb/>vised by me, that if
@@ -5133,7 +5138,7 @@
 
             </div>
 
-            <div type="letter"><pb n="61d" facs="NYYM_scrapbook_112"/>
+            <div type="letter"><pb n="61d" facs="SW_NYYM_scrapbook_115"/>
 
 
                 <head>Copy</head>
@@ -5159,9 +5164,9 @@
                     author was I am at a loss to con- <lb/>jecture. It could not have been <persName
                         key="adams1">Mr. Adams</persName>, in <lb/>whose presence it appears to have
                     been signed, because <lb/>he is a man of very moderate literary attainments,
-                    <lb/>much less indeed than the grammar &amp; orthography of <lb/>the production
+                    <lb/>much less indeed than the grammar &amp; orthography of <lb/><pb n="61e" facs="SW_NYYM_scrapbook_116"/>the production
                     disclosed.</p>
-                <p><pb n="61e" facs="NYYM_scrapbook_113"/>There are but few of the signers who <lb/>are known to me as chiefs; and all of
+                <p>There are but few of the signers who <lb/>are known to me as chiefs; and all of
                     them must have <lb/>been grossly imposed upon, by some designing villian,
                     <lb/>with a view to embarrass the executive, as well as to harrass <lb/>and
                     injure the proprietors. In addition to this, it must <lb/>have been done by some
@@ -5196,7 +5201,7 @@
                     interpreter. He is now at Green <lb/>Bay with a number of the <orgName
                         key="seneca">Seneca </orgName>Chiefs, and will <lb/>probably attend the
                     treaty, to be held by Governor <lb/>Cass in the vicinity of that place. Soon as
-                    he <lb/><pb n="61g" facs="NYYM_scrapbook_114"/>returns, you will be more fully informed, relative <lb/>to the
+                    he <lb/><pb n="61g" facs="SW_NYYM_scrapbook_117"/>returns, you will be more fully informed, relative <lb/>to the
                     complaints of <persName key="redja1">Red Jacket</persName> and his associates.
                     <lb/>As to the charge of bribery, I know nothing, nor do <lb/>I beleive a word
                     of it.</p>
@@ -5231,7 +5236,7 @@
                     when the agent came to settle the annuities of the <lb/>nation, all were
                     received without difficulty or complaint.</p>
                 <p>Indian settlements surrounded by a <lb/>white population, like those in the state
-                    of <placeName key="newyo">New York</placeName>, <lb/><pb n="61i" facs="NYYM_scrapbook_115"/>are always annoyed by the
+                    of <placeName key="newyo">New York</placeName>, <lb/><pb n="61i" facs="SW_NYYM_scrapbook_118"/>are always annoyed by the
                     very dregs of civilized <lb/>society, who are often found hanging upon the
                     skirts <lb/>of the chiefs, and in some instances, are the associates <lb/>of the
                     most abandoned of that unfortunate people. <lb/>From considerations of gain,
@@ -5253,7 +5258,7 @@
             </div>
 
             <div type="report">
-                <pb n="62" facs="NYYM_scrapbook_116"/>
+                <pb n="62" facs="SW_NYYM_scrapbook_119"/>
                 <head>REPORT ON INDIAN CONCERNS, <lb/>Submitted at <orgName key="oym">Ohio Yearly
                         Meeting,</orgName> held at <placeName key="mtple"/>Mt. Pleasant, on <date
                         when="1837-09-07">7th of 9th mo. 1837.</date></head>
@@ -5394,7 +5399,7 @@
             </div>
 
             <div type="letter">
-                <pb n="63" facs="NYYM_scrapbook_117"/>
+                <pb n="63" facs="SW_NYYM_scrapbook_120"/>
                 <opener><dateline><placeName key="nycit">New York</placeName>
                         <date when="1837-03-22">3th Mo 22. 1837</date></dateline>
                     <salute>My Dear friend <lb/><persName key="ecoff1">Elijah
@@ -5425,7 +5430,7 @@
                                 <item>Are any of the other Tribes there cared for by Christian
                                     <lb/>Societies or by Missionaries</item>
 
-                                <lb/><pb n="63b" facs="NYYM_scrapbook_118"/>
+                                <lb/><pb n="63b" facs="SW_NYYM_scrapbook_121"/>
                                 <item>Do friends cooperate with the Agents of the <orgName
                                         key="usag">general <lb/>Government</orgName> for the
                                     civilization and instruction of the <lb/>Indians </item>
@@ -5491,7 +5496,7 @@
                     frequently <lb/>corrupt; and seem to feel themselves set up to get the <lb/>best
                     bargain out to their people (the Indians) that they <lb/>can, too little
                     regarding, in many cases, as I fear, that <lb/>some Christian principles of
-                    doing as they would be done <lb/><pb n="63d" facs="NYYM_scrapbook_119"/>unto. The question of the removing of the
+                    doing as they would be done <lb/><pb n="63d" facs="SW_NYYM_scrapbook_122"/>unto. The question of the removing of the
                     Indians to the far <lb/>west, is one of a very interesting nature. Located in
                     the <lb/>middle of the organised states, they are thrown into continual
                     <lb/>collisions with the surrounding inhabitants, and mutual animosities
@@ -5566,7 +5571,7 @@
             </div>
 
             <div type="letter">
-                <pb n="3" facs="NYYM_scrapbook_120"/>
+                <pb n="3" facs="SW_NYYM_scrapbook_123"/>
                 <head>Letter from <placeName key="ncaro">N. Carolina</placeName> respecting Indians
                     west of <geogName key="missi">Mississippi</geogName>--<date when="1838"
                         >1838</date></head>
@@ -5621,7 +5626,7 @@
             </div>
 
             <div type="letter">
-                <pb n="65" facs="NYYM_scrapbook_121"/>
+                <pb n="65" facs="SW_NYYM_scrapbook_124"/>
                 <head>Remonstrance of the Chiefs in regard to their removal to the West</head>
                 <opener>From the <orgName key="sxntns">Six Nations</orgName>. <date
                         when="1837-10-02">10 mo 2. 1837</date>
@@ -5650,7 +5655,7 @@
                     we still adhere to for our guide. In <lb/>that treaty we have mutually
                     stipulated that all our <lb/>national transactions should be performed in open
                     Council. <lb/>This stipulation was agreed to by the parties mutually. <lb/>In
-                    that Treaty all secret meetings to transact national <lb/><pb n="65b" facs="NYYM_scrapbook_122"/>business are
+                    that Treaty all secret meetings to transact national <lb/><pb n="65b" facs="SW_NYYM_scrapbook_125"/>business are
                     forbidden.</p>
                 <p>Father In that Treaty we agreed that no compulsion should <lb/>be used by either
                     of the parties. But now <persName key="ische1">I.J. Schermerhorn</persName>
@@ -5713,7 +5718,7 @@
                             1837</date>.</dateline> In presence of <lb/><signed><persName
                             key="jhoyt1">Jonathan Hoyt</persName> Judge of the county of Erie
                             N.Y.<lb/><persName key="mbris1">Moses Bristol</persName> M.D. of the
-                                city of Buffalo <lb/><pb n="65d" facs="NYYM_scrapbook_123"/><persName key="ebake1">Elisha Baker</persName> Friends
+                                city of Buffalo <lb/><pb n="65d" facs="SW_NYYM_scrapbook_126"/><persName key="ebake1">Elisha Baker</persName> Friends
                         (Hamburgh) <lb/><persName key="cmeat1">Charles Meatyard</persName> Friends
                         (Hamburgh) <lb/><persName key="ebake2">Elisha D. Baker</persName> Friends
                         (Hamburgh) <lb/><persName key="awrig1">Asher Wright</persName> (Reverend
@@ -5821,7 +5826,7 @@
             </div>
 
             <div type="letter">
-                <pb n="67" facs="NYYM_scrapbook_124"/>
+                <pb n="67" facs="SW_NYYM_scrapbook_127"/>
                 <head><persName key="tevan1">T. Evans</persName> on behalf of Philadelphia Committee
                     <lb/>in relation to removal of Indians <lb/>west of the <geogName key="missi"
                         >Mississippi</geogName></head>
@@ -5844,7 +5849,7 @@
                 <p>Aided by the <orgName key="ogden">Ogden Company</orgName> he used <lb/>every
                     exertion to prevail on them to assent to <lb/>the measure, &amp; after having
                     occupied nearly <lb/>the whole time of the Council for 8 days, he <lb/>requested
-                    an answer. The chiefs &amp; head men were <lb/><pb n="67b" facs="NYYM_scrapbook_125"/>generally determined on staying
+                    an answer. The chiefs &amp; head men were <lb/><pb n="67b" facs="SW_NYYM_scrapbook_128"/>generally determined on staying
                     &amp; told him so. <lb/>He then came into Council--Said the business <lb/>was
                     finished--you have sold all your claimed <lb/>in this State--<said who="ische1"
                         >Here is the treaty made &amp; written <lb/>before you, and are all you have
@@ -5877,7 +5882,7 @@
                     on the measue &amp; we should then <lb/>decide probably as to the course. Mean-
                     <lb/>while I was desired to write to thee &amp; Com- <lb/>municate these facts
                     &amp; glad should I be if <lb/>you join us in Memorializing.</p>
-                <pb n="67d" facs="NYYM_scrapbook_126"/>
+                <pb n="67d" facs="SW_NYYM_scrapbook_129"/>
                 <closer>Please let me hear of your prospects. <lb/>With much love &amp; near
                     sympathy <lb/>in thy many trials I am thy truly <lb/>attached &amp; affectionate
                     frd <signed><persName key="tevan1">Tho. Evans</persName></signed>
@@ -5887,7 +5892,7 @@
             </div>
 
             <div type="letter">
-                <pb n="69a" facs="NYYM_scrapbook_127"/>
+                <pb n="69a" facs="SW_NYYM_scrapbook_130"/>
                 <head>Baltimore Committee on Indian affairs--<orgName key="shawnee"
                         >Shawanese</orgName> tribe, &amp;c. <lb/>Address from Indians to their
                         <q>old Friends, the Quakers of <placeName key="phila"
@@ -5917,7 +5922,7 @@
                     long standing--has recapioned much <lb/>spenditure of money and been the subject
                     of <lb/>much pains. We are anxious to continue its <lb/>prosecution still
                     further and in order to do this <lb/>we shall have demands upon us for all the
-                    <lb/>funds that are likely to be placed at our dis- <lb/><pb n="69b" facs="NYYM_scrapbook_128"/>posal devoted to
+                    <lb/>funds that are likely to be placed at our dis- <lb/><pb n="69b" facs="SW_NYYM_scrapbook_131"/>posal devoted to
                     purposes of this kind. referring you <lb/>to the last paragraph of our
                     Communication addressed to you in the third month last we are your friends
                     </p>
@@ -5978,7 +5983,7 @@
                     the time he dismissed the Council he <lb/>removed the books to a Public House in
                     the vicinity, and some of <lb/>our people who had received large sums of money
                     of the <orgName key="ogden">Augden Co</orgName>
-                    <lb/><pb n="69d" facs="NYYM_scrapbook_129"/>used great exertions to get many of the Cheifs to go to this place and
+                    <lb/><pb n="69d" facs="SW_NYYM_scrapbook_132"/>used great exertions to get many of the Cheifs to go to this place and
                     prevailed <lb/>on some, with money--and others under the influence of ardent
                     spirits was <lb/>prevailed on to sign the pretended treaty. They offered large
                     sums of money <lb/>to many of the Cheifs who refused it, and remain uncorrupted
@@ -6053,7 +6058,7 @@
             </div>
 
             <div type="letter">
-                <pb n="71a" facs="NYYM_scrapbook_130"/>
+                <pb n="71a" facs="SW_NYYM_scrapbook_133"/>
                 <head>Ohio in relation to <orgName key="shawnee">Shawnese</orgName>--Indiana on
                     Civilazation, &amp;c.</head>
                 <opener><salute>To the Committee of <orgName key="nymindian">New York Yearly
@@ -6083,7 +6088,7 @@
                     <lb/>being detained in the hands of Hicksites in <lb/><placeName key="balti"
                         >Baltimore</placeName>. Contributions among ourselves have <lb/>not enabled
                     us to keep a school in the <gap/>
-                    <lb/>mentioned all the year; and until this desirable <lb/><pb n="71b" facs="NYYM_scrapbook_131"/>object can be
+                    <lb/>mentioned all the year; and until this desirable <lb/><pb n="71b" facs="SW_NYYM_scrapbook_134"/>object can be
                     attained we cannot expect our <lb/>labours will be successful</p>
                 <p>This tribe numbers some upwards of <lb/>Twelve hundred of whom two hundred are
                     <lb/>said to be children. It is very certain that <lb/>with our limited means we
@@ -6145,7 +6150,7 @@
                     <lb/>old customs and religion. But as our yearly meeting has appointed <lb/>a
                     committee to corrispond with a like committee of yours on that <lb/>subject I
                     need not say much about it I intend to send thee a <lb/>copy of our minutes as
-                    soon as I receive them <del>and then those</del><lb/><pb n="71d" facs="NYYM_scrapbook_132"/>(owing to the <placeName
+                    soon as I receive them <del>and then those</del><lb/><pb n="71d" facs="SW_NYYM_scrapbook_135"/>(owing to the <placeName
                         key="ohior">Ohio</placeName> being far and frose they have not yet come to
                     hand) <lb/>and then thou will be informed the names of that committee and also
                     will see <lb/>by the report of our Committee on Idian affairs what we one
@@ -6195,7 +6200,7 @@
             </div>
 
             <div type="letter">
-                <pb n="73a" facs="NYYM_scrapbook_133"/>
+                <pb n="73a" facs="SW_NYYM_scrapbook_136"/>
                 <head>Interview of <persName key="cmend1">Cyrus Mendenhall</persName> with <lb/>some
                         <orgName key="stockbridge">Stockbridge</orgName> Indians--<date when="1839"
                         >1839</date></head>
@@ -6227,7 +6232,7 @@
                         >Detroit</placeName> in the early part of this winter. Perceiving at
                     <lb/>suppertime that I was somewhat peculiarly dressed, <persName key="aquin1"
                         >A. E. Quinney</persName>
-                    <lb/><pb n="73b" facs="NYYM_scrapbook_134"/>shortly after asked me if I was a member of the society of Friends <lb/>and
+                    <lb/><pb n="73b" facs="SW_NYYM_scrapbook_137"/>shortly after asked me if I was a member of the society of Friends <lb/>and
                     being answered in the affirmiation invited me to spend <lb/>the evening in their
                     room, which invitation I gladly accepted, <lb/>as Indian Character &amp; Indian
                     welfare have long been subjects <lb/>of the liveliest interest to me. The
@@ -6286,7 +6291,7 @@
             </div>
 
             <div type="letter">
-                <pb n="74" facs="NYYM_scrapbook_135"/>
+                <pb n="74" facs="SW_NYYM_scrapbook_138"/>
                 <head>Letter from <orgName key="oymindian">Ohio Committee</orgName> to <orgName
                         key="nymindian">New York Com.</orgName>
                     <date when="1839">1839</date></head>
@@ -6324,7 +6329,7 @@
             </div>
 
             <div type="report">
-                <pb n="75a" facs="NYYM_scrapbook_136"/>
+                <pb n="75a" facs="SW_NYYM_scrapbook_139"/>
                 <head>Report from <orgName key="bymindian">Baltimore Committee</orgName></head>
                 <opener>To the Committee of <orgName key="nymindian">New York Yearly
                         Meeting</orgName> charged with <lb/>Indian Concerns.<salute>Dear
@@ -6367,7 +6372,7 @@
                     the care <lb/>of our Superintendant &amp; his family with some interruption
                     <lb/>beyond our Control until the Year <date when="1832">1832</date>; In the
                     school <lb/>the indian Children of bothe sexes were taught the Elementary
-                    <lb/>branches of a Common Education; The boys were <del/>instructed in <lb/><pb n="75b" facs="NYYM_scrapbook_137"/>the
+                    <lb/>branches of a Common Education; The boys were <del/>instructed in <lb/><pb n="75b" facs="SW_NYYM_scrapbook_140"/>the
                     practical duties of farming &amp;c &amp; the Girls in sewing <lb/>knitting,
                     spinning, &amp; generally in the business of the family. <lb/>The orderly
                     deportment of the children &amp; their improvement <lb/>were highly
@@ -6441,7 +6446,7 @@
             </div>
 
             <div type="letter">
-                <pb n="77a" facs="NYYM_scrapbook_138"/>
+                <pb n="77a" facs="SW_NYYM_scrapbook_141"/>
 
                 <opener>
                     <dateline><placeName key="ferri">North Ferrisburgh</placeName>
@@ -6464,7 +6469,7 @@
                     <lb/>disposed to aid them, we trust <lb/>you will have no cause to regret
                     <lb/>having placed your confidence <lb/>in them</p>
 
-                <p><pb n="77b" facs="NYYM_scrapbook_139"/>Whether it will be advisable for <lb/><persName key="dknow1">D. E.
+                <p><pb n="77b" facs="SW_NYYM_scrapbook_142"/>Whether it will be advisable for <lb/><persName key="dknow1">D. E.
                         Knowles</persName> to officiate as our agent of <lb/>your committee we do
                     not pretend <lb/>to judge, but leave that with him <lb/>and the Com. to arrange
                     as it may <lb/>seem best.</p>
@@ -6513,7 +6518,7 @@
             </div>
 
             <div type="letter">
-                <pb n="79" facs="NYYM_scrapbook_140"/>
+                <pb n="79" facs="SW_NYYM_scrapbook_143"/>
                 <opener>
                     <dateline><persName key="mday1">M. Day</persName> to-- <placeName key="nycit"
                             >New York</placeName>, <date when="1839-04">4th mo.
@@ -6543,7 +6548,7 @@
                         key="usag">Government of the United <lb/>States</orgName>, which have in
                     view the civilization and <lb/>welfare of the natives, and to represent their
                     griev- <lb/>ances to the <orgName key="usag">Federal Government</orgName>. Also
-                    to be <lb/><pb n="79b" facs="NYYM_scrapbook_141"/>present and aid by advice at any General Council <lb/>which such
+                    to be <lb/><pb n="79b" facs="SW_NYYM_scrapbook_144"/>present and aid by advice at any General Council <lb/>which such
                     Indians may hold.</p>
 
             </div>
@@ -6586,7 +6591,7 @@
                     specified in the report.</p>
                 <p>By direction of our Committee of correspondence <lb/>on Indian concerns I forward
                     thee the above extract <lb/>from the Minutes of our Yearly Meeting with the
-                    <lb/><pb n="79d" facs="NYYM_scrapbook_142"/> information that the sum of $500. is now in our <lb/>hands subject to the
+                    <lb/><pb n="79d" facs="SW_NYYM_scrapbook_145"/> information that the sum of $500. is now in our <lb/>hands subject to the
                     draft of your committee on Indian <lb/>Concerns whenever way shall open with you
                     to carry into <lb/>effect the proposal contained in your communcation <lb/>to us
                     -- </p>
@@ -6602,7 +6607,7 @@
             </div>
 
             <div type="letter">
-                <pb n="81" facs="NYYM_scrapbook_143"/>
+                <pb n="81" facs="SW_NYYM_scrapbook_146"/>
                 <head><orgName key="oym">Ohio Yearly Meeting</orgName>'s Agency at <geogName
                         key="kansar">Kansas River</geogName></head>
                 <opener><dateline><date when="1840-04-12">4 Mo. 12th 1840</date>
@@ -6642,7 +6647,7 @@
                         <orgName key="shawnee">Shawnees</orgName> where I expect we shall remain for
                     two years as <lb/>Agents of the society.</p>
                 <p>Any communication you may please <lb/>to forward for our Committee, I suppose
-                    might be <lb/><pb n="81b" facs="NYYM_scrapbook_144"/>forwarded to me (or a copy at least) Addressed to me <lb/>at,
+                    might be <lb/><pb n="81b" facs="SW_NYYM_scrapbook_147"/>forwarded to me (or a copy at least) Addressed to me <lb/>at,
                             <q><placeName key="westport">Westport Jackson County
                             Misourie</placeName></q> and I can lay <lb/>the same before our
                     Committee with what other information <lb/>may necessarily come within my
@@ -6656,7 +6661,7 @@
                     Harvey.</persName></signed></closer>
             </div>
 
-            <div type="letter"><pb n="82" facs="NYYM_scrapbook_145"/>
+            <div type="letter"><pb n="82" facs="SW_NYYM_scrapbook_148"/>
                 <head>AN ADDRESS <lb/>OF THE <lb/><orgName key="bym">YEARLY MEETING OF FRIENDS,
                         <lb/>HELD AT BALTIMORE</orgName>, <lb/>TO <persName key="tjeff2">THOMAS
                         JEFFERSON</persName>, <lb/>PRESIDENT OF THE UNITED SATES: <lb/>AND HIS
@@ -6777,7 +6782,7 @@
             </div>
 
             <div type="minutes">
-                <pb n="83" facs="NYYM_scrapbook_146"/>
+                <pb n="83" facs="SW_NYYM_scrapbook_149"/>
                 <head>Minute <lb/>of <lb/><orgName key="nym">New York <lb/>Yearly Meetg</orgName>.
                     <lb/>Indians <lb/>west of <lb/><geogName key="missi">Mississippi</geogName>
                     <lb/><date when="1840">1840</date></head>
@@ -6837,7 +6842,7 @@
             </div>
 
             <div type="letter">
-                <pb n="85" facs="NYYM_scrapbook_147"/>
+                <pb n="85" facs="SW_NYYM_scrapbook_150"/>
                 <head><orgName key="neym">New England Yearly Meeting</orgName>'s response to
                     proposition of <orgName key="nym">New York</orgName>
                     <lb/>to send <q>qualified</q> persons west of <geogName key="missi"
@@ -6880,7 +6885,7 @@
                             numbers west of the <geogName key="missi">Mississippi</geogName>,
                             towards whom <lb/>our Society have not heretofore extended any
                             particular <lb/>attention. And we are united in judgement that it is
-                            <lb/>desirable to send one or more suitably qualified <lb/><pb n="85" facs="NYYM_scrapbook_148"/>individuals
+                            <lb/>desirable to send one or more suitably qualified <lb/><pb n="85" facs="SW_NYYM_scrapbook_151"/>individuals
                             among them to ascertain more fully their <lb/>situation and necessities;
                             and would propose that our <lb/><orgName key="neym">Yearly
                                 Meeting</orgName> should unite with <orgName key="nym">New
@@ -6944,7 +6949,7 @@
             </div>
 
             <div type="letter">
-                <pb n="87a" facs="NYYM_scrapbook_149"/>
+                <pb n="87a" facs="SW_NYYM_scrapbook_152"/>
                 <head><persName key="jlang2">John D. Lang</persName> &amp; <persName key="stayl2"
                         >Sam. Taylor</persName> to go west of <geogName key="missi"
                         >Mississippi</geogName></head>
@@ -6974,7 +6979,7 @@
                 <p>If your Committee could see it right to <lb/>signify, with us, our full
                     approbation with the prospect of these <lb/>Friends, and for thee, on behalf of
                     your Committee, to <lb/>write to them <del/>, to encourage them with our sym-
-                    <lb/>pathy and unity in this work of justice and love, and to <lb/><pb n="87b" facs="NYYM_scrapbook_150"/>express to
+                    <lb/>pathy and unity in this work of justice and love, and to <lb/><pb n="87b" facs="SW_NYYM_scrapbook_153"/>express to
                     them our strong desire for their help and en- <lb/>couragement, <del/>it might
                     enable <lb/>them to move in a labor, in which, from its probable length toil
                     <lb/>and exposure, they might possible be fearful and re- <lb/><del/>luctant to
@@ -7042,7 +7047,7 @@
             </div>
 
             <div type="letter">
-                <pb n="88" facs="NYYM_scrapbook_151"/>
+                <pb n="88" facs="SW_NYYM_scrapbook_154"/>
                 <head>Response of <orgName key="nym">New York</orgName> Committee to <orgName
                         key="neym">N. England's</orgName>
                     <lb/>proposition. <persName key="stayl2">S. Taylor</persName> &amp; <persName
@@ -7077,7 +7082,7 @@
 
             </div>
 
-            <div type="letter"><pb n="89" facs="NYYM_scrapbook_152"/>
+            <div type="letter"><pb n="89" facs="SW_NYYM_scrapbook_155"/>
 
                 <head><persName key="stayl2">S. Taylor Jr.</persName> &amp; <persName key="jlang2"
                         >J. D. Lang</persName>--subject continued in care <lb/>of <orgName key="nym"
@@ -7109,7 +7114,7 @@
 
             </div>
 
-            <div type="undetermined"><pb n="89b" facs="NYYM_scrapbook_153"/>
+            <div type="undetermined"><pb n="89b" facs="SW_NYYM_scrapbook_156"/>
 
                 <head>Queries</head>
                 <p><list>
@@ -7155,7 +7160,7 @@
                     proposed above--and I am <lb/>requested by such of our Committee as I have
                     <lb/>been able to consult to write thee and make <lb/>this proposition; with an
                     expression of our hope <lb/>that your Committee will be able to comply with it
-                    <lb/><pb n="89d" facs="NYYM_scrapbook_154"/>that thus a concern which has claimed the attention <lb/>of Friends for as
+                    <lb/><pb n="89d" facs="SW_NYYM_scrapbook_157"/>that thus a concern which has claimed the attention <lb/>of Friends for as
                     long a time may be advanced <lb/>towards a completion so far as the sending of a
                     Com. <lb/>among the Indians will effect it.</p>
                 <p>Our friends <persName key="jlang2">John D. Lang</persName> and <persName
@@ -7167,7 +7172,7 @@
             </div>
 
             <div type="minutes">
-                <pb n="91" facs="NYYM_scrapbook_155"/>
+                <pb n="91" facs="SW_NYYM_scrapbook_158"/>
                 <head>Meeting of Indian Com. of <orgName key="neymindian">N. England</orgName> &amp;
                         <persName key="mday1">M. Day</persName> on behalf of <lb/><orgName key="nym"
                         >New York</orgName>. <persName key="jlang2">John D. Lang</persName>, &amp;c.
@@ -7199,7 +7204,7 @@
 
             </div>
 
-            <div type="letter"><pb n="91b" facs="NYYM_scrapbook_156"/>
+            <div type="letter"><pb n="91b" facs="SW_NYYM_scrapbook_159"/>
 
                 <head>Meeting of Indian Com. of <orgName key="neym">N. England</orgName> &amp;
                         <persName key="mday1">M. Day</persName> in behalf of <lb/><placeName
@@ -7248,7 +7253,7 @@
                     And he <lb/>had not much doubt, but that a number more might have been killed
                     <lb/>which he did not know of </p>
 
-                <p><pb n="91c" facs="NYYM_scrapbook_157"/>We were kindly received and entertained by the Sub. Agent during our <lb/>Stay at
+                <p><pb n="91c" facs="SW_NYYM_scrapbook_160"/>We were kindly received and entertained by the Sub. Agent during our <lb/>Stay at
                     the Acengy, And every facility afforded for conversing with the <lb/>Indians
                     through his son who is an Interpreter, that their circumstances <lb/>would admit
                     of (it being a very busy time with them while we were there <lb/>The Indians
@@ -7303,7 +7308,7 @@
                         key="burli2">Burlington</placeName> on the <geogName key="missi"
                         >Misissippi</geogName> about 30 <lb/>miles from <placeName key="salem2"
                         >Salem Henry Co.</placeName> the principle Settlement of Friends in Iowa
-                    <lb/><pb n="91e" facs="NYYM_scrapbook_158"/>And went immediately out to <placeName key="salem2">Salem</placeName> and
+                    <lb/><pb n="91e" facs="SW_NYYM_scrapbook_161"/>And went immediately out to <placeName key="salem2">Salem</placeName> and
                     learning that there was a treaty <lb/>about to be made with the <orgName
                         key="sacks">Sacs</orgName> and <persName key="fox">Foxes</persName> for the
                     remainder of their lands <lb/>we started the next day for the Agency a distance
@@ -7332,7 +7337,7 @@
                     <lb/>as fast as possible so as to be amongst the Indians south of <placeName
                         key="missouri">Missouri</placeName> and <placeName key="arkansas"
                         >Arkansas</placeName></p>
-                <postscript><pb n="91g" facs="NYYM_scrapbook_159"/>
+                <postscript><pb n="91g" facs="SW_NYYM_scrapbook_162"/>
                     <p><placeName key="stlou">St Louis</placeName>
                         <date when="1842-10-17">10th mo. 17th 1842</date> and 2nd day of the week
                         <lb/>we reached <placeName key="stlou">St Louis</placeName> this <gap/>, in
@@ -7353,7 +7358,7 @@
             </div>
 
             <div type="letter">
-                <pb n="92" facs="NYYM_scrapbook_160"/>
+                <pb n="92" facs="SW_NYYM_scrapbook_163"/>
                 <head><persName key="jlang2">J. D. Lang</persName> &amp; <persName key="stayl2">S.
                         Taylor Jr.</persName> to make report--<orgName key="nym">N. York</orgName>
                     Com. <lb/>invited to attend--<date when="1843">1843</date></head>
@@ -7384,7 +7389,7 @@
             </div>
 
             <div type="letter">
-                <pb n="93" facs="NYYM_scrapbook_161"/>
+                <pb n="93" facs="SW_NYYM_scrapbook_164"/>
                 <head>Reposition <lb/>to send <lb/>Memorial <lb/>to <lb/><orgName key="uscong"
                         >Congress</orgName></head>
                 <opener><dateline><placeName key="provi">Providence</placeName>
@@ -7427,7 +7432,7 @@
             </div>
 
             <div type="undetermined">
-                <pb n="95a" facs="NYYM_scrapbook_162"/>
+                <pb n="95a" facs="SW_NYYM_scrapbook_165"/>
                 <head><orgName key="bym">Baltimore</orgName> Committee on Indian concerns, with Laws
                     of <lb/><orgName key="uscong">Congress</orgName> respecting Liquors, &amp;c.
                         <date when="1847">1847</date></head>
@@ -7516,8 +7521,8 @@
 
 
 
-                <postscript><pb n="95b" facs="NYYM_scrapbook_163"/>
-                   
+                <postscript><pb n="95b" facs="SW_NYYM_scrapbook_166"/>
+
                         <head><q>AN ACT to regulate trade and intercourse with the Indian tribes,
                                 and to preserve peace on the frontiers,</q> approved <date
                                 when="1834-06-30">June 30th, 1834.</date></head>
@@ -7560,11 +7565,11 @@
                             to employ the military force of the <orgName key="usag">United
                                 States</orgName>
                             <lb/>in executing that duty.</p>
-                    
+
                 </postscript>
 
                 <postscript>
-                
+
                         <head><q>AN ACT to amend an act entitled <q>An act to provide for the better
                                     organization of the Department of Indian Affairs,</q>and an act
                                 en- <lb/>titled <q>An act to regulate trade and intercourse with the
@@ -7593,7 +7598,7 @@
                                 when="1834-06-30">June thirtieth, eighteen hundred and
                                 thirty-four</date>, to which this is <lb/>an ammendment, Indians,
                             shall be competent witnesses.</p>
-                    
+
                 </postscript>
 
             </div>
@@ -7630,7 +7635,7 @@
             </div>
 
             <div type="report">
-                <pb n="97a" facs="NYYM_scrapbook_164"/>
+                <pb n="97a" facs="SW_NYYM_scrapbook_167"/>
                 <head>Report respecting Indians in <placeName key="newyo">New York</placeName>,
                     <lb/>by <persName key="twell1">Thomas Wells</persName>. <date when="1848"
                         >1848</date></head><dateline><date when="1848"/><placeName key="nycit"/></dateline>
@@ -7657,7 +7662,7 @@
                     <lb/>their farms are bery bare of stock of all kinds.</p>
                 <p>They have also 6 newly built frame houses <lb/>of good size, divided into several
                     apartments, <lb/>the inmates of which live very respectably.</p>
-                <pb n="97b" facs="NYYM_scrapbook_165"/>
+                <pb n="97b" facs="SW_NYYM_scrapbook_168"/>
                 <p>No. 2</p>
                 <p>Some of the young men have acquired a <lb/>little knowledge of the Mechanic
                     branches, <lb/>which they apply for their own convenience, <lb/>but they depend
@@ -7683,7 +7688,7 @@
                     from 5 to 300 Acres, most of which appear <lb/>to be under pretty good
                     cultivation, they have <lb/>some few Orchards, and they raise several kinds
                     <lb/>of grain, and vegetables in use in that section.</p>
-                <pb n="97c" facs="NYYM_scrapbook_166"/>
+                <pb n="97c" facs="SW_NYYM_scrapbook_169"/>
                 <p>No. 3</p>
                 <p>Their stock of cattle is estimated at 250, viz. <lb/>70 horses, 50 sheep &amp; a
                     considerable number of <lb/>hogs; 30 wagons and 17 frame barns &amp;c. There
@@ -7713,7 +7718,7 @@
                     of tribes besides <orgName key="seneca">senecas</orgName>, which are
                     <lb/>privaleged to live promiscuously through the <lb/>nation and enjoy equal
                     privaleges to the soil <lb/>with any of the nation;</p>
-                <pb n="97d" facs="NYYM_scrapbook_167"/>
+                <pb n="97d" facs="SW_NYYM_scrapbook_170"/>
                 <p>No. 4</p>
                 <p>The whole of the Indian population on this <lb/>reservation is estimated at 1500,
                     which are <lb/>divided into 275 families, and their farms are <lb/>estimated
@@ -7739,7 +7744,7 @@
                     females under the care of the <lb/>Hicksites,
                     with an average number of 24 girls <lb/>who are taught domestic work as well as
                     the use <lb/>of books; a very important part of an Indian education.</p>
-                <pb n="97e" facs="NYYM_scrapbook_168"/>
+                <pb n="97e" facs="SW_NYYM_scrapbook_171"/>
                 <p>No. 5</p>
                 <p>On the <placeName key="alleg2">Allegany reservation</placeName> there are about
                     <lb/>900, including nearly 100 <orgName key="onondaga">Onondagas</orgName> and
@@ -7768,7 +7773,7 @@
                     &amp;c. some <lb/>mechanics but none make it a business.</p>
                 <p>There are not less than 300 children of <lb/>an age to attend school and 4 day
                     schools <lb/>in which about 100 children receive instruction,</p>
-                <pb n="97f" facs="NYYM_scrapbook_169"/>
+                <pb n="97f" facs="SW_NYYM_scrapbook_172"/>
                 <p>No. 6</p>
                 <p>many of them can read and write pretty well, <lb/>and have considerable
                     acquaintance with Arith- <lb/>metic, Geography and composition. Two of <lb/>the
@@ -7797,7 +7802,7 @@
                     delight- <lb/>ful location, soil fertile, and beautiful scene- <lb/>ry; their
                     reservation including two separate <lb/>lots tho. joined together measures 6249
                     Acres, which is</p>
-                <pb n="97g" facs="NYYM_scrapbook_170"/>
+                <pb n="97g" facs="SW_NYYM_scrapbook_173"/>
                 <p>No. 7</p>
                 <p> held in common, with the restriction that <lb/>now shall cut off the timber for
                     sale. <lb/>There are many good farms on this reservation, <lb/>some men have
@@ -7822,7 +7827,7 @@
                     have education sufficient for com- <lb/>mon purposes, but very <del/>few of the
                     women <lb/>can read and not one write; as housekeepers <lb/>they are behing the
                     other tribes, owing to their devoting </p>
-                <pb n="97h" facs="NYYM_scrapbook_171"/>
+                <pb n="97h" facs="SW_NYYM_scrapbook_174"/>
                 <p>No. 8</p>
                 <p> both time and talents to fancy bead word for <lb/>a little cash to supply their
                     pressing wants. <lb/>They have very little furniture in their <lb/>houses and
@@ -7848,7 +7853,7 @@
                     <lb/>leading men and <del/>hearing their grievances, <lb/>thought it most
                     prudent to leave them with the <lb/>hope that they may become more settled in
                     their minds.</p>
-                <pb n="97i" facs="NYYM_scrapbook_172"/>
+                <pb n="97i" facs="SW_NYYM_scrapbook_175"/>
                 <p>No. 9</p>
                 <p>I spent 33 days on the reservations of those <lb/>six remnants of tribes still
                     residing in this state; <lb/>visited them from house to house, eat at their
@@ -7871,7 +7876,7 @@
                     <lb/>said they were much pleased to hear about <lb/>their red brothers living in
                     the far west, <lb/>and about the good schools they had for <lb/>the education of
                     their children; hoped that</p>
-                <pb n="97j" facs="NYYM_scrapbook_173"/>
+                <pb n="97j" facs="SW_NYYM_scrapbook_176"/>
                 <p>No. 10</p>
                 <p>the Missionaries would not grow tired <lb/>for <q>Indian children not fast to
                         learn and <lb/>sometimes no ear to hear good words, sometimes <lb/>no eye to
@@ -7895,7 +7900,7 @@
                     their own <lb/>families; and in this way the white men <lb/>mingle among them,
                     sometimes to their adva- <lb/>ntage; bust mostly to their disadvantage; <lb/>it
                     is in this channel that dealers in dry-goods </p>
-                <pb n="97k" facs="NYYM_scrapbook_174"/>
+                <pb n="97k" facs="SW_NYYM_scrapbook_177"/>
                 <p>No. 11</p>
                 <p>and spirituous liquors creep in among them <lb/>and do them much injury by their
                     example <lb/>and precept. The men have generally <lb/>adopted the American style
@@ -7922,7 +7927,7 @@
                 <p>The general disposition of their minds as well as <lb/>things around them, was a
                     sufficient index <lb/>of the kind of Labor that they had received from
                     <lb/>their White brothers and sisters. Temperance </p>
-                <pb n="97l" facs="NYYM_scrapbook_175"/>
+                <pb n="97l" facs="SW_NYYM_scrapbook_178"/>
                 <p>No. 12</p>
                 <p>societies have been formed in most of the <lb/>nations; but still there are many
                     very <lb/>intemerate ones of both sexes, and thus it will <lb/>be until grace
@@ -7939,7 +7944,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="98" facs="NYYM_scrapbook_176"/>
+                <pb n="98" facs="SW_NYYM_scrapbook_179"/>
                 <head>Treasurer's Report.</head><dateline><date when="1818"/></dateline>
                 <p>Indian Come. pr a/c with <persName key="jbarr1">John Barrow</persName>
                     Treasurer.</p>
@@ -8105,7 +8110,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="99" facs="NYYM_scrapbook_177"/>
+                <pb n="99" facs="SW_NYYM_scrapbook_180"/>
                 <head>Indian Committee pr. a/c with <persName key="jbarr1">John
                     Barrow</persName></head>
                 <p><table>
@@ -8331,7 +8336,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="101a" facs="NYYM_scrapbook_178"/>
+                <pb n="101a" facs="SW_NYYM_scrapbook_181"/>
                 <opener><date when="1816-05-22">5 Mo 22 1816</date> by Cash of
                         <persName key="jfros1">Joseph Frost</persName></opener>
                 <p><table>
@@ -8424,7 +8429,7 @@
                             <cell>1607 84</cell>
                         </row>
                     </table></p>
-                <pb n="101b" facs="NYYM_scrapbook_179"/>
+                <pb n="101b" facs="SW_NYYM_scrapbook_182"/>
                 <p><table>
                         <head>General Commtte D. <lb/>To <persName key="aruth1">A
                             Rothbun</persName></head>
@@ -9032,7 +9037,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="103a" facs="NYYM_scrapbook_180"/>
+                <pb n="103a" facs="SW_NYYM_scrapbook_183"/>
                 <opener>
                     <date when="1823-08-21">8th mo. 21th <lb/>1823</date>
                     Committee on the Indian concern for <lb/><orgName key="nym">New York Yearly
@@ -9130,7 +9135,7 @@
                             <cell>159.61</cell>
                         </row>
                     </table></p>
-                <pb n="103b" facs="NYYM_scrapbook_181"/>
+                <pb n="103b" facs="SW_NYYM_scrapbook_184"/>
                 <p><table>
                         <row>
                             <cell><date when="1824-10-28">10th mo. 28th</date></cell>
@@ -9343,7 +9348,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="104" facs="NYYM_scrapbook_182"/>
+                <pb n="104" facs="SW_NYYM_scrapbook_185"/>
                 <opener><dateline><placeName key="broth">Brothertown</placeName>
                         <date when="1818-04-06">April 6th 1818</date></dateline></opener>
                 <p><persName key="jbarr1">John Barrow </persName>please to pay <persName
@@ -9387,7 +9392,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="105" facs="NYYM_scrapbook_183"/>
+                <pb n="105" facs="SW_NYYM_scrapbook_186"/>
                 <opener><date when="1824-03-15">3rd mo.th 15th <lb/>1824</date></opener>
                 <p><table>
                         <head>Committee on the indian concern</head>
@@ -9491,7 +9496,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="106" facs="NYYM_scrapbook_184"/>
+                <pb n="106" facs="SW_NYYM_scrapbook_187"/>
                 <p>Friend <persName key="jgris1">John Griscom</persName> Please to pay Isaac <gap/>
                     and <lb/><persName key="hrank1">H. Rankins</persName> on order Two hundred
                     Dollars and charge <lb/>the same to my account for Indian affairs</p>
@@ -9564,7 +9569,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="107" facs="NYYM_scrapbook_185"/>
+                <pb n="107" facs="SW_NYYM_scrapbook_188"/>
                 <opener>
                     <dateline><placeName key="farmi">Farmington</placeName>
                         <date when="1818-05-07">5 Mo 7th 1818</date></dateline></opener>
@@ -9633,7 +9638,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="108" facs="NYYM_scrapbook_186"/>
+                <pb n="108" facs="SW_NYYM_scrapbook_189"/>
                 <opener>Committe on the indian concern Dr. <lb/>for a hand to help in the family
                     from <dateline><date when="1825-05-14">14th <lb/>of 5th mo. th
                         1825</date></dateline> for one year at $1 per week </opener>
@@ -9693,7 +9698,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="109" facs="NYYM_scrapbook_187"/>
+                <pb n="109" facs="SW_NYYM_scrapbook_190"/>
                 <p><persName key="stayl2">Mr Sam. Taylor Jr</persName>
                     <lb/>Bought of <persName key="jfaul1">Ja. W. Faulkner</persName>
                     <lb/>For the Indian Concern <lb/>1 Silver Watch warranted $15.00 </p>
@@ -9749,7 +9754,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="110" facs="NYYM_scrapbook_188"/>
+                <pb n="110" facs="SW_NYYM_scrapbook_191"/>
                 <opener>Yearly Meeting Indian Concern <lb/>in acct. with <persName key="mday1"
                         >Mahlon Day</persName> Treas.</opener>
                 <p>
@@ -9855,7 +9860,7 @@
             </div>
 
             <div type="accounts">
-                <pb n="111" facs="NYYM_scrapbook_189"/>
+                <pb n="111" facs="SW_NYYM_scrapbook_192"/>
                 <p>Indian Concern <lb/>To <persName key="mday1">Mahlon Day</persName> &amp; Co<lb/><table>
                         <head>Dr</head>
                         <head>To Printing 5000 Copies Report of Com.</head>
@@ -9929,7 +9934,7 @@
             </div>
 
             <div type="report">
-                <pb n="113a" facs="NYYM_scrapbook_190"/>
+                <pb n="113a" facs="SW_NYYM_scrapbook_193"/>
                 <opener>To the Committees of <orgName key="neymindian">New England</orgName> and
                         <lb/><orgName key="nymindian">New York</orgName> Yearly Meetings of Friends, on
                     the concern <lb/>for the Indians located west of the <geogName key="missi"
@@ -9972,7 +9977,7 @@
                     the <orgName key="shawnee">Shawnee</orgName>
                     <lb/>School, and made such inquiries as seemed proper respecting <lb/>the best
                     mode of getting to the <geogName key="missi">Mississipi River</geogName>: and
-                    <lb/><pb n="113b" facs="NYYM_scrapbook_191"/>having a special desire to commence our visit as far north <lb/>as the
+                    <lb/><pb n="113b" facs="SW_NYYM_scrapbook_194"/>having a special desire to commence our visit as far north <lb/>as the
                         <orgName key="winne">Winebago Tribe</orgName> of Indians; fearing that the
                     boats <lb/>would be impeded on account of the low stage of water in <lb/>the
                         <placeName key="ohior">Ohio river</placeName>, it seemed most advisable to
@@ -10050,7 +10055,7 @@
                     or skirt--the head is more generally <lb/>uncovered, a few however use a
                     turban.</p>
                 <p>The dress of the women consists of a broad <lb/>cloth skirt and blanket--some of
-                    them wear moccasins and leggings, <lb/><pb n="113d" facs="NYYM_scrapbook_192"/>the head is entirely uncovered,
+                    them wear moccasins and leggings, <lb/><pb n="113d" facs="SW_NYYM_scrapbook_195"/>the head is entirely uncovered,
                     except that the blanket is <lb/>sometimes thrown over it for a coming, but they
                     use no <lb/>other. The dress of the large children is similar to that <lb/>of
                     the grown persons of the same sex; most of the small chil- <lb/>dren go naked
@@ -10125,7 +10130,7 @@
                     last <lb/>degree; and but poorly calculated to keep any amount <lb/>of surplus
                     property: so that within four or five days the <lb/>whiskey seller, residing on
                     the frontier, and the licensed <lb/>trader who is permitted to vend his goods
-                    amongst them <lb/><pb n="113f" facs="NYYM_scrapbook_193"/>get nearly all the money.</p>
+                    amongst them <lb/><pb n="113f" facs="SW_NYYM_scrapbook_196"/>get nearly all the money.</p>
                 <p>These licensed traders are numerous, and generally plant <lb/>themselves at the
                     time the money is paid over in the im- <lb/>mediate vicinity of the place where
                     the payment is <lb/>made: they sell the Indians the most trifling and
@@ -10192,7 +10197,7 @@
                     repair from drinking so <lb/>long as the white men sold it to them; and now
                     <lb/>they dispaired of ever being any better--and the only way <lb/>for them to
                     be made better was to keep the whiskey <lb/>away.</p>
-                <p>The white man did not know what <lb/><pb n="113h" facs="NYYM_scrapbook_194"/>it was to go hungry and cold, but the poor
+                <p>The white man did not know what <lb/><pb n="113h" facs="SW_NYYM_scrapbook_197"/>it was to go hungry and cold, but the poor
                     Indian did. <lb/>He believed that we pitied them and talked to them for thier
                     <lb/>good; and he thanked us for it, and said he would tell it <lb/>to his
                     people, and hoped they would mind our talk; to <lb/>which they all assented. He
@@ -10267,7 +10272,7 @@
                     skill to make us believe that the Indians <lb/>were a happy people; that there
                     was no necessity <lb/>for any benevolent exertions on thier behalf, and that
                     <lb/>they were now living very comfortably.</p>
-                <p>An Indian (say they) was made to hunt not <lb/><pb n="113j" facs="NYYM_scrapbook_195"/>to work; and they are so very
+                <p>An Indian (say they) was made to hunt not <lb/><pb n="113j" facs="SW_NYYM_scrapbook_198"/>to work; and they are so very
                     happy in keeping to thier <lb/>old habits of living, that any attempts to induce
                     a change <lb/>only serve to make them unhappy--they argued aga- <lb/>inst <del/>
                     educating the Indians <del/> altogether <lb/>either within or without thier
@@ -10334,7 +10339,7 @@
                     very precarious <lb/>on account of the low stage of water, and the nu-
                     <lb/>merous snags and shoals in the river: which <lb/>caused great anxiety to us
                     as well as to the officers <lb/>of the Boat, both by night and by day; yet
-                    through <lb/><pb n="113l" facs="NYYM_scrapbook_196"/>all we were mercifully favoured to reach our de- sired port
+                    through <lb/>all we were mercifully favoured to reach our de- <lb/><pb n="113l" facs="SW_NYYM_scrapbook_199"/>sired port
                     unharmed.</p>
                 <p>We reached the school early in the evening, where we <lb/>were cordially recieved
                     by all the Friends of the Establishment <lb/>and hospitably entertained.</p>
@@ -10408,7 +10413,7 @@
                                 in <lb/>the way we can not get along so well.</p>
                             <p>Brothers, We are glad to hear you talk, and <lb/>when we meet in this
                                 way we think about God, and <lb/>talk about Him, for we believe it
-                                is his will that <lb/><pb n="113n" facs="NYYM_scrapbook_197"/>we should think about Him, and talk about Him.
+                                is his will that <lb/><pb n="113n" facs="SW_NYYM_scrapbook_200"/>we should think about Him, and talk about Him.
                                 <lb/>We greet you as brothers, and send our love and best
                                 <lb/>wishes to our friends the Quakers who sent you to <lb/>see us
                                 their Indian brothers.</p>
@@ -10483,7 +10488,7 @@
                     <lb/>exceedingly so. They have no school in this Tribe. <lb/>A number of them
                     belong to the Society of <orgName key="metho">Methodists</orgName>; <lb/>others
                     are the followers of an Indian man whom they <lb/>call the Prophet, a man of
-                    some talent, but said to be <lb/><pb n="113p" facs="NYYM_scrapbook_198"/>an arch deciever. The greatest number
+                    some talent, but said to be <lb/><pb n="113p" facs="SW_NYYM_scrapbook_201"/>an arch deciever. The greatest number
                     still adhere to <lb/>thier old traditions. The general appearances of these
                     <lb/>Indians was filthy; many are much given to dissipation <lb/>and other
                     vices; especially those residing near the Fort.</p>
@@ -10561,7 +10566,7 @@
                     <lb/>friends to the Indians, and had never wronged them; <lb/>other white men
                     had. They had heard much <lb/>about the Quakers, and considered them thier
                     friends</p>
-                <p>They said they noticed our advice to them to endeavour to <lb/><pb n="113r" facs="NYYM_scrapbook_199"/>forget the
+                <p>They said they noticed our advice to them to <lb/><pb n="113r" facs="SW_NYYM_scrapbook_202"/>endeavour to forget the
                     injuries done them by the <lb/>whites, and he hoped they might practice it.</p>
                 <p>They said they were a very little company, but <lb/>they had long resolved to
                     improve and live like <lb/>good white men. They had given up hunting <lb/>and
@@ -10628,7 +10633,7 @@
                         >Shawnees</orgName>, and number about <lb/>one Thousand souls. They have an
                     excellent <lb/>country, calculated to support a large population.</p>
                 <p>About one half of them are in an improving <lb/>condition; cultivating corn and
-                    vegetables -- <lb/><pb n="113t" facs="NYYM_scrapbook_200"/>They keep horses cattle and hogs and an abundance
+                    vegetables -- <lb/><pb n="113t" facs="SW_NYYM_scrapbook_203"/>They keep horses cattle and hogs and an abundance
                     <lb/>of fowls. Most of them live in comfortable log <lb/>or timber houses, and
                     are advancing slowly in civilization. <lb/>Some few of them have cast off the
                     blankey, and adop- <lb/>ted the dress and manners of the whites, have given up
@@ -10693,7 +10698,7 @@
                     each separate missions among the <lb/><orgName key="delaware"
                         >Delawares</orgName>.</p>
                 <p>The <orgName key="bapt">Baptists</orgName> have a small school <lb/>where some
-                    ten of fifteen children are annually <lb/><pb n="113v" facs="NYYM_scrapbook_201"/>receiving some instruction.</p>
+                    ten of fifteen children are annually <lb/><pb n="113v" facs="SW_NYYM_scrapbook_204"/>receiving some instruction.</p>
                 <p>The <orgName key="moravian">Moravians</orgName> are educating a larger number in
                     <lb/>that portion of the Tribe called <orgName key="munseeind"
                     >Munsees</orgName>. The <orgName key="bapt">Baptist</orgName>
@@ -10769,7 +10774,7 @@
                 <p>Brothers, I want to talk a little with you, <lb/>I am glad to see you this
                     morning, and glad to hear <lb/>you talk about Jesus, and was glad to see you and
                     <lb/>hear you yesterday. Brothers the <orgName key="munseeind">munsees</orgName>
-                    are <lb/><pb n="113x" facs="NYYM_scrapbook_202"/>spread all about, and have now no chiefs; some <lb/>few are
+                    are <lb/><pb n="113x" facs="SW_NYYM_scrapbook_205"/>spread all about, and have now no chiefs; some <lb/>few are
                     settled round here--some are mixed with the <lb/><orgName key="stockbridge"
                         >Stockbridge</orgName>'s--some with the <orgName key="shawnee"
                         >Shawnee</orgName>'s, and some are <lb/>yet living at <placeName key="greeb"
@@ -10806,7 +10811,7 @@
                     still think about your poor Indian <lb/>brethern and come and see them, for it
                     makes <lb/>poor Indians heart glad when they see thier Qua- <lb/>ker brothers.
                     Brothers, that is all I have to say now.</p>
-                
+
 
                 <p>An account of the <orgName key="kansas">Kansas</orgName>.</p>
                 <p>This Tribe number about sixteen hundred souls; the <lb/>country they claim as
@@ -10844,7 +10849,7 @@
                     Nation to prepare for our <lb/>visit to the more southern Tribes.</p>
                 <p>The Indians understanding that we were <lb/>about leaving this part of the
                     Country, numbers <lb/>of them came to make known to us thier grievances
-                    <lb/><pb n="113z" facs="NYYM_scrapbook_203"/>and others to take leave of us. They represented <lb/>to us that there
+                    <lb/><pb n="113z" facs="SW_NYYM_scrapbook_206"/>and others to take leave of us. They represented <lb/>to us that there
                     was a prospect of the <orgName key="wyandot">Wyandotts</orgName>, <lb/>(now
                     living in <placeName key="ohio">Ohio</placeName>) coming to settle on a part of
                     <lb/>of thier land; and that a very few of the <orgName key="shawnee">Shaw-
@@ -10910,7 +10915,7 @@
                     <lb/>yet most of them raise some corn and veg- <lb/>atables, and keep some
                     cattle, horses, hogs and <lb/>fowls--they are but poorly prepared for carry-
                     <lb/>ing on farming; having no ploughs, waggons <lb/>or tools of any kind, which
-                    is cause of much <lb/><pb n="113ab" facs="NYYM_scrapbook_204"/>discouragement to them.</p>
+                    is cause of much <lb/><pb n="113ab" facs="SW_NYYM_scrapbook_207"/>discouragement to them.</p>
                 <p>With the exception of a few instances they <lb/>have made but little advancement
                     in civilization. <lb/>Some of them live in poor log houses, and some <lb/>in
                     wigwams--they generally wear the blanket, <lb/>and in most respects dress like
@@ -10975,7 +10980,7 @@
                     instruc- <lb/>tion from the <orgName key="bapt">Baptist</orgName> missionaries
                     while they were <lb/>located on the <placeName key="stjos">St. Joseph's
                     </placeName>river. This band live <lb/>principally by cultivating the soil, and
-                    what they <lb/><pb n="113ad" facs="NYYM_scrapbook_205"/>recieve from the <orgName key="usag">Government</orgName> by
+                    what they <lb/><pb n="113ad" facs="SW_NYYM_scrapbook_208"/>recieve from the <orgName key="usag">Government</orgName> by
                     way of annuities <lb/>They are poor and making very little advance- <lb/>ment in
                     civilization, they have no school nor <lb/>missionary. Some of them live in poor
                     log cabins, <lb/>others in wigwams; most of them keep cattle, horses <lb/>and
@@ -11007,7 +11012,7 @@
                 <p>The whiskey sellers and other traders practice <lb/>the same impositions upon
                     these Indians that <lb/>they do upon all the other Tribes within thier
                     <lb/>reach.</p>
-                
+
                 <p><orgName key="osage">Osage</orgName> Nation of Indians.</p>
                 <p>Understanding that these Indians were out on <lb/>their fall hunt, and that we
                     should not have <lb/>an opportunity of seeing many of them; and <lb/>thier
@@ -11040,7 +11045,7 @@
                     amongst them; hence <lb/>there are no schools or missionaries among <lb/>them at
                     this time.</p>
                 <p>We were informed by apparent good <lb/>authority that the Indian Agents, combine
-                    with <lb/><pb n="113af" facs="NYYM_scrapbook_206"/>the agents of the American Fur Company, and <lb/>control the
+                    with <lb/><pb n="113af" facs="SW_NYYM_scrapbook_209"/>the agents of the American Fur Company, and <lb/>control the
                     manner of paying out the annuities to <lb/>the Indians; by which the agents for
                     the Company <lb/>are enabled to monopolize the whole trade with <lb/>them. It
                     was said they first took all the <lb/>annuity money and deducted thier charges
@@ -11111,7 +11116,7 @@
                     superior to the <lb/>generality of the whites in the west. They spoke
                     <lb/>freely of the lorn state and condition of thier peo- <lb/>ple, and of the
                     strong prejudices existing in thier <lb/>minds against the whites, and of the
-                    difficulty of <lb/><pb n="113ah" facs="NYYM_scrapbook_207"/>overcoming these prejudices in conseguence of the ill
+                    difficulty of <lb/><pb n="113ah" facs="SW_NYYM_scrapbook_210"/>overcoming these prejudices in conseguence of the ill
                     <lb/>treatment they had in too many instances recieved <lb/>from them. There is
                     at this time no school <lb/>nor religious institution in this Tribe.</p>
                 <p>A few of them profess the Christian relig- <lb/>ion and have joined themselves to
@@ -11176,7 +11181,7 @@
                     about Two Hundred <lb/>profess the Christian religion, and have joined them-
                     <lb/>selves either to the <orgName key="presby">Presbyterian</orgName>, <orgName
                         key="bapt">Baptist</orgName>, or <orgName key="metho">Methodist</orgName>
-                    <lb/>Societies. They have thirteen schools in the Nation <lb/><pb n="113aj" facs="NYYM_scrapbook_208"/>where all the
+                    <lb/>Societies. They have thirteen schools in the Nation <lb/><pb n="113aj" facs="SW_NYYM_scrapbook_211"/>where all the
                     children attending them are taught <lb/>in the english language. These Schools
                     are rep- <lb/>resented to be in a flourishing condition, and in <lb/>thier
                     general features are similar to our district <lb/>schools in New England. Many
@@ -11245,7 +11250,7 @@
                     <lb/>noted men in the late Florida War. We held <lb/>two Councils with these
                     Chiefs, at one of which <lb/>came about Twenty of their principal men;
                         <lb/><persName key="wildc1">Wild Cat</persName> and <persName key="allig1"
-                            >Alligator</persName> made many bitter <lb/><pb n="113al" facs="NYYM_scrapbook_209"/>complaints of the ill
+                            >Alligator</persName> made many bitter <lb/><pb n="113al" facs="SW_NYYM_scrapbook_212"/>complaints of the ill
                     treatment of the white men, both <lb/>before and since their removal. We feared
                     there <lb/>might be an outbreak by <persName key="wildc1">Wild Cat</persName>
                     and his party, in <lb/>thier present excited state. It was expecting that the
@@ -11314,7 +11319,7 @@
                     nations; this caused much excitement <lb/>and a posse was sent after them from
                     both <lb/>nations. Both Church and State seemed <lb/>aroused on account of these
                     desertions, and ready <lb/>to make every possible effort to recover them <lb/>at
-                    all hazards; and in future to enact more <lb/><pb n="113an" facs="NYYM_scrapbook_210"/>stringent laws for the
+                    all hazards; and in future to enact more <lb/><pb n="113an" facs="SW_NYYM_scrapbook_213"/>stringent laws for the
                     government of thier slaves, <lb/>and for binding thier Chains more strongly upon
                     <lb/>them.</p>
                 <p>The <orgName key="choctaw">Choctaw</orgName> Indians. <lb/>fifth day of the week
@@ -11383,7 +11388,7 @@
                     special visit to them.</p>
                 <p>They are settled on the <orgName key="choctaw">Choctaws</orgName> land, and
                     <lb/>speak the same language, and intermarry with <lb/>them.</p>
-                <pb n="113ap" facs="NYYM_scrapbook_211"/>
+                <pb n="113ap" facs="SW_NYYM_scrapbook_214"/>
 
                 <p>General Remarks.</p>
                 <p>After having spent several months in <lb/>travelling among the Indians located on
@@ -11444,7 +11449,7 @@
                     friends <lb/>in making some sacrifice, to effect so desirable an
                     <lb/>object.</p>
                 <p>The Indians in thier present state are very <lb/>improvident; and in most cases
-                    incapable of <lb/>managing thier affairs, and expending thier money <lb/>to
+                    incapable of <lb/>managing thier affairs, and expending thier money <lb/><pb n="113ar" facs="SW_NYYM_scrapbook_215"/>to
                     advantage.</p>
                 <p>We would not hold out to the world, that <lb/>they are recieving more than thier
                     due, but in <lb/>as much as the <orgName key="usag">Government</orgName>
@@ -11508,7 +11513,7 @@
                 <p>We would also give a few hints upon <lb/>education. The Indians being so
                     prejudiced aga- <lb/>inst the white people, are very much averse to <lb/>thier
                     children being educated <del/> by them, either <lb/>in or out of thier own
-                    nation; and boys who <lb/><pb n="113at" facs="NYYM_scrapbook_213"/>have been educated abroad, are treated with much
+                    nation; and boys who <lb/><pb n="113at" facs="SW_NYYM_scrapbook_216"/>have been educated abroad, are treated with much
                     <lb/>neglect when they return home; and these having <lb/>into favour with thier
                     Tribe, return to the hab- <lb/>its and practices of uncivilized Indians.</p>
                 <p>We regretted that there were no educated <lb/>Indians employed as teachers or
@@ -11534,7 +11539,7 @@
             </div>
 
             <div type="report">
-                <pb n="114" facs="NYYM_scrapbook_214"/>
+                <pb n="114" facs="SW_NYYM_scrapbook_217"/>
                 <head><orgName key="iym">INDIANA YEARLY MEETING,</orgName>
                     <date when="1861">1861</date>. REPORT of the COMMITTEE ON THE EXAMINATION of the
                     SCHOOL ESTABLISHMENT AMONG THE <lb/><orgName key="shawnee"
@@ -11589,7 +11594,7 @@
                     would appear to have had a contrary effect, <lb/>by enabling them to live in
                     indolence, and contract habits of vice and drunkenness, leading to de-
                     <lb/>generacy: also to cause them to be infested with a class of rapacious
-                    whites, whose example and in- <lb/><pb n="115b" facs="NYYM_scrapbook_215"/>fluence are deleterious in a high
+                    whites, whose example and in- <lb/><pb n="115b" facs="SW_NYYM_scrapbook_218"/>fluence are deleterious in a high
                     degree. There are some <orgName key="shawnee">Shawnees</orgName>, however, who
                     are exceptions <lb/>to this, who are moral and temperate; and are well off as to
                     property: but there is a general rest- <lb/>lessness among them, owing to the
@@ -11653,7 +11658,7 @@
                     commenced their labors with them—a fact which they freely, and many of <lb/>them
                     gratefully acknowledge—but the state of things is now so changed, that a change
                     in our course <lb/>of proceeding is called for.</p>
-                
+
 
                 <p>We unhesitatingly believe, that a well conducted Indian Boarding School, for the
                     benefit of the <lb/>half-civilized and wild tribes of the West, from whom we
@@ -11719,7 +11724,7 @@
             </div>
 
             <div type="minutes">
-                <pb n="116" facs="NYYM_scrapbook_216"/>
+                <pb n="116" facs="SW_NYYM_scrapbook_219"/>
                 <head>Minutes of the Conference.</head>
                 <opener>At a Conference of Representatives of <orgName key="cond7">Seven Yearly
                         Meetings</orgName> of the SOCIETY OF FRIENDS, held by appointment on the
@@ -11853,7 +11858,7 @@
             </div>
 
             <div type="letter">
-                <pb n="117" facs="NYYM_scrapbook_217"/>
+                <pb n="117" facs="SW_NYYM_scrapbook_220"/>
                 <opener><dateline><date when="1868"/><placeName key="balti"/></dateline>
                     <salute>To the Senate and House of Representatives <lb/>in <orgName key="uscong"
                             >Congress</orgName> assembled:</salute></opener>
