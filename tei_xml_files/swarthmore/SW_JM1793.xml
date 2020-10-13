@@ -5,7 +5,7 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <?xml-stylesheet type="text/css" href="http://www.tei-c.org/release/xml/tei/stylesheet/tei-print.css"?>
-<?xml-stylesheet type="text/css" href="http://www.tei-c.org/release/xml/tei/stylesheet/tei.css"?> 
+<?xml-stylesheet type="text/css" href="http://www.tei-c.org/release/xml/tei/stylesheet/tei.css"?>
 <?xml-stylesheet type="text/css" href="global.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
@@ -117,7 +117,7 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <front>
+        <front><pb n="289" facs="SW_JM1793_001"/>
             <titlePart><title type="main">JOSEPH MOORE'S JOURNAL</title>
                 <title type="sub"><emph rend="italics">Of a tour to Detroit, in order to attend a
                         Treaty, proposed to be held with the Indians at
@@ -165,7 +165,7 @@
             <div type="entry">
 
                 <dateline><date when="1793-04-30">30th.</date><placeName key="muncy"/></dateline>
-                <p>In the afternoon set out in company with <pb n="290"/>
+                <p>In the afternoon set out in company with <pb n="290" facs="SW_JM1793_002"/>
                     <lb/>
                     <persName key="grand1">Beverly Randolph</persName>,<persName key="jparr1">John
                         Parrish</persName>, <persName key="jelli1">John Elliott</persName>, and<lb/>
@@ -213,7 +213,7 @@
                     place, abounds<lb/> with large streams of water, and abundance of flat<lb/> land
                     on their banks, exceedingly rich. We observed<lb/> in many places, old Indian
                     fields, with signs of the <lb/>
-                    <pb n="291"/> old corn hills. On each side of these creeks and flats,<lb/> are
+                    <pb n="291" facs="SW_JM1793_003"/> old corn hills. On each side of these creeks and flats,<lb/> are
                     ridges of mountains. We have now travelled ac-<lb/>cording to the several
                     distances from place to place,<lb/> two hundred, and forty-seven miles. </p>
             </div>
@@ -249,7 +249,7 @@
                     in seeing us, and we also in seeing<lb/> them. In the evening we had some
                     weighty con-<lb/>versation together, wherein the commissioners im-<lb/>parted a
                     little of their business concerning the treaty; <lb/>
-                    <pb n="292"/> which appeared to give general satisfaction. After<lb/> which, the
+                    <pb n="292" facs="SW_JM1793_004"/> which appeared to give general satisfaction. After<lb/> which, the
                     Indians gave our friend <persName key="jparr1">John Parrish</persName> a<lb/>
                     new name, which they in their language call <foreign xml:lang="iro"
                         >Sutte-<lb/>kutte</foreign>, and signifies plain or level. This name
@@ -283,7 +283,7 @@
                     baggage,<lb/> crossed in a canoe. In the evening we put up in the<lb/> woods by
                     the side of <geogName key="tonnec">Tonnewanta creek</geogName>, where we<lb/>
                     sheltered for the night with a good fire, and tied up <lb/>
-                    <pb n="293"/> our horses as before. The following day we travel-<lb/>led hard,
+                    <pb n="293" facs="SW_JM1793_005"/> our horses as before. The following day we travel-<lb/>led hard,
                     being very desirous to reach some house<lb/> to lodge in. According to the
                     account given us, we<lb/> rode about fifty miles, and truly we thought them<lb/>
                     long enough. Arrived at <geogName key="buffc1">Buffalo Creek</geogName> about
@@ -316,7 +316,7 @@
                     the United States. <persName key="jparr1">John Parrish</persName>,<persName
                         key="jelli1"> John<lb/> Elliott</persName>, and myself, went about two miles
                     to our <lb/>
-                    <pb n="294"/> friend <persName key="wlund1">William Lundy's</persName>, where we
+                    <pb n="294" facs="SW_JM1793_006"/> friend <persName key="wlund1">William Lundy's</persName>, where we
                     were kindly en-<lb/>tertained, and spent most of the next day. </p>
             </div>
             <div type="entry">
@@ -359,7 +359,7 @@
                 <p> The weather has been warm and dry since<lb/> the time of our arrival in this
                     country. I continue<lb/> very poorly, but went three miles to our friend
                         <persName key="jtayl2">John <lb/>
-                        <pb n="295"/> Taylor's,</persName> though hardly able to travel. Here
+                            <pb n="295" facs="SW_JM1793_007"/> Taylor's,</persName> though hardly able to travel. Here
                     we<lb/> were kindly treated and lodged. I believe many<lb/> were made glad in
                     seeing their friends come amongst<lb/> them, for whom in their wilderness
                     situation, we<lb/> often felt near sympathy. </p>
@@ -395,7 +395,7 @@
                         >Albany</placeName>, we rose<lb/> early next morning, and went to our friend
                         <persName key="bhill1">Benja-<lb/>min Hill</persName>'s, where we took
                     breakfast — then rode to<lb/> the landing, and thence to <placeName key="nav">
-                        Navy Hall</placeName>. Spent a little <lb/><pb n="296"/> time at the
+                        Navy Hall</placeName>. Spent a little <lb/><pb n="296" facs="SW_JM1793_008"/> time at the
                     governor's, and went back to the landing,<lb/> where we met with <persName
                         key="jlind1">Jacob Lindley</persName>, <persName key="wsave1">William
                         Savery</persName>,<lb/> and <persName key="whart">William
@@ -429,7 +429,7 @@
                     in<lb/> time of storm. The people gave us a particular ac-<lb/>count of their
                     distressed situation, about four years<lb/> ago, for want of bread, and their
                     loss of cattle and<lb/> horses; which was truly alarming ; but through the<lb/>
-                    goodness of kind Providence, they have now plenty <lb/><pb n="297"/> of bread
+                    goodness of kind Providence, they have now plenty <lb/><pb n="297" facs="SW_JM1793_009"/> of bread
                     and other necessaries; and plenty of good<lb/> sugar which they make from the
                     maple tree. </p>
             </div>
@@ -474,7 +474,7 @@
                     likely to go from this under<lb/> a week or ten days. We endeavour to fill up
                     our<lb/> time in seeing our friends. This afternoon <persName key="jparr1">John
                         Par-<lb/>rish</persName> and <persName key="jelli1">John Elliott</persName>,
-                    crossed the river and went to <lb/><pb n="298"/> an Indian settlement of about
+                    crossed the river and went to <lb/><pb n="298" facs="SW_JM1793_010"/> an Indian settlement of about
                     eighty families, who<lb/> received them kindly. </p>
             </div>
             <div type="entry">
@@ -518,7 +518,7 @@
                         <persName key="wwils1">William<lb/> Willson</persName>. These, with the
                     sailors and marines(be<lb/>ing a king's ship) and about sixty Indians of
                     four<lb/> different tribes bound to the treaty, made our whole<lb/>
-                    <pb n="299"/> crew about ninety. We left our horses in the care<lb/> of
+                    <pb n="299" facs="SW_JM1793_011"/> crew about ninety. We left our horses in the care<lb/> of
                         <persName key="bwill1">Benjamin Willson</persName> — next day set sail and
                     steered<lb/> up the lake. We had fine pleasant weather until the<lb/> 8th, when
                     being near the islands towards the head <lb/>of the lake, and dark night coming
@@ -554,7 +554,7 @@
                     now waiting the com-<lb/>missioners coming forward, which we hope may be<lb/>
                     soon. From the present complexion of things, it<lb/> looks likely to be some
                     time before the treaty com-<lb/>
-                    <pb n="300"/>mences; so that we find patience very necessary to<lb/> be
+                    <pb n="300" facs="SW_JM1793_012"/>mences; so that we find patience very necessary to<lb/> be
                     exercised. We hear many sentiments expressed,<lb/> some favourable and some
                     otherwise. Hope our<lb/> minds may not be diverted by either from that
                     hum-<lb/>ble dependence on the omnipotent Arm of power,<lb/> under whose banner,
@@ -587,7 +587,7 @@
                 <p>
                     <persName key="jparr1">John Parrish</persName>, <persName key="jelli1">John
                         Elliott</persName>, and myself,<lb/> dined with the commandant, <persName
-                        key="cengl1">colonel Richard Eng-<lb/>land</persName>, <pb n="301"/> and a
+                            key="cengl1">colonel Richard Eng-<lb/>land</persName>, <pb n="301" facs="SW_JM1793_013"/> and a
                     number of other officers, and were friend-<lb/>ly and liberally entertained.
                 </p>
             </div>
@@ -624,7 +624,7 @@
                 <dateline><date when="1793-06-16">16th</date>, <placeName key="thame" type="unattested"/></dateline>
                 <p> and first of the week, after breakfast took<lb/> leave of this family in a solid
                     manner, and returned<lb/> to <persName key="jdols1">Dolson</persName>'s: on the
-                    way, called at several houses <lb/><pb n="302"/> where divers were collected,
+                    way, called at several houses <lb/><pb n="302" facs="SW_JM1793_014"/> where divers were collected,
                     being much accustom-<lb/>ed to visit each other on first-days, — among whom<lb/>
                     I had several opportunities for religious conversa-<lb/>tion, and informing them
                     of our principles. </p>
@@ -662,7 +662,7 @@
                     we dined — then went on foot about<lb/> two miles to <persName key="jmess1">John
                         Messemer</persName>'s, who is of the reli-<lb/>gious society called <orgName
                         key="dunkers">Dunker's</orgName>, — with whom and<lb/>divers of his friends
-                    and neighbours we held a <lb/><pb n="303"/> meeting, which was a solid,
+                    and neighbours we held a <lb/><pb n="303" facs="SW_JM1793_015"/> meeting, which was a solid,
                     satisfactory opportuni-<lb/>ty, I believe, to them and us. Here we lodged. </p>
             </div>
             <div type="entry">
@@ -702,7 +702,7 @@
                     believe, ended well. In the<lb/> afternoon had some more Indians to visit us, of the<lb/>
                     <orgName key="ojibwe"> Chipaway nation</orgName>; one of whom, called a chief,
                     was<lb/> pretty clean dressed, which is not general among<lb/> that nation. </p>
-                <pb n="304"/>
+                <pb n="304" facs="SW_JM1793_016"/>
             </div>
             <div type="entry">
                 <dateline>
@@ -748,7 +748,7 @@
                     painted,<lb/> and decorated with wampum, and ear and nose bobs;<lb/> all young,
                     and the handsomest I think I have as<lb/> yet seen. They appeared good humoured
                     and plea-<lb/>sant, <lb/>
-                    <pb n="305"/> having, as I was informed, brought no arms or<lb/> warlike
+                    <pb n="305" facs="SW_JM1793_017"/> having, as I was informed, brought no arms or<lb/> warlike
                     instruments with them, except their bows<lb/> and arrows, with flutes for music,
                     of their own<lb/> making, which appeared simple, but pleasing to<lb/>
                     themselves. Some of the British officers asked<lb/> them to play, which they
@@ -777,7 +777,7 @@
                     strong lye, which takes off the outside<lb/> hull; afterwards it is spread out
                     and dried, then<lb/> packed up for use. With this they set out, and re-<lb/>
                     turn not until the end of the year, when a fresh <lb/>
-                    <pb n="306"/> supply of goods is taken up with canoes, &amp;c. by<lb/> many
+                    <pb n="306" facs="SW_JM1793_018"/> supply of goods is taken up with canoes, &amp;c. by<lb/> many
                     hundred men to the <placeName key="grandp">Portage</placeName>, where they
                     ex-<lb/>change commodities to a very great amount. Thus<lb/> goes on the trade
                     from year to year. The men in<lb/> the north live principally on fish, and the
@@ -809,7 +809,7 @@
                 <dateline><date when="1793-06-28">28th</date>. <placeName key="detro"/></dateline>
                 <p> We are frequently visited by the officers of<lb/> this place, both civil and
                     military, who appear<lb/> friendly, and treat us with much respect, often <lb/>
-                    <pb n="307"/> wishing us success in our laudable undertaking; as-<lb/>suring us,
+                    <pb n="307" facs="SW_JM1793_019"/> wishing us success in our laudable undertaking; as-<lb/>suring us,
                     that nothing should be wanting that lay<lb/> in their power, to render us happy
                     and comfortable.<lb/> The commandant said, that if he apprehended dan-<lb/>ger
                     at any time, he should lay his commands on us<lb/> not to depart the place. But,
@@ -840,7 +840,7 @@
                     love and friendship for<lb/> them and all others, as our forefathers had, and
                     that<lb/> our principles had always restrained us from war;<lb/> and when we
                     believed the government was disposed <lb/>
-                    <pb n="308"/> to make peace with them on principles of justice,<lb/> we were
+                    <pb n="308" facs="SW_JM1793_020"/> to make peace with them on principles of justice,<lb/> we were
                     made willing to leave our homes and take<lb/> this long journey to endeavour to
                     promote it, and<lb/> to be present at the concluding of so good a work.<lb/> He
                     said, he knew long ago, we did not fight, but<lb/> were for peace, and that, as
@@ -870,7 +870,7 @@
                     of the peaceable principles of the gospel,<lb/> was really discouraging. </p>
 
 
-                <pb n="309"/>
+                <pb n="309" facs="SW_JM1793_021"/>
                 <p> We often hear many frightful things suggested; as,<lb/> that we shall be either
                     killed, or kept as hostages at<lb/> the ensuing council. This, with the accounts
                     of the<lb/> Indian warriors in time past, frequently passing with<lb/> numbers
@@ -908,7 +908,7 @@
                     Indian interpreter, supposed to have shorten-</p>
 
                 <p>
-                    <pb n="310"/> ed his days by the immoderate use of strong drink.<lb/> On this
+                    <pb n="310" facs="SW_JM1793_022"/> ed his days by the immoderate use of strong drink.<lb/> On this
                     occasion there was a good deal of form and<lb/> ceremony, in their way. </p>
             </div>
             <div type="entry">
@@ -944,7 +944,7 @@
                     style; he stayed and dined with us, behaving with<lb/> decency at table. But we
                     sometimes find great dif-<lb/>ficulty in conversing with the Indians, in such
                     man-<lb/>
-                    <pb n="311"/> tier as we wish, on account of our interpreter's sen-<lb/>timents
+                    <pb n="311" facs="SW_JM1793_023"/> tier as we wish, on account of our interpreter's sen-<lb/>timents
                     and prospects differing in some respects so<lb/> widely from ours. </p>
             </div>
             <div type="entry">
@@ -982,7 +982,7 @@
                     bank of the lake, it being washed away<lb/> when the lake was high, there were
                     seen great<lb/> numbers of the same kind, which they gathered up<lb/> and
                     buried. The Indians said they must have been <lb/>
-                    <pb n="312"/> from people a great while ago that they knew no-<lb/>thing of.
+                    <pb n="312" facs="SW_JM1793_024"/> from people a great while ago that they knew no-<lb/>thing of.
                     There is also near this lake, as we are in-<lb/>formed, the appearance of old
                     forts, curiously made<lb/> in ancient time, where pieces of earthenware are<lb/>
                     often found, though large trees are now standing in<lb/> the entrenchments, of
@@ -1008,7 +1008,7 @@
                     Christ's kingdom on the mountain of love and holi-<lb/>ness, where the lion and
                     the lamb might lie down<lb/> together, there being nothing to make us
                     afraid.<lb/> In the afternoon we re-embarked and returned to <lb/>
-                    <pb n="313"/> town. <persName key="wsave1">Wm. Savery</persName> and <persName
+                    <pb n="313" facs="SW_JM1793_025"/> town. <persName key="wsave1">Wm. Savery</persName> and <persName
                         key="whart">Wm. Hartshorne</persName> in our<lb/> absence, were visited by a
                         <orgName key="shawnee">Shawnese</orgName> warrior, who<lb/> announced to
                     them what had frequently been sug-<lb/>gested to us before, by divers persons,
@@ -1038,7 +1038,7 @@
                     two hours after, returned<lb/> much intoxicated with rum — behaved very
                     rudely,<lb/> and drew a stroke with his tomahawk at one <persName key="sash1"
                         >Sylves-<lb/>ter Ash</persName>, an interpreter, who had long resided with <lb/>
-                    <pb n="314"/> the <orgName key="shawnee">Shawnese</orgName>, and now lives at
+                    <pb n="314" facs="SW_JM1793_026"/> the <orgName key="shawnee">Shawnese</orgName>, and now lives at
                         <placeName key="fpitt1">Fort Pitt</placeName>. We sup-<lb/>posed he had a
                     grudge against him for leaving them;<lb/> but <persName key="sash1"
                         >Ash</persName> prevented his doing him mischief. This,<lb/> with other
@@ -1078,7 +1078,7 @@
                     deputies, if any thing is likely to be done. This is<lb/> truly a trying scene
                     to us, to be kept in this expen-<lb/>sive place so long in suspense; yet hope it
                     may not<lb/> be altogether in vain. We think we have done the <lb/>
-                    <pb n="315"/> best we could in our present circumstances. Various<lb/> reports
+                    <pb n="315" facs="SW_JM1793_027"/> best we could in our present circumstances. Various<lb/> reports
                     are daily coming in, with respect to the In-<lb/>dians' disposition. We much
                     desire an opportunity<lb/> with them in council, if it could be come at
                     proper-<lb/>ly, whether the commissioners come or not. The<lb/> opinion of many
@@ -1112,7 +1112,7 @@
                     a<lb/> principal warrior among the <orgName key="shawnee">Shawnese</orgName>. He
                     was in<lb/> command at the defeat of St. Clair's army. He was<lb/> richly
                     dressed. His appearance is lofty and mascu-<lb/>
-                    <pb n="316"/> line.He said he had heard of the Quakers — that<lb/> they were a
+                    <pb n="316" facs="SW_JM1793_028"/> line.He said he had heard of the Quakers — that<lb/> they were a
                     harmless people that did not fight; and<lb/> was glad now to see us. We had also
                     a visit from<lb/> several others of the same tribe. One of a solid<lb/>
                     countenance said, he heartily desired we might<lb/> succeed in the great work of
@@ -1147,7 +1147,7 @@
                 <p> We all went over the river to our land-<lb/>lord's farm, where we dined on
                     provision we took<lb/> with us. Spent most of the day there and in
                     visit-<lb/>ing some neighbours. Returned in the evening. </p>
-                <pb n="317"/>
+                <pb n="317" facs="SW_JM1793_029"/>
                 <p> The sloop Sagonay is just arrived from <placeName key="ferie">Fort
                         Erie</placeName>.<lb/> The Dunmore was waiting for a wind, when the<lb/>
                     deputation of Indians arrived — and the commission-<lb/>ers returned to
@@ -1188,7 +1188,7 @@
                     Indians<lb/> are collected; but nothing further has transpired.<lb/> He appears
                     somewhat reserved; and our anxious<lb/> state of suspense still continues. We
                     are apprehen-<lb/>
-                    <pb n="318"/> sive the Indian embassy to the commissioners may<lb/> prevent the
+                    <pb n="318" facs="SW_JM1793_030"/> sive the Indian embassy to the commissioners may<lb/> prevent the
                     proposed treaty. We wrote a letter to <lb/><persName key="amcke1">colonel
                         McKee</persName>, and an epistle to the Indians, to be<lb/> forwarded the
                     first opportunity. </p>
@@ -1226,7 +1226,7 @@
                 <dateline><date when="1793-07-17">17th</date>. <placeName key="detro"/></dateline>
                 <p> The people are very busy in their harvest,<lb/> having good crops: but in some
                     places the grain is <lb/>
-                    <pb n="319"/> injured by a kind of smut, supposed to be occasion-<lb/>ed by much
+                    <pb n="319" facs="SW_JM1793_031"/> injured by a kind of smut, supposed to be occasion-<lb/>ed by much
                     wet and rapid growth. </p>
 
                 <p> We have lately heard of the arrival of a number<lb/> of <orgName key="creek"
@@ -1263,7 +1263,7 @@
                     Yet we think we have been in<lb/> the line of our duty in coming forward and
                     labour-<lb/>ing thus far; and hope our being here may be of<lb/> some use on
                     divers accounts. Some of our compa-<lb/>
-                    <pb n="320"/> ny walked yesterday to the spring about three miles<lb/> below the
+                    <pb n="320" facs="SW_JM1793_032"/> ny walked yesterday to the spring about three miles<lb/> below the
                     town, where they had a satisfactory op-<lb/>portunity with some <orgName
                         key="oneida">Oneida Indians</orgName> that were en-<lb/>camped there. They
                     seem jointly concerned with<lb/> us for the accomplishment of peace. This day
@@ -1295,7 +1295,7 @@
                     a few<lb/> tender-hearted ones in this place that will remember<lb/> us, and I
                     hope we shall not forget them; — though it<lb/> is sorrowful to behold the power
                     and influence that <lb/>
-                    <pb n="321"/> satan has too generally amongst the inhabitants of<lb/> these
+                    <pb n="321" facs="SW_JM1793_033"/> satan has too generally amongst the inhabitants of<lb/> these
                     parts. <persName key="cgibs">Captain Gibbons</persName>, who came passenger<lb/>
                     in the Dunmore, gave us the above intelligence re-<lb/>specting the
                     commissioners, and further says, the<lb/> Indian deputies and they held a very
@@ -1331,7 +1331,7 @@
                     consists of about one hun-<lb/>dred houses; under which consideration we think
                     it<lb/> cause of thankfulness for the indulgence, remarkable<lb/> attention, and
                     kind treatment we have met with <lb/>
-                    <pb n="322"/> during our six weeks stay in this place. This even-<lb/>ing, paid
+                    <pb n="322" facs="SW_JM1793_034"/> during our six weeks stay in this place. This even-<lb/>ing, paid
                     a short visit at <persName key="crin1">commissary Rinold</persName>'s, who,<lb/>
                     with his wife and sensible daughter, appear to have<lb/> as much solidity,
                     uprightness, and vital religion, as<lb/> any in the place. There are a few
@@ -1362,7 +1362,7 @@
                         >Niagara</placeName>: all<lb/> which appeared encouraging, and favourable
                     towards<lb/> an accommodation. We dined and supped all toge-<lb/>ther, and slept
                     quiet and well in our tents. </p>
-                <pb n="323"/>
+                <pb n="323" facs="SW_JM1793_035"/>
             </div>
             <div type="entry">
                 <dateline><date when="1793-07-26">26th</date>. </dateline>
@@ -1408,7 +1408,7 @@
                     commissioners. They<lb/> appeared uneasy with what had passed at <placeName
                         key="niaga">Niagara</placeName>,<lb/> asserting that nothing short of
                         <geogName key="ohior">Ohio river</geogName> being the<lb/> line, would
-                    satisfy them; they requested the com-<lb/>missioners’ <pb n="324"/> answer
+                    satisfy them; they requested the com-<lb/>missioners’ <pb n="324" facs="SW_JM1793_036"/> answer
                     to-morrow, on that head, and re-<lb/>tired over the river. This unexpected
                     change look-<lb/>ed again discouraging; believing our worthy com-<lb/>missioners
                     had nothing but upright views in their<lb/> proceedings, consistent with the
@@ -1444,7 +1444,7 @@
                     all the western nations up the Lakes, — made a short<lb/> speech, importing,
                         <said who="carry1">That many treaties had been<lb/> held at different places
                         from time to time, wherein <lb/>
-                        <pb n="325"/> you say lands have been purchased; but would ac-<lb/>knowledge
+                            <pb n="325" facs="SW_JM1793_037"/> you say lands have been purchased; but would ac-<lb/>knowledge
                         no legal and permanent conveyance<lb/> since the treaty at <placeName
                             key="fstan">Fort Stanwix</placeName>, twenty-five years<lb/> ago. So
                         that the lands on this side the <geogName key="ohior"> Ohio</geogName>
@@ -1479,7 +1479,7 @@
             <div type="entry">
                 <dateline><date when="1793-08-03">3d</date>. <geogName key="detror" type="unattested"/></dateline>
                 <p> The sloop Detroit came to, here, on her way <lb/>
-                    <pb n="326"/> to <placeName key="ferie">Fort Erie</placeName>, from <placeName
+                    <pb n="326" facs="SW_JM1793_038"/> to <placeName key="ferie">Fort Erie</placeName>, from <placeName
                         key="michi"> Michillimackinac</placeName>, loaded with<lb/> peltry, having
                     on board three hundred and thirty-<lb/> three packs, the greatest part supposed
                     to be worth<lb/> twenty guineas each. So great is the fur trade in<lb/> this
@@ -1518,7 +1518,7 @@
             <div type="entry">
                 <dateline><date when="1793-08-06">6th</date>. <geogName key="detror" type="unattested"/></dateline>
                 <p> One of the servants of <persName key="celli1">captain Elliot</persName>, called <lb/>
-                    <pb n="327"/>
+                    <pb n="327" facs="SW_JM1793_039"/>
                     <persName key="tob">Toby</persName>, a <orgName key="pawnee">Pawnee</orgName>
                     slave, who has lain near a year in<lb/> a consumption, died about two o'clock
                     this afternoon. </p>
@@ -1563,7 +1563,7 @@
             <div type="entry">
                 <dateline><date when="1793-08-10">10th</date>. <geogName key="detror" type="unattested"/></dateline>
                 <p> Great looking out for the boat's return from<lb/>
-                    <pb n="328"/> the council, for which we are very anxious. The<lb/> season
+                    <pb n="328" facs="SW_JM1793_040"/> the council, for which we are very anxious. The<lb/> season
                     advancing, and the great distance we are<lb/> from home, together with the
                     continued uncertainty<lb/> of succeeding, according to our wishes, in the
                     great<lb/> business we are engaged in, accompanied with other<lb/> unpleasant
@@ -1602,7 +1602,7 @@
                 <p> This day we had the company of <persName key="cwell2">captain<lb/>
                         Wellbank</persName>, who returned some days ago from <placeName key="niafo"
                         >Nia-<lb/>gara </placeName>. He gave the commissioners much the same <lb/>
-                    <pb n="329"/> account we received from him at <placeName key="detro"
+                    <pb n="329" facs="SW_JM1793_041"/> account we received from him at <placeName key="detro"
                         >Detroit</placeName>the 18th<lb/> ultimo. </p>
             </div>
             <div type="entry">
@@ -1636,7 +1636,7 @@
                     them to move quietly somewhere else, out of<lb/> the Indian country — and make
                     the <geogName key="ohior">Ohio</geogName> the bounda-<lb/>ry: for it was their
                     land. And signified, as the<lb/> land to the westward was filled up, they had
-                    no-<lb/>where to repair to, and were now determined to lay <lb/><pb n="330"/>
+                    no-<lb/>where to repair to, and were now determined to lay <lb/><pb n="330" facs="SW_JM1793_042"/>
                     their bones in that country. As to the concessions<lb/> the commissioners
                     proposed making, by giving mo-<lb/>ney, they did not want it; and running a new
                     line<lb/> was but giving them a part of their own land. And<lb/> as to
@@ -1663,7 +1663,7 @@
                     expected us to come for-<lb/>ward, and were moving six miles down the river
                     to<lb/> meet us. They having all along appeared very<lb/> friendly to the
                         <orgName key="usag">United States</orgName>, this appeared an art-<lb/><pb
-                        n="331"/> ful manoeuvre, on one side or the other. It was<lb/> somewhat
+                        n="331" facs="SW_JM1793_043"/> ful manoeuvre, on one side or the other. It was<lb/> somewhat
                     extraordinary to hear <persName key="glinc1">general Lincoln</persName>
                     ex-<lb/>press, that they had received just such an answer as<lb/> he could have
                     wished. What his meaning was, is<lb/> unknown. Friends slept in their tents as
@@ -1696,7 +1696,7 @@
                     by others, who supposed themselves wise and <lb/> good enough already. </p>
 
 
-                <pb n="332"/>
+                <pb n="332" facs="SW_JM1793_044"/>
             </div>
             <div type="entry">
                 <dateline><date when="1793-08-19">19th</date>.<geogName key="lakee" type="unattested"/></dateline>
@@ -1740,7 +1740,7 @@
                     board with us all the afternoon. I felt myself in<lb/> some measure, like one
                     let out of prison. Here we<lb/> were kindly treated and lodged; proposing to
                     visit a <lb/>
-                    <pb n="333"/> number of Friends and friendly people, in and about<lb/> this
+                    <pb n="333" facs="SW_JM1793_045"/> number of Friends and friendly people, in and about<lb/> this
                     neighborhood, before we set out for home;<lb/> which seemed annexed to my
                     concern in coming<lb/> forth to this country, to attend the proposed treaty<lb/>
                     with the Indians. </p>
@@ -1784,7 +1784,7 @@
                     education. </p>
 
 
-                <pb n="334"/>
+                <pb n="334" facs="SW_JM1793_046"/>
             </div>
             <div type="entry">
                 <dateline><date when="1793-08-28">28th.</date>
@@ -1829,7 +1829,7 @@
                         Bur-<lb/>well</persName>, <persName key="dpoun1">Daniel Pound</persName>,
                         <persName key="wlund1">William Lundy</persName>, <persName key="trice1"
                         >Thomas Rice</persName>, <lb/>
-                    <pb n="335"/>
+                    <pb n="335" facs="SW_JM1793_047"/>
                     <persName key="jcraw1">James Crawford</persName>, <persName key="esnig1">Enoch
                         Scrigley</persName>, <persName key="stayl1">Samuel Taylor</persName>,<lb/>
                     <persName key="ezden">Ezekiel Dennis</persName>, and several others. </p>
@@ -1875,7 +1875,7 @@
                     the musketoes. On the whole,<lb/> we thought ourselves much favoured. </p>
 
 
-                <pb n="336"/>
+                <pb n="336" facs="SW_JM1793_048"/>
             </div>
             <div type="entry">
                 <dateline><date when="1793-09-02">2d</date>. <geogName key="genes2"/></dateline>
@@ -1924,7 +1924,7 @@
                     <placeName key="block">Block-house</placeName>, distant about forty miles, but
                     having<lb/> our young friend <persName key="alain">Abraham Laing></persName> in
                     company, with<lb/> a poor little horse that tired on the way, our pro-<lb/>
-                    <pb n="337"/> gress was retarded, so that we were benighted in<lb/> very dark
+                    <pb n="337" facs="SW_JM1793_049"/> gress was retarded, so that we were benighted in<lb/> very dark
                     thick woods, and were obliged to alight.<lb/> There, tying up our horses to the
                     trees, with much<lb/> difficulty we kindled a fire, and lay on the ground,<lb/>
                     which, with our clothes, were wet with rain. We<lb/> kept up our fire, got a
@@ -1966,7 +1966,7 @@
                     <geogName key="trout">Trout run</geogName>, we crossed thirty times, and
                         <geogName key="lycom3">Lycoming<lb/> creek</geogName> seven times — with
                     several large mountains, <lb/>
-                    <pb n="338"/> one of which was a part of the <geogName key="allemo"
+                    <pb n="338" facs="SW_JM1793_050"/> one of which was a part of the <geogName key="allemo"
                         >Alleghany</geogName>. The<lb/> sickness in Philadelphia confirmed in every
                     place. </p>
             </div>
@@ -2010,7 +2010,7 @@
                     is a small town of about thirty buildings. I lodged<lb/> at <persName
                         key="jwat2">James Watson</persName>'s, <persName key="jparr1">John
                         Parrish</persName> at <persName key="jwill1">John Lloyd</persName>'s, <lb/>
-                    <pb n="339"/> poorly, <persName key="jelli1">John Elliott</persName> stopped
+                    <pb n="339" facs="SW_JM1793_051"/> poorly, <persName key="jelli1">John Elliott</persName> stopped
                     about eight miles short<lb/> of this, at <persName key="jwill1">John
                         Willson</persName>'s. </p>
             </div>
@@ -2061,7 +2061,7 @@
                     in consequence thereof,<lb/> we still hear confirmed, and much talked of, as
                     still<lb/> raging to a great degree in <placeName key="phila">
                         Philadelphia</placeName> — which, I <lb/>
-                    <pb n="340"/> expect will be a trying circumstance to many friends<lb/> in the
+                    <pb n="340" facs="SW_JM1793_052"/> expect will be a trying circumstance to many friends<lb/> in the
                     country, in getting to our ensuing Yearly<lb/> Meeting. May the good hand be
                     near to help us. </p>
             </div>
@@ -2104,7 +2104,7 @@
                         <persName key="jpemb1">John</persName>'s carriage. We were glad to see<lb/>
                     each other again, and after spending about an hour <lb/>and a half together in
                     free conversation, returned to <lb/>
-                    <pb n=" 341"/>
+                    <pb n=" 341" facs="SW_JM1793_053"/>
                     <placeName key="germa"/>Germantown, where I lodged at my friend <persName
                         key="jjohn5">John<lb/> Johnson</persName>'s. </p>
             </div>
@@ -2142,7 +2142,7 @@
                     side<lb/> of the house, in the whole, twenty-four. I dined at<lb/>
                     <persName key="twist1">Thomas Wistar</persName>'s, and towards evening returned
                     to <lb/>
-                    <pb n="342"/>
+                    <pb n="342" facs="SW_JM1793_054"/>
                     <placeName key="germa">Germantown</placeName>, feeling myself very poorly with
                     great<lb/> debility. While in the city, I had occasion to pass<lb/> by Friends'
                     burial ground, the <geogName key="pfiel">Potter's field</geogName>-, and<lb/>
@@ -2177,7 +2177,7 @@
                     ef-<lb/>fects of hard riding through the wilderness, and ly-<lb/>ing on the damp
                     ground; being stiffened, with sore-<lb/>ness in my bones. <persName key="jelli1"
                         >John Elliott</persName>, I hear, has been <lb/>
-                    <pb n="343"/> poorly since his arrival in town. Neither he nor<lb/>
+                    <pb n="343" facs="SW_JM1793_055"/> poorly since his arrival in town. Neither he nor<lb/>
                     <persName key="jparr1">John Parrish</persName> was at meeting on seventh-day.
                         <persName key="jlind1">Jacob<lb/> Lindley</persName>, <persName key="wsave1"
                         >William Savery</persName> and myself were there,<lb/> and glad to see each
