@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title type ="main">Henry Simmons journals, Vol. 1 1796-1797</title>
+                <title type="sub">Encoded Edition</title>
+                <author>Simmons, Henry, 1768-1807</author>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name>Yuchao Wang</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding edited by</resp>
+                    <name>Emily Thaisrivongs</name>
+                </respStmt>
+                <funder>Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections</funder>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Quaker &amp; Special Collections, Haverford College</publisher>
+                <pubPlace>Haverford, PA</pubPlace>
+                <date when="2017">2017</date>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</licence></availability>
+                <idno type="local">hv_hs_journal_v1_1796</idno>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region type="state">PA</region>
+                        <settlement>Haverford</settlement>
+                        <repository>Quaker &amp; Special Collections, Haverford College</repository>
+                        <collection>Henry Simmons journals, 1796-1800</collection>
+                        <idno>MC.975.01.072</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>29 pages</p>
+                    </physDesc>
+                </msDesc>
+                <bibl>Henry Simmons journals, 1796-1800, Vol.1 1796-1797 (MC.975.01.072), Quaker &amp; Special Collections, Haverford College, Haverford, PA.</bibl>
+                <bibl>This text was digitized by Yuchao Wang in 2017 with funding from the Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections.</bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was transcribed and encoded for use in Beyond Penn's Treaty: Quakers and American Indian Relations <ptr target="https://pennstreaty.haverford.edu/"/>, a digital project that provides access to linked and annotated versions of Quaker diaries, letters, and meeting records which record contact with American Indians, particularly the Seneca, beginning in the 1740s. These documents, held in Quaker &amp; Special Collections at Haverford College and Friends Historical Library at Swarthmore College, are all from the Quaker perspective, and document their view of this unfolding relationship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Grammar, punctuation, spelling have been preserved. Line breaks, paragraph breaks, and page breaks have been preserved. Hyphens have been preserved and normalized to one dash "-". Words or phrases that the encoder could not interpret have been tagged with the "unclear" element. If there was more than one reference to the same entity (person, group, place) in one paragraph, only the first occurrence was encoded unless the paragraph spanned more than one page. If the paragraph spanned more than one page, the entity was encoded at least once per page.</p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <creation>
+                <origDate from="1796" to="1797">1796 to 1797</origDate>
+            </creation>
+        </profileDesc>
+
+        <revisionDesc>
+            <change></change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+                <div type="letter">
+                  <pb n="1" facs="hv_hs_journal_v1_1796_001"/>
+                  <opener>
+                      <salute>To the <orgName key="pymind">Committee of the Yearly Meeting on Indian affairs</orgName></salute>
+                  </opener>
+                  <p>
+                      Our Friend <persName key="hsimm1">Henry Simmons Jun.</persName>
+                  <lb/>having for some time had a concern on his mind
+                  <lb/>to go and reside for a while with the Indians, in order
+                  <lb/>to instruct and assist them in Farming, which
+                  <lb/>he laid before our last Monthly Meeting and
+                  <lb/>this Meeting again taking the Subject into con-
+                  <lb/>sideration after solidly deliberating thereon acquiesse
+                  <lb/>there with and recommend him to you as a sober
+                  <lb/>young Man in good repute amongst us &amp; a diligent
+                  <lb/>attender of our Religious Meetings.
+                  </p>
+                  <closer>
+                  <lb/>From a Monthly Meeting of Friends held
+                  <lb/>in
+                      <dateline>
+                          <placeName key="middl">Middletown</placeName> <placeName key="bucks">Bucks County</placeName> <date when="1796-05-05">the 5th day of the 5th
+                  <lb/>Month 1796</date>.
+                      </dateline>
+                      and signed on behalf thereof by
+                  <lb/><signed><persName key="wblak1">Wm Blakey Junr Clk.</persName>.</signed>
+                  </closer>
+                </div>
+            <div type="letter">
+                  <lb/><pb n="2" facs="hv_hs_journal_v1_1796_002"/>
+                <opener>
+                    <salute>Dear Friends,</salute>
+                </opener>
+                <p>
+                  <persName key="hsimm1">Henry Simmons Jun.r.</persName> presented the
+                  <lb/>within cirtificate to this Committee on <date when="1796-05-20">the 20th
+                  <lb/>of the 5th Month 1796</date>, Since which (save some
+                  <lb/>time spent on a visit to his relations) he has
+                  <lb/>been acceptably and steadily engaged in the ser-
+                  <lb/>vice of the Concern under our direction, and
+                  <lb/>at our last Meeting expressing an apprehension
+                  <lb/>that he was released therefore requested a few lines
+                  <lb/>to you. The Clerk was directed to endorse a
+                  <lb/>copy of this Minute on his Cirtificate and sign
+                  <lb/>the same on behalf of this Committee. Extract
+                  <lb/>from the minutes of the Committee appointed
+                  <lb/>by the <orgName key="checkplace">yearly Meeting of the Pennsylvania</orgName> &amp;c.
+                </p>
+                <closer>
+                   Henry Simmons’s (for the Gradual Civilization
+                  <lb/>&amp; real Welfare of the Indian Natives) Cirtificate
+                  <lb/><dateline><placeName key="phila">Philadelphia</placeName> <date when="1799-12-21">12th mo. 21st 1799</date></dateline>
+                  <lb/>To the <orgName key="meetmiddl">Monthly Meeting of
+                  <lb/>Friends at Middletown Bucks County</orgName>
+                  <lb/><persName key="twist1">Thomas Wistar Clk.</persName>
+                    <signed/>
+                 </closer>
+                </div>
+
+            <div type="entry">
+             <lb/><pb n="3" facs="hv_hs_journal_v1_1796_003"/>
+               <head>
+                  <persName key="hsimm1">Henry Simmons Jun.r</persName> His Book
+                  <lb/>Left home the <date when="1796-05-29">29th Day of the 5th mo. 1796</date>
+                  <lb/>Arived at <placeName key="oneid">Oneida</placeName> the <date when="1796-06-11">11th of the 6th Month 1796</date>
+              </head>
+                <p>
+                  The names and ages of the Indian Girls
+                    <lb/>brought from the <placeName key="oneid">Oneida Country</placeName>, and placed
+                  <lb/>in Friends Families in <placeName key="chestc">Chester County</placeName>
+                  <lb/><orgName key="stockbridge">Stockbridges</orgName>
+                  <lb/><persName key="checkplace">Margery Aupaumut</persName>; being 13 years old 2nd mo 1797
+                  <lb/><persName key="checkplace">Elizabeth Maumontsquaw</persName> - being 13 years old the
+                  <lb/>20th of the 10th month 1797.
+                  <lb/><persName key="checkplace">Mary Pohquonnopput</persName>; Was born 3rd Mo 3rd 1788
+                  <lb/><persName key="checkplace">Margery Mautawsquaw</persName>; Was 12 years old
+                  <lb/>the ninth Day of the 1st month 1797.
+                  <lb/><orgName key="tuscarora">Tuscororas</orgName>
+                  <lb/><persName key="checkplace">Catherine Peters</persName>, being 18 years of age 1797.
+                  <lb/><persName key="checkplace">Leah Kughwighnetha</persName>; being 11 years of age 1797
+                  </p>
+                </div>
+            <div type="entry">
+
+                  <lb/><pb n="4" facs="hv_hs_journal_v1_1796_004"/>
+                <dateline><date from="1796-05-29" to="1796-06-01" type="unattested"/></dateline> <!--This date is inferred based on the next entry on 1796-06-02-->
+                  <p>
+                  I set of to the Indian country, the <date when="1796-05-29">29th of the 5th mo 1796</date>
+                  <lb/>Met my companions at <placeName key="germa">Jermentown</placeName> <date when="1796-05-30">the 30th</date>, (Whose Names
+                  <lb/>are <persName key="jpier1">John Peirce</persName>; <persName key="jcoop1">James Cooper</persName>, <persName key="jsans1">Joseph Sansom</persName>, <persName key="irowl1">Isaiah-
+                  <lb/>Rowlon</persName>; &amp; <persName key="ewalk1">Enoch Walker</persName>;) Taking Dinner at <persName key="checkplace">Gasperhan-
+                  <lb/>ess</persName>; From thence to <persName key="dcumm1">David Comminss</persName> 9 miles Lodging their
+                  <lb/>and at <persName key="sgumm1">Samuel Gomeries</persName>; From thence to <persName key="opaxt1">Oliver Paxsons</persName>
+                  <lb/>20 miles to Dinner; Then crossing <placeName key="delaw">Delawar River</placeName> at <persName key="checkplace">Mitchels</persName> fer-
+                  <lb/>ry, so to <persName key="hclift1">Henry Cliftons</persName> at <placeName key="kingw">Kingwood</placeName>, 17 miles Lodging their;
+                  <lb/>So over the high Lands of <placeName key="newje">Jersey</placeName>. To <persName key="jlund1">Jacob Lundeys</persName>, a worthy Fam
+                  <lb/>ily, where we was Exceeding Kindly Entertain’d; it being 39 miles
+                  <lb/>Leaving their; accompanied by one of their sons for a pilot Several
+                  <lb/>miles on our way to <persName key="jdrak1">Joseph Drakes</persName> Tavern, in <placeName key="newyo">york State
+                  </placeName><lb/><unclear><placeName key="checkplace">crring County</placeName></unclear> 49 miles; From thence we struck the <placeName key="nrive">North
+                  <lb/>River</placeName> at <placeName key="nwind">New Winsor</placeName> (a Little Town on the bank of the north
+                  <lb/>River) so up the River to <persName key="dburn1">Daniel Burness</persName> to Dinner 20 miles
+                  <lb/>Thence to <persName key="ehall1">Edward Halucks</persName> 12 Miles, a Kind Family, Stay-
+                  <lb/>ing their Two Days, on the account of being at meeting on first
+                  <lb/>Day, there being a Small one about half a mile from Edwards
+                </p>
+             </div>
+            <div type="entry">
+
+                <dateline><date when="1796-06-02">2nd Day 6th of the mo.</date></dateline>
+                <p>
+                  Left our Worthy Friends houses; the old
+                  <lb/><pb n="5" facs="hv_hs_journal_v1_1796_005"/>
+                  <lb/>Man accompanied us 4 or 5 Miles on our way to <placeName key="esopu">Eusopus</placeName> a smart
+                  <lb/>Town, It was burnt by the British in the year 1777 and near Re
+                  <lb/>built, 22 miles; Thence to <placeName key="catsk1">Katts kill</placeName> a little Town, Lodged at a
+                  <lb/>Privet House, <persName key="jboga1">Jacob Bergordus’s</persName> 24 miles (He took us to see a Peace
+                  <lb/>of Land that had Sunk a few Days before, a noul of a hill about three
+                  <lb/>Acres, it had Sunk about 60 feet, Perpendicular on one Side, &amp; Broke
+                  <lb/>all over, there being a flock of Sheep on it at the same time; but none
+                  <lb/>of them Lost; The cause is Supposed to be by the openness of the Earth;
+                  <lb/>Then crossing a branch of the <placeName key="nrive">North River</placeName> so to <placeName key="balti">Baltimore</placeName> a Sma
+                  <lb/>ll Town Dined at <persName key="ehall2">Edward Hallucks Jun.r.</persName> Thence to <placeName key="alban">Albany</placeName>
+                  <lb/>42 miles, This is a Large Town, consisting of about 15 Hundred
+                  <lb/>Houses, And but one Family of Friends in it at this Time
+                  <lb/><persName key="pfiel1">Peter Field</persName>, by name; <date when="1796-08-04">4th of 8 mo.</date> We left Albany Proceeding to
+                  <lb/><placeName key="schen">Schenectudy</placeName> a Larg Town, 14 miles, Lodging there Then cross
+                  <lb/>ing the <placeName key="mohaw">Mohoch</placeName> in a boat and Traveling up it to <placeName key="spraf">Spreakes
+                  <lb/>Ferry</placeName> 35 miles Lodging There, Then crossing the Mohock
+                  <lb/>again by board, continueing the same course, Through some
+                  <lb/>Exsolent Lands; crossing the Mohock by bridg, So up it
+                  <lb/>to another Bridg at <placeName key="fschy">Fort Scuyler</placeName>, a little Village
+                  <lb/>45 miles, the Mohock makes a square turn here north, we
+                  <lb/>Leaving it, Proceed to <placeName key="white">Wites Town</placeName> 4 miles, a Little Town,
+
+                  <lb/><pb n="6" facs="hv_hs_journal_v1_1796_006"/>
+                  <lb/><persName key="jwhit2">Judge White</persName> being one of the first Settlers in this Place
+                  <lb/>From which it Derived its Name; we staid here a night &amp; half
+                  <lb/>a Day Having Some conversation with <persName key="wfloy1">General Floyd</persName>,
+                  <lb/>(He being appointed by Government, in company with
+                  <lb/><persName key="teddy1">Thomas Eddy</persName> and <persName key="checkplace">Edmond Pryor</persName>; To have the care of
+                  <lb/>the <placeName key="broth">Brother Town </placeName>Indians;) He Informing us that he
+                  <lb/>thought The white People in that Nabourhood would be satisfy’d
+                  <lb/>with our Prospect; So set out in order to reach the Indian Settle
+                  <lb/>ments that Evening 18 miles, When we had got within 7 miles
+                  <lb/>we Stopt at a house (it was the Last white man house, <persName key="checkplace">Dean</persName>
+                  <lb/>by name; and Interpretter) To make Inquiry; There was a Drunken
+                  <lb/>Indian come out with his ax and gun Shook hands and offered to
+                  <lb/>Pilot us Through the Swampy Woods, to <persName key="hsmit1">Hendricks, Smiths</persName> we
+                  <lb/>accepted his offer; Where we arived before Dark, there was many
+                  <lb/>Indians there (Some allmost naked) For this man sold Liquor, as
+                  <lb/>we where Told afterwards; But they seemed glad to see us, for
+                  <lb/>they Heard we where coming, and Expected something from
+                  <lb/>us; (We Sent a Runner to Tell <persName key="haupa1">Capn Hendrick Aupaumut</persName>
+                  <lb/>that we where come; so far, He being one of the <orgName key="stockbridge">Stockbridg</orgName> Chiefs
+                  <lb/>one that had wrote Letters to our Friends at Philadelphia.)
+
+                  <lb/><pb n="7" facs="hv_hs_journal_v1_1796_007"/>
+                  <lb/>This <persName key="hsmit1">Hendrick Smith</persName> had a great many Cattle &amp; hogs but was very
+                  <lb/>Poor in the House; We got a little Pone &amp; milch, and Lay on the Floor
+                  <lb/>in the Morning <persName key="haupa1">Capn Hendrick</persName> came, and Took us home to his House
+                  <lb/>(3 miles) where we got a good Breakfast, unexpected to me, We made
+                  <lb/>it our home for some Time; Where we was Kindly Entertained, by
+                    <lb/>Him and his Wife <persName key="lquin1">Lidia</persName> She being an Extraordinary Woman
+                  <lb/>and many of the rest very kind; and some of them I Trust Good
+                  <lb/>People; We having had councils with the <orgName key="stockbridge">Stockbridgs</orgName>; <orgName key="tuscarora">Tuscaroras</orgName>
+                  <lb/>and <orgName key="oneida">Oneidas</orgName> at Different Times, to find out who stood in the
+                  <lb/>most  need of help; by so Doing, we thought it right to settle at <placeName key="oneic">Oneida
+                  <lb/>Castle</placeName>; our goods comeing to ould <placeName key="fschy">Fort Scuyler</placeName> 22 Miles from oneida castle
+                  <lb/>Some Farming Utensels &amp; Impliments of Husbandry; which we
+                  <lb/>Distributed amongst the Oneidas Tuscaroras &amp; Stockbridgs
+                  <lb/>The <placeName key="broth">Brother Towns</placeName> Having a supply of Necessaries from
+                  <lb/><placeName key="newyo">New York</placeName>; They are in a Likely way of Living well if
+                  <lb/>they will; Their Land was given to them by the oneidas
+                  <lb/>and some of it was clear’d before they came on it, and it is Laid out
+                  <lb/>in Lots one Hundred Acres to a married man; they are the
+                  <lb/>remaines of 7 Tribes, They are from New England; Many
+                  <lb/>of them their yet, The Land refari’d for them if they Come
+                  <lb/>and also their Children when they marry, they Take a Lot Till
+                  <lb/>it is all Taken up; 40 or 50 Families Their now; and it
+
+                  <lb/><pb n="8" facs="hv_hs_journal_v1_1796_008"/>
+                  <lb/>Produceth Great cropps of grain &amp; Hay. and their Annuity
+                  <lb/>from <orgName key="nystate">New York government</orgName> is about 800 Pounds; so that we
+                  <lb/>Did not find it needful to help them much; We have been some
+                  <lb/>among Them and find them very kind; and some of them tender
+                  <lb/>Fealing People; - our Friend- <persName key="jevan1">Joshua Evans</persName> from Jersey, co-
+                  <lb/>ming into the Indian Country, (and <persName key="sheig1">Soloman Height</persName> From
+                  <lb/><placeName key="9part1">Ninepardners</placeName> East of the <placeName key="nrive">North River</placeName>, Bearing him Com
+                  <lb/>pany, To visit the Indians, They had several Meetings among
+                  <lb/>Them; and Solomen &amp; a Friend that came a little way with them
+                  <lb/>(<persName key="checkplace">Thomas alby</persName> by name.) returning Homewards;
+              </p><p>
+                  Joshua Evans, and the Friends that came with us, whose
+                  <lb/>Names have been mentioned heretofore; Left us the <date when="1796-07-07">7th of the 7th
+                  <lb/>mo. 1796</date>. in order to visit the Western Indians as far as <placeName key="checkplace">Canno
+                  <lb/>ndarque</placeName>, (one Hundred miles from Oneida;) which they Did, and
+                  <lb/>then went Directly Home; Except Joshua Evans;
+              </p><p>
+                  The <orgName key="brotherton">Brothertown Indians</orgName> having twelve Miles Square of
+                  <lb/>Land, given to them by the <orgName key="oneida">Oneidas</orgName>, but a part being Sold,
+                  <lb/>Since, I suppose have 7 or 8 thousand acres Left.
+                  </p>
+                  </div>
+
+            <div type="letter">
+                  <lb/><pb n="9" facs="hv_hs_journal_v1_1796_009"/>
+                  <p>Brothers of the <orgName key="stockbridge">Stockbridg</orgName> Nation: we are very glad
+                  <lb/>to find that Through the Blessing of the great Spirit; and your
+                  <lb/>Honest Industry, and frugal Sobriety, you may soon be in a way
+                  <lb/>to Live comfortably, without being beholding to any body for
+                  <lb/>help; - Brothers - as you canot but Thankfully acknowledg
+                  <lb/>This to be the Case with this Nation, in general, and you know
+                  <lb/>we want to help many of your Indians Brothers a Little, who
+                  <lb/>Stands in much more need than you do, we trust you will not
+                  <lb/>Think hard of us if we do not do a great Deal for you at this time; but,
+                  <lb/>Brothers, in order to Encourage you to be Still more Industrous
+                  <lb/>and Saving, and to set a good example to your Indian brothers;
+                  <lb/>and Nabours who are far behind you in point of Sivilization, we
+                  <lb/>have agreed to help you a Little, as Fathers;
+              </p><p>Brothers, We agree to give you our Smith Tools all comp
+                  <lb/>leet, and one of our Friends can Instruct you a Little in using them
+                  <lb/>and also a Share of our Impliments of Husbandry;
+              </p><p>Brothers, We also are willing to Encourage you in building
+                  <lb/>a grist Mill by agreeing to advance three Dollars to your one,
+                  <lb/>of all the Money actually to be pai’d for materials machanical
+                  <lb/>Labour, and victualling the workmen; you finding the Timber
+                  <lb/>and Delivering on the Spot, And doing such other parts of the
+                  <lb/>business as you may be capable of, without, bringing it into the
+                  <lb/>general charge, of which we have agreed to pay three forths,
+                  <lb/>we
+
+                  <lb/><pb n="10" facs="hv_hs_journal_v1_1796_010"/>
+                  <lb/>we also agree that the Hundred Dollars Lent to <persName key="haupa1">Capn Hendrick</persName>
+                  <lb/>by our Committee, to gether with 40 Dollars Lent to <persName key="jserg2">John Serjant</persName>
+                  <lb/>by us; for the use of your Nation, Shall be considered as a part
+                  <lb/>of this advance, and Left in your hands for the aforesaid Purpose
+                  <lb/>Provided always, that if the Goverment, Shall at any Time pay
+                  <lb/>the expence of Said Mill agreeable to an Article which you Say
+                  <lb/>is contained in a Late Treaty, Then, in that case you are to refund
+                  <lb/>to our committee all and every part of the advance made by us
+                  <lb/>Toward Said Mill; And we propose our Friends <persName key="jtayl1">Jacob Taylor</persName>, and
+                  <lb/><persName key="ewalk1">Enoch Walker</persName>, to take the Special care of, and Superintendance
+                  <lb/>of building Said Mill;  without making any Charge on your for
+                  <lb/>There trouble; and we further Propose, That when Said Mill, is
+                  <lb/>Erected, that you at a general Council; Should Choose a suitable
+                  <lb/>Man amongts yourselves to take the care of this Mill, and to
+                  <lb/>grind all your grain, and to keep the Mill in order, and that you
+                  <lb/>agree upon Some certain &amp; fixed Portion for this man to have
+                  <lb/>out of every grist that Shall be ground; Suffitient to pay him
+                  <lb/>well for this Time, and Trouble; and to enable him to keep the
+                  <lb/>mill in good repair, which he ought to Do at his own expence
+                  <lb/>out of his profits, which you allow him; And we further Propose,
+                  <lb/>that you admit your, Brothers, the <orgName key="tuscarora">Tuscororas</orgName> to Enjoy
+                  <lb/>part of the advantages of this Mill;
+                  <lb/>brothers
+                </p><p>
+
+                  <lb/><pb n="11" facs="hv_hs_journal_v1_1796_011"/>
+                  Brothers, We also propose to encourage you in keeping
+                  <lb/>up a School for the Education of your Children, by agreing to pay
+                  <lb/>part of the Salary, to your former Master <persName key="checkplace">John Quinney</persName>, if he
+                  <lb/>will agree to Teach again, we are willing to pay 25 Dollars a Quarter
+                  <lb/>for one year at Least, if you will agree to make up as much as to
+                  <lb/>Encourage him to keep steadily; our Friends who Stay amongst
+                  <lb/>you, will pay the Money Punctually, when a Certificate is produced
+                  <lb/>to them. Signed by two of your Chiefs, certifying that
+                  <lb/>the School has been kept up Steadily, for the length of time aboveme-
+                  <lb/>ntioned for payment; The <orgName key="tuscarora">Tuscororas</orgName> being admitted to partake
+                  <lb/>equally of the advantages of this School.
+              </p><p>
+                  Brothers, We further Propose for your encouragement
+                  <lb/>in agricutures Industry &amp; c, that for the Term of two years,
+                  <lb/>from the third month next, we will give the following Premium
+                  <lb/>to any Individual Indian of the <orgName key="stockbridge">Stockbridg</orgName> Nation, Living in
+                  <lb/>this Reservation, upon the conditions herein after mentioned;
+                  </p>
+                  <list rend="simple">
+                  <item><lb/>1st For every 50 Bushels of wheat raised in one year within
+                  <lb/>said terms. by any one Farmer of either of these two Nations
+                  <lb/>on his own Land, not wraught, by any white People, the Sum of 2 Dollars</item>
+                  <item><lb/>2nd For every 100 Bushels of Indian corn raised in Like
+                  <lb/>manner aforesaid The Sum of two Dollars,</item>
+                  <item><lb/>3rd For every 100 Bushels of Potatoes raised as foresaid,
+                      <lb/>the Sum of one and an half;</item>
+                  <item><lb/>4th
+                  <lb/><pb n="12" facs="hv_hs_journal_v1_1796_012"/>
+                  <lb/>4th For every three Tons of Hay rais’d as aforesaid, and put into
+                      <lb/>a Stack or barn the Sum of two Dollars;</item>
+                  <item><lb/>5th For every 12 yds of Linning Cloth made by any Indian woman
+                  <lb/>out of flax raised on her or her Husbands Land, and spun in
+                      <lb/>her own House, the Sum of one Dollar to be paid to the woman.</item>
+                  <item><lb/>6th For every 12 yds of wollen Cloth, maid as aforesaid, of the wool
+                  <lb/>of her own, or her Husbands Sheep, Spun in like manner aforesd.
+                      <lb/>the Sum of one Dollar to be paid to the woman;</item>
+                  </list>
+                <p>
+                  Now the Conditions of obtaining the above Premiums, are that
+                  <lb/>the Persons applying Shall produce a Citificate Signed at Least
+                  <lb/>by two of their Chiefs, of his or her particular Tribe, certifying
+                  <lb/>the particular Quantity, of grain. Cloths &amp; c. for which said
+                  <lb/>Premium Shall be Demanded and that it was raised &amp; maid
+                  <lb/>in the manner above Particularly Specifyed, and also the appli-
+                  <lb/>cant has not, to the best of their knowledg been Intoxicated with
+                  <lb/>Strong Drink, at Least for the Space of one full year, before Such applica-
+                  <lb/>tion be made; And we further Propose that any man or
+                  <lb/>Woman of these two Nations, by produceing a Certificate, from
+                  <lb/>two of the Chiefs, as aforesaid, that he or she is highest or foremost
+                  <lb/>in one or more of the above Particulars of any other Person in
+                  <lb/>that Nation, He or She Shall be Entitled to a Double Premium
+                  <lb/>for the particulars in which he or she Shall be So highest
+
+                  <lb/><pb n="13" facs="hv_hs_journal_v1_1796_013"/>
+                  <lb/>or foremost, And our Friends, <persName key="jtayl1">Jacob Taylor</persName>, <persName key="hsimm1">Henry Simmons Jun.</persName>
+                  <lb/>and <persName key="ewalk1">Enoch Walker</persName>, are hereby authorized and Desired to pay
+                  <lb/>the above Mentioned Premiums, agreeable to what is herein.
+                  <lb/>above Particularly Mentioned;
+                    </p>
+                  <dateline> <date when="1796-06">Sixth Month 1796</date></dateline>
+               </div>
+            <div type="entry">
+                  <p>
+                  The <orgName key="stockbridge">Stockbridges’s</orgName> have Six miles Square of Land, given to them
+                  <lb/>by the <orgName key="oneida">oneidas</orgName>; it being Divided Each one a Hundred acres, they
+                  <lb/>are from old Stockbridg, in New England, They are a mixed
+                  <lb/>Tribe, There is about 340 People old and young; Their Anuity from <orgName key="checkplace">Congress</orgName>
+                      <lb/><del><orgName type="nystate">New York Government</orgName></del> is 350 Dollars;
+              </p><p>
+                  The <orgName key="tuscarora">Tuscorora Indians</orgName> are from <placeName key="virgi">Virginia</placeName>, there is about 50 or 60
+                  <lb/>People Living on the oneida Reservation, they have no Land here
+                  <lb/>of their own yet, The greater Part of this Tribe Lives near <placeName key="niagara">Niagra</placeName>.
+              </p><p>
+                  There is about Six Hundred People old &amp; yong of the Oneida
+                  <lb/>Nation, and their Anuity from the United States is about 7
+                  <lb/>Hundred Dollars, and from Government of New York, is
+                  <lb/>about Four Thousand Dollars, yearly;
+                  <lb/>which they Divide Equally among old and young.
+                  <lb/>They have about Ten Miles Square <unclear>Lqt</unclear> for themselves of Land
+                 </p>
+                </div>
+            <div type="entry">
+                  <lb/><pb n="14" facs="hv_hs_journal_v1_1796_014"/>
+                  <head>Minutes of conclusive conferences Between the Friends Settleing on
+                  <lb/>the oneida Reservation and the Indians. proposed on the <date when="1796-06-25">25th</date> and
+                  <lb/>agreed on the <date when="1796-06-30">30th of the 6th month 1796</date>.</head>
+                <list type="simple">
+                  <item><lb/>1st Brothers of the <orgName key="oneida">Oneida Nation</orgName>. You now know that
+                  <lb/>we are sent to you by your old Friends, the People Called Quakers,
+                  <lb/>of Pensylvania and parts adjacent, Not merely to make you presents
+                  <lb/>which would Soon be Spent, Leaving you still Poor &amp; needy, but to Shew you
+                  <lb/>how the whiteeople manage to raise a great Deal of food and
+                  <lb/>Clothing off of a Little Land, that you may become able to Support
+                  <lb/>Yourselves &amp; your Children comfortably, without being beholding to
+                  <lb/>any body, and have somthing to spare, for the old &amp; Infirm as
+                  <lb/>well as to Lay by against times of Scarcity.</item>
+                  <item><lb/>2nd Brothers. Remember, that we have Left all that was Dear to us
+                  <lb/>at home, not to get your Lands from your, or any thing that is yours,
+                  <lb/>But to visit you in Love, and to Stay with you, if Hapyly, we may
+                  <lb/>put you in the way to Enjoy the manifold blessings of all beauti
+                  <lb/>full creator; Now we have Seen and reflected upon your Situat-
+                  <lb/>ion, and consulted one another for the Future Prosperity, of
+                  <lb/>your whole Nation, and the Thee Tribes, that your have Kindly
+                  <lb/>Permited to Settle on your Lands, And we have put our conclusions
+                  <lb/>in writeing, that it may be known what we are willing to under-
+                  <lb/>take for you, and what we Desire you to do toward it yourselves;
+                  <lb/>for-
+
+                  <lb/><pb n="15" facs="hv_hs_journal_v1_1796_015"/>
+                  <lb/>for we mean to Set before you a clear Example, if your will agree to follow it.</item>
+                  <item><lb/>3rd Now Brothers. We trust that we Possess your conf-
+                  <lb/>idence unmixed with any Jelousies, or fears, and we request you
+                  <lb/>to Listen Patiently and attentivly, to what we are going to Propose
+                  <lb/>to you for your own good, and if any part of it Displeases you
+                  <lb/>Tell us so, and we will reconsider it;</item>
+                  <item><lb/>4th Brothers Three of our Friends intend to stay with you,
+                  <lb/>for those purposes, Namely, <persName key="jtayl1">Jacob Taylor</persName>, <persName key="hsimm1">Henry Simms, Junr.</persName>
+                  <lb/>and <persName key="ewalk1">Enoch Walker</persName>, but they are not bound to remain by any
+                  <lb/>thing but good will, Neither are they obliged to work more than
+                  <lb/>they think necessary, nor to be altogether among you, as they are
+                  <lb/>to go sometimes to <placeName key="tusca1">Tuscorora</placeName>, <placeName key="stock">Stockbridg</placeName>, &amp; <placeName key="broth">brothertown</placeName>. We Ear
+                  <lb/>nestly desire that none of you may Discourage them, by Swearing,
+                  <lb/>Idlness, Drunkenness, or misbehavour, for these things are very Dis
+                  <lb/>agreeable to us, as you know they are to the good Spirit. </item>
+                  <item><lb/>5th Brothers You know we must have some Land to work upon,
+                  <lb/>and we Shall like to begin upon that part of the common that
+                  <lb/>Lies west of the path from <placeName key="checkplace">Skennendos</placeName> to Stockbridg South of the
+                  <lb/>road to <placeName key="onond">Onondargo</placeName>, East of the Boundaries of the old Fort, and
+                  <lb/>North of the <placeName key="checkplace">Skennendo Creek</placeName>, excepting any part thereof now
+                  <lb/>occupied by your Families. </item>
+                  <item><lb/>6th Brothers If we think their is Encouragement to undertake
+                  <lb/>more an another year, we Shall ask you for it Seasonable, and
+
+                  <lb/><pb n="16" facs="hv_hs_journal_v1_1796_016"/>
+                  <lb/>and agree together where it Shall be. </item>
+                  <item><lb/>7. Brothers you know it is hardly Practicable for all to learn
+                  <lb/>Together, we will begin with a few, who must Stick to the work
+                  <lb/>the rest will se how they get forward, and will be ready, to take their
+                  <lb/>Turn, when it comes round, we want to engage Six or Eight Sob-
+                  <lb/>er young Men as apprentices, Till next Spring. </item>
+                  <item><lb/>8. Brothers We Suppose you will be willing that we Should feed
+                  <lb/>our Horses, cattle &amp; c. upon the Common, and that you will allow
+                  <lb/>us Some grass Lots, to provide hay for them in the Winter, To
+                  <lb/>cut firewood railing, and Timber for Building, in your woods
+                  <lb/>use your Sawmill and Smith shop, when we have occation for them.</item>
+                  <item><lb/>9th Brothers you will understand that our Friends are to Live
+                  <lb/>Plentifully as their own People do at Home, &amp; their Live Stock is to be
+                  <lb/>kept upon the Produce of their Labour; In the first place one Eight
+                  <lb/>part of the remainder is to be reserved, for the relief of your old
+                  <lb/>and Infirm People, the rest is to be Devided among the young Ind
+                  <lb/>ian Apprentices, that they may Enjoy the fruits of their Labour,
+                  <lb/>and have somthing to begin with for themselves, when others are
+                  <lb/>taken in their stead, Provided they behave well, but in case of con
+                  <lb/>tinueed Idleness, Drunkenness, Swearing, or Misbehavour, in any
+                  <lb/>of them our Friends must not keep bad company and we requ
+                  <lb/>est your, to appoint Three of your Chiefs, to unite, with our three
+                  <lb/>Friends as Judges, that if four of them agree the person, offending
+                  <lb/>may
+
+                  <lb/><pb n="17" facs="hv_hs_journal_v1_1796_017"/>
+                  <lb/>may be justly Discharged. </item>
+                    <item>10th Now Brothers. Our Stay
+                  <lb/>among you will Depend upon Several Sircunstances, and particu
+                  <lb/>larly, the Encouragement we may have to hope that your Nation
+                  <lb/>will in time become Sober, Industrous, &amp; Frugal, Laying up Som
+                  <lb/>ething for yourselves, against Sickness, and old age; will belong
+                  <lb/>to you, but cattle and other things, that we bring with us, we
+                  <lb/>Shall consider as our own, </item>
+                </list>
+                <dateline> <date when="1796-06-25">Sixt month 25th 1796</date></dateline>
+               </div>
+            <div type="entry">
+                <p>
+                    The Indians replied on the <date when="1976-06-30">30th of the 6th</date> in substance as follows
+                </p>
+                  <floatingText type="letter">
+                      <body>
+
+                  <p>1rst Brothers. We find no Difficulty, in accepting your Proposals,
+                  <lb/>as to any thing, but the place you chose (see the 5th article) many of
+                  <lb/>our People are against parting with any of the common, because
+                  <lb/>we have hardly Pature anough for our cattle now, and if we Lesson
+                  <lb/>if, they will be Famished, and break Down our Fences to get at the
+                  <lb/>Corn, besides, which we are afraid our young Men, will Disturb you
+                  <lb/>their some times, when they get in Liqour.
+                  </p>
+                  <p>2nd Brothers. We think it right to Propose another place to
+                  <lb/>you, which we think may Suit you better, we will go Shew it to you
+                  <lb/>Upon this, the Spot was received &amp; mutually, agreed to; as follows,
+                  <lb/>beginning at the gut South South East of Antony Shonnonlegos
+                  <lb/>House, and running nearly South by a Tree Marked - to a Tree
+                  <lb/>marked, Extending Eastward Through the Woods with our Limitation
+                  <lb/>and <persName key="checkplace">Anthony Shonnonlego</persName>, being willing to Lease his House, it
+                  <lb/>was Engaged for the use of the Settlement, it was also agreed
+                  <lb/>the
+                  <lb/><pb n="18" facs="hv_hs_journal_v1_1796_018"/>
+                  <lb/>the Friends should have liberty, to Inclose what they might
+                  <lb/>want of the flatts, for hay, or pasture, agreeable to the 8th article
+                  <lb/>And <persName key="jsken1">John Skennondo</persName>, <persName key="checkplace">Antony Shonnonlego</persName> &amp; <persName key="nshago1">Nicholas Shago-
+                  <lb/>rakorongo</persName>, where appointed as Judge, under the 9th article.
+                  </p>
+
+                          </body>
+                      </floatingText>
+
+                  <p>In Confirmation of all which Proceding agreements, we have
+                  <lb/>hereunto Interchangably Set our Hands; <persName key="jpier1">John Peirce</persName>, <persName key="jcoop1">James
+                  <lb/>Cooper</persName>, <persName key="jsans1">Joseph Sansom</persName>, <persName key="irowl1">Isaiah Rowlang</persName>, <persName key="jtayl1">Jacob Taylor</persName>,
+                  <lb/><persName key="ewalk1">Enoch Walker</persName>, and <persName key="hsimm1">Henry Simmons Junr.</persName>
+                </p>
+               </div>
+
+            <div type="entry">
+              <p>
+                  A Large <unclear>witeh</unclear> frost at <placeName key="oneid">Oneida</placeName> the <date when="1796-08-31">31st of the 8. Month 1796</date>
+                  <lb/>I was at a burial of one of the Indians the 31st Day of the 8th Mo 1796
+                  <lb/><persName key="checkplace">Capn William</persName>, where there was about two Hundred Indians
+                  <lb/>old &amp; young of which I did not Perceive a Smile in any of their
+                  <lb/>Countenances, but many of the Women was much affected.
+                  <lb/>Several uncommon Circles round the Sun the <date when="1796-09-01">1st Day of the 9 mo</date>
+                  <lb/>which Succeeded by a great Storm of rain &amp; wind next Day. 1796
+                  <lb/>Snow Squals at Oneida, the <date when="1796-10-17">17th Day of the 10 Month 1796</date>.
+                  <lb/>the ground Covered with Snow <date when="1796-11-03">the 3rd of the 11th Mo</date>
+                  <lb/>the <date when="1796-11-06">6th of the 11 Mo.</date> a great Storm Rain Wind and Snow.
+                  <lb/><pb n="19" facs="hv_hs_journal_v1_1796_019"/>
+                  </p>
+                  </div>
+
+            <div type="entry">
+                <p>
+                  <lb/>I Left <placeName key="oneid">Oneida</placeName> the <date when="1797-05-08">8th Day of the 5 month 1797</date>.
+                  <lb/>in order to take Some Impliments of Husbandry,
+                  <lb/>&amp; other articles on to the <orgName key="onondaga">Onondago</orgName> &amp; <orgName key="cayugaind">Cayuga</orgName> Nations of Indians
+                  <lb/>which our Friends of Philada had Sent to <placeName key="fschy">Fort Scuy-
+                  <lb/>ler</placeName>; with a request that one or two of us would take
+                  <lb/>and Distribute them among there two Tribes; at
+                  <lb/>discretion; and as there was but two of us at Onei
+                  <lb/>da at that time, it fell to my Lot to take them al
+                  <lb/>one with the Ox Team, which was none of the Small-
+                  <lb/>est of tryals; as I had understood the Road was very
+                  <lb/>bad &amp; tedious, and found it to be the case.
+              </p><p>
+                  The first night Lodged at <placeName key="checkplace">Cannasharaugua</placeName> at
+                  <lb/><persName key="jdenn1">John Dinneys</persName>, an Oneida Indian where I met with a cold
+                  <lb/>bed, &amp; cold reception, from thence through a smart hail Storm
+                  <lb/>to <persName key="ewebs1">Ephraim Websters</persName> the Interpretter 18 miles, who
+                  <lb/>Lives about 3 miles from the <placeName key="ononc">Onondago Castle</placeName>, He told me
+                  <lb/>that many of Onondago Indians were gone after Pigeons
+                  <lb/>I thought it best to leave their Share of goods at his House
+                  <lb/>and go on to Cayuga &amp; them Divided when I came back
+                  <lb/><pb n="20" facs="hv_hs_journal_v1_1796_020"/>
+                  <lb/>He also told me their was about one Hundred &amp; thirtyfine
+                  <lb/>of this Tribe, and by the best information about Sixty of
+                  <lb/>the Cayugas, for which I took them one third of all the
+                  <lb/>goods Contained in said Cask &amp; Box so set of about 2
+                  <lb/>Oclock in the afternoon Traveling 10 miles over Several
+                  <lb/>Mountains, arrived about 9 oclock at a privet House,
+                  <lb/><persName key="checkplace">Carpenter</persName> by Name, took Lodging on the Floor from then
+                  <lb/>ce to <persName key="hmore1">Henry Moors</persName>, where was good accommodations
+                  <lb/>20 Miles, thence to <persName key="checkplace">Fradrick Gearhearts</persName> 7 Miles, and
+                  <lb/>2 ½ from the Indian Settlements, whom I was recomm
+                  <lb/>ended too as an Interpretter, I spent the remainder of the
+                  <lb/>Day, accompanied by this man, in visiting the
+                  <lb/>Indian Hutts, &amp; writing, and found but two women
+                  <lb/>them Planting Corn, Some where gone one way Some ano-
+                  <lb/>ther, &amp; very uncertain when they would return, for wh
+                  <lb/>ich I was streightened about it, but believing it best
+                  <lb/>to Leave the Impliments in Gearhearts care untill they came
+                  <lb/>Home, in the Morning came two of their Chief women
+                  <lb/>and I Shewed them all the Tools &amp; told them they were
+                  <lb/><pb n="21" facs="hv_hs_journal_v1_1796_021"/>
+                  <lb/>where to be Devided when the rest came Home.
+              </p><p>
+                  I Left a few lines with <persName key="checkplace">Gearheart</persName> to be read &amp; expla
+                  <lb/>ined to them, which he said should be done, &amp; that they should
+                  <lb/>have every article I Left with him, for them, he would also
+                  <lb/>instruct them how to use the Tools.
+                  <lb/>The few Lines are as follows
+              </p>
+                <floatingText type="letter">
+                    <body>
+                 <p>
+                  Brothers &amp; Sisters
+                  <lb/>I suppose you know that your old friends the People
+                  <lb/>Called Quakers of Philadelphia &amp; parts adjacent, are about
+                  <lb/>helping and indeavouring to encourage the Indians to
+                  <lb/>become good Farmers; wherefore they have Sent you So
+                  <lb/>me Impliments of Husbandry; which your Friends the
+                  <lb/>Quakers, that visitted you Last Summer proposed to give
+                  <lb/>you for your encouragement.
+                 </p><p>
+                  Brothers, I inform you that we want nei-
+                  <lb/>ther Land nor Money Skins or furrs for these articles or for
+                  <lb/>our expence &amp; Labour; but only to do you good, and that
+                  <lb/>you may do good for yourselves; which you will if you
+                  <lb/>strive to be Farmers. I should be glad if I had seen
+                  <lb/>you, but you where scattered about the Country that
+                  <lb/>I
+                  <lb/><pb n="22" facs="hv_hs_journal_v1_1796_022"/>
+                  <lb/>I could not wait till you returned; but I request six or
+                  <lb/>Eight of your Sober People to take these articles &amp; devide
+                  <lb/>them amongst your Nation. be kind to Each other &amp;
+                  <lb/>lend these Tools one to another.
+                 </p><p>
+                  Now Brothers,
+                  <lb/>If your friends the Quakers find your do
+                  <lb/>not use these tools &amp; try to be good Farmers. They will
+                  <lb/>be discouraged from helping you any more.
+                  <lb/>Therefore I wish you to encourage one another
+                  <lb/>to be good Husbands; that you may have plenty of
+                  <lb/>Bread &amp; Meet in your Houses all the year round
+                  <lb/>is what I wish.
+                     </p>
+                     <closer><salute>I am your friend &amp; Brother </salute>
+                  <lb/><signed>H.S. Junr</signed>
+                         </closer>
+                  </body>
+                 </floatingText>
+              <p>
+                  after feelling myself satisfied, Set my face Homeward
+                  <lb/>toward <placeName key="oneid">Oneida</placeName> got back too <persName key="checkplace">Foltons</persName> Inn, where I fou-
+                  <lb/>nd pretty good entertainment except a cold bed, thence
+                  <lb/>to <persName key="checkplace">Websters</persName>, were I arrived at 3 oclock on first Day of
+                  <lb/>the week where were divers of the writes Collected together
+                  <lb/>drinking
+                  <lb/><pb n="23" facs="hv_hs_journal_v1_1796_023"/>
+                  <lb/>Drinking Rum Swearing gangleing &amp; very bad behaviour going on
+                  <lb/>which was painful to me, as some Indians where among
+                  <lb/>them, but appeared Quiet. I spent the afternoon in read
+                  <lb/>ing the holy scriptures &amp; writing; The Day following I
+                  <lb/>visitted the Indians in their Houses endeavouring to persuad
+                  <lb/>them to clear their Land, &amp; raise abundance of grain.
+                  <lb/>also requested them to come to Websters in the Morning
+                  <lb/>to get their Goods. very few of the Men being at home
+                  <lb/>Some I met going from Home, accordingly about 50 came
+                  <lb/>near the Eleventh hour next Day. Some of which
+                  <lb/>excused themselves for not turning back with me the
+                  <lb/>Day before; as one of their Men was sick some distance
+                  <lb/>off and they where then going to bring him Home.
+                  <lb/>Then I had a few Lines explained to them,
+                  <lb/>which are as follows
+              </p>
+                <floatingText type="letter">
+                    <body>
+                   <p>Brothers &amp; Sisters,
+                  <lb/>I expect you know that your
+                  <lb/>Friends the People called Quakers of Philada and
+                  <lb/>in other parts, are about helping &amp; also instructing
+                  <lb/>the
+                  <lb/><pb n="24" facs="hv_hs_journal_v1_1796_024"/>
+                  <lb/>the Indians Particularly in the Cultivation of your Lan
+                  <lb/>ds in the manner of the white People, that you may
+                  <lb/>have plenty of Bread &amp; Meet for yourselves and
+                  <lb/>Children all the year round, that you might not suf
+                  <lb/>fer for the want of it; as I believe you oftten do, thro’
+                  <lb/>your own Idleness &amp; Drunkenness.
+                 </p><p>Brothers, I suppose you remember that some of your
+                  <lb/>Friends the Quakers who paid you a visit Last Summer
+                  <lb/>proposed to send you some Impliments of Husbandry, in
+                  <lb/>order to encourage you to work, that you may in time
+                  <lb/>become good Farmers. I have now brought them, &amp;
+                  <lb/>all we want for them or for our trouble, is your careful
+                  <lb/>attention to what we Say to you, that is, that you
+                  <lb/>go to work with them clear and Plow your Land as
+                  <lb/>fast as you can, So you may have plenty of food to
+                  <lb/>Subsist upon; So that ye are kind to Each other &amp;
+                  <lb/>lend these Tools and encourage one another to work
+                  <lb/>and persuad one another from Drinking Rum &amp;
+                  <lb/>getting Drunk. Oh how Sorry I have been to see
+
+                  <lb/><pb n="25" facs="hv_hs_journal_v1_1796_025"/>
+                  <lb/>see the Poor Indians laying about the ground Drunk, instead
+                  <lb/>of being on your Land at work. And it is very displ-
+                  <lb/>easing to the Great Good Spirit. you should not spend
+                  <lb/>your Money for Rum, you should buy Horses Chattles &amp;
+                  <lb/>other useful articles with it to work your Land with,
+                  <lb/>and Clotheing to keep you warm in cold weather
+                 </p><p>Now Brothers
+                  <lb/>If you do not use those Tools nor try
+                  <lb/>to be Farmers, but continue on in your Drunken Idle way
+                  <lb/>of Living, eltting your wives &amp; women do all the work
+                  <lb/>for you. Dont you think your friends the Qua-
+                  <lb/>kers, will be discouraged from helping you anymore,
+                  <lb/>I fear they will, Therefore I want you to be enco-
+                  <lb/>raged &amp; persuaded to work your Land, Perhaps in
+                  <lb/>a few years, through your industry and Care, you
+                  <lb/>may be good Farmers, and good Houskeepers, which
+                  <lb/>will add much more to your comfortable way of
+                  <lb/>Living, than the methods you are now in.
+                     </p>
+                <closer><salute>I am
+                  <lb/>your friend and Brother </salute>
+                  <lb/><signed>H. S. </signed>
+                     </closer>
+                     </body>
+                </floatingText>
+
+                  <p>after
+                  <lb/><pb n="26" facs="hv_hs_journal_v1_1796_026"/>
+                  <lb/>after a pause, they began their speech, after this manner
+                  <lb/>that they remembered what the Quakers said to them
+                  <lb/>Last summer, and what I had said too them now Corri-
+                  <lb/>sponded, so that they thought they perfectly underst-
+                  <lb/>ood what our intention was, and they now felt thank-
+                  <lb/>ful for our help and assistance.
+              </p><p>
+                  They said the <orgName key="oneida">Oneidas</orgName> had a double previledg to
+                  <lb/>what they had, as many of them had Learning &amp; could conv-
+                  <lb/>erse with the white People &amp; Learn their ways of Living
+                  <lb/>but they had no Learning but what nature had Lea-
+                  <lb/>rnt them. but yet they where willing to take hold
+                  <lb/>and do what they could, but that of Drinking Rum
+                  <lb/>&amp; getting Drink, they Said they thought they could
+                  <lb/>not keep from it, because it was running all round
+                  <lb/>them, that they now lived on an Island, and the wh-
+                  <lb/>ite People would give them Drams &amp; then they cra-
+                  <lb/>ved more, So that they thought it was impossi-
+                  <lb/>ble to leave it off; as they had so long been accustom-
+                  <lb/>ed to it; but they where in hopes the young Peo-
+                  <lb/>ple
+                  <lb/><pb n="27" facs="hv_hs_journal_v1_1796_027"/>
+                  <lb/>ple would learn better. However they Said
+                  <lb/>they would use those Impliments as well as they could, or
+                  <lb/>words to the same perport. The Counsel broke up
+                  <lb/>I Delivered them all the articles and told them how
+                  <lb/>to fix &amp; use them. And requested some of their Sober Peo-
+                  <lb/>ple to take &amp; Devide them amongst their Nation.
+              </p><p>
+                  I proposed to them to Layout Some of their Anu-
+                  <lb/>ity for a grindstone, to grind there Tools; And they
+                  <lb/>agreed to do so, and <persName key="ewebs1">Ephraim Webster</persName> said he would
+                  <lb/>get it for them &amp; charge them nothing for his trouble;
+              </p><p>
+                  I felt my mind easy and released, and left their
+                  <lb/>about 2 oclock got to Fosters Inn that evening, from
+                  <lb/>thence Home, after a tiresome Journey of 140 Miles
+                  <lb/>I arrived at <placeName key="oneid">Oneida</placeName>, with the answer of Peace, for I
+                  <lb/>can truly say I sought for best wisdom to direct one through
+                  <lb/>this Journey &amp; the business committed to my trust.
+              </p><p>
+                  being absent from Oneida about Ten Days
+                  <lb/>My Expence was 2£ 1s 7d
+                  <lb/><pb n="28" facs="hv_hs_journal_v1_1796_028"/>
+                  </p><p>
+                  As it appears that it is an antient Custom am-
+                  <lb/>ong the Indians and remains with Some Tribes to
+                  <lb/>this Day’ that when they bury their Dead they bury
+                  <lb/>with them all that belongs too them, such as, Silver; kettles,
+                  <lb/>Tomyhauk, Clothing &amp;c. And some of the white People
+                  <lb/>near the <placeName key="cayug1">Cayugas</placeName> (as I am told, have from time to time
+                  <lb/>opened some of their Graves to get those things buried
+                  <lb/>with them; for which ill usage, the Indians have
+                  <lb/>been much Exasperated about.
+                 </p>
+              </div>
+            <div type="entry">
+                <p>
+                  I left <placeName key="oneid">Oneida</placeName> the <date when="1797-09-10">10th Day of the 9th Month
+                  <lb/>1797</date>. In order to return to my Native Country;
+                  <lb/>after taking a farewell of my two Companions, and the
+                  <lb/>beloved Indians, I set out for <placeName key="fschy">Fort Scuyler</placeName> on first
+                  <lb/>Day of the week, after a Solemn time of siting in silence
+                  <lb/>where I arrived about dusk 22 Miles from thence
+                  <lb/>by Mule Stage to <placeName key="checkplace">Scannajoharry</placeName> 40 miles Loging there
+                  <lb/>from thence to <placeName key="schen">Schenectad</placeName>y 39 miles Lodging there from
+                  <lb/>thence to <placeName key="alban">Albany</placeName> 16 miles Tarring there about 27
+                  <lb/>Hours
+                  <lb/><pb n="29" facs="hv_hs_journal_v1_1796_029"/>
+                  <lb/>Hours, Then Set saile in the Sloop Elizabeth, bound
+                  <lb/>for <placeName key="newyo">New York</placeName>, <persName key="checkplace">Garrot Launsen</persName> Master
+                  <lb/>where I arived in three Days &amp; half 165 miles Staying there
+                  <lb/>too days having the Fever &amp; aque; from thence to <placeName key="trent">Trenton</placeName>
+                  <lb/>by Stage 6.5 miles Lodging at <persName key="checkplace">Mahlon Atkinson’s</persName> so by
+                  <lb/>Stage to <placeName key="brist">Bristle</placeName> 10 miles; lodging at <persName key="checkplace">Jonathan Pursals</persName>
+                  <lb/>So by his assistance got Home next Day, it being
+                  <lb/>about Twelve Days Journey.
+              </p>
+                </div>
+            <div type="entry">
+                <p>
+                  <date when="1797-10-16">The 16th of the 10th month</date>; I Set out to the
+                  <lb/><placeName key="oneid">Oneida Country</placeName>; the second time, in company
+                  <lb/>with <persName key="jclar1">Joseph Clark</persName>; of philadelphia; in order to
+                  <lb/>bring down some Indian Girls, to be placed amo-
+                  <lb/>ngst Friends in Pennsylvania, to be taught
+                  <lb/>all kinds of House Wifery; In about 5 weeks we
+                  <lb/>returned with Six, Four Stockbridge and too
+                  <lb/>Tuscororas.
+
+               </p>
+            </div>
+
+        </body>
+    </text>
+
+</TEI>

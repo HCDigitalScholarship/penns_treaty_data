@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+
+    <fileDesc>
+      <titleStmt>
+        <title type ="main">Henry Simmons letterbooks, Vol. 1 1797</title>
+        <title type="sub">Encoded Edition</title>
+        <author>Simmons, Henry, 1768-1807</author>
+        <respStmt>
+          <resp>Transcribed and encoded by</resp>
+          <name>Yuchao Wang</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding edited by</resp>
+          <name>Emily Thaisrivongs</name>
+        </respStmt>
+        <funder>Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections</funder>
+      </titleStmt>
+
+      <publicationStmt>
+        <publisher>Quaker &amp; Special Collections, Haverford College</publisher>
+        <pubPlace>Haverford, PA</pubPlace>
+        <date when="2017">2017</date>
+        <availability><licence target="http://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</licence></availability>
+        <idno type="local">hv_hs_letterbook_v1_1797</idno>
+      </publicationStmt>
+
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>USA</country>
+            <region type="state">PA</region>
+            <settlement>Haverford</settlement>
+            <repository>Quaker &amp; Special Collections, Haverford College</repository>
+            <collection>Henry Simmons letterbooks, 1797-1798</collection>
+            <idno>MC.975.02.019</idno>
+          </msIdentifier>
+          <physDesc>
+            <p>99 pages</p>
+          </physDesc>
+        </msDesc>
+        <bibl>Henry Simmons letterbooks, 1797-1798, Vol.1 1797 (MC.975.02.019), Quaker &amp; Special Collections, Haverford College, Haverford, PA.</bibl>
+        <bibl>This text was digitized by Yuchao Wang in 2017 with funding from the Omohundro Institute of Early American History &amp; Culture.</bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <projectDesc>
+        <p>This text was transcribed and encoded for use in Beyond Penn's Treaty: Quakers and American Indian Relations <ptr target="https://pennstreaty.haverford.edu/"/>, a digital project that provides access to linked and annotated versions of Quaker diaries, letters, and meeting records which record contact with American Indians, particularly the Seneca, beginning in the 1740s. These documents, held in Quaker &amp; Special Collections at Haverford College and Friends Historical Library at Swarthmore College, are all from the Quaker perspective, and document their view of this unfolding relationship.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Grammar, punctuation, spelling have been preserved. Line breaks, paragraph breaks, and page breaks have been preserved. Hyphens have been preserved and normalized to one dash "-". Words or phrases that the encoder could not interpret have been tagged with the "unclear" element. If there was more than one reference to the same entity (person, group, place) in one paragraph, only the first occurrence was encoded unless the paragraph spanned more than one page. If the paragraph spanned more than one page, the entity was encoded at least once per page.</p>
+      </editorialDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <creation>
+        <origDate when="1797">1797</origDate>
+      </creation>
+    </profileDesc>
+
+    <revisionDesc>
+      <change></change>
+    </revisionDesc>
+  </teiHeader>
+
+    <text>
+        <body>
+            <div type="titlepage">
+                  <pb n ="1" facs="hv_hs_letterbook_v1_1797_001"/>
+                  <head><persName key="hsimm1">Henry Simmons’s</persName></head>
+               </div>
+            <div type="letter">
+                  <lb/><pb n ="2" facs="hv_hs_letterbook_v1_1797_002"/>
+              <head>
+                  <lb/>A Copy of the Second Letter, from the Indians,
+                  <lb/>To the Legislature of Newyork.
+              </head>
+                <opener>
+                  <lb/>To the great Sachems &amp; Councillors of the
+                  <lb/><orgName key="nystate">State of N. york</orgName>.
+                </opener>
+                 <p>Brothers attend,
+                  <lb/>We the Chiefs of the different Tribes re-
+                  <lb/>siding on the Reservation of the <placeName key="oneid">Oneida Country</placeName>
+                  <lb/>desires to speak to you in a few words. as we hear that
+                  <lb/>you are seting around the great Council fire at <placeName key="alban">Al-
+                  <lb/>bany</placeName>, to consult the peace and hapiness of your Peo-
+                  <lb/>ple in this State.
+                 </p><p>Brothers,
+                  <lb/>We now call to your Minds the long sp-
+                  <lb/>eech we sent to you Last spring, in which with gro-
+                  <lb/>aning we unitedly asked you to extend the strings
+                  <lb/>of your strong Law, to bind the <unclear>Heroe</unclear>, whose <unclear>nasne</unclear>
+                  <lb/>you Call Rum, that he may not come into the
+                  <lb/>Towns of our Tribes, To plunder and interrupt
+                  <lb/>our peace any longger.
+                 </p><p>Brothers,
+                  <lb/>We never have heard whether our
+                  <lb/>voice was reached to your Ears, or whether you Listen-
+                  <lb/>ed
+                  <lb/><pb n ="3" facs="hv_hs_letterbook_v1_1797_003"/>
+                  <lb/>ed to your desires, we think it would be proper to infor
+                  <lb/>m you that we are yet in dangerous Situation because
+                  <lb/>our Law is not strong enough to restrain him.
+                  <lb/>therefore our Eyes are still looking on you for help.
+                 </p><p>Brothers,
+                  <lb/>In remembrance of the good talks which
+                  <lb/>have passed between our fore Fathers and yours, whi
+                  <lb/>ch you often renewed, we also in like manner renew
+                  <lb/>our desire, and we hope you will pity on us, and in yo
+                  <lb/>ur great wisdom make some strong Law for our
+                  <lb/>relief, that we may be built up, be happy, and enabled
+                  <lb/>to maintain the Chain of Friendship with our
+                  <lb/>American Brethren.
+                  <lb/>And we will ever acknowledg your
+                  <lb/>Friendship.
+                     </p>
+                <dateline><date when="1797">The year 1797</date></dateline>
+                  <lb/><pb n ="4" facs="hv_hs_letterbook_v1_1797_004"/>
+                </div>
+            <div type="letter">
+                 <opener>
+                  <lb/>To the great Sachems &amp; Chiefs of the <orgName key="nystate">State of Newyork</orgName>
+                  <lb/>now Seting around the Council fire at N.york.
+                 </opener>
+                  <p>Brothers, Before you cover your council fire, we beg
+                  <lb/>your attention to the voice of your Brothers the Different tribes
+                  <lb/>Living <orgName key="oneida">Oneida Country</orgName>, Speaks to you in Remembrance of
+                  <lb/>the Friendship you have manifested Towards them in all our
+                  <lb/>Treaties, we ourselves have held Counsels at Different times
+                  <lb/>to contemplate the welfare of our Nation, because we cannot
+                  <lb/>but groan to see our Situation; It is also Meloncholy to reflect
+                  <lb/>on the ways of our Forefathers. Brothers, you are also Som
+                  <lb/>etimes Sorrow to see the Deplorable situation of your Indian
+                  <lb/>Bretheren, For which you have given us many good coun-
+                  <lb/>sels. Though we feel ourselves willing to follow your Coun
+                  <lb/>sel, But has made no effort as yet, our situation is still
+                  <lb/>Miserable, our ancesters were conquer’d Immediately after
+                  <lb/>you came over this Island, by the Strong heroe, who dose still
+                  <lb/>reign among Indian Tribes with Tyranny, Who has rob’d
+                  <lb/>us every thing that was Precious on our Eyes, but we need
+                  <lb/>not Mention every thing Particularly how this Tyrant has
+                  <lb/>used us, For your Eyes have been open to behold our Dismal
+                  <lb/>situation by the Power of our Enemy, our eyes have been
+                  <lb/>Hinded, Our young Men seem become willing slaves to
+                  <lb/>this Dispotic Heroe, so that we Displeas’d the Great Good
+                  <lb/>Spirit
+                 <lb/><pb n ="5" facs="hv_hs_letterbook_v1_1797_005"/>
+                  <lb/>Spirit &amp; could not become civilized People, In Looking back
+                  <lb/>we see nothing but Dissolation of our Tribes, In looking Forwa
+                  <lb/>rd we foresee the Dissolation of our Mighty men, our Chiefs
+                  <lb/>has used this Endeavours to reform their respective People,
+                  <lb/>but having soon no success they seem Discouraged and
+                  <lb/>hang Down their Heads. Brothers, In remembrance
+                  <lb/>of your kind Promise, We unight our cries to you for
+                  <lb/>help, Perhaps you are ready to think what man that may
+                  <lb/>be,  that has abused so much of our Bretheren. Never
+                  <lb/>was such Heroe or Tyrant heard that ever Meddled with
+                  <lb/>Indians. But in Litterally he is your own bigoten Son.
+                  <lb/>and his name you call Rum, and the names of his Officers
+                  <lb/>are Brandy Wine &amp; Gin; And we know that you
+                  <lb/>have Power to control him, and as we desire to dive
+                  <lb/>in Peace, and to become Civilized Nations, We earnestly
+                  <lb/>intreat you to use your Power, and Wisdom to Prevent
+                  <lb/>all People, whether white or black who may cause Rum
+                  <lb/>and other Spirittuous Liquors to come into the Hands
+                  <lb/>of our Tribes Throughout your State.
+                </p><p>Except when sickness Requir’d our Chiefs
+                  <lb/>may keep a Little for that Purpose.
+                </p><p>In your Complyance, with this our request
+                  <lb/>we will ever Acnowledg your Friendship.
+                </p>
+               <lb/><pb n ="6" facs="hv_hs_letterbook_v1_1797_006"/>
+                <closer>
+                  <salute>
+                  <lb/>As from your Brothers
+                  <lb/>Chiefs and Warriers
+                  <lb/>of the <orgName key="oneida">Oneida Nation</orgName>
+                     <lb/>
+                  </salute>
+                  <signed>
+                  <lb/>Oneida Chiefs
+                  <lb/><persName key="jsken1">John Skennondoa</persName>
+                  <lb/><persName key="checkplace">Christian Thonighgwensoro</persName>
+                  <lb/><persName key="wthad1">William Thadughgwesara</persName>
+                  <lb/><persName key="ckono1">Cornelius Kanoyong</persName>
+                  <lb/><persName key="checkplace">Shayoghyudaha Kawighdot</persName>
+                  <lb/>
+                  <lb/><orgName key="Tuscarora">Tuscorora</orgName> Chiefs
+                  <lb/><persName key="ncusi1">Nicholas Cusick</persName>
+                  <lb/><persName key="dtyod1">David Tyodauseagwente</persName>
+                  <lb/><persName key="pdyon1">Peter Dyongurt</persName>
+                  <lb/>
+                  <lb/><orgName key="stockbridge">Stockbridg</orgName> Chiefs
+                  <lb/><persName key="haupa1">Hendrick Aupaumut</persName>
+                  <lb/><persName key="jquin1">Joseph Quinney</persName>
+                  <lb/><persName key="jshau1">Joseph Showquathquak</persName>
+                  </signed>
+                    <dateline><date when="1796">the year 1796</date></dateline>
+                </closer>
+               </div>
+            <div type="entry">
+                 <head>
+                   <lb/><persName key="hsimm1">Henry Simmons Junior</persName> His Book 1797
+                 </head>
+               <lb/><pb n ="7" facs="hv_hs_letterbook_v1_1797_007"/>
+                <p>Whereas a Treaty of Peace &amp; Friendship between
+                  <lb/>the <orgName key="usag">United States of America</orgName>, and the Tribes of Indi-
+                  <lb/>ans Called the <orgName key="sxntns">Six Nations</orgName>, was made and concluded
+                  <lb/>on the <date when="1794-11-11">Eleventh of the Eleventh month Last</date> <!--attested by the date at the end of the floatingText-->, by <persName key="cpic">Tim
+                  <lb/>othy Pickering</persName>, the agent of the United States, for that
+                  <lb/>Purpose appointed on the one Part. And the Chiefs &amp;
+                  <lb/>Warriors of the Six Nations on the other part, which
+                  <lb/>Treaty is in the form and words Following.
+                 </p>
+                 <floatingText type="letter">
+                     <body>
+                <p>The President ofthe United States Having Determined
+                  <lb/>to hold a conferance with the <orgName key="sxntns">Six Nations of Indians</orgName>
+                  <lb/>for the purpose of removing from their minds all caus
+                  <lb/>es of complaint, and Establishing a firm and Permanent
+                  <lb/>Friendship with them, and Timothy Pickering being
+                  <lb/>appointed Sole agent for that Purpose, and the Agent
+                  <lb/>having met and considered with the Sachems, Chiefs &amp;
+                  <lb/>Warriors of the Six Nations in a generall council,
+                  <lb/>now in order to accomplish the good Design of this
+                  <lb/>conferance, the parties have agreed on the following
+                  <lb/>Articles, which when ratified by the advice &amp; consent
+                  <lb/>of the Senate of the United States, shall be binding
+                  <lb/>in them to the Six Nations.
+                  <lb/>article
+                 </p>
+               <lb/><pb n ="8" facs="hv_hs_letterbook_v1_1797_008"/>
+                 <list>
+                 <item><lb/>Article 1st Peace and Friendship are hereby firmly
+                  <lb/>established, and Shall be Perpetual, Between the United
+                   <lb/>States and the <orgName key="sxntns">Six Nations</orgName>
+                 </item><item><lb/>Article 2d The United States acknowledge the Lands
+                  <lb/>reserved to the <orgName key="oneida">Oneida</orgName> <orgName key="onondaga">Onondaga</orgName> &amp; <orgName key="checkplace">Cauga</orgName> nations, in
+                  <lb/>their respective Treaties with the <orgName key="nystate">State of Newyork</orgName>
+                  <lb/>and called their Reservations, to be their Property, and
+                  <lb/>the United States will never claim the Same, nor disturb
+                  <lb/>them, or either of the six nations, nor their Indians friends
+                  <lb/>residing thereon &amp; united with them, in the free use and
+                  <lb/>Enjoyment thereof; But the Said reservation Shall
+                  <lb/>remain theirs until they chose to Sell the Same to the
+                  <lb/>People of the United States, Who have the right to purchase.
+                 </item><item><lb/>Article 3d The Land of the <orgName key="seneca">Seneka Nation</orgName> is bounded as
+                  <lb/>follows. Beginning on <placeName key="lakeo">Lake Ontario</placeName>, at the North
+                  <lb/>west corner of the Land they sold to <persName key="ophel1">Oliver Phelps</persName>, the
+                  <lb/>line runs Westerly along the Lake as far as <placeName key="oyong">o-yong-
+                  <lb/>Wong-yeh Creek</placeName>, at <placeName key="checkplace">Joseph’s Landing place</placeName>, about four
+                  <lb/>miles Eastward of <placeName key="niaga">Niagara</placeName>. Then southerly up that
+                  <lb/>creek to its main fork, then straight to the main
+                  <lb/>york of <placeName key="checkplace">Stedmans Creek</placeName>, which Empties into the
+                  <lb/><placeName key="niagr">River Niagara</placeName> about <placeName key="checkplace">Fort Schlosser</placeName>; and upward
+                  <lb/>from
+               <lb/><pb n ="9" facs="hv_hs_letterbook_v1_1797_009"/>
+                  <lb/>from that fork, continueing the Same straight course
+                  <lb/>to that River (This Line from the mouth of <placeName key="oyong">o young-
+                  <lb/>Wong yeh Creek</placeName> to the <placeName key="niagr">river Niagara</placeName> above <placeName key="checkplace">fort Schloss
+                  <lb/>er</placeName>, being the Eastern Boundary of a strip of Land, Ex
+                  <lb/>tending from the Same line to Niagara River, which
+                  <lb/>the <orgName key="seneca">Seneka Nation</orgName> Ceded to the King of Great Brit
+                  <lb/>tain at a Treatie held about thirty years ago, with
+                  <lb/><persName key="wjohn3">William Jonson</persName>) Then the Line runs along the river
+                  <lb/>Niagara to <placeName key="lakee">Lake Erie</placeName>, Then along Lake Erie, to the
+                  <lb/>north east corner of a triangular piece of Land which
+                  <lb/>the United States conveyed to the <orgName key="penngov">State of Pensylvania</orgName>
+                  <lb/>as by the Presidents patent dated the <date when="1792-03-03">third day of the
+                  <lb/>third month 1792</date>. Then due south to the northern
+                  <lb/>boundary of that State, then due east to the Southwest
+                  <lb/>corner of the Land Sold by the Seneka Nation, to <persName key="ophel1">Oliv
+                  <lb/>er Phelps</persName>, and then north and Northerly along Phe
+                  <lb/>lps’ line to the place of beginning on <placeName key="lakeo">Lake Ontario</placeName>.
+                 <p>Now the united States acknowledg all the
+                  <lb/>Land within the fore mentioned Boundaries to be the
+                  <lb/>property of the Seneka nation, And the United States
+                  <lb/>will never Claim the Same, nor disturb the Sene
+                   <lb/>ka nation nor any of the <orgName key="sxntns">Six nation</orgName> or of their
+                  <lb/>indian
+               <lb/><pb n ="10" facs="hv_hs_letterbook_v1_1797_010"/>
+                  <lb/>Indian Friends residing thereon and united with them,
+                  <lb/>in the free use thereof, But it shall remain theirs until
+                  <lb/>they choose to sell the same to the People of the United
+                  <lb/>States, Who have the right to purchase.
+                  </p>
+                 </item><item><lb/>Article 4th The United States having thus
+                  <lb/>describes and acknowledged what Lands belong to
+                  <lb/>the <orgName key="oneida">Oneidas</orgName> <orgName key="onondaga">Onondagas</orgName> <orgName key="cayugaind">Cayugas</orgName> &amp; <orgName key="seneca">Senekas</orgName>, and en-
+                  <lb/>gaged never to clame the same nor to disturb them
+                   <lb/>or any of the <orgName key="sxntns">Six Nations</orgName>, or their Indians friends,
+                  <lb/>residing thereon &amp; united with them, in the free
+                  <lb/>use and Enjoyment thereof. Now the Six
+                  <lb/>Nations and each of them hereby Engage that they
+                  <lb/>will never Claime any other lands within the
+                  <lb/>Boundaries of the United States; nor ever disturb
+                  <lb/>the people of the United States in the free use &amp; enjoy
+                  <lb/>ment thereof.
+                 </item><item><lb/>Article 5th The Seneka Nation, all others
+                  <lb/>of the Six nations Concuring, cede to the United
+                  <lb/>States, the right of making a Waggon road from
+                  <lb/><placeName key="checkplace">Fort Scholosser</placeName> to <placeName key="lakee">Lake Erie</placeName>, as far South as <placeName key="buffc1">Buff
+                  <lb/>aloe Creek</placeName>, And the People of the United States Sh
+                  <lb/>all have the free undisturbed use of this Road
+                  <lb/>for the Purpose of traviling and Transportation
+                  <lb/>and
+               <lb/><pb n ="11" facs="hv_hs_letterbook_v1_1797_011"/>
+                   <lb/>And the <orgName key="sxntns">Six Nations</orgName> and each of them will forever
+                  <lb/>allow to the People of the States free passage through
+                  <lb/>the Lands, and the free use of the Harbors and Rivers
+                  <lb/>adjoining and within their respective tracts of land,
+                  <lb/>for the Passing and securing of vessels and boats
+                  <lb/>and Liberty to land their Cargoes when necessary
+                  <lb/>for their Safety.
+                 </item><item><lb/>Article 6th In consideration of the Peace and
+                  <lb/>Friendship hereby Established, and of the engagem-
+                  <lb/>ents entered into by the Six Nations, and because
+                  <lb/>the <orgName key="usag">United States</orgName> desire with Humanity and kindness
+                  <lb/>to contribute to their Comfortable support, and to
+                  <lb/>render the Peace and Friendship hereby Established
+                  <lb/>strong and perpetual, the United States now deliver to
+                  <lb/>the Six nations and the Indians of the other Nat
+                  <lb/>ions residing among and united with them, Quan
+                  <lb/>tity of Goods, of the value of Ten Thousand Dollars
+                  <lb/>and for the Same consideration, and with a view
+                  <lb/>to Promote the future welfare of the Six Nations
+                  <lb/>and of their Indians Friends aforesaid, the United
+                  <lb/>States will add the Sum of Three Thousand
+               <lb/><pb n ="12" facs="hv_hs_letterbook_v1_1797_012"/>
+                  <lb/>Dollars to the one Thousand five Hundred Dollars here-
+                  <lb/>tofore allowed them by an Article ratifyed by the
+                  <lb/>President on the <date when="1792-04-23">twenty third Day of the fourth Month
+                  <lb/>1792</date>. Makeing in the whole, Four Thousand five Hundred
+                  <lb/>Dollars, which shall be expended yearly forever, in
+                  <lb/>perchasing Cloathing Domestic animals impliments
+                  <lb/>of Husbandry and other utesils Suited to their Circ-
+                  <lb/>umstances, and in compensating useful Artificers
+                  <lb/>who shall reside with or near them, and be Employed
+                  <lb/>for their benefit, The immediate application of the
+                  <lb/>whole annual allowance now Stipulated, to be made
+                  <lb/>by the Superintendant appointed by the President
+                   <lb/>for the affairs of the <orgName key="sxntns">Six Nations</orgName> and their Indian
+                  <lb/>friends aforesaid.
+                 </item><item><lb/>Article 7th. Lest the firm peace and Friendsh
+                  <lb/>ip now Establised should be interrupted by the misc
+                  <lb/>onduct of individuals, The United States, and Six
+                  <lb/>Nations agree, that for injuries done by Individuals
+                  <lb/>on Either Side, no private reveng or retaliation Shall
+                  <lb/>take place, but instead thereof, Complaint shall be
+                  <lb/>made by the party injured to the other, by the Six
+                  <lb/>nations or any of them, to the President of the United
+                  <lb/>States
+               <lb/><pb n ="13" facs="hv_hs_letterbook_v1_1797_013"/>
+                  <lb/>States; or the Superintendant by him appointed and by
+                  <lb/>the superintendant, or other Persons appointed by the
+                   <lb/>President to the Principal Chiefs of the <orgName key="sxntns">Six Nations</orgName>
+                  <lb/>or of the nation to which the offender belongs, and
+                  <lb/>such prudent Measures shall then be persu’d as are necess-
+                  <lb/>ary, to preserve our peace and Friendship unbroken,
+                  <lb/>untill the Legislature (or great Council) of the United States
+                  <lb/>shall make other equitable provision for the purpose;
+                  </item>
+                     </list>
+                 <p>Note It is clearly understood by the parties to this
+                  <lb/>Treaty, that the annuity Stipulated in the Sixt article
+                  <lb/>is to be applied to the benefit of such of the Six Nations
+                  <lb/>and of their Indian Friends united with them as afore-
+                  <lb/>said, as do or shall reside within the Boundaries of the
+                  <lb/>United States; For the United States do not interfere
+                  <lb/>with, Nations Tribes or Families of Indians elsewere
+                  <lb/>resident, In witness whereof the Said <persName key="cpic">Timothy Pic-
+                  <lb/>kering</persName> and the Sachems and war Chiefs of the Said
+                  <lb/>Six Nations have have unto set their Hands and Seals
+                  <lb/>Done at <placeName key="canan">Konnonduigua</placeName> in the <placeName key="newyo">State of Newyork</placeName>,
+                  <lb/>the <date when="1794-11-11">Eleventh Day of the Eleventh Month in the year
+                  <lb/>one
+                 <lb/><pb n ="14" facs="hv_hs_letterbook_v1_1797_014"/>
+                  <lb/>one Thousand seven Hundred and Ninety Four.</date>
+                 </p><p><persName key="cpic">Timothy Pickering</persName> (L.S.) Here follows the names
+                  <lb/>of fifty nine Indians Witness, <persName key="ichap2">Israel Chapin</persName>,
+                  <lb/><persName key="checkplace">James Smedley</persName>, <persName key="checkplace">Augustus Porter</persName>, <persName key="checkplace">Wm Ewing</persName>,
+                  <lb/><persName key="mshep2">Wm Shepherd Junr</persName>, <persName key="jwigh1">John Wickham</persName>, <persName key="checkplace">James K Gar
+                  <lb/>nsey</persName>, <persName key="ichap1">Israel Chapin Junr</persName>, <persName key="hjone1">Horatio Jones</persName> <persName key="jsmit3">Joseph
+                  <lb/>Smith</persName>, <persName key="jparr2">Jasper Parish</persName>, Interpreter <persName key="habee1">Henry Ablele</persName>.
+                 </p><p>Now Know ye, That I having Seen and
+                  <lb/>considered the said Treaty, do by and with the advice
+                  <lb/>and consent of the <orgName key="ussen">Senate of the United States</orgName> accept, rati-
+                  <lb/>fy and confirm the Same, and every Article and Clause
+                  <lb/>thereof, in testimony wereof, I have caused the Seal
+                  <lb/>of the United States to be hereunto affixed, and sign-
+                  <lb/>ed the same with my Hand. </p>
+                    <dateline>Given in the <placeName key="phila">City of
+                  <lb/>Philadelphia</placeName>, <date when="1795-01-21">the Twenty first Day of the
+                  <lb/>First Month in the year of our Lord,
+                  <lb/>one Thousand Seven Hundred and ninety five</date></dateline>
+                        <signed><persName key="gwash1">George Washington</persName>.</signed>
+                 </body>
+                </floatingText>
+                <p>Whereas a treaty between the United States of
+                  <lb/>America, and the <orgName key="oneida">Oneida</orgName> <orgName key="Tuscarora">Tuscorora</orgName> and <orgName key="stockbridge">Stockbr
+                  <lb/>idg</orgName> Indians Dwelling, in the <placeName key="oneid">Country of the Oneidas</placeName>,
+                  <lb/>was
+               <lb/><pb n ="15" facs="hv_hs_letterbook_v1_1797_015"/>
+                  <lb/>was made and concluded on the <date when="1794-12-02">Second Day of the twelfth
+                  <lb/>Month Last</date> <!--Year determined from information on page 18--> by <persName key="cpic">Timothy Pickering</persName>, the agent of the
+                  <lb/>United States, for that purpose appointed on one
+                  <lb/>part, and the Chiefs of those Indian Nations residing
+                  <lb/>in the <placeName key="oneid">Country of the Oneidas</placeName> on the other part, which
+                  <lb/>Treaty is in the form and words following.
+                  </p>
+                <floatingText type="letter">
+                 <body>
+                  <p>A Treaty between the United States and the
+                  <lb/><orgName key="oneida">Oneida</orgName> <orgName key="Tuscarora">Tuscorora</orgName> &amp; <orgName key="stockbridge">Stockbridg Indians</orgName>, Dwelling
+                  <lb/>in the Country of the Oneidas.
+                  <lb/>Whereas, in the late war between
+                  <lb/><placeName key="gbrit">Great Brittain</placeName>, and the <orgName key="usag">United States of Ame-
+                  <lb/>rica</orgName>, a body of the Oneida and Tuscorora and Stock-
+                  <lb/>bridg Indians, adheared faithfully to the United
+                  <lb/>States and assisted them with their Warriors, and
+                  <lb/>in consequence of this adherence &amp; assistance, the
+                  <lb/>Oneidas &amp; Tuscororas, at an unfortunate Period
+                  <lb/>of the war, were driven from their Homes, and
+                  <lb/>their Houses were burnt, and there Property Dest-
+                  <lb/>roy’d, and as the United States in the time of there
+                  <lb/>distress,
+                 <lb/><pb n ="16" facs="hv_hs_letterbook_v1_1797_016"/>
+                  <lb/>distress, acknowledged there obligations to these faithful
+                  <lb/>Friends, and promised to reward them, And <orgName key="usag">the United
+                  <lb/>States</orgName> being now in a condition to fulfill the Promis
+                  <lb/>es then made, The following Articles are Stipulated
+                  <lb/>by the respective parties for that Purpose, to be in
+                  <lb/>force when ratified by the President and Senate.
+                </p>
+               <list type="simple">
+                 <item>Article I The United States will pay the Sum of
+                  <lb/>Five Thousand Dollars, to be distributed among indi-
+                  <lb/>viduals of the <orgName key="oneida">Oneida</orgName> and <orgName key="Tuscarora">Tuscorora Nations</orgName>, as a Com-
+                  <lb/>pensation for their individual Losses and Services dur-
+                  <lb/>ing the late War, between <placeName key="gbrit">Great Brittain</placeName> and the
+                  <lb/>United States, The only Man of the <orgName key="mohawk">Kaughnawau-
+                  <lb/>gas</orgName> now remaining in the <placeName key="oneid">Oneida Country</placeName>, as well
+                  <lb/>as Some few very Meritorious Persons of the <orgName key="stockbridge">Stock-
+                  <lb/>bridg Indians</orgName>, Will be considered in the Distribution.
+                 </item><item>Article II For the general accommodation
+                  <lb/>of these Indian Nations residing in the Country
+                  <lb/>of the Oneidas, the United States will cause to be
+                  <lb/>Erected a complete Grist Mill and Saw Mill
+                  <lb/>in a situation to serve the present principal
+                  <lb/>settlements
+               <lb/><pb n ="17" facs="hv_hs_letterbook_v1_1797_017"/>
+                  <lb/>settlements of these Nations, Or if such one convenient
+                  <lb/>Situation cannot be found, then the United States
+                  <lb/>will cause to be Erected two such grist Mill and
+                  <lb/>Saw Mill, in places where it is now known the prop-
+                  <lb/>osed accommodation may be affected of this, the
+                  <lb/>United States will Judg.
+                 </item><item>Article III <orgName key="usag">The United States</orgName> will Provide
+                  <lb/>during three years after the Mills shall be completed, for
+                  <lb/>the Expence of imploying one or two suitable Persons
+                  <lb/>to manage the Mills, to keep them in repair, to instru
+                  <lb/>ct some young Men of the three Nations, in the arts of
+                  <lb/>the Miller &amp; Sawyer, and to provide Teams and utensils
+                  <lb/>for carriing on the work of the Mills.
+                 </item><item>Article IV The United States will pay one Tho-
+                  <lb/>usand Dollars to be applied in building a Convenient
+                  <lb/>Church at <placeName key="oneid">Oneida</placeName>, in the place of the old one which
+                  <lb/>was burnt by the Enemy, in the Late War.
+                 </item><item>Article V In consideration of the above Stipul-
+                  <lb/>ations to be performed on the part of the United
+                  <lb/>States, the <orgName key="oneida">Oneida</orgName> <orgName key="Tuscarora">Tuscorora</orgName> and <orgName key="stockbridge">Stockbridg Indi-
+                  <lb/>ans</orgName>
+               <lb/><pb n ="18" facs="hv_hs_letterbook_v1_1797_018"/>
+                  <lb/>ans aforementioned, Now acknowledg themselves satisfid
+                  <lb/>and relinquish all other claims of compensation and rew-
+                  <lb/>ards for their Losses, and Services in the Late War, Except-
+                  <lb/>ing only the unsatisfied Claimes of Such men of the Said
+                  <lb/>Nations, as bore commissions, under <orgName key="usag">the United States</orgName>, for
+                  <lb/>any arrears which way, be due to them as Officers.
+                  </item></list>
+                 <p>In witness whereof the Chiefs of those Nations residing
+                  <lb/>in the <placeName key="oneid">Country of Oneida</placeName>, and <persName key="cpic">Timothy Pickering</persName>
+                  <lb/>agent for the United States, Have hereunto Set there hands
+                  <lb/>and seals, at Oneida the <date when="1794-12-02">Second Day of the 12 Mo. 1794</date>.
+                 </p><p>Signed by, Timothy Pickering, and nine of the Oneida
+                  <lb/>Indian Chiefs, three <orgName key="Tuscarora">Tuscorora</orgName> Chiefs, and four <orgName key="stockbridge">Stockbridg</orgName> Chiefs.
+                 </p><p>Now Know Ye, That I having seen and considered
+                  <lb/>the Said Treaty do by and with the advice and consent of the <orgName key="ussen">Se
+                  <lb/>nate of the United States</orgName>, Accept ratify and confirm the same
+                  <lb/>and every Article &amp; Clause thereof, in testimony whereof, I
+                  <lb/>have caused the Seal of the United States to be hereunto af-
+                  <lb/>fixed /and signed the same with my hand, <persName key="gwash1">Go. Washington</persName>
+                 </p>
+               <dateline>Given in the <placeName key="phila">City of Philadelphia</placeName> <date when="1795-01-21">the twenty first
+                  <lb/>Day of the first Month in the year of our Lord
+                  <lb/>one Thousand Seven Hundred and ninetyfive</date>.</dateline>
+                 </body>
+                </floatingText>
+               </div>
+           <div type="letter">
+                 <lb/><pb n ="19" facs="hv_hs_letterbook_v1_1797_019"/>
+                 <opener>
+                  <lb/>To the Sachems Chiefs &amp; Warriors of the <orgName key="oneida">Oneida</orgName> <orgName key="tuscarora">Tusc-
+                  <lb/>orora</orgName> &amp; <orgName key="stockbridge">Stockbridg Indians</orgName> Living in the <placeName key="oneid">Country of
+                  <lb/>the Oneidas</placeName>.
+                 </opener>
+                 <p>Brothers,
+                  <lb/>It is with much pleasure I inform you that
+                  <lb/>the Treaty of peace and Friendship, which, in behalf of
+                  <lb/>the United States I concluded with you at Oneida, on the <date when="1794-12-02">Second Day
+                  <lb/>of the twelfth Month</date>, has been ratified by the President,
+                  <lb/>by and with the advice and consent of the <orgName key="ussen">Senate of the United States</orgName>,
+                  <lb/>now that Treaty is made strong, No act on the part of
+                  <lb/>the United States can make it stronger; Herewith I send
+                  <lb/>you written on parchment the evidence of that ratifica-
+                  <lb/>tion, with the original Treaty.
+                </p><p>Brothers,
+                  <lb/>you may rely on the complete Perform-
+                  <lb/>ance of every article of the Treaty on the part of the
+                  <lb/>United States, the Liberal and Just Principals on
+                  <lb/>which this Treaty, and the treaty with the <orgName key="sxntns">Six
+                  <lb/>Nations</orgName> have been formed; are an evidence of the just
+                  <lb/>and humane sentiments of the United States towa-
+                  <lb/>rds all the Indian Nations on our borders; And
+                  <lb/>should induce those who have been Long has tile
+                  <lb/>to
+               <lb/><pb n ="20" facs="hv_hs_letterbook_v1_1797_020"/>
+                  <lb/>to come forward with Confidence, that with them also
+                  <lb/>the United States will negociate and Establish Treaties
+                  <lb/>of Peace and Friendship on the Principals of Justice
+                  <lb/>and Humanity, We persuade ourselves that your
+                  <lb/>Friendship to us, and your Love to the People of your
+                  <lb/>own Colour, Will prompt you to embrace every occa-
+                  <lb/>sion to accomplish a work so acceptable to the
+                  <lb/>Great Spirit,, and so interesting to all the Indian
+                  <lb/>Nations.
+                   </p>
+                  <closer>
+                  <salute>I remain your friend and Brother
+                  </salute>
+                  <signed><persName key="cpic">Timothy Pickg</persName>
+                  </signed>
+                  <dateline>Done at the war office of the United States
+                  <lb/>at <placeName key="phila">Philadelphia</placeName> the <date when="1795-01-22">22 Day of the first Month, 1795</date>
+                  </dateline></closer>
+              </div>
+           <div type="letter">
+                 <p>We the Sachems Chiefs &amp; Warriors of the
+                  <lb/><orgName key="oneida">Oneida Nation</orgName>. Met in full council at <placeName key="oneid">On-
+                  <lb/>eida</placeName>, on the <date when="1794-12-03">third Day of the twelfth Month one Thousand
+                  <lb/>seven Hundred and ninety four</date>, To consult of the me-
+                  <lb/>ans which may promote the Prosperity and hapyness
+                  <lb/>of our Nation, After mature consideration are of
+                  <lb/>Opinion, that the Cultivation of our Lands in the
+                  <lb/>manner
+               <lb/><pb n ="21" facs="hv_hs_letterbook_v1_1797_021"/>
+                  <lb/>manner of the white People, will be the only Sure means of
+                  <lb/>producing these desirable affects, having further consider
+                  <lb/>ed that the great motive to Exertion is the certain enjoy-
+                  <lb/>ment of the fruits of that Exertion, and being convinced
+                  <lb/>that the regular and continued industry of the white
+                  <lb/>People is produced by the Permanent enjoyment of the
+                  <lb/>fruits of there Labour; Now we the Sachems Chiefs
+                  <lb/>and Warriors of the <orgName key="oneida">Oneida Nation</orgName>, with a view
+                  <lb/>to produce the like industry, Prosperity and hapiness
+                  <lb/>among ourselves, have agreed on the following perma-
+                  <lb/>nent regulations.
+                </p>
+                <list><item>Ist Every Oneida man who desires to have Land
+                  <lb/>set apart for his seperate use and cultivation, Shall
+                  <lb/>be allowed to occupy two Hundred acres, and the Land
+                  <lb/>so occupyd and cultivated in the manner of the white
+                  <lb/>People, Shall be held by Such man and his Posterity
+                  <lb/>So Long as any of them Shall remain, With Power
+                  <lb/>to sell it to any Person of the Oneida nation, but
+                  <lb/>not to any of the white People, and if the Na-
+                  <lb/>tion should at any time sell or Lease any of its Land,
+                  <lb/>the
+                 <lb/><pb n ="22" facs="hv_hs_letterbook_v1_1797_022"/>
+                  <lb/>the pieces so occupy’d, shall always be Excepted, and no bar-
+                  <lb/>gain whatever made by the Nation shall convey them aw-
+                  <lb/>ay, without the express consent and signature of the res-
+                  <lb/>pective occupants, to whom or whose ancesters they have
+                  <lb/>been assigned or transfered in the manner above mentioned.
+                 </item><item>IInd These pieces of Land Shall be laid out in a regular
+                  <lb/> form, and as far as the Land Chosen for the purpose is
+                  <lb/>suitable for such Cultivation, the pieces Shall Join, then
+                  <lb/>the occupants can assist one another, and the Labour of
+                  <lb/>fencing will be Lessoned.
+                 </item><item>IIIrd This important agreement shall be read once eve-
+                  <lb/>ry year, in full Council of our Nation, and at all other
+                  <lb/>times when we are called upon by the white People
+                  <lb/>to Sell or lease any of our Lands, that the Solemn
+                  <lb/>Determination now made may not be forgoten, nor
+                  <lb/>the good faith of the Nation, hereby Pledged to its me
+                  <lb/>mbers, be Endangered.
+                   </item></list>
+                  <closer>Done at <placeName key="oneid">Oneida</placeName> by the unanimous
+                  <lb/>consent of the Sachems Chiefs and Warriors the Day
+                  <lb/>above Mentioned. Signed by 36 Indians
+                  <lb/>Witness? <persName key="cpic">Timothy Pickering</persName>
+                  <lb/><persName key="skirk1">Samuel Kirkland</persName> &amp; <persName key="jdean2">James Dean</persName>
+                  </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="23" facs="hv_hs_letterbook_v1_1797_023"/>
+             <opener>To the Chiefs and Warriors of the <orgName key="sxntns">Six Nations</orgName>
+                </opener>
+                <p>Brothers,
+                  <lb/>In all my intercourse and acquaintance
+                  <lb/>with you I have endevoured to give you proofs that I am
+                  <lb/>your Friend, of this truth I trust you are well convin
+                  <lb/>ced, if then you believe me to be your friend, you will
+                  <lb/>listen to my talk, and if you think I have understanding
+                  <lb/>to disern what is your best good, you will attend to my advice.
+               </p><p>Brothers,
+                  <lb/>I have often shewn you what good things the
+                  <lb/>white People enjoy, and explained how you also might
+                  <lb/>enjoy them, you have answered, that what I told you
+                  <lb/>was very good, and that you were willing to adopt
+                  <lb/>the useful ways of the whites by Degrees, but that you
+                  <lb/>could not Lay aside your own Costoms all at once, This
+                  <lb/>was a wise answer, It will be necessary for you to con-
+                  <lb/>tinue your hunting while the game is so plentiful as
+                  <lb/>to be worth persueing, but you already know that
+                  <lb/>game is becoming scarce, and have reason to expect
+                  <lb/>that in a few years more it will be gone, what then will
+                  <lb/>you do to feed and clothe yourselves your Wives &amp; Children
+                  <lb/>Brothers
+                  </p>
+               <lb/><pb n ="24" facs="hv_hs_letterbook_v1_1797_024"/>
+                  <p>Brothers
+                  <lb/>This is an important question, think well up-
+                  <lb/>on it, the oldest hunters may perhaps, find some game
+                  <lb/>as Long as they Live, but before the young Men grows
+                  <lb/>old, all the game will be distroy’d, the young Men
+                  <lb/>then and the Boys, should learn to get food and cloth
+                  <lb/>ing without hunting, how are they to do this 2nd by
+                  <lb/>cultivating there ground as the white People do, for
+                  <lb/>with what grows out of the ground they can purchace
+                  <lb/>all other necessaries, if you make fence to inclose many
+                  <lb/>field, you can then securely raise Corn, Wheat and hay
+                  <lb/>in abundance to feed your Families, and as many Cattle
+                  <lb/>and Hogs as you want, and the Cattle &amp; Hogs
+                  <lb/>will give you more Meet than you could ever obtain
+                  <lb/>by Hunting, Even when game was Plentiful.
+                 </p><p>Now Brothers,
+                  <lb/>I have the great pleasure to inf-
+                  <lb/>orm you that your Good Friends the Quakers have
+                  <lb/>formed a wise plan, to show your young Men and
+                  <lb/>Boys, the most useful Practices of the white People
+                  <lb/>they will choose Some prudent good men to instruct
+                  <lb/>them, Those good Men will do this only for the Love
+                  <lb/>they
+                  <lb/><pb n ="25" facs="hv_hs_letterbook_v1_1797_025"/>
+                  <lb/>they bear to you there fellow Men, as Children of the great
+                  <lb/>Spirit, when they Desire to please, and who will be pleased
+                  <lb/>with the good they do to you, the Quakers and the good Men
+                  <lb/>they imploy will ask nothing from you, neither Land nor
+                  <lb/>Money Skins nor firs, for all the good they will render to
+                  <lb/>you, they will request only your consent and the attention
+                  <lb/>of the young Men and Boys, to Learn what will be so useful.
+                 </p><p>Brothers
+                  <lb/>If this first attempt Succeeds the way will be op-
+                  <lb/>ened, in which your young People may Learn other useful
+                  <lb/>practices of the white People, so as to enable them to supp-
+                  <lb/>ly all there own wants, and such as choose it, may learn
+                  <lb/>to read and write. Having thus explained to you
+                  <lb/>the plan of your friends the Quakers, I conclude with
+                  <lb/>heartily Recommending to your adoption as better
+                  <lb/>calculated to procure Lasting and essential benefits
+                  <lb/>to your Nations, than any plan ever before attem
+                  <lb/>pted, Wishing it great Success
+                  </p>
+              <closer>
+                  <salute>I remain your friend and Brother
+                  </salute>
+                  <signed><persName key="cpic">Timothy Pickering</persName>
+                  </signed>
+                  <dateline><placeName key="phila">Philadelphia</placeName>
+                  <lb/><date when="1796-02-15">2 Mo 15th 1796</date>
+                  </dateline>
+                 </closer>
+                 </div>
+           <div type="letter">
+               <lb/><pb n ="26" facs="hv_hs_letterbook_v1_1797_026"/>
+              <head><persName key="gclin1">George Clinton Esque Governor</persName>
+                  <lb/>An act, for the relief of the Indians residing in
+                  <lb/><placeName key="newst">New Stockbridg</placeName>, and <placeName key="broth">Brother Town</placeName> Passed the <date when="1792-04-12">12th
+                  <lb/>Day of the fourth Month 1792</date>
+              </head>
+               <list><item>1st Be it enacted by the People of <orgName key="nystate">the State
+                  <lb/>of New York</orgName>, represented in the <orgName key="nysen">Senate</orgName> and assem
+                  <lb/>bly, and it is hereby enacted by the authority of the
+                  <lb/>same, That it shall and may be lawful for the
+                  <lb/>Male Indians residing in, and being an Inhabit-
+                  <lb/>ant of New Stockbridg above  the age of Twenty-
+                  <lb/>one years, on the first 3 Day of the 5th Month in
+                  <lb/>every year, there after during the continueance of
+                  <lb/>this act, to meet together, and by Plurality of votes
+                  <lb/>to choose a Clerk whose business it shall be to pre-
+                  <lb/>side at such Meetings and to enter into a book, by
+                  <lb/>him, to be kept for that Purpose, such proceed-
+                  <lb/>ings of the Said Meetings as are by this act Directed,
+                 </item><item>2nd Be it further Enacted by the authority afore-
+                  <lb/>said that it shall and may be Lawful for the Said
+                  <lb/>Indians
+                  <lb/><pb n ="27" facs="hv_hs_letterbook_v1_1797_027"/>
+                  <lb/>Indians so assembled to elect a Person to be Called a
+                  <lb/>Marshal whose business it shall be to Execute the
+                  <lb/>orders of the Peacemakers herein after directed to
+                  <lb/>be chosen.
+                 </item><item>3rd And be it further Enacted by the authority afore-
+                  <lb/>said, that it shall and may be Lawful for the Said
+                  <lb/>Indians so assemble annually to choose three Persons
+                  <lb/>to be called Peacemakers whose business it shall be to Lay
+                  <lb/>out such parcel or parcels of Land as shall be agr
+                  <lb/>eed on, by plurality of votes, at any such Meeting for
+                  <lb/>the Seperate Improvment of each Person or Family
+                  <lb/>to be by the Said Peacemakers marked and describ
+                  <lb/>ed and description thereof made in writing, by them
+                  <lb/>and delivered to the Clerk, who is to enter the Same
+                  <lb/>in his Said book.
+                 </item><item>4th And be it further &amp; c. That each Person
+                  <lb/>having a seperate improvment aloted to him or her
+                  <lb/>as aforesaid, the same shall be and remain to such
+                  <lb/>Person or Persons &amp; there legal representatives witho-
+                  <lb/>ut the Power of alination and the Person or Persons
+                  <lb/>so
+                  <lb/><pb n ="28" facs="hv_hs_letterbook_v1_1797_028"/>
+                  <lb/>so possesed may bring and maintain an action for any
+                  <lb/>tresspass Commited on such posession, by any white
+                  <lb/>man Indian or any other Person Whomsoever.
+                 </item><item>5th And be it further Enacted &amp; c.
+                  <lb/>That it shall and may be Lawful for the Said Peace-
+                  <lb/>makers to bring actions in their own name for tresspass
+                  <lb/>as comitted on any of the undivided Lands in <placeName key="newst">New Sto-
+                  <lb/>ckbridg</placeName> aforesaid, and not by them aloted by particu-
+                  <lb/>lar Persons as aforesaid, before any Court of Justice
+                  <lb/>having Cognizance of the Same against any white
+                  <lb/>person Indian, or other Person whomsoever.
+                 </item><item>6th And be it further enacted by the authority afo-
+                  <lb/>resaid, that it shall &amp; may be Lawful for the Said
+                  <lb/>Peacemakers on complaint made to them by any
+                  <lb/>Indian being an Inhabitant of the Said Town against
+                  <lb/>any such Inhabitant for any Tresspass, debt, or Dem-
+                  <lb/>and, the said Peacemakers shall direct the Marshal
+                  <lb/>to cause the parties to come before them, with their
+                  <lb/>witnesses, and after having heard them, shall give
+                  <lb/>Judgment, according to the best of their understand-
+                  <lb/>ing, and shall advise the parties to comply with
+                  <lb/>their said Judgment; but in case they or either of
+                  <lb/>them
+                  <lb/><pb n ="29" facs="hv_hs_letterbook_v1_1797_029"/>
+                  <lb/>them shall neglect, or refuse so to do, the said Peacemak-
+                  <lb/>ers shall then commit their said Judgment to writing
+                  <lb/>and cause the same to be entered in the Town Book
+                  <lb/>aforesaid, and the party in whose favour such Judgm-
+                  <lb/>ent shall be given may recover to the same as a Ju-
+                  <lb/>dgment of record, in any Court having Cognizance of
+                  <lb/>the same, Provided that no such Judgment shall exceed
+                  <lb/>the Sum of five Pounds.
+                 </item><item>7th And be it further Enacted &amp; c.
+                  <lb/>That it shall and may be Lawful for the Said Peacem-
+                  <lb/>akers as often as they shall judg it necessary to call
+                  <lb/>a Meeting of the Inhabitants at such times and places
+                  <lb/>as they shall direct, for the purpose of determining on
+                  <lb/>the Laying out of lands for seperate improvements
+                  <lb/>or any other business which they may Judg necess
+                  <lb/>ary in persuance of this act.
+                 </item><item>8th And be it further Enacted &amp; c.
+                  <lb/>That it shall and may be Lawful for the Said Inh
+                  <lb/>abitants at any of their said Public Meetings, by, a
+                  <lb/>majority of votes to admit any Indian or Indians
+                  <lb/>of any other Tribe or Nation, to become an Inhabitant
+                  <lb/>or
+                  <lb/><pb n ="30" facs="hv_hs_letterbook_v1_1797_030"/>
+                  <lb/>or Inhabitants of the said Town, to enjoy equal priveliges
+                  <lb/>with the other Indians of the said Town, the votes repe-
+                  <lb/>cting the admission of such Person or Persons to be fir-
+                  <lb/>st entered in the Clerk Book.
+                 </item><item>9th And be it further Enacted by the Same
+                  <lb/>That it Shall and may be Lawful for any Inhabitants
+                  <lb/>having Land allotted to him or her as aforesaid, to Sell
+                  <lb/>the improvement thereof to any other Indian or
+                  <lb/>Indians and his or her assigns, being Indians of the
+                  <lb/>said Town, which sales shall be entered in Clerk Book
+                  <lb/>of the Said Town.
+                 </item><item>Xth Be it further enacted &amp; c.
+                  <lb/>That the said Peacemakers shall Lay out said
+                  <lb/>rode or high ways in the said Town as a Majority of
+                  <lb/>the Inhabitants at any of there Public Meetings shall
+                  <lb/>Direct, and to order such of the Inhabitants of the
+                  <lb/>said Town, and so many of them from time to time
+                  <lb/>to work on the roads or highways, and for so many
+                  <lb/>Days as shall be directed by the majority as aforesaid
+                  <lb/>at a public Meeting.
+                 </item><item>XIth And be it further enacted &amp; c.
+                  <lb/>That any two of the said Peacemakers shall be a
+                  <lb/>Quorum
+               <lb/><pb n ="31" facs="hv_hs_letterbook_v1_1797_031"/>
+                  <lb/>quorum to transact any business enjoined on them by this act.
+                 </item><item>XII And be it further enacted &amp; c.
+                  <lb/>That it shall and may be Lawful for the said inh
+                  <lb/>abitants of <placeName key="broth">Brothertown</placeName> by a majority of votes to adj-
+                  <lb/>ourn there annual Meetings from time to time as they may
+                  <lb/>Judg Proper.
+                 </item><item>XIII And be it further enacted &amp; c.
+                  <lb/>That it shall and may be Lawful for such Justices of
+                  <lb/>the peace of the <placeName key="herki">County of Harkemer</placeName> as the Inhabita-
+                  <lb/>nts of <placeName key="newst">New Stockbridg</placeName> shall invite to preside at their
+                  <lb/>first Meeting to be held in persueance of this act.
+                 </item><item>XIV And be it further enacted
+                  <lb/>That the act entitled, an act for the relief of the India
+                  <lb/>ns residing in Brothertown &amp; New Stockbridg, so far
+                  <lb/>as the same relates to the said Indians residing in New
+                  <lb/>Stockbridg excepting the Last clause we and the same
+                  <lb/>is hereby repealed.
+                 </item><item>XV And be it further enacted &amp; c.
+                  <lb/>That it shall be and it is hereby made the duty of his
+                  <lb/>exellency the Governer by such ways and means as
+                  <lb/>he shall Judge Propper, to remove all such white
+                  <lb/>People
+               <lb/><pb n ="32" facs="hv_hs_letterbook_v1_1797_032"/>
+                  <lb/>People from <placeName key="broth">Brothertown</placeName>, who reside and hold Lands there
+                  <lb/>by any lease or Leases, or other title from any Indian or
+                  <lb/>Indians, other than such Leases as have been or hereaf-
+                  <lb/>ter shall be made in persueance of the several Laws of
+                  <lb/>this State.
+                 </item><item>XVI And further
+                  <lb/>That the Comissioners of Land Office shall
+                  <lb/>give the necessary directions for running out the Bounds
+                  <lb/>of Brother Town, at the Expence of this State.
+                   </item></list>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="33" facs="hv_hs_letterbook_v1_1797_033"/>
+                  <head>A Speech from the <orgName key="stockbridge">Muheconnuh Nation of Indians</orgName>
+                  <lb/>to the <orgName key="delaware">Delawars</orgName>
+                  </head>
+                  <dateline>On the <date when="1796-10-07">7th Day of the 10th Month 1796</date>,</dateline>
+                  <p>Then arrived three of the Principal Men of our Grand
+                  <lb/>fathers the Delewares, who resided at <placeName key="checkplace">Wauchpellick</placeName>
+                  <lb/>in <placeName key="jerse">Jerseys</placeName>, on the 9th, Instant. Then a congratulatory
+                  <lb/>speech delivered by <persName key="haupa1">Hendrich At</persName> to his Grandfathers, in
+                  <lb/>full Council, as follows.
+                   </p>
+           <floatingText type="letter">
+              <body>
+                <p>Grandfather
+                  <lb/>attend to the voice of your Grand-
+                  <lb/>Children
+                  <lb/>I am glad that by the goodness of the Great Good
+                  <lb/>Spirit, we are allowed to meet together and smoke the
+                  <lb/>Pipe of friendship, Wile we talk together in Commemora-
+                  <lb/>tion of antient Covenant, which our forefathers Establis-
+                  <lb/>hed and Esteemed, I rejoice that the great Spirit puts
+                  <lb/>it in your minds to visit your grand Children, and Pre-
+                  <lb/>sere you through the tedious Journey, so to arrive here safely.
+                </p><p>Grandfather
+                  <lb/>When I Look on you I see your Tears flowi-
+                  <lb/>ng down from your Eyes, on account of the dust that
+                  <lb/>flew about on the way as you where coming. In rem-
+                  <lb/>embrance of the ancient customs of our Ancestors,
+                  <lb/>I
+                  <lb/><pb n ="34" facs="hv_hs_letterbook_v1_1797_034"/>
+                  <lb/>I now stretch forth my hand &amp; wipe of your tears, that you
+                  <lb/>may see your Grand Children in real appearance, In Like
+                  <lb/>manner I clean your Ears that you may hear plainly, the
+                  <lb/>voice of your GrandChildren, and also I clean your thro-
+                  <lb/>at and Loosen your Tongue that you may speak freely.
+                </p><p>Grandfather,
+                  <lb/>While I’m busy, also, I find that your hea-
+                  <lb/>rt is hang Downwards, for an account of many Losses
+                  <lb/>in your Nation these many Days, and according to the
+                  <lb/>Customs of our forefathers, I now set your Heart upright
+                  <lb/>and Lay aside all the different sounds which white birds
+                  <lb/>have sounded in your Ears, that you may without Prej-
+                  <lb/>udice be enabled to consider what your Grand Children
+                  <lb/>may say to you.
+                </p><p>Grandfather
+                  <lb/>Having done so much then I see mud all
+                  <lb/>over your legs and feet an account of the Long Muddy pa-
+                  <lb/>th on which you have walked through. I now wash
+                  <lb/>your Legs &amp; feet, But still I discover some bryers &amp;
+                  <lb/>Thorns stick fast on your feet, then I pull out every
+                  <lb/>one of them, I take wees-quos in which our ancesters
+                  <lb/>used to put healing oil, and oil your Legs &amp; feet, that
+                  <lb/>you
+                   <lb/><pb n ="35" facs="hv_hs_letterbook_v1_1797_035"/>
+                  <lb/>you may feel well and walk around the fire place of
+                  <lb/>your Grand Children. 4 strings pure white wampom Delivered.
+                </p><p>Grandfather, again, Liten
+                  <lb/>I am glad to find that you have still re-
+                  <lb/>tain our talk which was passed between us at <placeName key="phila">Philadelphia</placeName>
+                  <lb/>when we saw each other there about four years ago, at
+                  <lb/>which time I took hold of your hand and direct you to my
+                  <lb/>fire place, Which invitation all our Chiefs with our young
+                  <lb/>Men do now renew, I spread this unnuhkon, or mat, wide
+                  <lb/>on which I put you, Likewise there pillows to Lay your Head
+                  <lb/>then I Stretch forth my hand to your fire place, and roll
+                  <lb/>your matt which you used to set on, I spread it over on the
+                  <lb/>other matt, which I just now made ready for you, that you
+                  <lb/>may feel more easy &amp; comfortable, here you can cook what
+                  <lb/>you Please, and at night you can Lay Down to rest, and dr-
+                  <lb/>eam about the welfare of your old Men, Women, and Chil-
+                  <lb/>dren, in the morning you can get up &amp; promote the same.
+                </p><p>Grandfather
+                  <lb/>Lastly I let you know that I put a broom
+                  <lb/>by the side of this fire place, so that whenever you feel some
+                  <lb/>thing hard on this bed, then we shall use this broom to
+                  <lb/>swap of every thing, that nothing may interrupt our
+                  <lb/>rest.
+                  <lb/><pb n ="36" facs="hv_hs_letterbook_v1_1797_036"/>
+                  <lb/>rest, Nunneh-theh, 7 strings white Wampon delivered.
+                </p><p>We will now let you know the reasons
+                  <lb/>which indused your Grand Children, to give you such invitations
+                   </p>
+                 <list>
+                  <item>1st Because I believe that it is the will of the Great Good Spirit
+                  <lb/>that our ancesters did enter into covenant and established a
+                  <lb/>strong Friendship between them, which covenant we ever have
+                  <lb/>maintained bright.
+                 </item><item>2nd Because by the goodness of the same spirit we obtained this
+                  <lb/>good dish, wherein we may Eat peaceably, and by his kind
+                  <lb/>Providence we where enabled to see your dismal situation, and
+                  <lb/>further I believe that it is the same good Spirit who enflu-
+                  <lb/>enced our Hearts to have the compassionate feeling toward your
+                  <lb/>nation.
+                 </item><item>3rd Because I believe that if you can only once
+                  <lb/>make out to bring whole of your Nation here, you can
+                  <lb/>have better chance to try to Live as a People, because this
+                  <lb/>dish is much better than your old dish.
+                 </item><item>4th Because, here you will have the previledg of hearing
+                  <lb/>the gladtidings of the Gospel Preached, and your Children
+                  <lb/>will be instructed to read and to write.
+                  <lb/>5th
+               <lb/><pb n ="37" facs="hv_hs_letterbook_v1_1797_037"/>
+                 </item><item>5th Because, here we can live together as one family, and
+                  <lb/>to Council one to another, and comfort, exhort one another
+                  <lb/>daily, so Long as we are allowed to live this side Eternity
+                  </item></list>
+                 <closer>
+                    <salute>Nunneh-theh, from your Grand Children</salute>
+                  <dateline><placeName key="newst">New Stockbridg</placeName>
+                  <lb/><date when="1796-10-09">10 Mo. 9th. 1796</date></dateline>
+                  <signed>Sachems and Councillors of <orgName key="stockbridge">Muheconnuh Nation</orgName>
+                    <lb/><persName key="checkplace">J.S.</persName>
+                    <lb/><persName key="checkplace">H.A.</persName>
+                    <lb/><persName key="checkplace">J.L.</persName>
+                    <lb/><persName key="checkplace">J.L.</persName></signed>
+                 </closer>
+                </body>
+              </floatingText>
+            </div>
+           <div type="letter">
+              <head>The <orgName key="delaware">Deleware Indians</orgName> Answer</head>
+                  <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1796-10-18">10 mo 18th 1796</date></dateline>
+                  <p>Grand Children attend
+                  <lb/>I am glad that by the good Spirit
+                  <lb/>we are allowed to meet together by the side of this fireplace
+                  <lb/>to smoke the pipe of friendship as our ancesters used to do
+                 </p><p>GrandChildren
+                  <lb/>I am glad to find a token of your friend
+                  <lb/>ship which you manifested at your grandfatehrs
+                  <lb/>arival at this fire place, Likewise eversince, for which
+                  <lb/>we are extreamly thankful and ever shall greatfuly
+                  <lb/>remember.
+                  <lb/>grandchildren
+               <lb/><pb n ="38" facs="hv_hs_letterbook_v1_1797_038"/>
+                 </p><p>Grand Children
+                  <lb/>At our arival you wip’d away the tears
+                  <lb/>from our Eyes which were caused by the filth &amp; dust wh-
+                  <lb/>ich blew into them in our Long Journey, as also on the
+                  <lb/>account of the many Losses in our Nation, Likewise
+                  <lb/>you have cleared out my Ears and throat and set our
+                  <lb/>hearts uprite, Likewise you have wiped off the mud
+                  <lb/>from my legs &amp; feet and finding them full of briers
+                  <lb/>and thorns you reach hither your hand and pluck
+                  <lb/>them all out and applied to them the healing Oil of
+                  <lb/>our dead ancesters.
+                 </p><p>Grand Children
+                  <lb/>Since your performance of this kind-
+                  <lb/>ness to your Grandfather, I see you clearly, I see the
+                  <lb/>Tears running down from your Eyes on the account of
+                  <lb/>the many Losses in your Nation and the many high
+                  <lb/>Trees which are fallen.
+                 </p><p>GrandChildren
+                  <lb/>Now, in remembrance of our Covena-
+                  <lb/>nt, I stretch forth my hand &amp; raise your head and obl-
+                  <lb/>iterate from your eyes and minds all tears and sorrows
+                  <lb/>and fix your eyes forward that they may not be obstructed
+                  <lb/>in Looking back on the Trees which are fallen, from looking
+                  <lb/>forward
+               <lb/><pb n ="39" facs="hv_hs_letterbook_v1_1797_039"/>
+                  <lb/>forward on the happy Days which are yet coming
+                 </p><p>Grand Children
+                  <lb/>I also clense your Ears that you may he-
+                  <lb/>re planely and strengthen your Tongue, that your may
+                  <lb/>be enabled to speak the things which are profitable to your
+                  <lb/>nation, both temporally &amp; Spiritually, Likewise I Let your
+                  <lb/>heart uprite that you may be capable of Contemplating
+                  <lb/>the real welfare &amp; hapiness of your old Men Women &amp; Children
+                 </p><p>Grand Children, attend
+                  <lb/>By these strings you renew  the kind
+                  <lb/>invitation which you gave us when we saw each other in
+                  <lb/><placeName key="phila">Philadelphia</placeName>, I think it needless to repeat the same, but
+                  <lb/>for which we again thank you.
+                 </p><p>Grand Children, now attend to the words of your Grand-father
+                  <lb/>Be it known unto you that we have deeply
+                  <lb/>considered your invitation and have found it sincere, Like
+                  <lb/>wise your dish a Lasting good one and your path good and
+                  <lb/>straight, we therefore accept of your invitation and
+                  <lb/>lay hold of it with both off our hands, hoping that the
+                  <lb/>Great Good Spirit may protect and enable us to pro-
+                  <lb/>mote each others welfare and happiness, and to Live
+                  <lb/>and die with you by the side of your fire place.
+                  <lb/>now
+               <lb/><pb n ="40" facs="hv_hs_letterbook_v1_1797_040"/>
+                 </p><p>Now Grand Chiln
+                  <lb/>I come to let you know that I am about
+                  <lb/>turn my Eyes towards my fireplace, hoping that as you
+                  <lb/>have began and enter’d this good Path you may still con-
+                  <lb/>tinue to persevere therein, and although we shall be ab-
+                  <lb/>sent in body for some time, my heart shall still be
+                  <lb/>present with you.
+                   </p>
+              <closer>
+                  <salute>This from your Grand Father
+                     <lb/>In behalf of  the whole</salute>
+                  <signed><persName key="checkplace">Jacob Skekitt</persName>
+                  <lb/><persName key="bcalv1">Barthw Calvin</persName>
+                  <lb/><persName key="checkplace">Robert X his mark Skekitt</persName>
+                  </signed>
+                </closer>
+              </div>
+           <div type="letter">
+                  <head>A Copy of a letter from the <orgName key="stockbridge">Muheconnuh
+                     <lb/>Nation</orgName>. To friends in <placeName key="phila">Philadelphia</placeName> </head>
+                  <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1796-09-08">9 Mo 8th 1796</date></dateline>
+                  <p>Brothers
+                  <lb/>We take this opportunity to inform you
+                  <lb/>that by the goodness of the great Spirit, we enjoy our
+                  <lb/>healths and live in peace, we feel thankful for the
+                  <lb/>previledges we do enjoy. Our forefathers were destitu-
+                  <lb/>te of such encouragments for they Lived under dark
+                  <lb/>Clouds
+               <lb/><pb n ="41" facs="hv_hs_letterbook_v1_1797_041"/>
+                  <lb/>Clouds in many ages, we are greatly encouraged by
+                  <lb/>partaking the blessing which your society sent up
+                  <lb/>to the different Tribes of Indians, and by the good
+                  <lb/>Councils we received from our good Friends who
+                  <lb/>visitted us last summer. So that our Eyes are fixed
+                  <lb/>on the path which they pointed out for us ,many of
+                  <lb/>our young Men looking to the ground there hands
+                  <lb/>are fast on the ax to cut small and big trees in order to
+                  <lb/>dig up the Common bread of life. And we hope that
+                  <lb/>there are number of our men and women seeking
+                  <lb/>and looking up to the father of all mercies for the
+                  <lb/>bread of Everlasing Life.
+                 </p><p>Brothers
+                  <lb/>We are glad to see our good Brothers
+                  <lb/><persName key="jtayl1">Jacob Taylor</persName>, <persName key="hsimm1">Henry Simmons</persName> &amp; <persName key="ewalk1">Enoch Wal-
+                  <lb/>ker</persName>, your young men, who are among our brethren
+                  <lb/>the <orgName key="oneida">Oneidas</orgName>, who use there endeavours to do good to
+                  <lb/>that Nation, we are glad to find that they have
+                  <lb/>such patience to continue so long, and are so faithful
+                 </p><p>Brothers,
+                  <lb/>We desire to excite your pure minds
+                  <lb/>to remember that many of our white neighbours
+                  <lb/>are
+               <lb/><pb n ="42" facs="hv_hs_letterbook_v1_1797_042"/>
+                  <lb/>are looking to see what will be the affect of your unde-
+                  <lb/>rtaking, some expect you will be discouraged in a short
+                  <lb/>time. and further be it known to you, that we have had
+                  <lb/>the opportunity to send information to our friends the
+                  <lb/>different Tribes who lives great ways toward the sun set-
+                  <lb/>ing, of your kindness toward us, and your friendship
+                  <lb/>to all Indian Tribes. They will also looking on to see what
+                  <lb/>will be the consequence of your undertaking. And will
+                  <lb/>know that Great Good Spirit is Looking, and also the
+                  <lb/>Dark Spirit is busy to interfere of such good work.
+                 </p><p>Brothers
+                  <lb/>Our hearts are with you, we are fully de-
+                  <lb/>termined to promote Civilization among our own People
+                  <lb/>because we think it will be discouraging if not one Indian
+                  <lb/>Nation can be found who will become as Civilized Peo-
+                  <lb/>ple, after they had so much help, That at the same
+                  <lb/>time we will acknowledg, we can do nothing good
+                  <lb/>without the help of the Good Spirit, we find ourse-
+                  <lb/>lves are like Children who just begin to walk, who
+                  <lb/>apt to take missteps, but our midns are to go forward
+                  <lb/>and lead our Children on the good path, so that when
+                  <lb/>we
+               <lb/><pb n ="43" facs="hv_hs_letterbook_v1_1797_043"/>
+                  <lb/>we come to the Last step, our Children may be able to go
+                  <lb/>on still in the same way.
+                 </p><p>Brothers
+                  <lb/>We are fully persuaded on our minds that
+                  <lb/>you are in the rite path, for which we cheerfully Mai-
+                  <lb/>ntain the Chain of friendship with you, We hope
+                  <lb/>you will always remember us. Our Brother
+                  <lb/><persName key="ewalk1">Enoch Walker</persName> is to carry this letter to you, who
+                  <lb/>we trust will be able to inform you what he has seen am-
+                  <lb/>ong the Indians.  farewell
+                   </p>
+                <closer>
+                   <salute>We subscribe our name in behalf of our Nation</salute>
+                  <signed><persName key="haupa1">Hendrick Aupaumut</persName>
+                  <lb/><persName key="jquin2">John Quinney</persName></signed>
+                  <lb/>To <persName key="jparr1">John Parish</persName> &amp; <persName key="jelli1">John Elliott</persName>
+                  <lb/>and the rest of our good Friends
+                </closer>
+           </div>
+           <div type="letter">
+                  <head>A Copy of a letter from an Indian Woman of
+                  <lb/>the <orgName key="stockbridge">Muheconnuh Nation</orgName> To <persName key="checkplace">Margaret Elliott</persName>
+                  <lb/><placeName key="phila">Philadelphia</placeName> </head>
+                 <p>Sister
+                  <lb/>Although we are unacquainted with each
+                  <lb/>other, yet since my Husband has told me of your good
+                  <lb/>character, my love have been drawn towards you
+                  <lb/>for I love such good People, our women as well as
+                  <lb/>Men are happy to find that your good people have
+                  <lb/>maintained
+                  <lb/><pb n ="44" facs="hv_hs_letterbook_v1_1797_044"/>
+                  <lb/>maintained good Friendship towards the different Tribes
+                  <lb/>of Indians, we find no other people that seems to be so
+                  <lb/>near to our hearts.
+                 </p><p>Sister
+                  <lb/>I will also inform you that there are Ten Wo-
+                  <lb/>men of this Town, who profess to be the followers of Jes-
+                  <lb/>us Christ, who love your people, we find that it is a hap-
+                  <lb/>py priveledg to know somthing of the ways of the good
+                  <lb/>Spirit. The Lord has been pleased to give me six
+                  <lb/>Children two girls four Boys, There Dear Souls I desire
+                  <lb/>to instruct in the fear of the Lord; That they may re-
+                  <lb/>member there Creator in the days of there Youth.
+                </p><p>We have experience many hardships since we live in
+                  <lb/>this Wilderness, Still we will press forward.
+                </p><p>We are well satisfied with the conduct of our Bro-
+                  <lb/>thers <persName key="ewalk1">Enoch Walker</persName>, and the rest, who I look upon
+                  <lb/>as the true servants of the Great Spirit. Enoch is
+                  <lb/>about to set out homewards, who can inform you
+                  <lb/>what he has seen among us.  farewell
+                  </p>
+                  <closer><salute>from thy sister in the Lord</salute>
+                  <signed><persName key="lhend1">Lydia Hendrick</persName></signed>
+                  <lb/>To <persName key="checkplace">Margaret Elliott</persName>
+                  <lb/><dateline><placeName key="newst">New Stockbridg</placeName> <date when="1796-09-08">9 mo. 8th 1796</date></dateline>
+                  </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="45" facs="hv_hs_letterbook_v1_1797_045"/>
+                  <head>Extract of a Letter from an Indian Woman; to
+                  <lb/><persName key="jevan1">Joshua Evans’s</persName> whife, in the <placeName key="jerse">Jerseys</placeName>. </head>
+                  <dateline><placeName key="broth">Brother Town</placeName> <date when="1796-07-13">13th of the 7mo 1796</date> </dateline>
+                  <p>Friend Evans
+                  <lb/>If I may so call thee, and without doubt
+                  <lb/>it will appear strange to have a letter from one that thee
+                  <lb/>never saw, but it is the regard I have for thee, and thy Hus
+                  <lb/>band in particular, that causes me to write , Wishing
+                  <lb/>that thy Husband might return Home to thee again; if
+                  <lb/>it is the will of him, that rules over all; and bring the
+                  <lb/>glad Tidings from afar, and I doubt not but he is
+                  <lb/>sent by the hand of God; to do good to my Nation
+                  <lb/>the Indians; believing that he is a Minnister of the
+                  <lb/>Gospel, and a Father in Israel, and I expect that
+                  <lb/>thou art a Mother; We feel ourselves Like the lost
+                  <lb/>sheep in Israel, But we trust that God will gath
+                  <lb/>er us to his Fold. but I cannot write as if I
+                  <lb/>was acquainted with thee. but must conclude
+                  <lb/>my letter.
+                 </p>
+                  <closer><salute>by subscribing myself thy unknown
+                  <lb/>friend.</salute> <signed><persName key="checkplace">Loruhamah Crossly</persName></signed></closer>
+               </div>
+           <div type="letter">
+               <lb/><pb n ="46" facs="hv_hs_letterbook_v1_1797_046"/>
+                  <head>Extract of a Letter wrote by the Daughter, and
+                  <lb/>Sent by <persName key="jevan1">Joshua Evans</persName> to two of his Daughters</head>
+                  <dateline><placeName key="broth">Brothertown</placeName> <date when="1796-07-03">7 mo 3rd 1796</date> </dateline>
+                  <p>Friends -- <persName key="checkplace">Priscilla</persName> and <persName key="checkplace">Margaret Evans</persName>
+                  <lb/>You will accept a letter from one you never
+                  <lb/>saw; I have seen your Father, and me thinks he loo-
+                  <lb/>ks Like one of the good old saints, that was to Prea-
+                  <lb/>ch the Gospel to the ends of the Earth, and a fri-
+                  <lb/>end to all People, especially to the Indians, and
+                  <lb/>he is now in one of the Towns. But as I never
+                  <lb/>have had any acquaintance with either of
+                  <lb/>you, I cant express myself, but I hope that if it
+                  <lb/>is the will of the all wise being, it might be for some wise
+                  <lb/>End.
+                  </p>
+              <closer>but I must close my Letter,
+                    <salute>by Subscri-
+                  <lb/>bing myself your ever faithful, the unknown
+                  <lb/>Friend. </salute>
+                  <signed><persName key="gcros2">Gracy Crosly</persName></signed></closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="47" facs="hv_hs_letterbook_v1_1797_047"/>
+                  <head>A Circulating Letter from the <orgName key="pymind">Committee of the Indian
+                  <lb/>Institution</orgName> appointed by the <orgName key="pym">Yearly Meeting of
+                    <lb/>Philadelphia</orgName>. To the <orgName key="sxntns">Six Nations of Indians</orgName> </head>
+                 <opener>To our Indian Brethern of the Six Nation </opener>
+                 <p>Brothers We rejoice that you are now at peace, and
+                  <lb/>we Pray to the Good Spirit, that he may continue to pres-
+                  <lb/>serve you from the Miseries of War, we have always had
+                  <lb/>your welfare at heart, Ever since our grand Father
+                  <lb/>Onas, came into this Country; and the present time
+                  <lb/>appears to us to be a favourable one, again to manifest
+                  <lb/>our unalterable Friendship for you; We cannot forget
+                  <lb/>the Harmony that subsisted between our fore Fathers; and
+                  <lb/>the Indians, during the first settlement of this Country.
+                 </p><p>Brothers, We have heard some of your Chief
+                  <lb/>Men say, that they believed the Good Spirit designs th-
+                  <lb/>at you should not live much Longer by Hunting alone
+                  <lb/>the game is grown scarce, yet although your Lands
+                  <lb/>are much less than they once were, they are with a
+                  <lb/>small degree of Industry abundantly sufficient to
+                  <lb/>supply all your wants.
+                </p><p>Brothers Our Hearts are open to you, we
+                  <lb/>are
+               <lb/><pb n ="48" facs="hv_hs_letterbook_v1_1797_048"/>
+                  <lb/>are desirous to help you to make the best use of your Lands;
+                  <lb/>We are united in this matter, and as we now enjoy
+                  <lb/>peace and tranquility, we are ready to part with some
+                  <lb/>of our subtance to make you more happy, now we de-
+                  <lb/>sire to ask you a few Questions, we hope you will answer
+                  <lb/>us candidly.
+                </p><p>Brothers Are you willing to be instructed in cultiv-
+                  <lb/>ating your Land and in the method which the white
+                  <lb/>People take to Live plentifully.
+                </p><p>Brothers Do you desire to learn some of our useful
+                  <lb/>Trades, such as Blacksmiths, Millrights, Wheelrig-
+                  <lb/>hts and Carpenters, that you may build Houses, and
+                  <lb/>Mills, and do other necessary things to make your lives
+                  <lb/>more comfortable.
+                </p><p>Brothers Would it be agreeable to you, that your Ch-
+                  <lb/>ildren should be tought to read and write, and such other
+                  <lb/>things as we teach our Children, which are intended to
+                  <lb/>render them peaceful and happy.
+                </p><p>Brothers We cannot doubt from the Speeches of
+                  <lb/>your wise Men, at different times, that these consider-
+                  <lb/>ations are now become very necessary for you to attend to,
+                  <lb/>and we wish you would pen your Hearts, do not hide
+                  <lb/>your Thoughts from us; we Desire none of your Lands,
+                  <lb/>nor
+               <lb/><pb n ="49" facs="hv_hs_letterbook_v1_1797_049"/>
+                  <lb/>nor any thing that you have, but only to do you and
+                  <lb/>your Children good; think well of what we now prepare
+                  <lb/>to you, and send us an answer as soon as you can.
+                </p><p>Brothers We desire you would seriously reflect upon
+                  <lb/>the many Difficulties you are under; The hunger fatigue
+                  <lb/>and Cold you are subjected to, in your present mode of
+                  <lb/>Living, and compare it with the comfortable manner
+                  <lb/>in which you may Live, under the Blessing of the
+                  <lb/>Good Spirit; by raising Grain Cattle and other nec-
+                  <lb/>essaries on your Land, and then we hope that your
+                  <lb/>good understanding will incline you to think as we do,
+                  <lb/>that your Persueing this mode of Life, in which we are
+                  <lb/>ready to assist you will be of lasting advantage to you
+                  <lb/>and your Wives and Children for generations to come.
+                  </p>
+                  <closer><salute>Signed on behalf of your old Friends, the Peop-
+                  <lb/>le called Quakers in <placeName key="penns">Pennsylvania</placeName>, <placeName key="newje">New Jersey</placeName>,
+                  <lb/>and parts adjacent. </salute>
+                  <signed><persName key="jcoop1">James Cooper</persName>
+                  <lb/><persName key="jsloa1">Joseph Sloan</persName>
+                  <lb/><persName key="jbidd1">John Biddle</persName>
+                  <lb/><persName key="checkplace">John Slapler</persName>
+                  <lb/><persName key="hdrin1">Henry Drinker</persName>
+                  <lb/><persName key="wsave1">William Savery</persName>
+                  <lb/><persName key="bswet1">Benjamin Swett</persName>
+                  <lb/><persName key="jhunt1">John Hunt </persName>
+                  <lb/><persName key="tharr1">Thomas Harrison</persName>
+                  <lb/><persName key="jelli1">John Elliott</persName>
+                  <lb/><persName key="jsans1">Joseph Sansom</persName> </signed>
+                  <dateline><placeName key="phila">Philadelpa</placeName>
+                  <lb/>the <date when="1796-01-05">fifth Day of the first Month 1796</date></dateline>
+                  </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="50" facs="hv_hs_letterbook_v1_1797_050"/>
+             <head>From a Committee of <orgName key="chesm">Chester Quarterly Meeting</orgName>
+                  <lb/>of Women Friends in <placeName key="delco">Delaware County</placeName>; the Neig-
+                  <lb/>hbourhood of <placeName key="phila">Philadelphia</placeName>; To our Friends
+                  <lb/>the Indian Women of the <orgName key="oneida">Oneida Nation</orgName>, and
+                  <lb/>those to whom this may come.</head>
+                  <p>Sisters, It is in sisterly sympathy with you, we
+                  <lb/>have become desirous of your improvement in things
+                  <lb/>spiritual and Temporal, in which we have been
+                  <lb/>stired up by that good spirit which Leads to do good, and
+                  <lb/>communicate to send you some of the Bounty which
+                  <lb/>Providence hath bestowed upon us through our industry
+                  <lb/>and care, particularly for our aged and infirm Sisters
+                  <lb/>and your Children who are not able to provide for them
+                  <lb/>selves, and we wish you to imitate this industry, so that you
+                  <lb/>amay procure yourselves raiment against these things
+                  <lb/>are worn out, seeing the good Spirit hath put it into
+                  <lb/>the Hearts of our Brethern to take your Nation, and
+                  <lb/>others, a little while by the Hand, till you can learn to sta-
+                  <lb/>nd, being desirous to lead you forward in the knowledg
+                  <lb/>of Religion, and things useful in Temporal Life; and
+                  <lb/>we wish your Brethern may wisely improve the opp-
+                  <lb/>ortunity; and then when they raise Flax and Wool it
+                  <lb/>will
+               <lb/><pb n ="51" facs="hv_hs_letterbook_v1_1797_051"/>
+                  <lb/>will be the Duty of Women industriously to work it into
+                  <lb/>Garments, thus are we made Mutual helps one to another
+                  <lb/>the Men doing their Portion of Service out of Doors, and
+                  <lb/>the Women filling up their alotments in the Houses
+                 </p><p>Sisters Christianity hath tought our Brethern to
+                  <lb/>be tender towards their Women and not to oppress them
+                  <lb/>but they are willing to do their part of the business;  wher-
+                  <lb/>efore we think it would tend greatly to the Happiness of
+                  <lb/>your Nation; to Learn Christianity, for which end we
+                  <lb/>are concerned to encourage you in striving to have your
+                  <lb/>Children tought to read, by which they can come to know
+                  <lb/>the Scriptures and to learn the Lessons of Christianity;
+                  <lb/>Wherefore we are willing to send you a little help in your
+                  <lb/>first seting out, Our Brethern having procured a
+                  <lb/>young Man to teach them, whom the Good Spirit ha-
+                  <lb/>th made willing to leave his conections and dwell
+                  <lb/>among you awile for that purpose, We hope there-
+                  <lb/>fore the Children may be tought obedience to him, that
+                  <lb/>they may learn fast, and some of them be made able to tea-
+                  <lb/>ch others when he comes away, and that they may not
+                  <lb/>be hindered through the cold weather from steadily
+                  <lb/>attending the School. We send a stove to keep the
+                  <lb/>House
+               <lb/><pb n ="52" facs="hv_hs_letterbook_v1_1797_052"/>
+                  <lb/>House warm, and if diligence is persued in striving to lea-
+                  <lb/>rn, there may be some wise and good Men &amp; Women raised up
+                 </p><p>Sisters We have asked consent of our brethern to send
+                  <lb/>you these matters, and this Epistle, and they have given us con-
+                  <lb/>sent, for they are willing to encourage their Women in ev-
+                  <lb/>ery good word and work, that the Good Spirit disposeth
+                  <lb/>their Hearts unto, knowing that such attention to Duty
+                  <lb/>helps to make them better Wives &amp; Mothers; as well as
+                  <lb/>more acceptable to their Maker, which draweth down a
+                  <lb/>devine Blessing. They will be Distributed by our Friends
+                  <lb/><persName key="jtayl1">J. Taylor</persName> <persName key="hsimm1">H. Simmons</persName> and <persName key="jthom2">J. Thomas</persName> to such as
+                  <lb/>want them most, and to such Children as attend the Sch-
+                  <lb/>ool to keep them from suffering with the Cold.
+                 </p><p>Sisters We are troubled to hear some among the Indian
+                  <lb/>Nations are much prone to the Evil of Strong Drink, but we
+                  <lb/>hope you are preserved from this, by the good Spirit; we have
+                  <lb/>no fellowship with those who take Strong Drink to Excess in
+                  <lb/>our own Nation or others, And we hope that our Sisters who
+                  <lb/>are Sober and Brethern that are wise, will labour to persu-
+                  <lb/>ad such foolish People from those pernitious practices; and that
+                  <lb/>they will not suffer their Children and young  People even to tast
+                  <lb/>it lest they Should learn to love it, and become as besoted naves
+                  <lb/>thereto.
+                  </p>
+                  <closer><salute>With the salutation of true Christian
+                  <lb/>good will, we remain your Friends.
+                  <lb/>Signed on behalf of our Sisters,</salute> <date when="1796-10-04">this
+                  <lb/>fourth Day of the Tenth Month 1796 </date>
+                  <signed><persName key="checkplace">Sarah Newlin</persName>
+                  <lb/><persName key="checkplace">Hannah West</persName>
+                  <lb/><persName key="rhunt1">Rachel Hunt</persName>
+                  <lb/><persName key="checkplace">Rachel Valentine</persName></signed> </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="53" facs="hv_hs_letterbook_v1_1797_053"/>
+                  <head>A Copy of a Letter wrote by an Indian Man of
+                  <lb/>the <orgName key="stockbridge">Mohiconick Tribe</orgName>. To <persName key="jparr1">John Parrish</persName>, <placeName key="phila">Philada</placeName></head>
+                  <p>My Friend
+                  <lb/>I doubt not but thee would glad to see
+                  <lb/>my (tho’ poor) writing, once more. I inform thee
+                  <lb/>the Losses I met with this year; number of my relations
+                  <lb/>are taken away by Death; My Dear little Child, that
+                  <lb/>was born at <placeName key="conan">Canodarque</placeName> is also Dead, but Blessed
+                  <lb/>be the Great Good Spirit to do his pleasure among the
+                  <lb/>Inhabitants of the Earth; that by his Providence Teaches
+                  <lb/>Mankind as well as by his Holy Spirit, to know the va-
+                  <lb/>nity of this world, and that they should seek another
+                  <lb/>which endureth forever, which Everlasting Covenant
+                  <lb/>has perchased by his own precious Blood for Sinnne-
+                  <lb/>rs (Even whom I am Chief) I am not so healthy as usual,
+                  <lb/>and my whife has been Poorly this great white; but I
+                  <lb/>hope that all these afflictions will Lead me to under
+                  <lb/>stand the ways of God, and Men, that I may be
+                  <lb/>enabled by his Gracious assistance to put my whole
+                  <lb/>trust in him
+                 </p>
+                  <closer><signed><persName key="checkplace">Soloman Quackmut</persName></signed>
+                  <lb/>To <persName key="jparr1">John Parrish</persName>
+                  <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-04-03">4 mo 3th 1797</date></dateline>
+                  </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="54" facs="hv_hs_letterbook_v1_1797_054"/>
+                 <head>A Copy of a Letter from a principal Chief of
+                   <lb/>the <orgName key="stockbridge">Stockbridg Nation</orgName> To <persName key="hsimm1">Henry Sim-
+                  <lb/>mons Senior</persName></head>
+                 <dateline> <placeName key="newst">New Stockbridg</placeName> <date when="1797-11-07">11 mo 7th 1797</date></dateline>
+                  <p><persName key="checkplace">Henry Simmons</persName>;
+                 </p><p>My Dear Brother, Although I never had thee
+                  <lb/>pleasure to see the personally, yet I feel love for thee
+                  <lb/>since I first heard about thee, I have been persuade
+                  <lb/>on my mind, that thou must be true Man; that
+                  <lb/>thou hast encouraged thy Son, to come up here
+                  <lb/>to assist us poor Indians, and I hope by the
+                  <lb/>help of the Great Good Spirit, his labours in many
+                  <lb/>instances are blessed, and by his faithfulness as
+                  <lb/>well as usefulness, he is well beloved most by all our
+                  <lb/>people. Brother, I am exceedingly Satisfied
+                  <lb/>in receiving a kind letter from thee, I was elevated
+                  <lb/>when I come to read it; for it contains most
+                  <lb/>excellent words of our Saviour, for which I now
+                  <lb/>thank thee. Brother, I will inform thee that
+                  <lb/>my Counsillors are of one mind in endeavoring to
+                  <lb/>promote
+               <lb/><pb n ="55" facs="hv_hs_letterbook_v1_1797_055"/>
+                  <lb/>promote the peace and happiness of our old Men
+                  <lb/>Women; young Men, young Women &amp; Children
+                  <lb/>both for their Temporal and Souls concerns;
+                  <lb/>Brother, I will also inform thee, that a number
+                  <lb/>of our people have of late felt the power of the good
+                  <lb/>Spirit who have never truly concern for their
+                  <lb/>poor immortal Souls, are now very serious
+                  <lb/>among them there is one old Widow Woman in
+                  <lb/>particular, who has been grossly wicked all
+                  <lb/>her Days, She is upwards than Seventy years
+                  <lb/>of age; She is now Crying after Jesus, whom she
+                  <lb/>told me, She love from her Heart;  and that She
+                  <lb/>does pour out her Heart prayers every day &amp; night
+                  <lb/>to whom she told me She will follow let consequence
+                  <lb/>be what it will. Brother, although I had
+                  <lb/>a desire to inform thee many other circumstan-
+                  <lb/>ces which has taken place among my people; but
+                  <lb/>for want of time, I could not do it at this time
+                  <lb/>therefore let these few lines suffice thee for this time
+                  <lb/>farewell
+                  </p>
+                  <closer><signed><persName key="haupa1">Hendrick Aupaumut</persName></signed></closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="56" facs="hv_hs_letterbook_v1_1797_056"/>
+                 <head>A Copy of a Letter Wrote by a <placeName key="broth">Brothertown</placeName> Woman
+                  <lb/><placeName key="oneid">Oneida</placeName> <date when="1797-09-10">9th mo 10th 1797</date></head>
+                  <p>Dear Friend,
+                  <lb/>Since I have been acquainted with the Fr-
+                  <lb/>iends, I have always had a particular regard for them, for
+                  <lb/>the many benefits they have, and are yet bestowing on
+                  <lb/>the Indians of different Tribes, in these parts; having
+                  <lb/>a mind to write a few lines to let thee know that I am
+                  <lb/>a well wisher to you that are called Friends, for I believe
+                  <lb/>you to be the true Desiples of Christ. How beutiful
+                  <lb/>are the feet of those that publisheth peace.
+                 </p><p>Having been acquainted with thy Brother, and
+                  <lb/>believing him to be one of those that Worship God, in
+                  <lb/>Spirit and in truth; and believe that he now retu-
+                  <lb/>rns home with the witness of truth in his own breast
+                  <lb/>I cant express myself as I would wish to.
+                 </p><p>but l will try to persevere in the way of well
+                  <lb/>doing,  </p>
+                <closer>So I must bid thee farewell, <salute>and
+                  <lb/>am thy Friend and well wisher.</salute>
+                  <lb/><signed><persName key="checkplace">Gracey Crosley</persName></signed></closer>
+              </div>
+           <div>
+               <lb/><pb n ="57" facs="hv_hs_letterbook_v1_1797_057"/>
+                  <head>To <persName key="heddy1">Hannah Eddy</persName>, <persName key="mtitu1">Martha Titus</persName>, <persName key="eseam2">Elizabeth
+                  <lb/>Seaman</persName>, and our other Sisters of the people Called
+                  <lb/>Quakers of the <orgName key="nystate">State of New York</orgName> and elsewhere </head>
+                  <p>Dear Sisters
+                  <lb/>We take this opportunity to inform
+                  <lb/>you that we have been very happy to see our wor-
+                  <lb/>thy Friends <persName key="teddy1">Thomas Eddy</persName>, <persName key="ttitu1">Thomas Titus</persName>, and
+                  <lb/><persName key="gseam2">Gideon Seaman</persName>, who have given us good Coun-
+                  <lb/>sel which do much good on our minds. we thank
+                  <lb/>fully accept of their good words, for we believe they
+                  <lb/>are the Children of Light and the words they
+                  <lb/>spoke flow from Love. Sisters, we will
+                  <lb/>also inform you, that we and number of our Sisters
+                  <lb/>of this Nation, have this several years past
+                  <lb/>been endeavouring to follow the good path which leads
+                  <lb/>to everlasting happiness. and that we experi-
+                  <lb/>ence in degree the Love of Jesus Christ who died for
+                  <lb/>such Sinners as we are. Sisters We find
+                  <lb/>that these Friends who gave us many good
+                  <lb/>Counsels
+                  <lb/><pb n ="58" facs="hv_hs_letterbook_v1_1797_058"/>
+                  <lb/>Counsels are true Men. So we believe that you are
+                  <lb/>also our true Sisters in the Lord. therefore
+                  <lb/>we think you would be willing to hear from us,
+                  <lb/>who tho’ are poor People (commonly called, by many
+                  <lb/>white people Squaws) we are rejoiced to find that
+                  <lb/>Friends have such Love which makes no distin-
+                  <lb/>ction. Sisters, We have religious Mee-
+                  <lb/>tings twice in every Week to Seek after the ways
+                  <lb/>of the good Spirit, and have at times been comfo-
+                  <lb/>rted by him who searcheth all the Hearts.
+                 </p><p>Although we never have seen any of you,
+                  <lb/>yet let us join hand in hand to serve the Lord Almighty,
+                  <lb/>who is able to put such weapon on our
+                  <lb/>minds to withstand all the Temptations of the
+                  <lb/>Evil one. and that we may be able to hold out
+                  <lb/>to the end, where we shall join to praise our
+                  <lb/>Saviour to all Eternity. Farewell.
+                  </p><closer>Signed
+                  <lb/><persName key="ejosy1">Elizabeth Josy</persName>
+                  <lb/><persName key="lhend1">Lydia Hendrick</persName>
+                  <lb/>continued
+               <lb/><pb n ="59" facs="hv_hs_letterbook_v1_1797_059"/>
+                  <lb/><persName key="cnauk1">Catherine Nawkowwisquok</persName>
+                  <lb/><persName key="kquin1">Catherine Quinney</persName>
+                  <lb/><persName key="checkplace">Catherine Kuwhawsquok</persName>
+                  <lb/><persName key="cquaw1">Catherine Quauquackmet</persName>
+                  <lb/><persName key="jandr1">Jenny Andrew</persName>
+                  <lb/><persName key="elitt2">Ester Littleman</persName>
+                  <lb/><persName key="mtauk1">Mary Taukonnomeen</persName>
+                  <lb/><persName key="mholm1">Mary Holmes</persName>
+                  <lb/><persName key="mquin1">Margaret Quinney</persName>
+                  <lb/><persName key="hseep1">Hannah Seepnommow</persName>
+                  <lb/><dateline><placeName key="newst">New Stockbridg</placeName>
+                  <lb/><date when="1797-06-24">6mo 24th 1797</date></dateline>
+                  <lb/>Directed to <persName key="heddy1">Hannah Eddy</persName> </closer>
+               </div>
+           <div type="letter">
+                 <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-06-25">6mo 25th 1797</date></dateline>
+                  <p>Dear Sisters,
+                  <lb/>I can thank you for sparing your Dear
+                  <lb/>Husbands, what time you heard a child is born
+                  <lb/>in the wilderness? can you believe it? can thee say
+                  <lb/>no or yes? to me it so, because we Indians like a
+                  <lb/>Child it appears, because this several days and
+                  <lb/>years has been with us much good people, come
+                  <lb/>visited us almost around us, I believe they all heard
+                  <lb/>a news, a child is born in the wilderness, but thro’
+                  <lb/>the great Spirit guides them all, I think I believe
+                  <lb/>you one good Woman which chosen good part
+                  <lb/>which
+                 <lb/><pb n ="60" facs="hv_hs_letterbook_v1_1797_060"/>
+                  <lb/>which no man can taken away from you. I hope
+                  <lb/>that make your faithful Heart Melt.
+                  </p>
+                  <closer><salute>these from your affectionate Friend</salute>
+                  <signed><persName key="csolo1">Catherine Solomon</persName></signed>
+                  <lb/>To <persName key="mtitu1">Martha Titus</persName>
+                  <lb/><persName key="eseam2">Elizbeth Seaman</persName>
+                  <lb/><persName key="heddy1">Hannah Eddy</persName> </closer>
+              </div>
+           <div type="letter">
+                 <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-09">9mo 1797</date></dateline>
+                  <p>Beloved Sister
+                  <lb/>I received a kind letter from thee about
+                  <lb/>too years ago with the presents the sent me by my
+                  <lb/><persName key="checkplace">Brother Hendrick</persName>, as a token of thy Love, Tho’ I
+                  <lb/>have <unclear>feef</unclear> obligation to manifest my thanks to thee for
+                  <lb/>thee kindness thee shewed to me at that time, espe-
+                  <lb/>cially because I was particularly in very needy cir-
+                  <lb/>cumstance for want of necessaries; but one thing
+                  <lb/>and another have prevented me by not writing to
+                  <lb/>thee, one year after the Death of my Dear Hus-
+                  <lb/>band, one of my Children also died, and soon
+                  <lb/>after that our Dear Friend, <persName key="socco1">Sampson Occom</persName> died
+                  <lb/>this
+                  <lb/><pb n ="61" facs="hv_hs_letterbook_v1_1797_061"/>
+                  <lb/>this was the time of our distress in general, Dark
+                  <lb/>Clouds (is it were) hung over our Heads, But
+                  <lb/>blessed be the great good Spirit that in his Mer-
+                  <lb/>cy stired up the minds of his people the Friends
+                  <lb/>to cast compassion on us; and began to
+                  <lb/>send us relief and giving us many good Counsels
+                  <lb/>for the good of our bodies and souls. whereby
+                  <lb/>I and my people feel the acknowledgments for
+                  <lb/>the true love which Friends have toward poor
+                  <lb/>Indians in the Wilderness. and what can
+                  <lb/>we do but to return gratitude to our benefac-
+                  <lb/>tors and humbly hope the great good Spirit
+                  <lb/>will reward them abundantly, with Tempo-
+                  <lb/>ral and Spirittual Blessings. I hope there
+                  <lb/>are number of my people understand the intent
+                  <lb/>of the favours we received and make right im-
+                  <lb/>provements of them. I made enquiry of <persName key="checkplace">Han-
+                  <lb/>nah Caleb</persName>, which she desired me to inform thee,
+                  <lb/>whether She was still living, I understood that
+                  <lb/>She
+               <lb/><pb n ="62" facs="hv_hs_letterbook_v1_1797_062"/>
+                  <lb/>She returned down country before thy Letter reached
+                  <lb/>here. My Love &amp; <persName key="checkplace">Sister Mary’s</persName> Love to thee
+                  <lb/>and thy Family, and also <persName key="elitt2">Ester Littleman</persName>, and
+                  <lb/><persName key="clitt1">Catherine Littleman</persName> desire to join.
+                 </p>
+              <closer><salute>this from
+                  <lb/>thy sincere Friend and Sister</salute>
+                  <signed><persName key="checkplace">Elizabeth Mauchtoog</persName></signed>
+                  <lb/>to <persName key="checkplace">Margaret Elliott</persName>
+                  <lb/><placeName key="phila">Philada</placeName></closer>
+               </div>
+           <div type="letter">
+              <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-09-09">September 9th 1797</date></dateline>
+                  <p>Sister
+                  <lb/>Although we are unacquainted with each-
+                  <lb/>other, yet as because our good Friend <persName key="hsimm1">Henry Sim-
+                  <lb/>mons</persName>, has been told me of some thing of your good
+                  <lb/>Character, I feel willing to write a few words to you
+                  <lb/>to let you know that by the goodness of the great
+                  <lb/>good Spirit, number of our people have been
+                  <lb/>brought to se their deplorable situation by
+                  <lb/>nature, and <emph rend="underline">he</emph> has shown the way of Salvation
+                  <lb/>and made us willing to put our trust on <emph rend="underline">him</emph>
+                  <lb/>who is mighty to save. How happy thing it is
+                  <lb/>to know the ways of the Lord; I have many
+                  <lb/>times
+               <lb/><pb n ="63" facs="hv_hs_letterbook_v1_1797_063"/>
+                  <lb/>times Mourn that I cannot conform the com-
+                  <lb/>mand of our Dear Redeemer; but it is for our com
+                  <lb/>fort that <emph rend="underline">He</emph> will help those who Call upon  <emph rend="underline">His</emph>
+                  <lb/>name; Sister, I will also inform you, that
+                  <lb/>while we were very low, our Friends from
+                  <lb/><placeName key="penns">Pennsylvania</placeName> have help us, by which means
+                  <lb/>our people are greatly encouraged to try to be-
+                  <lb/>come Farmers; and I hope by the goodness
+                  <lb/>of the Great Good Spirit, my Nation will
+                  <lb/>yet become useful Citizens. Our Bro-
+                  <lb/>ther <persName key="hsimm1">H. Simmons</persName> will be able to acquaint
+                  <lb/>you what he has seen among us on this Wil-
+                  <lb/>derness, and although I do not expect to
+                  <lb/>See you on this Life; yet let me tell you (my
+                  <lb/>Sister) that if we forsake all for Christ’s cause
+                  <lb/>and persevere to the end, we shall see each other
+                  <lb/>in the other world; where we shall join to praise
+                  <lb/>the Father and the Son and the Holy Ghost, to all
+                  <lb/>Eternity,
+                    </p>
+                  <closer>Farewell
+                    <signed><persName key="lquin1">Lydia Aupaumut</persName></signed>
+                  <lb/>To <persName key="checkplace">Ruth Wamsley</persName>
+                  </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="64" facs="hv_hs_letterbook_v1_1797_064"/>
+              <dateline><placeName key="broth">Brothertown</placeName> <date when="1797-09-08">9 mo 8th 1797</date></dateline>
+                  <p>Dear Friend
+                  <lb/>Although, I am unacquainted with you, yet I
+                  <lb/>trust I am not altogether unacquainted with the bless-
+                  <lb/>edness of the Holy one of Israel, which I make no
+                  <lb/>doubt but that thou art one of the followers of
+                  <lb/>Christ, I have often experienced the goodness
+                  <lb/>and Blessedness of the Lord; towards me and my
+                  <lb/>Family, which I bless the Lord for, I have seen
+                  <lb/>thy Husband as I told thee before in the other let-
+                  <lb/>ter that I wrote to the Last Summer; I have
+                  <lb/>a particular regard for the people called Quakers
+                  <lb/>for it is them that does appear to be the followers
+                  <lb/>of the meek and lowly lamb of God; and you
+                  <lb/>Seem to be the nearest our Hearts, or nearer than
+                  <lb/>any other people, their is so many kindness’s shew-
+                  <lb/>ed to us by these people, of your society, which I am
+                  <lb/>very thankful for, but my pen is too short to
+                  <lb/>express my mind to thee, but I can truely say
+                  <lb/>I have a particular regard for you, and I can bless
+                  <lb/>the Lord for the Seasonable oppertunities that
+                  <lb/>I
+                  <lb/><pb n ="65" facs="hv_hs_letterbook_v1_1797_065"/>
+                  <lb/>I have had with your people. the Friends at
+                  <lb/><placeName key="oneid">Oneida</placeName> are very kind to us, as well as to the rest of
+                  <lb/>the Indians; they have given very good advice to
+                  <lb/>the Indian Tribes, and the <placeName key="broth">Brothertown</placeName> in a
+                  <lb/>special manner, have received very good advice
+                  <lb/>from these three Brothers living here, and I am
+                  <lb/>very thankful for it, and I bless God that has
+                  <lb/>seen fit to bring these our Dear Brothers <persName key="hsimm1">Henry
+                  <lb/>Simmons</persName>, <persName key="jtayl1">Jacob Taylor</persName>, &amp; <persName key="jthom2">Jonathan Thomas</persName>,
+                  <lb/>have among us poor Indians, to teach us the path
+                  <lb/>of peace, and I hope the good Spirit will bless
+                  <lb/>them for it.
+                 </p><p>But I must conclude my letter, by saying
+                  <lb/>my Husband  gives his love to your Husband and
+                   <lb/>the rest of your Family, and <persName key="gcros2">Gracey</persName> gives
+                  <lb/>her Love. </p>
+                <closer>I bid you farewell and remain
+                  <lb/>your Sister in the Lord
+                  <signed><persName key="checkplace">Loruhamah Crosley</persName></signed>
+                  <lb/>for friend <persName key="jevan1">Joshua Evans</persName> wife </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="66" facs="hv_hs_letterbook_v1_1797_066"/>
+                  <dateline><placeName key="checkplace">Groton</placeName> <date when="1797-10-12">October the 12 th 1797</date></dateline>
+                  <p>Dear Friend,
+                  <lb/>I must acknowledg the receipt of three letters
+                  <lb/>from you and also your presents which came with them
+                  <lb/>which I am unworthy of, but believe God put it into
+                  <lb/>your Heart to send, and I trust you will have your
+                  <lb/>reward. Dear Sister, God was pleased
+                  <lb/>to reveal himself to me thirty years past, and from
+                  <lb/>that time I have endeavoured to let my light Shine
+                  <lb/>before the world and my own nation in particular
+                  <lb/>but have been clog’d with many imperfections, but
+                  <lb/>I hope in God still that I shall yet prais <emph rend="underline">him</emph> for
+                  <lb/>the health of his countenance. My love to you
+                  <lb/>and all yours, and hope I shall ever have a sense
+                  <lb/>of gratitude to my God, for all his favours,and
+                  <lb/>all my Christian Friends and you in particu-
+                  <lb/>lar I hope I am a friend to Godliness.
+                  </p>
+                  <closer><signed><persName key="checkplace">Hannah Caleb</persName></signed>
+                  <lb/>I have had a Husband &amp;
+                  <lb/>Children, but have neither now
+                  <lb/>I have been a Widow many years
+                  <lb/>to <persName key="checkplace">Margaret Elliott</persName> </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="67" facs="hv_hs_letterbook_v1_1797_067"/>
+                  <head>Some conversation between the Mother &amp; Daughter
+                  <lb/>of the <orgName key="stockbridge">Stockbridg nation</orgName>, before the Daughter was
+                  <lb/>brought to <placeName key="penns">Pennsylvania</placeName></head>
+                  <p>Dear Brother,
+                  <lb/>I just mention to you few words, because
+                  <lb/>I tell you I would let you know my mind about my
+                  <lb/>little Daughter, when we received proposals from
+                  <lb/>you, She ask me two or three times, whether I feel
+                  <lb/>quiet on my mind that she should go with Friends
+                  <lb/>I tell her I am quiet on my mind, I am cheefully wil-
+                  <lb/>ling you should go with these good friends to their
+                  <lb/>homes, because you shall their find good Friends,
+                  <lb/>but she says mother, who shall help you about
+                  <lb/>the House after I am gone, no danger in that res
+                  <lb/>pect my Daughter, then she tell me I will be obe-
+                  <lb/>dient to them who shall take care of me.
+                 </p><p>Brother, I am cheerfully willing to leave my
+                  <lb/>Daughter under your care, and I am willing
+                  <lb/>that she should be inoculated if you see fit
+                  <lb/>farewell.
+                  </p>
+                  <closer><signed><persName key="ejose1">Elizabeth Joseph</persName></signed>
+                  <lb/>to <persName key="hsimm1">Henry Simmons</persName>
+                  <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-11-08">11mo 8th 1797</date></dateline>
+                  </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="68" facs="hv_hs_letterbook_v1_1797_068"/>
+                <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-09-09">9mo 9th 1797</date></dateline>
+                  <opener><salute>Dear Friend, and Brother</salute> <persName key="ewalk1">Enoch Walker</persName>,</opener>
+                  <p>This is to inform thee, that by the goodness
+                  <lb/>of the great Good Spirit, I enjoy a good health
+                  <lb/>but my Wife is unhealthy ever since last spring, and
+                  <lb/>I have lost one of my Dear Children, since thee been
+                  <lb/>here, and Blessed be the name of the Lord, who con-
+                  <lb/>ducteth all things in his infinite wisdom and mercy
+                  <lb/>who also promised to his humble followers, that all
+                  <lb/>things shall work together for their real good.
+                 </p><p>We had some expectation to see thee here, but
+                  <lb/>friend <persName key="jtayl1">Jacob Taylor</persName>, informed me, that thee has
+                  <lb/>Married Since thee left this place, I think that
+                  <lb/>must necessarily confine thee at Home, and wish
+                  <lb/>thy happiness, for the wise man says, when a
+                  <lb/>man findeth a Wife he fineth a good thing.
+                 </p><p>Friend, here is great satisfaction given to
+                  <lb/>the people, they wish that friends should con-
+                  <lb/>tinue for some time, and their is number
+                  <lb/>of our young men engage to sow wheat, which
+                  <lb/>they
+                  <lb/><pb n ="69" facs="hv_hs_letterbook_v1_1797_069"/>
+                  <lb/>they never have done before. I have a mind some-
+                  <lb/>times to go down and pay you visit for my own satis-
+                  <lb/>faction; but I have met with some Losses, for which
+                  <lb/>I am discouraged from going down. but if the Lord
+                  <lb/>will open away by his providence I will go yet.
+                 </p>
+              <closer>Give my Love to all them who enquire after
+                  <lb/>me. I should be very glad to receive a letter
+                  <lb/>from any of the Friends.
+                  <signed><persName key="checkplace">Solomon Quackmut</persName></signed> </closer>
+            </div>
+           <div type="letter">
+               <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-09-09">9mo 9th 1797</date></dateline>
+                 <p>Dear Sister,
+                  <lb/>I send these few lines to inform thee,
+                  <lb/>that we are all pretty well, except me, I have been
+                  <lb/>unwell these three years past, and also inform
+                  <lb/>thee that I am very happy to see that the great
+                  <lb/>good Spirit in his mercy, has put it into the
+                  <lb/>minds of his people to exercise benevolence tow-
+                  <lb/>ards us, we poor Indians, I believe it shall
+                  <lb/>prove successful in a great measure, the plan
+                  <lb/>which
+                  <lb/><pb n ="70" facs="hv_hs_letterbook_v1_1797_070"/>
+                  <lb/>which friends take in hand for introducing Civiliza-
+                  <lb/>tion among Indians, for I firmly believe it is good
+                  <lb/>Spirit with them. we are much comforted for fri-
+                  <lb/>ends staying here at <placeName key="oneid">Oneida</placeName>, we seen them often, they
+                  <lb/>have been faithful in promoting the welfare of the
+                  <lb/>Indians Living on the reservation of the Oneidas. I
+                  <lb/>find my people are much altered since friends began
+                  <lb/>to take concern for Indians and helping them.
+                  <lb/>many of our Men feel the importance of industry, and
+                  <lb/>following sobriety as friends recommended to them;
+                  <lb/>I wish I could communicate my thoughts, as I wou
+                  <lb/>ld have informed thee particulars which are in my
+                  <lb/>mind, But to conclude with thankfulness
+                  <lb/>for the kindness we received from Friendsm and
+                  <lb/>I hope they shall be abundantly rewarded from
+                  <lb/>the great good Spirit, who promised blessing
+                  <lb/>to the merciful.
+                 </p>
+                 <closer><salute>This from thy sincere friend
+                  <lb/>and Sister</salute>
+                  <signed><persName key="checkplace">Catherine Quackmut</persName></signed>
+                  <lb/>to <persName key="checkplace">Rebeccah Roberts</persName></closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="71" facs="hv_hs_letterbook_v1_1797_071"/>
+              <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-09-09">9mo 9th 1797</date></dateline>
+                  <p>Dear Friend &amp; Brother,
+                  <lb/>I embrace this opportunity to inform thee,
+                  <lb/>that I am in good Health Family and all my people
+                  <lb/>I received thy Letter last summer, after its nine week’s
+                  <lb/>date, and the bundle of books which was directed to me,
+                  <lb/>in the first place I got the principal men to hear it
+                  <lb/>read, as the spake to us at Larg; and after that others
+                  <lb/>where read it them, we attended with seriousness, and
+                  <lb/>feel the weight of the good Counsels thee given us, our
+                  <lb/>Hearts are much encouraged when we hear our Friends
+                  <lb/>voice who concerne for the Temporal and Spirittual
+                  <lb/>welfare of our Nation, and other nations of Indians,
+                  <lb/>I am struck with admiration when I reflect on the
+                  <lb/>kindness we received from Friends, what can be the mo-
+                  <lb/>tives that induced them to take so much pain for endea-
+                  <lb/>vouring to lead us to Civilization; I know their are
+                  <lb/>many our white brethren who would call us Bro-
+                  <lb/>thers, when they have Interest in view, for posess-
+                  <lb/>ion of poor Indians, but Friends are quite contra-
+                  <lb/>ry
+                  <lb/><pb n ="72" facs="hv_hs_letterbook_v1_1797_072"/>
+                  <lb/>ry they neither want Lands nor Money from Indians,
+                  <lb/>but purely out of love even that love from above, whi-
+                  <lb/>ch worketh unto good works. I have often talked
+                  <lb/>with my people, particularly to youth, what great
+                  <lb/>thing have been done for us, what great obligations we
+                  <lb/>are under to improve answerable for the many
+                  <lb/>favours we received from the hand of the kind provi-
+                  <lb/>dence- and I hope that by the good Spirit, there are
+                  <lb/>some amongst us who understand in some measure
+                  <lb/>these things and humbly look for blessings on these
+                  <lb/>means that our benefactors may be abundantly re-
+                  <lb/>warded from above, for their undertakings, and
+                  <lb/>prove for our present and eternal good, that we
+                  <lb/>and our posterity may ever keep in remembrance
+                  <lb/>of the good things which Friends have done for Natives
+                  <lb/>of this Continent. be it known to the and other
+                  <lb/>friends; that our Ears are still open to hear good adv-
+                  <lb/>ices from our friends. Respecting the propo-
+                  <lb/>sal the made in thy Letter, in translating the little
+                  <lb/>Book
+                  <lb/><pb n ="73" facs="hv_hs_letterbook_v1_1797_073"/>
+                  <lb/>book into our Language, we are much pleased with it, and
+                  <lb/>we think it would be a great help to Children to understa-
+                  <lb/>nd English, as most of my School Children can read in En-
+                  <lb/>glish and in Indian; but my situation has been Such.
+                  <lb/>I could not do it yet, but I shall begin at it pretty soon.
+                </p><p>Nothing particularly has occured here - only
+                  <lb/>I would inform thee, that Some young Men, Industrious
+                  <lb/>young men desireous the alteration of one Clause
+                  <lb/>of the articles of agreement made by Friends,
+                  <lb/>the Committee of thy Sosiety; if it can be done con-
+                  <lb/>sistantly with your condecention already mani-
+                  <lb/>fested towards my people, respecting the con-
+                  <lb/>dition of premiums; they think it is rather
+                  <lb/>to hard for a Man, when he is endeavouring to
+                  <lb/>follow sobriety, yet in some time or other thro’
+                  <lb/>his weakness overcome by that Monstrous Hero
+                  <lb/>unexpectedly, and thereby forfeit the Premium;
+                  <lb/>but the matter is not essential; for we know
+                  <lb/>you have done for us more than others, or we could
+                  <lb/>expect. I have had no time to write till this
+                  <lb/>Evening
+               <lb/><pb n ="74" facs="hv_hs_letterbook_v1_1797_074"/>
+                  <lb/>Evening, and as we send you a Speech or Letter by our
+                  <lb/>beloved friend <persName key="hsimm1">Henry Simmons</persName>, I think it is need-
+                  <lb/>less for me to tell thee every particular of our welfare
+                  <lb/>and he is able to give you all necessary information
+                  <lb/>from us.
+                   </p>
+                  <closer><salute>So I remain thy Sincere Friend and
+                  <lb/>Brother</salute>
+                  <signed><persName key="jquin2">John Quinney</persName></signed>
+                  <lb/>To <persName key="jpier2">John Peirce</persName> </closer>
+            </div>
+           <div type="letter">
+              <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-11-08">11mo 8th 1797</date></dateline>
+                  <p>Dear Sisters,
+                  <lb/>On the arival of our Friends <persName key="jclar1">Joseph
+                  <lb/>Clark</persName> and <persName key="hsimm1">Henry Simmons</persName>, we unexpectedly lea-
+                  <lb/>rned that you agreed to take some of our Daughters,
+                  <lb/>and to Teach them till their age, those ways which
+                  <lb/>you Teach your Daughters, and that your Brethren
+                  <lb/>encouraging you in it. Sisters, We believe
+                  <lb/>it is good Spirit that puts it into your Hearts to
+                  <lb/>shew this great favour to us, We therefore heartily
+                  <lb/>accept your proposals and willingly send our Daugh-
+                  <lb/>ters
+                  <lb/><pb n ="75" facs="hv_hs_letterbook_v1_1797_075"/>
+                  <lb/>ters unto you. Commending them at the Same
+                  <lb/>time into the hand of kind providence and to your
+                  <lb/>kind Gardian. We hope that by the blessing of
+                  <lb/>the good Spirit, they Shall be profitable to us, you
+                  <lb/>may teach them as you shall judg proper.
+                  <lb/>Sisters, We have long wished that some of
+                  <lb/>our Children should be thus Teached, but pover-
+                  <lb/>ty has prevented us not giving them that opertunity
+                  <lb/>Sisters, Now to conclude with our Sincere
+                  <lb/>thanks for the kindnesses you sent to us as a token
+                  <lb/>of your Love; We hope by the help of the good
+                  <lb/>Spirit, we shall ever be able to maintain our
+                  <lb/>Friendship with you. </p>
+                <closer>This is from your
+                  <lb/>Poor Sisters in the Wilderness, farewell.
+                  <signed><persName key="eknoh1">Eve Knuhkaunmuw</persName>
+                  <lb/><persName key="checkplace">Lydia Aupaumut</persName>
+                  <lb/><persName key="ejose1">Elizabeth Joseph</persName>
+                  <lb/><persName key="cnauk1">Catherine Nauhowwesquoh</persName> </signed>
+                  <lb/>To
+                  <lb/><persName key="checkplace">Hannah West</persName>
+                  <lb/><persName key="checkplace">Sarah Newlin</persName>
+                  <lb/><persName key="rhunt1">Rachel Hunt</persName>
+                  <lb/><persName key="checkplace">Rachel Valentine</persName>
+                  <lb/><placeName key="chestc">Chester County</placeName></closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="76" facs="hv_hs_letterbook_v1_1797_076"/>
+                 <dateline><placeName key="oneid">Oneida</placeName> <date when="1797-09-09">September 9th 1797</date></dateline>
+                  <p>Brothers, Attend
+                  <lb/>We the Chiefs of <orgName key="oneida">Oneida nation</orgName> will speak
+                  <lb/>to you in the way of writing, to let you know that
+                  <lb/>we have met in Council, and that our good Friend
+                  <lb/><persName key="hsimm1">Henry Simmons</persName>, the young Man you placed here
+                  <lb/>to instruct us how to manage our Land, is now ab-
+                  <lb/>out to leave us. Brothers We will also
+                  <lb/>inform you that your young Men have been very
+                  <lb/>faithful and useful to us ever Since they been with
+                  <lb/>us, and that we have never find any fault with
+                  <lb/>them, but we find fault with ourselves, we feel sor-
+                  <lb/>ry that we have been so backward, we could not
+                  <lb/>do what we might have done, but Brothers,
+                  <lb/>you well know that we are Ignorant, and that it
+                  <lb/>is very hard to change our ways. But we are
+                  <lb/>fully determine to try to follow the path which you
+                  <lb/>pointed out for us, we can go but very slow; and
+                  <lb/>we wish that you will not be discouraged, and desire
+                  <lb/>you
+                  <lb/><pb n ="77" facs="hv_hs_letterbook_v1_1797_077"/>
+                  <lb/>you to exercise patience.
+                 </p><p>Brothers, We now thank you for your Kin-
+                  <lb/>dness, we also thank your young Men for the pains
+                  <lb/>they have taken, We hope by the goodness of the
+                  <lb/>Great Spirit, we shall yet become as Civilized peo-
+                  <lb/>ple. </p>
+                 <closer>this from your Brethren.
+                  <signed><persName key="checkplace">Christian Kaghneatogh</persName>
+                  <lb/><persName key="jsken1">John Skennondougha</persName>
+                  <lb/><persName key="checkplace">Anthony Shararighyoh</persName>
+                  <lb/><persName key="checkplace">Peter Thedehaphrehes</persName>
+                  <lb/><persName key="checkplace">Nicholas Shagoghyadonha</persName>
+                  <lb/><persName key="ncusi1">Nicholas Cusick</persName> </signed>
+                  <lb/>
+                  <lb/><persName key="jsans1">Joseph Samsom</persName>
+                  <lb/>&amp;
+                  <lb/>the rest of our Friends of your society </closer>
+               </div>
+           <div type="letter">
+                  <p>Brothers and friends attend
+                  <lb/>We the Chiefs and Councillors of <orgName key="stockbridge">Muhhe-
+                  <lb/>connuk</orgName> or <orgName key="stockbridge">Stockbridg Nation</orgName>; will take this opper-
+                  <lb/>tunity to send our voice to you, we feel rejoice and
+                  <lb/>thankful that the Great Good Spirit has put
+                  <lb/>such Light and Love on your Hearts, and influenced
+                  <lb/>your minds such a degree, so as to have compassion-
+                  <lb/>ate
+                  <lb/><pb n ="78" facs="hv_hs_letterbook_v1_1797_078"/>
+                  <lb/>ate feelings toward us, the natives of this Island, we ever
+                  <lb/>have felt the gladness on our Hearts, to find and see
+                  <lb/>with our own Eyes that you have not only spoke good
+                  <lb/>words from your Lips, but doers of the good work; you
+                  <lb/>have extended your Charity toward us in this Wilder-
+                  <lb/>ness, you have taken the pains to come up year ago
+                  <lb/>last Summer, you have set with us in Council, you
+                  <lb/>have given us many good Counsels; you have raised
+                  <lb/>our Heads which where hang down, you have direct our
+                  <lb/>Eyes to see the good path of Life, you have put Tools
+                  <lb/>on our hands you have hang a good kittle by the Side
+                  <lb/>of our fireplace, whereby our Food may be Cooked
+                  <lb/>without any trouble, you have even put a good staff on
+                  <lb/>the hands of our Children that they may be enabled to
+                  <lb/>learn that leads to good life; and indeed you have
+                  <lb/>done much good for us. by these menes we have been
+                  <lb/>enabled to avoid many difficulties; By these menes
+                  <lb/>we and our young Men greatly encouraged, and our
+                  <lb/>Old people Comforted; By these menes we hope we
+                  <lb/>shall never forget your Friendship, but will ever
+                  <lb/>maintain
+                  <lb/><pb n ="79" facs="hv_hs_letterbook_v1_1797_079"/>
+                  <lb/>mantain it bright. Brothers We now hear-
+                  <lb/>tily thank you for your great kindness, and at
+                  <lb/>the same time assure you, we will endeavour to
+                  <lb/>follow the good path which you have pointed out
+                  <lb/>for us to walk; and we hope that in future Day
+                  <lb/>you will rejoice that what you done for us, was not
+                  <lb/>vain. The kindness which you have shewn to
+                  <lb/>us, is by this time sounded in the Ears of our allies
+                  <lb/>the different nation towards the sunseting, for it
+                  <lb/>is the Custom of our fore Fathers when any thing
+                  <lb/>is done for them by white people, all their friends
+                  <lb/>or allies must have the knowledg of it. if our
+                  <lb/>fore Fathers had receved such kindness, such way
+                  <lb/>of help by their white brothers, who got all their
+                  <lb/>Country; as we have received from you, we might
+                  <lb/>have been able to become useful Citizens of this
+                  <lb/>Island, but they were not allowed to have such
+                  <lb/>priviledges. Brothers, once more listen,
+                  <lb/>We had the pleasure to see your young men
+                  <lb/>who you left here to stay with us, they have been
+                  <lb/>very
+                  <lb/><pb n ="80" facs="hv_hs_letterbook_v1_1797_080"/>
+                  <lb/>very faithful in their undertaking. they gave us great
+                  <lb/>satisfaction, by their good behavour, we wish over to have
+                  <lb/>such useful Friends set by us; but it seems it is the
+                  <lb/>will of the good Spirit that <persName key="hsimm1">Henry Simmons</persName>, must return
+                  <lb/>Home this fall, we feel sorry to think how we shall be
+                  <lb/>as it were Longsome in his absence, but we hope you
+                  <lb/>will encourage him to come see us again; and he is
+                  <lb/>able to inform you every particular relative the
+                  <lb/>welfare of the Tribes Living on this Country. farewell
+                  </p>
+                 <closer><signed><persName key="jshau1">Joseph Shawqualhquak</persName>
+                   <lb/><persName key="haupa1">Hendrick Aupaumut</persName>
+                  <lb/><persName key="jquin1">Joseph Quinney</persName>
+                  <lb/><persName key="jquin2">John Quinney</persName>
+                  <lb/><persName key="checkplace">John Wautubqonaut</persName>
+                  <lb/><persName key="checkplace">Solomon Quakmut</persName></signed>
+                  <lb/>
+                  <lb/>To
+                  <lb/><persName key="irowl1">Isaiah Rowland</persName>
+                  <lb/><persName key="jpier1">John Peirce</persName>
+                  <lb/><persName key="jsans1">Joseph Sansom</persName>
+                  <lb/><persName key="jcoop1">James Cooper</persName> &amp;
+                  <lb/>the rest of our good Friends of your Sosiety
+                  <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-09-09">9mo 9th 1797</date></dateline> </closer>
+              </div>
+           <div type="letter">
+              <head><persName key="hsimm1">Henry Simmons Junr</persName> His Book The year 1797</head>
+                <lb/><pb n ="81" facs="hv_hs_letterbook_v1_1797_081"/>
+                 <p><persName key="jclar1">Joseph Clark</persName>, my friend
+                  <lb/>I take this opportunity to inform you, that
+                  <lb/><persName key="checkplace">Jacob Littleman</persName> has lost a little Daughter, who
+                  <lb/>died one Week to day, her name was <persName key="checkplace">Jerucy Thuhyewnh</persName>
+                  <lb/>aged Ten years, The sister of <persName key="checkplace">Margaret Mautauwsquoh</persName>
+                  <lb/>She begin feel unwell three days before her Sister set out
+                  <lb/>from Home, but the rest of their Children are pretty well
+                  <lb/>Jacob desires thee to inform his Daughter this sorriful
+                  <lb/>new of the Death of her beloved Sister; and to tell her
+                  <lb/>to remember her Creator in the Days of her youth.
+                 </p><p>My Friend, We rejoice when we consider that you
+                  <lb/>are our friends, that you have apparently manifested
+                  <lb/>to us, for which we ever feel under obligations to main-
+                  <lb/>tain the friendship now subsisted between my nation
+                  <lb/>and yours; And I hope by the Mercy of the
+                  <lb/>Good Spirit we shall yet become as Civilized nations
+                  <lb/>and to rejoice with you in the Salvation of Jesus-
+                  <lb/>Christ. </p>
+                 <closer><salute>is from your Sincere Friend</salute>
+                   <signed><persName key="haupa1">Hendrick Aupaumut</persName></signed>
+                  <dateline><placeName key="newst">New Stockbridg</placeName>
+                  <lb/><date when="1797-11-30">November 30th 1797</date></dateline></closer>
+               <lb/><pb n ="82" facs="hv_hs_letterbook_v1_1797_082"/>
+             </div>
+           <div>
+                <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1797-12-11">12 mo 11th 1797</date></dateline>
+                  <p>Friendly Sister
+                  <lb/>I received thy kind letter by friend <persName key="hsimm1">Henry-
+                  <lb/>Simmons</persName>, the <date when="1797-11-02">2 Day of 11th Month last</date>. It afords me a plea-
+                  <lb/>sure and satisfaction, because it informs me of thy gladness by
+                  <lb/>hearing that their is friendship subsisting between my people
+                  <lb/>and thine, at which I also ever feel thankful, to see such love
+                  <lb/>Friends have as to take upon themselves to much pains &amp; expence
+                  <lb/>for endeavoring to lead poor Indians to Civilization, which
+                  <lb/>love my people are convinced that the friends are indeed true
+                  <lb/>Friends to them; and by the blessing of the Good Spirit, the pains
+                  <lb/>which have taken are not vain; the good Councils given
+                  <lb/>to us by thy people are observed and often reminded one to-
+                  <lb/>another and of latty number of my Carless people are brought by
+                  <lb/>the Power of the good Spirit to concern for their Immortal
+                  <lb/>Souls, and become serious; And I believe with thee, that if
+                  <lb/>we turn our minds towards the Good Spirit He will not fail
+                  <lb/>to help us to every thing we are in need of. I received the
+                  <lb/>presents thee sent to me, with thankfulness, for which I
+                  <lb/>Heartily thank thee; May the friendship now subsist=
+                  <lb/>ing between thy people and mine may never be forgoten to the
+                  <lb/>latest generation. I got great Leal better what I was while
+                  <lb/>ago. </p>
+              <closer><salute>So I remain with much Love to thyself, and thy Hisband
+                  <lb/>from thy Sister</salute>
+                  <signed><persName key="checkplace">Catherine Quachmut</persName></signed>
+                  <lb/>To
+                  <lb/><persName key="checkplace">Rebeccah Roberts</persName> </closer>
+              </div>
+           <div type="letter">
+                  <lb/><pb n ="83" facs="hv_hs_letterbook_v1_1797_083"/>
+                  <head>The Antient Custom, among Indian Tribes
+                  <lb/>handed down from one Generation to another</head>
+                  <floatingText><body><p>Brothers
+                  <lb/>Attend, Since we are thus smiled by the great
+                  <lb/>Good Spirit during our deliberation, that we compleated
+                  <lb/>all the business which we took upon us to transact at
+                  <lb/>this Council Fire; So our Friendship is Judiciously
+                  <lb/>Established,
+                 </p><p>Brothers, In order to have it Strong and Lasting, I
+                  <lb/>now make a path which will lead from my fire place to
+                  <lb/>yours, the path shall be plain and straight, for I remove
+                  <lb/>every Fallen Tree from it and pull up every brier and
+                  <lb/>all poisonous Weeds, which stood on the way, and remove
+                  <lb/>every Obsticle. Now the great Sun yonder shines
+                  <lb/>upon it, in its benevolent rays, and dispells all Darkness
+                  <lb/>from it.
+                 </p><p>Brothers, Having finished this good path, I
+                  <lb/>now turn your Head and Direct your Eyes on this
+                  <lb/>path, so when you looking hither you shall see the
+                  <lb/>Doors of your Brothers, are open for you. And see
+                  <lb/>me sitting by my fireplace with pipe of peace,
+                  <lb/>Deliberating the wellfare of my Old Men, young
+                  <lb/>men
+                  <lb/><pb n ="84" facs="hv_hs_letterbook_v1_1797_084"/>
+                  <lb/>Men, Women and Children.
+                 </p><p>Brothers, Now let it be known throughout your
+                  <lb/>Tribes, that we both stand on this good path, wherein we
+                  <lb/>may walk backwards and forwards to see, visit comfort, and
+                  <lb/>exhort one another for our good, that we may be enabled to
+                  <lb/>keep up our Friendship bright, and our path Smooth &amp;
+                  <lb/>Direct, Lest, Some bad Weeds growing on the way or some
+                  <lb/>other Obsticle, whether by natural production of the ground
+                  <lb/>or sown by Evil Birds, whereby we may Stumble, but
+                  <lb/>if ever such thing is discouvered, we must both Lay our
+                  <lb/>Hands on it and remove it .
+                 </p><p>Brothers, If we always be faithful in Cultivating
+                  <lb/>our Friendship and preserve this path, the great good
+                  <lb/>Spirit will look on us with  approbation and send his Light
+                  <lb/>upon this path to Scatter all Dark Clouds, that it may
+                  <lb/>always appear Pleasant, that we and our latest gene-
+                  <lb/>ration may rejoice in it.
+                 </p><p>A Belt of Wampom Delivered
+                  <lb/>the Wampom purly white
+                  <lb/>except one row Purple in the mid
+                  <lb/>dle, which Signified the path.</p></body></floatingText>
+                  <p>my</p>
+                  <lb/><pb n ="85" facs="hv_hs_letterbook_v1_1797_085"/>
+                  <p>My good Friend <persName key="hsimm1">Henry Simmons</persName>, I have put
+                  <lb/>down on this paper a speech, which my ancesters used
+                  <lb/>to esteem. This is the way and manner of their
+                  <lb/>talk when they enter into Covenant of Friendship
+                  <lb/>with any Nation, or People. Which I desire you to
+                  <lb/>look and keep as spoken to you, and yours.
+                  <lb/>My Friend, I now thank you for the kindness which
+                  <lb/>you have Shewn to me, and my people, ever Since you
+                  <lb/>been with us on this Country, As you are about
+                  <lb/>to return Homewards, I wish you the pleasant Journey
+                  <lb/>I hope the great good Spirit will protect &amp; preserve
+                  <lb/>your Health, that you may be able to reach or arive at
+                  <lb/>Home to rejoice with your Dear Relations. Farewell </p>
+             <signed><persName key="haupa1">Hendrick Aupaumut</persName></signed>
+                  <dateline><placeName key="newst">New Stockbridg</placeName>
+                  <lb/><date when="1797-09-09">9 Mo 9th 1797</date></dateline>
+            </div>
+           <div type="letter">
+                  <p>Affectionate daughter,
+                  <lb/>I received thy Letter by Friends, with pleasure
+                  <lb/>and satisfaction, in hearing that thee is pretty well since
+                  <lb/>the came there where thou livest, that thee likes to live
+                  <lb/>there
+                  <lb/><pb n ="86" facs="hv_hs_letterbook_v1_1797_086"/>
+                  <lb/>there now, and feel thyself willing to stay there three years
+                  <lb/>by which time the think, thee can learn to keep house
+                  <lb/>pretty well. I am very glad to understand that thee
+                  <lb/>has so good folks to live with, who learn thee to read,
+                  <lb/>spin, knit, sew &amp; c. and give thee an advantage to go
+                  <lb/>to Meetings, it is my earnest with that thee would
+                  <lb/>continue to be good Girl, as Friend Sharpless told us in
+                  <lb/>his Letter, do what thee is bid, and be attentive to the
+                  <lb/>good Council thee here, Remember thy Creator,
+                  <lb/>knowing that thee is accountable creature, endeavour
+                  <lb/>to understand, and what the will of the Lord is.
+                  <lb/>I cannot write as much as I wish, but I doubt not
+                  <lb/>that Friends have freequently mentioned these things at
+                  <lb/>thy hearing. Great many have been sick this last
+                  <lb/>summer, but most of them recovered, thy <persName key="checkplace">Aunt Betty</persName>
+                  <lb/>died by the sickness. I am not very well, I have been
+                  <lb/>poorly since last spring, the rest of our relations are
+                  <lb/>pretty well. Thy Brother <persName key="checkplace">John Baldwin</persName> is
+                  <lb/>desireous
+               <lb/><pb n ="87" facs="hv_hs_letterbook_v1_1797_087"/>
+                  <lb/>desirous to learn a trade, either to be a Doctor or
+                  <lb/>Black Smith. Thy Grand Mother love to
+                  <lb/>thee, Likewise they Aunts, <persName key="checkplace">Genneh</persName> &amp; <persName key="checkplace">Caty</persName>.
+                 </p>
+                <closer>I con-
+                  <lb/>clude with much love to thee, and remain thy
+                  <lb/>loveing Mother.
+                  <signed><persName key="eknoh1">Eve Knuhkaunmow</persName></signed>
+                  <dateline><placeName key="newst">New Stockbridg</placeName>
+                  <lb/><date when="1799-10-23">10th mo 23th 1799</date></dateline>
+                  <lb/>N.B. I received the things the send by <persName key="checkplace">Margery</persName> with gladness
+                 </closer>
+             </div>
+           <div type="letter">
+                  <p>Sister,
+                  <lb/>It is two years I received a kind &amp; friend-
+                  <lb/>ly Letter from thee, dated <date when="1797-10-13">10 mo 13th 1797</date>, which
+                  <lb/>I have never yet give thee an answer, but it is not be-
+                  <lb/>cause I have forgotten thee, or thy kindness, But I
+                  <lb/>am sorry to inform thee that I have met with unexpec-
+                  <lb/>ted and long continueance of trial, which I could wish thee
+                  <lb/>would excuse me of mentioning particularly. I have
+                  <lb/>reason
+                  <lb/><pb n ="88" facs="hv_hs_letterbook_v1_1797_088"/>
+                  <lb/>reason to Bless the great Good Spirit that he has not left
+                  <lb/>me in my weakness as to entirely cast down, but teaches me
+                  <lb/>to know and feel my own weakness more &amp; more and depen-
+                  <lb/>dance on him who is able to teach, which no man can teach-
+                  <lb/>eth, and leadeth his through the Dark &amp; the Deep.
+                  <lb/>I often remember thy address to us in the Letter, as in the
+                  <lb/>Language of the Apostle, second Corinthians 13 &amp; 11, Final-
+                  <lb/>ly Brethren farewell, be of good comfort; be perfect, be
+                  <lb/>of one mind, live in peace, and the God of love &amp; peace be
+                  <lb/>with you. I have nothing particular to inform thee,
+                  <lb/>but with grief that Religion has been low among us since
+                  <lb/>last year, yet I hope there are few who still seaking
+                  <lb/>after the Mercy and teachings of the good Spirit.
+                </p><closer><salute>I salute thee, thy dear Husband, I remain thy Sin-
+                  <lb/>cere friend &amp; Sister, in hast</salute>
+                   <signed><persName key="lhend1">Lydia Hendrick</persName></signed>
+                   <lb/>
+                   <lb/><persName key="checkplace">Margaret Elliott</persName>
+                  <lb/><placeName key="phila">Philadelphia</placeName>
+                  <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1799-10-23">10 Mo 23 th 1799</date></dateline> </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="89" facs="hv_hs_letterbook_v1_1797_089"/>
+                  <head>A Copy of <persName key="cornp2">Kyantwocka or Cornplanters</persName>
+                  <lb/>Speech, who is principal Chief of the
+                  <lb/><orgName key="seneca">Senica Nation of Indians</orgName> </head>
+                  <dateline><placeName key="checkplace">Canandarque</placeName> <date when="1797-10-15">Oct 15th 1797</date></dateline>
+                  <p>Dear Friend, I thank the great Spirit for
+                  <lb/>his protection, in preserving me &amp; my Friend, who
+                  <lb/>I have accompanied to this place, meaning <persName key="hsimm1">Henry-
+                  <lb/>Simmons</persName>, and am happy to find <persName key="ichap2">Mr Chapin</persName>
+                  <lb/>well &amp; his family. I hope the Great Spirit will still
+                  <lb/>preserve my friend on his Journey to <placeName key="phila">Philadelphia</placeName>
+                  <lb/>and every evening that when Night shall overtake
+                  <lb/>him, the Great Spirit will spread over him a
+                  <lb/>Curtain of safety, that he may again meet the sosiety
+                  <lb/>that sent him among us, for the purpose of teaching us
+                  <lb/>the useful arts of the White People, and to return
+                  <lb/>them my thanks for their kind Offices, which they
+                  <lb/>are disposed to bestow on us, I cannot omit this
+                  <lb/>favourable opportunity to inform you, that I be-
+                  <lb/>lieve
+                  <lb/><pb n ="90" facs="hv_hs_letterbook_v1_1797_090"/>
+                  <lb/>lieve the Friends who have been placed at the <placeName key="alleg1">Allegany</placeName>
+                  <lb/>have discharged the trust committed to them in endea-
+                  <lb/>vouring to do for us the best they could for our advan-
+                  <lb/>tage, Dear Friend, When I first heard your
+                  <lb/>Voice and learnt your kind Office to us, I was
+                  <lb/>pleased, as I thought we were apt to transgress
+                  <lb/>the good rules of the Great Spirit, and by the aid
+                  <lb/>&amp; advice of your people, the great Spirit would lend
+                  <lb/>us His aid, in which we might become a better people
+                  <lb/>I have nothing more to add, but again to
+                  <lb/>thank you, and hope you will not be discouraged in
+                  <lb/>still aiding us, although we make slow progress in
+                  <lb/>the arts of the White People.
+                 </p>
+               <closer><salute>Dear Friend, I remain yours sincerely</salute>
+                  <lb/><signed><persName key="cornp2">John X Obeel</persName></signed><!--his mark-->
+                  <lb/>His fathers name, who was a white man, resided on the <placeName key="mohaw">Mohock River</placeName>
+                  <lb/>To <persName key="jparr1">John Parrish</persName>, &amp;
+                  <lb/>others of the friends at <placeName key="phila">Philadelphia</placeName>
+                  </closer>
+              </div>
+           <div type="letter">
+               <lb/><pb n ="91" facs="hv_hs_letterbook_v1_1797_091"/>
+                  <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1799-10-22">10 mo 22th 1799</date></dateline>
+                  <p>Dear Sister,
+                  <lb/>I will inform you that I ever have
+                  <lb/>been glad in that you have taken good care of my
+                  <lb/>poor Daughter, because I am persuaded in my mind
+                  <lb/>to believe this kindness is from the great Spirit,
+                  <lb/>who alone can put such compassionate feeling
+                  <lb/>on your hearts towards us the Natives. Therefore I
+                  <lb/>have been feel easy and entirely willing that you should
+                  <lb/>be Judges when my Daughter should return, and
+                  <lb/>am fully believe that She live much better there than
+                  <lb/>what She can do here.
+                    </p><closer>Intender love I bid you
+                  <lb/>farewell, <salute>from your Friend</salute>.
+                  <signed><persName key="ejosy1">Elizabeth Josey</persName></signed>
+                  <lb/>To <persName key="hjack2">Hannah Jackson</persName></closer>
+              </div>
+           <div type="letter">
+              <dateline><placeName key="newst">New Stockbridg</placeName> <date when="1799-10-22">Oct 22th 1799</date></dateline>
+                  <p>Uhwaunauyuh Nechan,
+                  <lb/>I take this opportunity to inform you
+                  <lb/>that we are all well, and you had another little
+                  <lb/>Sister, now little better than three months old
+                  <lb/>named
+                  <lb/><pb n ="92" facs="hv_hs_letterbook_v1_1797_092"/>
+                  <lb/>named <persName key="checkplace">Susannah Wuhlawmensquah</persName>, and that I have
+                  <lb/>read your Letter and the Stockings you sent for which
+                  <lb/>I am glad, and thank the great Good Spirit, I am
+                  <lb/>glad that friends have taken good care of your, and that
+                  <lb/>you have learnt some Work already, and that you are
+                  <lb/>willing to learn further, all our friend rejoice to here
+                  <lb/>these things.
+                 </p><p>Dear Daughter, Let me exhort you to be
+                  <lb/>faithful in all the Duties which may be laid before you,
+                  <lb/>and above all, Remember thy Creator in the days
+                  <lb/>of thy youth, seek after Him, for his promises are
+                  <lb/>great, and will help the poorest native of this Land, and
+                  <lb/>without the good Spirit we can do nothing. I will
+                  <lb/>also inform you that we have raised grain enough
+                  <lb/>for our support since you left us, and that we have
+                  <lb/>had Milk &amp; Butter and sometimes some to spare.
+                  <lb/>we have raised little Flax, last Summer, and will
+                  <lb/>endeavour to do the same in every year, so that
+                  <lb/>when it pleasses the great good Spirit you should come
+                  <lb/>home
+                  <lb/><pb n ="93" facs="hv_hs_letterbook_v1_1797_093"/>
+                  <lb/>home, you may find some Flax to Spin, and instruct
+                  <lb/>your little Sisters in the things you learnt among
+                  <lb/>friends. I will also inform you that your Father
+                  <lb/>has quit Hunting and has been faithful in Working
+                  <lb/>on the Land.
+                  </p>
+                  <closer><salute>from your Affectionate
+                  <lb/>Mother farewell </salute>
+                  <signed><persName key="ejosy1">Elizabeth Josey</persName></signed>
+                  <lb/>
+                  <lb/><persName key="checkplace">Mary Peters</persName>
+                  <lb/>alias Kauknausquoh</closer>
+              </div>
+           <div type="letter">
+                  <head>A true Copy taken from the Original
+                  <lb/>Writen by an Indian Girl, to a young Woman
+                  <lb/>then at <orgName key="checkplace">Weston School</orgName>, with whom She had sometime
+                  <lb/>before resided</head>
+                  <p>Much Esteemed Friend,
+                  <lb/>I take my pen to write to thee a few Lines to
+                  <lb/>let thee know I am very well &amp; hearty and I am
+                  <lb/>well contented here. I believe it will be a great trial
+                  <lb/>for me to part with you. but I hope I shall try to
+                  <lb/>do
+                  <lb/><pb n ="94" facs="hv_hs_letterbook_v1_1797_094"/>
+                  <lb/>do well as ever I can and well as I know how, it is not very
+                  <lb/>pleasant to me to go back again among the wild people and
+                  <lb/>among the Idle people, because I am young now I would not
+                  <lb/>wish myself to be Idle to displease my friends, after all their trouble
+                  <lb/>taking so much pains with us. but I am fear I should get
+                  <lb/>in the bad company, but I think I will try to keep away
+                  <lb/>from them. But it will be great joy to me to return
+                  <lb/>again to go and see my Parents &amp; Relations, I believe it will be
+                  <lb/>a great joy to my Parents &amp; Relations, I believe it will be
+                  <lb/>a great joy to my Parents to see how I can Spin &amp; Knit and
+                  <lb/>Sew and all such things. I think if I stay’d till I was eighteen
+                  <lb/>years old I would know how to do all things perfectly well,
+                  <lb/>I expect we shall go home in a short time, I believe, I should be
+                  <lb/>willing to stay longer if I had my choice yet we cannot always
+                  <lb/>have our choice, but I am very willing to go home again, but I
+                  <lb/>should not like to disapoint my poor Mother, because she told
+                  <lb/><persName key="hsimm1">Henry Simmons</persName> She should like if I go this fall if the friends
+                  <lb/>are willing to let me go. I cannot say much more because I dont
+                  <lb/>know how to put the words right; this is the first Letter ever
+                  <lb/>I wrote all myself, I hope thee will try to put the words to get ther
+                  <lb/><pb n ="95" facs="hv_hs_letterbook_v1_1797_095"/>
+                  <lb/>ther as well as thee can. I remember what thee told me if I would
+                  <lb/>only just write a few lines, thee would be glad, but I hope thee
+                  <lb/>wont let any body see my poor writing. give my love to
+                  <lb/>thy father and Mother and thy Sister Edith, and take a part
+                  <lb/>thyself <persName key="mshar1">Martha Sharpless</persName>
+                  </p>
+                 <closer>from <signed><persName key="checkplace">Elizabeth Baldwin</persName></signed>
+                  <dateline><placeName key="ebrad">Eastbradford</placeName> <date when="1800-07-03">3rd of 7 Mo. 1800</date></dateline>
+                </closer>
+              </div>
+           <div type="minutes">
+                  <lb/><pb n ="96" facs="hv_hs_letterbook_v1_1797_096"/>
+                  <head>Memorandum</head>
+                  <p>Having Wrought faithfully Plantation Work
+                  <lb/>with my Father after twentyone years of age from
+                  <lb/>the <date from="1789-09" to="1796-05-29">9th Month 1789 to the 29th of 5th Month 1796</date>
+                  <lb/>without receiving any Wages, as yet, for my Labor
+                  <lb/>Except the following Articles (and found myself
+                  <lb/>almost all my first day Clothes for the two last years
+                  <lb/><date when="1801-03-05">1801 3rd Month 5th</date>
+
+                    <table>
+                     <row>
+                       <cell>New Horse Coller</cell><cell>9s</cell>
+                     </row><row>
+                       <cell>Two Bushels BuckWheat 5s/Eh</cell><cell>10s</cell>
+                     </row><row>
+                       <cell>Two Backbands 2/6 eah</cell><cell>5s</cell>
+                     </row><row>
+                       <cell>Two Dollars Cash</cell><cell>15s</cell>
+                     </row><row>
+                       <cell>one Pair Sheepshears</cell><cell/>
+                     </row><row>
+                       <cell>1 pair old Traces &amp; Harnes</cell><cell/>
+                     </row><row>
+                       <cell>2 <unclear>pld</unclear> Bags half worn</cell><cell/>
+                     </row><row>
+                       <cell>Half Bushel Dryed Apples</cell><cell/>
+                     </row>
+                    </table>
+                  <lb/><date when="1801-12-10">12 Mo 10th</date> <unclear>so</unclear> bush 22 Dollars
+                  <lb/><pb n ="97" facs="hv_hs_letterbook_v1_1797_097"/>
+                  <lb/>Debtor to <persName key="checkplace">Levis Pennock</persName> Bond of Sixty Pounds
+                  <lb/>borrowed the <date when="1701-05-12">twelvth day of the fifth Month one thousand
+                  <lb/>Seven Hundred &amp; one</date>
+                  <lb/>Debtor to <persName key="checkplace">James Painter</persName> Bond of one Hundrid
+                  <lb/>and fifty Pounds, got the <date when="1801-05-11">Eleventh day of the fifth
+                  <lb/>Month one Thousand Eight Hundred &amp; one. </date>
+                  <lb/><del>Debtor to <persName key="checkplace">Josh Painter</persName> Bond of one Hundred
+                  <lb/>and fifty Pounds, Got the <date when="1801-05-11">Eleventh day of the fifth
+                  <lb/>Month one thousand Eight Hundred &amp; one</date> </del>
+                  <lb/>Borrowed of <persName key="checkplace">Henry Paxson</persName> the <date when="1807-05-04">4th of 5th
+                  <lb/>month 1807</date>. the Sum of 75 Pound.
+                  <lb/>Borrowed of <persName key="checkplace">Joseph Paxson</persName> the <date when="1807-05-04">4th of 5th mo.
+                  <lb/><unclear>7</unclear></date> the Sum of 75 Pounds
+                  <lb/><del>Borrowed of <persName key="checkplace">Luis Peusy</persName> the 4th 5th month
+                  <lb/>the Sum of Thirty Dollars</del>
+                  </p>
+              </div>
+           <div type="titlepage">
+               <lb/><pb n ="98" facs="hv_hs_letterbook_v1_1797_098"/>
+                  <head><persName key="hsimm1">Henry Simmons</persName> Junior’s
+                     <lb/>Book</head>
+              </div>
+           <div type="minutes">
+               <lb/><pb n ="99" facs="hv_hs_letterbook_v1_1797_099"/>
+             </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type ="main">Joshua Sharpless diaries, Vol. 1 1798</title>
+            <title type="sub">Encoded Edition</title>
+            <author>Sharpless, Joshua, 1747-1826</author>
+            <respStmt>
+               <resp>Transcribed and encoded by</resp>
+               <name>Yuchao Wang</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding edited by</resp>
+               <name>Emily Thaisrivongs</name>
+            </respStmt>
+             <funder>Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections</funder>
+         </titleStmt>
+
+         <publicationStmt>
+            <publisher>Quaker &amp; Special Collections, Haverford College</publisher>
+            <pubPlace>Haverford, PA</pubPlace>
+            <date when="2017">2017</date>
+            <availability><licence target="http://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</licence></availability>
+            <idno type="local">hv_js_diary_v1_1798</idno>
+         </publicationStmt>
+
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region type="state">PA</region>
+                  <settlement>Haverford</settlement>
+                  <repository>Quaker &amp; Special Collections, Haverford College</repository>
+                  <collection>Joshua Sharpless diaries, 1798</collection>
+                  <idno>MC.975.01.069</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>92 pages</p>
+               </physDesc>
+            </msDesc>
+             <bibl>Joshua Sharpless diaries, Vol.1 1798 (MC.975.01.069), Quaker &amp; Special Collections, Haverford College, Haverford, PA.</bibl>
+            <bibl>This text was digitized by Yuchao Wang in 2017 with funding from the Omohundro Institute of Early American History &amp; Culture.</bibl>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <projectDesc>
+            <p>This text was transcribed and encoded for use in Beyond Penn's Treaty: Quakers and American Indian Relations <ptr target="https://pennstreaty.haverford.edu/"/>, a digital project that provides access to linked and annotated versions of Quaker diaries, letters, and meeting records which record contact with American Indians, particularly the Seneca, beginning in the 1740s. These documents, held in Quaker &amp; Special Collections at Haverford College and Friends Historical Library at Swarthmore College, are all from the Quaker perspective, and document their view of this unfolding relationship.      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Grammar, punctuation, spelling have been preserved. Line breaks, paragraph breaks, and page breaks have been preserved. Hyphens have been preserved and normalized to one dash "-". Words or phrases that the encoder could not interpret have been tagged with the "unclear" element. If there was more than one reference to the same entity (person, group, place) in one paragraph, only the first occurrence was encoded unless the paragraph spanned more than one page. If the paragraph spanned more than one page, the entity was encoded at least once per page.      </p>
+         </editorialDecl>
+      </encodingDesc>
+
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <creation>
+            <origDate when="1798">1798</origDate>
+         </creation>
+      </profileDesc>
+
+      <revisionDesc>
+         <change></change>
+      </revisionDesc>
+   </teiHeader>
+
+  <text>
+      <body>
+   <div type="titlepage">
+        <pb n ="1" facs="hv_js_diary_v1_1798_001"/>
+   <p><persName key="jshar1">JOSHUA SHARPLESS</persName> (1746-1825)
+    <lb/>Notes of a visit to the <orgName key="seneca">Seneca Nation of
+    <lb/>Indians</orgName> by Joshua Sharpless and <persName key="jpier1">John Pierce</persName>,
+    <lb/>1798. Accompanied also by <persName key="hsimm1">Henry Simmons</persName>.
+        <lb/><pb n ="2" facs="hv_js_diary_v1_1798_002"/>
+    <lb/>975
+    <lb/>1798 (8th)
+    <lb/>Gift of Friends Historical Association
+    <lb/>1948
+       </p>
+</div><div type="entry">
+        <lb/><pb n ="3" facs="hv_js_diary_v1_1798_003"/>
+    <head>Notes on a visit to the <orgName key="seneca">Seneca Nation of Indians</orgName>
+        <lb/>by <persName key="jshar1">Joshua Sharpless</persName> &amp; <persName key="jpier1">John Pierce</persName> 1798</head>
+    <dateline><date when="1798-04-30">Fourth Mo. 30th 1798</date></dateline>
+   <p>Friday left our habita-
+    <lb/>tions after experiencing a humbling time in pasting
+    <lb/>with our families &amp; connections &amp; were accompanied
+       <lb/>from home, by <persName key="hsimm1">Henry Simmons</persName>, who called on us,
+    <lb/>&amp; next day we were met by <persName key="hjack1">Halliday Jackson</persName> &amp; <persName key="jswai1">Joel
+    <lb/>Swayne</persName> at the House of <persName key="agibb1">Abrm Gibbons</persName>, whence
+    <lb/>we all went <del>off</del> out about two in the afternoon, &amp; after se-
+    <lb/>veral days fatigueing ride, we arrived at <persName key="rcadw1">Russ
+    <lb/>Cadwalliders</persName> in <placeName key="redst1">Redstone</placeName> where we rested ourselves
+    <lb/>&amp; horses about two days, attended their meeting and
+    <lb/>then proceeded on to <placeName key="pitts">Pittsburgh</placeName> where we arrived
+    <lb/><date when="1798-05-10">5th Mo. 10th</date> about noon.
+   </p><p>Soon after our arrival in this place we waited
+    <lb/>on <persName key="abark1">Abner</persName> &amp; <persName key="jbark1">Jesse Barker</persName> to whose case our Goods
+    <lb/>had been consign’d from whom we learn, that they
+    <lb/>came safe to them, two days since &amp; are lodged in the
+    <lb/>public stores; &amp; that the Articles which they were
+    <lb/>particularly directed to provide are in readiness
+    <lb/>ex
+        <lb/><pb n ="4" facs="hv_js_diary_v1_1798_004"/>
+    <lb/>expecting the Cart, which we adjudge not necessary,
+    <lb/>as sledges are more common, &amp; often more convenient,
+    <lb/>in new countries; We also presented our letter of Credit
+    <lb/>on them, from <persName key="tfish1">Thomas Fisher</persName> &amp; <persName key="pbark1">Peter Barker</persName>, with
+    <lb/>the contents of which, the said <persName key="abark1">Abner</persName>/<persName key="jbark1">Jesse</persName> not being
+    <lb/>at home/expressed the greatest readiness to comply
+    <lb/>and to afford us every assistance in his power, rela-
+    <lb/>tive to our business.
+   </p><p>We next waited on <persName key="checkplace">Dr. Geo Stevenson</persName>, presented
+    <lb/>to him <persName key="twist1">Thomas Wisters</persName> letter of similar import
+    <lb/>with the above, with the contents whereof, he also
+    <lb/>manifested a perfect willingness to comply, &amp; take
+    <lb/>otherwise assistant to us as occasion might offer,
+    <lb/>expressing at the same time, in liberal terms his
+    <lb/>sentiments of the laudibleness of the undertaking
+    <lb/>in which we were engaged.
+   </p><p>We afterwards in company with the said <persName key="abark1">A
+    <lb/>Barker</persName> &amp; Dr Stevenson, had a satisfactory confer-
+    <lb/>ence with <persName key="icrag1">I<del>srael</del>saac Craig</persName> Dep. Quarter Master from
+    <lb/>whom we learn that he has rec’d no orders from the Se-
+    <lb/>cretary of War relative to the forwarding our Goods
+    <lb/>up the <placeName key="alleg">Allegany</placeName>; but that <persName key="gwilk2">General Wilkinson</persName> had
+    <lb/>directed him to assist us in that way. He also mani-
+    <lb/>fest-
+        <lb/><pb n ="5" facs="hv_js_diary_v1_1798_005"/>
+    <lb/>fested an obliging &amp; attentive disposition relative to
+    <lb/>the business, &amp; promised to have a boat ready to-
+    <lb/>morrow for the purpose, &amp; kindly offerd to introduce
+    <lb/>us to <persName key="gwilk2">General Wilkinson</persName>, as early in the morning
+    <lb/>as would be convenient.
+   </p><p>We next paid attention to procuring such
+    <lb/>Articles of provisions &amp; as appeared necessary hav-
+    <lb/>ing been informed at <placeName key="redst1">Redstone</placeName>, that no advantage
+    <lb/>would be derived from purchasing them in that neigh-
+    <lb/>bourhood or any where short of this place.
+   </p><p>The following Articles were agreed to be necessary
+    <lb/>&amp; accordingly provided vizr.
+   </p><p>4 ½ bus. Potatoes, 3 Barrels wheat flour 2 Do
+    <lb/>Indian Meal 2 bus of indian Corn, 3 ½ bus of Oats
+    <lb/>1 bus diced apples, 35 lb Sugar, 126 lb Bacon, 30 lb
+    <lb/>Biscuit, 28 wb heese 8 ½ lb Laid, ½ Bus Salt, 12
+    <lb/>Lights window Glass, 2 Setts hame Irons, 1 pair
+    <lb/>Pot hooks, 1 small Iron kettle, &amp; several other
+    <lb/>small articles.
+   </p>
+</div><div type="entry">
+   <dateline><date when="1798-05-11">6th day 11th</date></dateline>
+   <p>This morning in company with
+       <lb/>major <persName key="icrag1">Craig</persName> waited on <persName key="gwilk2">General Wilkinson</persName>, at
+    <lb/>his own house, who rec’d us with obliging respect,
+    <lb/>expressing his great satisfaction to see us on our
+    <lb/>pre
+        <lb/><pb n ="6" facs="hv_js_diary_v1_1798_006"/>
+    <lb/>present errand, &amp; manifesting a disposition desirous
+    <lb/>of contributing both to our encouragement &amp; assistance
+       <lb/>He also renewed, in our presence, his directions to <persName key="icrag1">Major
+    <lb/>Craig</persName> afores’d to forward our Goods immediately up
+    <lb/>to <persName key="cornp2">Cornplanters</persName> <placeName key="cornp">settlement</placeName> on the <placeName key="alleg">Allegany</placeName>.
+   </p><p>After this conference, some of our number accompani-
+    <lb/>ed the Quarter Master to look for a boatsman, whilst
+    <lb/>others attended to the necessary arrangements in order
+    <lb/>to prepare our Goods for going on board.
+   </p><p>About three in the afternoon, a board was in rea-
+    <lb/>diness &amp; the Quartermaster furnishing a waggon, we
+    <lb/>soon got our goods collected to the water side, weighed
+    <lb/>&amp; put on board amounting in the whole to 4734 lb
+    <lb/>for which, we understand the Boatman is to receive
+    <lb/>from Major Craig 20<unclear>/</unclear> 100lb for their carriage to
+    <lb/>Cornplanters town.
+   </p><p>We next attended to the providing Some neces-
+    <lb/>sary Articles of provisions to carry with us on horse-
+    <lb/>back.
+   </p>
+</div><div type="entry">
+   <dateline><date when="1798-05-12">7th day 12</date></dateline>
+   <p>About eight in the morning some of
+       <lb/>our number waited again on <persName key="gwilk2">General Wilkinson</persName>
+    <lb/>agreeably to his request of yesterday who again treated
+    <lb/>us with great civility &amp; openness &amp; after expressing his
+        <lb/><pb n ="7" facs="hv_js_diary_v1_1798_007"/>
+    <lb/>his good wishes for the success of the cause we are en-
+    <lb/>gaged in, in general &amp; a particular solicitude that
+    <lb/><persName key="lturt1">Little Turtle</persName> &amp; <orgName key="miami">his nation</orgName>, might be attended to, as
+    <lb/>soon as way open’d for it, he handed us the following
+    <lb/>Letters /Viz/
+   </p>
+   <floatingText type="letter">
+      <body>
+    <opener>To <persName key="cfowl1">Captain Fowler</persName>, Agent of the Qr Master General
+    <lb/><placeName key="ffran">Fort Franklin</placeName>,
+    <lb/>Head Quarter <placeName key="pitts">Pittsburgh</placeName>
+       <lb/><date when="1798-05-12">May 12th 1798</date></opener>
+    <p>Sir
+    <lb/>This will be handed to you by <persName key="checkplace">W Peirce</persName>,
+    <lb/>of the Society of Friends in <placeName key="phila">Philada</placeName> who, with sever
+        <lb/>al Associates, is on a visit to the <orgName key="seneca">Seneca Nation</orgName> with
+    <lb/>views to make some establishments, which may prove
+    <lb/>useful to those people &amp; interesting to the rights of
+    <lb/>humanity: you will be pleased to furnish W Peirce
+    <lb/>a guide, forage for this horses, provisions, &amp; any
+    <lb/>accommodations he may need, charging the accruing
+    <lb/>expences to their proper heads. </p>
+    <closer>With respect &amp; esteem, I am Sir
+    <lb/>your Obed Servt
+        <lb/><signed><persName key="gwilk2">Ja Wilkinson</persName></signed></closer>
+         </body>
+      </floatingText>
+   <p>
+    <lb/>To
+    </p>
+        <lb/><pb n ="8" facs="hv_js_diary_v1_1798_008"/>
+   <floatingText type="letter">
+      <body>
+          <opener>To the <persName key="cornp2">Cornplanter</persName>, &amp; the Village Chiefs of the <orgName key="seneca">Seneca
+       <lb/>Nations</orgName></opener>
+    <p>Friends and Brothers,
+    <lb/>The Bearer, one of our beloved Men, from among
+    <lb/>the people called Quakers, visits you with several
+    <lb/>good Men from the same Society, who intend to sit
+    <lb/>down amongst you, in order to instruct our red
+    <lb/>Brethren in works of usefulness &amp; to point out to them
+    <lb/>the path of virtue, which leads to the blissful man-
+    <lb/>sions of the great Spirit, the father of Light &amp; life
+   </p><p>Brothers,
+    <lb/>I charge you to take this our beloved man
+    <lb/>&amp; his companions by the hand, &amp; to treat the with
+    <lb/>kindness &amp; sincerity Open your ears &amp; listen to
+    <lb/>what they say; open your eyes &amp; follow their footsteps
+    <lb/>then will your old Men, your wives, your children
+    <lb/>&amp; chldrens children live in security &amp; enjoy the com-
+    <lb/>forts of life, &amp; the red people &amp; the white people on this
+    <lb/>great Island will soon become as one.
+   </p><p>Brethren &amp; Children
+    <lb/>Let this admonition sink deep into
+    <lb/>your
+        <lb/><pb n ="9" facs="hv_js_diary_v1_1798_009"/>
+    <lb/>your hearts, &amp; may you be blessed with a clear sky
+    <lb/>smooth roads, &amp; plentiful harvests to the end of your
+    <lb/>days - I commend you to the case of the great spirit
+    <lb/>&amp; </p>
+         <closer>am in heart your friend
+             <lb/><signed><persName key="gwilk2">Ja. Wilkinson</persName></signed>
+    <lb/>Commander in Chief of the Troops of the United
+    <lb/>States. </closer>
+        </body>
+      </floatingText>
+   <p>After the rec’t of these letters, we took leave
+    <lb/>of the General, who accompanied us in person thro’
+    <lb/>the guards, &amp; it may be proper to note that in our
+    <lb/>conference he greatly insinuated a cautionary hint
+       <lb/>respecting the private character of <persName key="cornp2">Cornplanter</persName>, that he was sufficiently
+    <lb/>possessed of the Idea of distinct private property, &amp;
+    <lb/>pretty artful in adopting measures to his own interests.
+   </p><p>About 9 OClock we left <placeName key="pitts">Pittsburgh</placeName> crossed the
+    <lb/><placeName key="alleg">Allegany</placeName> just opposite the town, &amp; travelled, at
+    <lb/>several stages about 33 Miles to <persName key="checkplace">James W Cowens</persName>
+    <lb/>a poor house with earthen floor, on which we lodge’d
+    <lb/>wraped in our blankets, this night, but could get nothing,
+    <lb/>for our horses, neigher hay, grass nor grain nor even
+    <lb/>an enclosure of any kind to secure them; we tied them
+    <lb/>to stumps &amp; c. &amp; fed them with some oats we had with
+    <lb/>us </p>
+ </div> <div type="entry">
+        <lb/><pb n ="10" facs="hv_js_diary_v1_1798_010"/>
+    <dateline><date when="1798-05-13">1st day 13th</date></dateline>
+    <p>Proceeded on, traveled this day at several
+    <lb/>Stages 35 Miles to <placeName key="ffran">Fort Franklin</placeName>, on the <placeName key="alleg">Allegany</placeName>
+    <lb/>where we lodged &amp; in the evening presented the afores’d
+        <lb/>Letter from <persName key="gwilk2">General Wilkinson</persName> on to <persName key="cfowl1">Captain Fowler</persName>
+    <lb/>who expressed great pleasure in complying with
+    <lb/>the contents thereof.
+   </p><p>From <placeName key="pitts">Pittsburgh</placeName> to this place traveling is dif-
+    <lb/>ficult, the Roads extremely bad, &amp; accommodations
+    <lb/>next to intolerable, neither hay nor grass is at this
+    <lb/>season to be had, nor any kind of grain excepting
+    <lb/>Oats at a few places, which are from 10/4 to 15/-a Bushel
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-14">2nd day 14th</date></dateline>
+    <p>About 8 this morning a gain waited on
+    <lb/><persName key="cfowl1">Captain Fowler</persName>, breakfasted with him, &amp; received
+    <lb/>upon credit of <persName key="gwilk2">General Wilkinson’s</persName> letter 4 bushel
+    <lb/>of Indian Corn, half an hundred of flour, 2 Quarts of
+    <lb/>Salt &amp; a twilled bag, &amp; <persName key="jjohn1">Joseph Johnston</persName> assistant
+    <lb/>Surveyor to the <orgName key="hollco">Holland company</orgName>, undertook to pilot
+        <lb/>us, within 15 Miles of <persName key="cornp2">Cornplanters</persName> <placeName key="cornp">settlement</placeName>, &amp; to
+    <lb/>procure us another from that place.
+   </p><p>About One OClock left <placeName key="ffran">Fort Franklin</placeName> forded <placeName key="french">French
+    <lb/>Creek</placeName>, proceeded on thro’ the Wilderness 18 Miles where
+    <lb/>we came to an house &amp; lodged pretty comfortably on
+    <lb/>our <del>even</del> blankets &amp; also found pretty good pasture
+    <lb/>in the Woods, for our horses, where we turned them
+    <lb/>loose
+        <lb/><pb n ="11" facs="hv_js_diary_v1_1798_011"/>
+    <lb/>loose, for the first time, without any inclosure.
+   </p><p>This place is in the fork of a water called <placeName key="oilcr">Oil
+    <lb/>Creek</placeName>, from its affording a peculiar unctious matter
+    <lb/>known by the name of Seneca Oil, and in such plenty
+    <lb/>that we were inform’d one man gather’d in the course
+       <lb/>of last summer three Barrels, which he sold at <placeName key="pitts">Pitts-
+    <lb/>burgh</placeName> for 4 Dollars a Gallon.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-15">3rd day 15th</date></dateline>
+    <p>Left our Quarters between Six &amp; seven,
+    <lb/>proceeded on thro’ the Wilderness &amp; at several stages
+    <lb/>made about 24 Miles this day &amp; arrived in the even-
+    <lb/>ing at a small Cabbin, on a Water called <placeName key="broke">broken
+    <lb/>Straw</placeName> where we lodged. This was a tedious days ride
+    <lb/>sometimes we had a blind path &amp; sometimes none
+    <lb/>indeed our way for badness almost surpassed de-
+    <lb/>scription, to delineate the Bushes, logs, trees, stones
+    <lb/>roots, &amp; boggs thro’ and over which we passed would
+    <lb/>require great ingenuity.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-16">4th day 16</date></dateline>
+    <p>Proceeded on, traveled about 14 Miles, to
+    <lb/><placeName key="warre">Warren</placeName>, a Town laid out &amp; one house built at the
+    <lb/>Mouth of the <placeName key="concr">Conewango Creek</placeName> here we staid ther
+    <lb/>afternoon &amp; all night, turning our houses into the
+    <lb/>Woods to pasture. At this place we met with
+    <lb/>a
+        <lb/><pb n ="12" facs="hv_js_diary_v1_1798_012"/>
+    <lb/>a parcel of indians, most of whom were in liquor &amp;
+    <lb/>some of them quite drunk, One of the settlers having
+    <lb/>brought up some whiskey, which was retailing out
+        <lb/>amongst them, but <persName key="jjohn1">J Johnston</persName> our guide who seem’d
+    <lb/>to have the command at this place, soon put a stop
+    <lb/>to this business, at least for the present; &amp; he inform’d
+    <lb/>us that he had used no spirits in his company last
+    <lb/>summer, &amp; that several of the surveyors had come to
+    <lb/>a resolution to entirely reject this pernicious article.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-17">5th day 17th</date></dateline>
+    <p>About 8 this morning left our quarters
+    <lb/>&amp; having hired an Indian for our guide, proceeded on
+    <lb/>through a very rough wilderness country about 15
+        <lb/>miles to <persName key="cornp2">Cornplanters</persName> <placeName key="cornp">lower village</placeName> on the <placeName key="alleg">Allegany</placeName>
+    <lb/>where we arrived about two in the afternoon, &amp; were met
+    <lb/>just at our entrance into the village by Cornplant-
+    <lb/>er &amp; a number of others, &amp; conducted into his Cabbin,
+    <lb/>which is not distinguishable from others in the vil-
+    <lb/>lage, but by being a little longer. After uncasing
+    <lb/>our horses carrying in our baggage &amp; we seated
+    <lb/>ourselves &amp; Cornplanter, his Son <persName key="abeel">Henry</persName> &amp; several others
+    <lb/>came &amp; sat down with us &amp; after a short pause Corn-
+    <lb/>planter expressed his glad ness to see us (his son Henry
+    <lb/>being Interpreter) &amp; his thankfulness to the great Spirit
+    <lb/>that
+        <lb/><pb n ="13" facs="hv_js_diary_v1_1798_013"/>
+    <lb/>that we had been preserved on our journey so as to
+    <lb/>arrive safe, and asked us if we would wish to have
+    <lb/>a general council with his people, &amp; when it would
+    <lb/>suit us to have it. We inform’d him we should
+    <lb/>like to see them in council tomorrow, if they could
+    <lb/>be collected by that time, which was agreed to, and
+    <lb/>runners dispatched immediately for <del>the</del> that purpose, he
+    <lb/>then quesied of us, if we could eat Indian fashion &amp;
+    <lb/>upon our answering we could, we were soon presented
+    <lb/>with a number of large Indian dumplings, boiled
+    <lb/>in cornhusks &amp; sewed up in a bark dish, together
+    <lb/>with a small kettle of Bean Oil to dip the dum
+    <lb/>pling in as we ate it, this completed our dinner, &amp;
+    <lb/>notwithstanding its simplicity we were utterly at
+    <lb/>a loss what to do with it, or how to beg in: we saw
+    <lb/>the kettle of Oil, but knew not how we were to eat
+    <lb/>it, we saw the Bunches of corn husks in the bark dish,
+    <lb/>but knew not what was in them nor how to come at it
+    <lb/>we knew not whether our two dishes were to be taken
+    <lb/>separate or together, at length after some interrogations
+    <lb/>amongst ourselves we explained our difficulty to
+    <lb/>the Chief who thereupon took his knife cut open one
+    <lb/>of the dumplings &amp; taking off a small piece stuck
+    <lb/>the
+        <lb/><pb n ="14" facs="hv_js_diary_v1_1798_014"/>
+    <lb/>the point of his knife into it, kiped it into the Kettle
+    <lb/>of Oil &amp; ate it, we followed his example &amp; made
+    <lb/>a temperate meal.
+   </p><p>The name of this village is <placeName key="jenuch">Jenuchshadaga</placeName>, it is
+    <lb/>situate on the <placeName key="alleg">Allegany</placeName> in <placeName key="penns">Pennsylvania</placeName> about 4
+    <lb/>Miles below the <placeName key="newyo">New York</placeName> line; the Land is Corn-
+    <lb/>planters private property; he has 660 acres in this
+    <lb/>Tract; &amp; two contiguous Islands, one of 66 &amp; the other
+    <lb/>of 53 acres besides a Tract of 303 acres below <placeName key="frank">Franklin</placeName>
+    <lb/>his land at <placeName key="hicko">Hickry Town</placeName> between here and Franklin
+    <lb/>he has sold to <persName key="gwilk1">Dr. Wilkins</persName>: most of the Indians under
+    <lb/>his particular superintendance, have left their old settle-
+    <lb/>ment about nine Miles up the River in the New York
+    <lb/>State &amp; are settled with their Chief in this place.
+   </p><p>This evening after we were lain down <persName key="cornp2">Cornplanter’s</persName>
+    <lb/>son <persName key="abeel">Henry</persName> came to us &amp; informed, his father would be glad
+    <lb/>to hear what we had to say to them before the council met
+    <lb/>we gave him expectations that he should hear our letter
+    <lb/>in the morning.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-18">6th day 18th</date></dateline>
+    <p>Agreeably to the proposals of last evening
+        <lb/><persName key="cornp2">Cornplanter</persName>, his Son <persName key="abeel">Henry</persName>, &amp; one or two more, came
+    <lb/>into our lodging Apartment early in the morning to
+    <lb/>hear what we intended to say to them in council, we
+    <lb/>let
+        <lb/><pb n ="15" facs="hv_js_diary_v1_1798_015"/>
+    <lb/>let them know that we could not tell them all that
+    <lb/>we should say to them in the Council, for we thought
+    <lb/>it right to wait to feel the good spirit influence
+    <lb/>our hearts to speak to our Indian Brothers, but that
+    <lb/>we would read them our letter from our friends, in
+    <lb/><placeName key="phila">philada</placeName> with which they appeared to be satisfied. The
+    <lb/>letter was accordingly read by paragraphs &amp; inter-
+    <lb/>preted by <persName key="abeel">henry Obeal</persName> as also that of <persName key="gwilk2">General
+    <lb/>Wilkinson</persName>.
+   </p><p>bout 12 OClock, the Indians being generally
+    <lb/>collected, we sat down in council &amp; after a short
+       <lb/>silence <persName key="cornp2">Cornplanter</persName> opened the business by a short
+    <lb/>speech, expressing the joy they felt when they saw
+    <lb/>us coming through the bushes yesterday; and their
+    <lb/>thankfulness to the great spirit that we were arrived
+    <lb/>safe, he then mention’d our request of yesterday, to
+    <lb/>see his Nation in general council, both Men &amp;
+    <lb/>Women, adding, that many of our Men are now here
+    <lb/>but our Women could not come, but our Men will
+    <lb/>tell what you say to their families when they get
+    <lb/>home, closing with reminding us of their poverty, &amp;
+    <lb/>that their houses were poor &amp; covered with bark &amp;
+    <lb/>that they were now ready to hear what we had to
+    <lb/>say to them. We now, as at some other times felt
+    <lb/>our
+        <lb/><pb n ="16" facs="hv_js_diary_v1_1798_016"/>
+    <lb/>our minds humblingly impressed with the weight of
+    <lb/>the business we are engaged in; and after a short but
+    <lb/>serious pause on our parts, we proceeded to inform them
+    <lb/>of the nature of our errand &amp; also made some other obser-
+    <lb/>vations, exhorting them to stillness &amp; quietude and an
+    <lb/>attention to the good Spirit in their own hearts, after
+    <lb/>which we read our Certificate to them by paragraphs
+    <lb/>which was interpreted with difficulty by <persName key="abeel">Henry Obeal</persName>: we also read
+       <lb/><persName key="gwilk2">General Wilkinson’s</persName> letter to them in like manner
+    <lb/>after which we were enabled to communicate some
+    <lb/>serious advice, &amp; to expostulate with them upon various
+    <lb/>subjects relative both to their moral &amp; civil conduct
+    <lb/>during the whole of which, several of them manifested a
+    <lb/>becoming attention &amp; solidity, tho’ some others appear’d
+    <lb/>painfully light &amp; insensible. They requested according
+    <lb/>to custom, some time to consider of what we said to them
+    <lb/>&amp; proposed making us a speech in answer, when they
+    <lb/>had talked it over in their own families.
+   </p><p>We may close our observations on this council, by our
+    <lb/>humble acknowledgement, that notwithstanding
+    <lb/>we find some things tryingly gloomy &amp; discouraging
+    <lb/>yet we have had, at this time, renewed cause to believe
+    <lb/>that the concern in which we are engaged, is owned by
+    <lb/>him whose regard is towards all the workmanship
+    <lb/>of his hands.
+    <lb/>7th day
+        <lb/><pb n ="17" facs="hv_js_diary_v1_1798_017"/>
+   </p>
+ </div> <div type="entry">
+      <dateline><date when="1798-06-19">7th day 19th</date></dateline>
+    <p>Past of this day, some of our Company were
+    <lb/>employ’d in baking of bread, &amp; other domestic prepara-
+    <lb/>tions; as we are now wholy our own cooks &amp; c. living on
+    <lb/>the provisions which we brought on our horses from
+        <lb/><placeName key="pitts">Pittsburgh</placeName> &amp; <placeName key="frank">Franklin</placeName>, &amp; which we have sometimes
+    <lb/>looked upon with some serious thoughtfulness, as ap-
+    <lb/>pearing a scanty allowance for the time set for the
+    <lb/>arrival of our boat; and the more especially, as we
+    <lb/>were early inform’d of the great scarcity of corn a-
+    <lb/>mongst the Indians, occasion’d, as they say by an
+    <lb/>overflow of the River last spring, &amp; an early frost
+    <lb/>in the fall; but our anxiety on this account, is now
+        <lb/>much removed, by <persName key="cornp2">Cornplanter’s</persName> desiring us, when
+    <lb/>we got out of bread, to let him know, &amp; he would let
+    <lb/>us have more, &amp; giving us to understand that he had
+    <lb/>several barrels of flour, which he brought from
+        <lb/>Pittsburgh.
+   </p><p>The Indians, being most of this day steadily
+    <lb/>in private council concerning our business, sever-
+    <lb/>al times sent their deputies to ask particular
+    <lb/>questions relative thereto; one of which was. How
+    <lb/>could they learn to plough, &amp; do what we proposed,
+    <lb/>seeing
+        <lb/><pb n ="18" facs="hv_js_diary_v1_1798_018"/>
+    <lb/>seeing they had got no horses &amp; Oxen, &amp; were so poor that
+    <lb/>they had no money to buy them with.
+   </p><p>We let them know, we did not expect great things
+    <lb/>to be done all at once, but that we wanted them to make
+    <lb/>a beginning: that we had seen two horses running about
+    <lb/>their town &amp; that they were enough to draw one plough
+    <lb/>and that we knew they had money coming in to them yearly
+    <lb/>from the whole people, with which they might buy
+    <lb/>more, &amp; perhaps some oxen, &amp; so come in by degrees, as
+    <lb/>they were able, &amp; that our young Men had horses, with
+    <lb/>which they would sometimes assist them. With this
+    <lb/>answer they appeared to be satisfied, tho’ it was pretty
+    <lb/>evident it was not what this question was artfully
+    <lb/>calculated to draw from us.
+   </p><p>About 6 in the evening the Indians again
+    <lb/>met us in public council in order to give us an answer
+    <lb/>to our proposals of yesterday, and after being a short time
+       <lb/>seated, <persName key="cornp2">Cornplanter</persName> &amp; his son <persName key="abeel">Henry</persName> stood up &amp; addressed
+    <lb/>us to the following effect.
+   </p>
+    <floatingText type="speech">
+       <body>
+    <p>Brothers the Quakers,
+    <lb/>Listen now to what I am going to
+    <lb/>say to you.
+   </p><p>you know, Brothers, the red people are poor
+    <lb/>they
+        <lb/><pb n ="19" facs="hv_js_diary_v1_1798_019"/>
+    <lb/>they are not like the white people, the great spirit,
+    <lb/>has made them of another language; so that it is
+    <lb/>very hard for us to understand one another plainly
+    <lb/>as there is no person here that can interpret very well
+   </p><p>Brothers. We take great pains to settle the propo-
+    <lb/>sals you made to us but we differ in opinions and
+    <lb/>we must take great pains to have every thing com-
+    <lb/>plete.
+   </p><p>Brothers,
+    <lb/>We suppose the reason you came here was
+    <lb/>to help poor Indians some way or other, and you
+    <lb/>wish the chiefs to tell their Warriors not to go on
+    <lb/>so bad as they have done, and you wish us to take
+    <lb/>up work like the white people, Now Brothers
+    <lb/>some of our sober Men will take up work &amp; do as
+    <lb/>you say, &amp; if they do well then your young Men
+    <lb/>will stay longer; but some others will not mind
+    <lb/>what you say.
+   </p><p>Brothers,
+    <lb/>We cant say a Word against you, it is the best
+    <lb/>way to call Quakers Brothers, <del>you never wished our
+    <lb/>lands</del>, you never wished our lands, you never wished
+    <lb/>any part of our lands, therefore we are determined to
+    <lb/>try to learn your ways, &amp; these young Men may
+    <lb/>stay
+        <lb/><pb n ="20" facs="hv_js_diary_v1_1798_020"/>
+    <lb/>stay here two years to try, by that time we shall know
+    <lb/>whether Morris will leave us any Land &amp; whether he
+    <lb/>will pay us our money; for last Summer we sold
+    <lb/>our Land &amp; we dont know yet whether we shall
+    <lb/>get what we reserved, or whether we shall get our
+    <lb/>Money; but by that time we shall know, &amp; then if
+    <lb/>they like it, &amp; we like it your young Men may stay longer.
+   </p><p>Brothers,
+    <lb/>If your young Men stay here we want them to
+    <lb/>learn our children to read &amp; write.
+   </p><p>Brothers,
+    <lb/>Two of you are going home again, if they
+    <lb/>hear any thing about our Land, or our Money they
+    <lb/>must write to these young Men here &amp; they must tell
+    <lb/>us, if we are like to be cheated.
+   </p><p>Brothers,
+    <lb/>This is all I got to say at present.
+    </p> </body>
+ </floatingText>
+   <p>After they had closed this speech we informed them
+    <lb/>that we understood what they had said to us, &amp; that we
+    <lb/>were satisfied with it, and proposed that our young
+    <lb/>Men must have some place to live in, &amp; a piece of land
+    <lb/>to work, in order to set them an example, &amp; to raise bread
+    <lb/>for themselves to eat; but that the land should still
+    <lb/>be theirs &amp; all the improvements which we should put
+    <lb/>on
+        <lb/><pb n ="21" facs="hv_js_diary_v1_1798_021"/>
+    <lb/>on it, would also be theirs, when we left it, &amp; in order to
+    <lb/>know where it would be best for our young Men to
+    <lb/>settle and make a beginning, we must look a little
+    <lb/>about their Country &amp; go to their upper town, and
+    <lb/>we desired some of their chiefs might go along with
+    <lb/>us, &amp; help to agree on some suitable places where
+    <lb/>our friends could be of most use to their people in
+    <lb/>general. To which they readily agreed. We next
+    <lb/>inform’d that we had a number of Plough Irons, hoes, aces
+    <lb/>Scythes &amp; other farming utensils, coming up in a boat,
+    <lb/>besides carpenters, Mason, &amp; Cooperstools, which were
+    <lb/>intended for their use &amp; would be left with them &amp;
+    <lb/>never taken away again, but that we thought it
+    <lb/>best, &amp; most for their Good, to leave them particu-
+    <lb/>larly under our friends care &amp; not to give them away
+    <lb/>at present, but only to lend them, that they might
+    <lb/>have the use of them , for they knew that some of
+    <lb/>their young Men were not so good as they should
+    <lb/>be, and if these things were divided amongst them
+    <lb/>some might pawn them away for whisky &amp; then
+    <lb/>they would be as bad off as they were before they got
+    <lb/>them. At this observation some of their old Men
+    <lb/>and chiefs appeared to express their approbation
+    <lb/>whilst some of their young Men manifested their
+    <lb/>sen
+        <lb/><pb n ="22" facs="hv_js_diary_v1_1798_022"/>
+    <lb/>sensibility of its pertinence by a shamefaced good
+       <lb/>humoured laugh. After which <persName key="cornp2">Cornplanter</persName> ex-
+    <lb/>pressed a few words, indicating his satisfaction with
+    <lb/>what had been said, &amp; that we would now shake
+    <lb/>hands as brothers, &amp; directed his people to use &amp; come
+    <lb/><del>towards us</del>to us, and shake hands by course, himself first
+    <lb/>setting the example.
+   </p><p>Thus this council ended after letting them know
+    <lb/>that we should want one more general council with
+    <lb/>them before we left them. </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-20">1st day 20th</date></dateline>
+    <p>This being first day, we believed it would
+    <lb/>be right to sit down together, according to our usual
+    <lb/>manner, for religious retirement, and it was conclu-
+        <lb/>ded best to inform <persName key="cornp2">Cornplanter</persName> of our intentions &amp; to
+    <lb/>let him know, that his company &amp; that of any other
+    <lb/>of his people who should choose to come &amp; sit with
+    <lb/>us, in our way would be acceptable.
+   </p><p>Before we had given this information Cornplanter
+    <lb/>&amp; his Son <persName key="abeel">Henry</persName> came into our apartment and made
+    <lb/>in substance the following apology.
+   </p><p>Brothers, You must not think hard that we do not
+    <lb/>keep the first day as the white people do, for we are
+    <lb/>ignorant, &amp; cant read &amp; write as they can, besides we are
+    <lb/>poor,
+        <lb/><pb n ="23" facs="hv_js_diary_v1_1798_023"/>
+    <lb/>poor &amp; have to work &amp; our Men are often out a
+    <lb/>hunting, and have to attend to their game.
+   </p><p>We let him know we did not think hard
+    <lb/>of them about this matter, and then informed him
+    <lb/>of our conclusion as above.
+   </p><p>About 10 OClock we sat down, &amp; <persName key="cornp2">Cornplante</persName>r
+    <lb/>&amp; several others came in, &amp; sat quiet &amp; sober for
+    <lb/>some time, &amp; quietly withdrew excepting Corn-
+    <lb/>planter, who staid the sitting out, with apparent
+    <lb/>solidity; our door was open &amp; divers came and
+    <lb/>looked at us, and manifested no lightness on the
+    <lb/>occasion.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-21">2nd day 21st</date></dateline>
+    <p>Agreeably to our proposals of seventh
+    <lb/>day we made early preparations to go up the River
+    <lb/>to <placeName key="genes1">Genisenguhta</placeName> an Indian village about 9
+    <lb/>Miles up, in the State of <placeName key="newyo">New York</placeName>, in order to
+    <lb/>view the Indian Lands &amp; endeavour to determine
+    <lb/>the most eligible place for our friends to settle &amp;
+    <lb/>make a beginning amongst them; About 9 OClock
+        <lb/><persName key="cornp2">Cornplanter</persName> his Son <persName key="abeel">Henry</persName> &amp; three others were in
+    <lb/>readiness to accompany us, we all /being 10 in num-
+    <lb/>ber/ went aboard a single Canoe &amp; in a few hours
+    <lb/>arrived at our destined pos; We spent several
+    <lb/>hours
+        <lb/><pb n ="24" facs="hv_js_diary_v1_1798_024"/>
+    <lb/>hours in viewing the land in this village &amp; its vicinity
+    <lb/>&amp; believed it not quite equal in quality with that of
+        <lb/><placeName key="jenuch">Jenuchshedaga</placeName>, the place we last came from: this
+    <lb/>circumstance together with that of the Indians hav-
+    <lb/>ing mostly left it, and settled with their chief, at the
+    <lb/>place aforesaid made it somewhat trying to deter-
+    <lb/>mine where to make our settlement, but after mature
+    <lb/>consideration &amp; taking into view every occuring cir-
+    <lb/>cumstance relative to the concern, we were at length
+    <lb/>favoured to write in fixing upon a spot near the
+    <lb/>old village which is in <placeName key="newyo">New York state</placeName> about 4
+    <lb/>Miles above the <placeName key="penns">Pennsylvania</placeName> line.
+   </p><p>After we had come to this conclusion amongst
+       <lb/>ourselves, we informed <persName key="cornp2">Cornplanter</persName> &amp; those who
+    <lb/>were with him of our result, adding that if they
+    <lb/>liked it, we hoped they would tell us so; &amp; if they
+    <lb/>did not like the place we proposed we wished them
+    <lb/>to be plain with us &amp; tell us so; and propose some
+    <lb/>other that they should like better. To which Corn
+    <lb/>planter returned answer in substance as follows.
+   </p><p>Brothers
+    <lb/>I told you, all our Land is before you, you
+    <lb/>may choose any place you like best, &amp; this Man
+    <lb/>who lives here, in this town, is very sober Man, most
+    <lb/>like
+        <lb/><pb n ="25" facs="hv_js_diary_v1_1798_025"/>
+    <lb/>like yourselves he drinks no whisky, he is very glad
+    <lb/>you are going to settle so near him.
+   </p><p>We next proposed that our young Men should
+    <lb/>have liberty to cut wood, out of their Woods for rails
+    <lb/>firewood &amp; c. To which he replied, O Yes I wish you
+    <lb/>would cut all the Trees down, and another thing
+    <lb/>Brothers, you may have; If you see a deer Swim-
+    <lb/>ing cross the River, or in the Woods you may shoot
+    <lb/>him; or if you see any fish in the river you may
+    <lb/>catch him.
+   </p><p>The Indians, generally, in this place, being
+    <lb/>much unacquainted with writing, &amp; appearing
+    <lb/>so heartily to confide in us as to give up, without
+    <lb/>any reserve all their Land to our choice, we
+    <lb/>believed it best not be very particular in de-
+    <lb/>termining our boundaries, nor to propose any
+    <lb/>formal Articles of Agreement between them
+    <lb/>&amp; our young Men, lest it should have a tenden-
+    <lb/>cy to create <del>a</del> suspicions &amp; lesson that unlimited
+    <lb/>confidence they at present appear to repose in
+    <lb/>us.
+   </p><p>Agreeably to the treaty of last Summer, this
+    <lb/>reservation is to contain 42 square Miles, to be
+    <lb/>laid of in such shape as the Indians shall direct
+    <lb/>&amp;
+        <lb/><pb n ="26" facs="hv_js_diary_v1_1798_026"/>
+    <lb/>and we understand by them that they mean to take it in
+    <lb/>a narrow strip of half a Mile on each side of the river
+    <lb/>which according to our observation, as far as we have
+    <lb/>been on the river will take in most of the arable
+    <lb/>Land near adjoining thereto, &amp; a large proportion of
+    <lb/>this is flats, subject at certain periods to be overflow’d
+    <lb/>by fresher, which renders the local situation of these
+    <lb/>people rather unfavourable to our plan as the over-
+    <lb/>flowing of a great part of their most <del>arable</del> fertile possession
+    <lb/>is a discouragement to agriculture, whilst a considerable
+    <lb/>extent of mountainous &amp; unarable adjoining Lands,
+    <lb/>will probably be an inducement to a continuation of
+    <lb/>their usual mode of subsistance.
+   </p><p>About 3 Miles below this town is a saw Mill,
+       <lb/>the private property of <persName key="cornp2">Cornplanter</persName>, tho’ built on the
+    <lb/>Indian Lands; it is on a poor stream, &amp; badly situa-
+    <lb/>ted; subject to be stoped by back water when the River
+    <lb/>is high, &amp; when the Waters are low, it is almost dry. It
+    <lb/>is now tended by a white Man, who is a Mill wright &amp;
+    <lb/>appears to be an ingenuous Man, particularly in Wood,
+    <lb/>but we fear of a turn of mind not favourable to the Indians
+    <lb/>real good, or to our concern, as we understand he keep
+    <lb/>a supply of whisky, which he barters away to them for
+    <lb/>corn
+        <lb/><pb n ="27" facs="hv_js_diary_v1_1798_027"/>
+    <lb/>corn, potatoes, &amp; other things as best suits his own con-
+    <lb/>veniency, &amp; we doubt without much, if any regard
+    <lb/>to their true interest.
+   </p><p>About 5 OClock left the old village &amp; return’d
+       <lb/>with <persName key="cornp2">Cornplanter</persName> to our lodgings at his house, at
+       <lb/><placeName key="jenuch">Jenuchshedagea</placeName>.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-22">3rd day 22nd</date></dateline>
+    <p>This morning took up the consideration
+    <lb/>of what further propositions might, with propriety
+    <lb/>be made to these people, in order for their addition-
+    <lb/>al encouragement in civilization &amp; agriculture, &amp;
+    <lb/>being favoured to unite in what was expedient, they
+    <lb/>were committed to writing, in readiness for our next
+    <lb/>council in the minutes of which they will appear.
+    <lb/>We were this day, as well as at some other time, pret-
+    <lb/>ty closely interrogated about <persName key="rmorr1">Robt Morris</persName> of <placeName key="phila">Philada</placeName>
+        <lb/><persName key="cornp2">Cornplanter</persName> &amp; other Indians here, having heard that
+    <lb/>he was in Jail, appear to be somewhat alarmed, lest
+    <lb/>they should loose their Money as well as Land, which
+    <lb/>we understand they parted with, with <del>great</del> some reluctance
+    <lb/>They had likewise heard that the Land was not
+    <lb/>purchased for Morris, as they expected, but for some
+    <lb/>others whom they call the Holland People. With
+    <lb/>these
+        <lb/><pb n ="28" facs="hv_js_diary_v1_1798_028"/>
+    <lb/>these things they appear much disturbed as apprehend-
+    <lb/>ing they are altogether deceived &amp; cheated &amp; even go so
+    <lb/>far as to declare if they can not have justice done then
+    <lb/>they will not receive their Money, but loose their land
+    <lb/>altogether.
+   </p><p>We felt cautious if giving a sentiment on this
+    <lb/>business, not being fully acquainted with it, &amp; would
+    <lb/>have put it off, by referring them to <persName key="ichap1">Capt Chapin</persName>,
+    <lb/>as much better acquainted with it than we were, &amp; to whom
+       <lb/><persName key="cornp2">Cornplanter</persName> &amp; his Son expected shortly to go, on this or some
+    <lb/>other concerns; but with this reference Cornplanter did
+    <lb/>not appear fully satisfied, observing that Capt Chapin
+    <lb/>had told him, that <persName key="rmorr1">Morris</persName> was a very good &amp; honest
+    <lb/>Man, and yet he was got into Jail, now he could not
+    <lb/>understand how a good and honest Man should get into
+    <lb/>Jail, however, he said he intended to ask Capt Chapin
+    <lb/>where his good &amp; honest Man Morris was now.
+   </p><p>We were at length easy to observe to them in general
+    <lb/>terms, that it was not the advice of their Brothers, the
+    <lb/>Quakers to sell their Land for we would rather they
+    <lb/>would keep their land, &amp; learn to work it themselves
+    <lb/>but as it was not Sold, &amp; we thought they could not get
+    <lb/>it,
+        <lb/><pb n ="29" facs="hv_js_diary_v1_1798_029"/>
+    <lb/>it back again, we were of the mind they had better
+    <lb/>take their Money which we apprehended was, or
+    <lb/>would be made secure for them, &amp; endeavour to be
+    <lb/>as contented as they could about it.
+   </p><p>This evening <persName key="cornp2">Cornplanter</persName> presented us with
+    <lb/>a quantity of Seed Corn of different kinds suitable
+    <lb/>to the climate, Some seed Potatoes, a large proporti-
+    <lb/>on of Beans of divers kinds a variety of useful Seeds
+    <lb/>such as pumpkins, Cucumbers, water Mellons &amp;
+    <lb/>these he inform’d were a collection brought in by his
+    <lb/>people, &amp; given to us as a blessing to begin with
+    <lb/>we acknowledged their kindness, &amp; would have ta-
+    <lb/>ken only a part of them, there being much more of
+    <lb/>each kind, excepting potatoes, than we should
+    <lb/>stand in need of for beed; but they insisted that we
+    <lb/>should take the whole, which we accordingly did,
+    <lb/>and felt an encouraging belief that this small
+    <lb/>present originated from a hearty goodwill to us,
+    <lb/>and our undertaking.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-23">4th day 23rd</date></dateline>
+    <p>The forepart of this day some of our com-
+    <lb/>pany were engaged in writing, &amp; arranging our
+    <lb/>business whilst others were employ’d in preparing
+       <lb/>for our removal up to <placeName key="genes1">Genisenguhta</placeName> the place
+    <lb/>pro
+        <lb/><pb n ="30" facs="hv_js_diary_v1_1798_030"/>
+    <lb/>proposed for our settlement, &amp; where we this day pro-
+    <lb/>pose going, in order to agree with some of the Indians
+    <lb/>for a Cabbin to accommodate our friends till they
+    <lb/>should have leisure to build for themselves.
+   </p><p>Accordingly about noon we set out Some on horseback
+    <lb/>&amp; some in a Canoe, with our baggage &amp; accompanied
+    <lb/>by <persName key="abeel">Henry Obeal</persName> our Interpreter, about 3 in the
+    <lb/>afternoon we met again at the place proposed &amp;
+    <lb/>shortly after had a conference with the Woman who
+    <lb/>owned the Cabbin, we had pitched upon as most
+    <lb/>suitable for our purpose, we found her willing to
+    <lb/>part with her house but she manifested some reluc
+    <lb/>tance in parting with the fruits of her labour, in
+    <lb/>four or five small patches of Corn, vines &amp; c. not
+    <lb/>more than one of which contained much more than
+    <lb/>a square perch of ground, &amp; the while we thought
+    <lb/>would not have produced more than 3 or 4 Bushels of
+    <lb/>Corn, but after some time she gave them all up, but
+    <lb/>one which lay some distance off &amp; appeared not much
+    <lb/>in our way we at length agreed for the House &amp; appur-
+    <lb/>tenances, excepting the one Lot of corn aforesaid, which
+    <lb/>was reserved to her for the present year &amp; paid her 20 Dolrs
+    <lb/>as the whole purchase Money &amp; she relinquished all
+    <lb/>claim
+        <lb/><pb n ="31" facs="hv_js_diary_v1_1798_031"/>
+    <lb/>claim thereto, &amp; with the help of our young Men &amp;
+    <lb/>some Indian children, moved <del>the</del> her things immedi-
+    <lb/>ately out &amp; we took possession, cleaned out the house
+    <lb/>got our provisions &amp; other baggage in &amp; took up
+    <lb/>our lodging here for this night.
+   </p><p>It may be proper to note, that before we agreed
+    <lb/>to pay the whole purchase money aforesaid at
+    <lb/>one payment we enquired particularly into the
+    <lb/>character of the Woman, &amp; was inform’d that she was
+    <lb/>a sober woman drank no whisky, &amp; would be like
+    <lb/>ly to make good use of her money.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-24">5th day, 24th</date></dateline>
+    <p>This Morning our young Men got to
+    <lb/>Work, having previously borrowed some tools of Corn-
+    <lb/>planter; they got a piece of Ground cleared of rubbage
+    <lb/>&amp; dug up for a garden, &amp; our small quantity of po-
+    <lb/>tatoes planted, &amp; the ground prepared for the recep-
+    <lb/>tion of some other seeds, when they were stopped in
+    <lb/>their business by rain, which continued at inter-
+    <lb/>vals for most of this day.
+   </p><p>About 11 OClock we felt our minds engaged
+    <lb/>to draw into our new habitation &amp; sit down toge-
+    <lb/>ther for religious retirement, in which we were
+    <lb/>fa-
+        <lb/><pb n ="32" facs="hv_js_diary_v1_1798_032"/>
+    <lb/>favoured with the renewed extendings of divine regard
+    <lb/>to the contriting of our Spirits &amp; strengthening of our
+    <lb/>Minds in the work in which we are embarked &amp; we trust
+    <lb/>it was a time to be encouragingly remember’d by our
+    <lb/>friends when we are seperated from them.
+   </p><p>We now sensibly feel the want of our Goods, which we
+    <lb/>cannot look for in less than a Week from this time, the
+    <lb/>season for planting corn being fully come, we are in
+    <lb/>some doubts of getting much of that valuable article
+    <lb/>in, so as to answer a good purpose the present season
+    <lb/>but it is thought  best to use considerable exertions for
+    <lb/>the attainment of so desirable an end; &amp; our young Men
+    <lb/>propose having a piece of Ground cleared &amp; in readiness
+    <lb/>for the plough against the arrival of our boat, that no
+    <lb/>time may be lost, with respect to getting in as much
+    <lb/>of this grain as our circumstances will admit.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-25">6th day 25th</date></dateline>
+    <p>This being a rainy day very little was
+    <lb/>done at our clearing, one of our young Men was em-
+    <lb/>ploy’d in baking of bread, &amp; some other of our company
+    <lb/>in writing &amp; c.
+   </p><p>We have had very little rain since we left home
+    <lb/>till yesterday, &amp; the river was got so low, that some
+    <lb/>of
+        <lb/><pb n ="33" facs="hv_js_diary_v1_1798_033"/>
+    <lb/>of the Indians, who know this Navigation well,
+    <lb/>began to doubt whether our Boat could come up;
+    <lb/>but the present rain appears likely to afford a
+    <lb/>reasonable &amp; plentiful supply.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-26">7th day 26th</date></dateline>
+    <p>This morning the river appears to
+    <lb/>have risen about 18 Inches, tho’ hardly perceiva-
+    <lb/>bly muddy; The day being fair considerable pro-
+    <lb/>gress was made in our clearing, in cutting and
+    <lb/>heaping old Logs grubbing &amp; c. in which we had
+    <lb/>sometimes the help of a neighbouring Indian,
+    <lb/>whose strength &amp; activity evince there was nothing
+    <lb/>wanting but the will to make him a full work-
+    <lb/>man at business of this kind.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-27">1st day 27th</date></dateline>
+    <p>This being first day, about 11 OClock
+    <lb/>we sat down together for religious retirement, which
+    <lb/>thro’ favour was a strengthening time to some of us.
+    <lb/>Soon after the close of our sitting &amp; whilst we were
+    <lb/>preparing what little provisions we had left for
+    <lb/>our dinners, an Indian came into our Cabbin
+    <lb/>with a quantity of fresh venison in his hand, &amp;
+    <lb/>presented it to one of our company we supposed
+    <lb/>these was about 4 lbs for which we offered him pay
+    <lb/>which
+        <lb/><pb n ="34" facs="hv_js_diary_v1_1798_034"/>
+    <lb/>which he shewed some reluctance at taking but as he could
+    <lb/>speak no English we were at a loss to know whether his
+    <lb/>apparent reluctance proceeded from an apprehension
+    <lb/>we did not offer him enough, or from an intention of
+    <lb/>giving us the meat; we however prevailed upon him
+    <lb/>to <del>take</del> receive the money. We afterwards made him under-
+        <lb/>stand we wanted to go down in a Canoe to <placeName key="jenuch">Jenuchsheda</placeName>
+    <lb/>ga, where we had appointed to have a council tomorrow
+    <lb/>he made signs, that he would go with us when the sun
+    <lb/>got to such a place, pointing with his hand; he then
+    <lb/>left us &amp; we went to dressing our meat, which was a
+    <lb/>very acceptable supply, as we had not so much of our
+    <lb/>own left as would make a meal for one person, &amp;
+    <lb/>had heard of none to be purchased in this Country,
+    <lb/>tho’ we had made considerable inquiry.
+   </p><p>
+    <lb/>About 4 in the afternoon, three of our company
+    <lb/>together with the aforesaid Indian set off in a ca-
+    <lb/>noe for Jenuchshedaga leaving two of our young
+    <lb/>Men to come on horseback in the morning, some
+    <lb/>time after we arrived, the Indian who accompani
+       <lb/>ed us, handed <persName key="cornp2">Cornplanter</persName> the money we had given
+    <lb/>him for the meat, saying something to him in their
+    <lb/>own language, and in a few minutes <persName key="abeel">Henry Obeal</persName>
+    <lb/>inform’d that he said, he intended to give us the meat
+    <lb/>that
+        <lb/><pb n ="35" facs="hv_js_diary_v1_1798_035"/>
+    <lb/>that he was not willing to take any <del>part of </del> pay for it, but
+    <lb/>could not make us understand him, therefore he
+    <lb/>had brought the money along, in order to give it back
+    <lb/>to us, we received the Money, expressed our sensibi-
+    <lb/>lity of his kindness &amp; presented him with the same
+    <lb/>Money for his trouble of bringing us down in the
+    <lb/>Canoe, upon which terms he readily receiv’d it.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-28">2nd day 28th</date></dateline>
+    <p>About 12 OClock the Indians were gen-
+    <lb/>erally collected in council, there being five or six
+    <lb/>of their most respectable old Women present. Soon
+        <lb/>after we were seated <persName key="cornp2">Cornplanter</persName> made a pretty
+    <lb/>lengthy speech which seemed not to be addressed
+    <lb/>to us, but to some of the Indians present, &amp; when
+    <lb/>he had closed the Interpreter inform’d he had been
+    <lb/>expostulating with one of his people about some
+    <lb/>misconduct and after a short pause he inform’d
+    <lb/>us, that they were now collected together &amp; ready
+    <lb/>to hear what we had to say to them.
+   </p><p>After this information we were a few minutes
+    <lb/>silent under a serious exercise of spirit for best
+    <lb/>direction in our communications &amp; c. to these people
+    <lb/>which is a state apparently very irksome to most
+    <lb/>of them, as they too generally appear much unac-
+    <lb/>quaint
+        <lb/><pb n ="36" facs="hv_js_diary_v1_1798_036"/>
+    <lb/>quainted with any thing like inward stillness: We
+    <lb/>were in a short time favoured with a degree of weight
+    <lb/>and strength to make some introductory communica-
+    <lb/>tions pertinent to the nature of our business; &amp; these
+    <lb/>read the following propositions viz’ts.
+   </p>
+  <floatingText type="letter">
+      <body><opener>To <persName key="cornp2">Cornplanter</persName>, and all our Indian brothers, of
+       <lb/>the <orgName key="seneca">Seneca Nation</orgName> now living on the <placeName key="alleg">Allegeny River</placeName></opener>
+   <p>Brothers,
+    <lb/>We have not been several days amongst you,
+    <lb/>&amp; have had councils with your Chiefs &amp; wise Men,
+    <lb/>&amp; we have looked about your Country &amp; agreed upon
+    <lb/>a place for our young Men to begin on &amp; we are glad
+    <lb/>&amp; thankful to the great Spirit, that every thing
+    <lb/>we have proposed for your good, has been so agree-
+    <lb/>able to your minds that we seem to agree together
+    <lb/>like Brothers, having but one mind in every thing
+    <lb/>we do, &amp; we hope Brothers we shall continue to be
+    <lb/>of one mind about all the things which we have
+    <lb/>been speaking to you of.
+   </p><p>Brothers,
+    <lb/>You know the place we have chosen
+      <lb/>for our young Men to begin on, up at <placeName key="genes1">Genisenguh-
+    <lb/>ta</placeName> and we hope some of your sober young men will
+    <lb/>settle by ours, and fence of Lots, as they see our young
+    <lb/>Men
+        <lb/><pb n ="37" facs="hv_js_diary_v1_1798_037"/>
+    <lb/>Men fence off theirs; and our young Men will be
+    <lb/>willing to instruct &amp; assist them a little about
+    <lb/>working their Lots. Now Brothers, we think
+    <lb/>our young friends will not be able to raise any
+    <lb/>more, this year on their lot, than what they
+    <lb/>will want to live upon; but we are in hopes
+    <lb/>another year they will have a little to spare, &amp;
+    <lb/>we are willing they should give to your old people
+    <lb/>that cant work for themselves, one bushel out
+    <lb/>of four of all the grain &amp; c. that they have to
+    <lb/>spare; the rest they must have to buy salt and
+    <lb/>other things with which they cant raise off
+    <lb/>of the Ground.
+   </p><p>Brothers,
+    <lb/>In order to encourage you still more to
+    <lb/>take up work, &amp; to follow those ways, which we pointed
+    <lb/>out to you we will agree to help you a little more.
+   </p><p>Brothers,
+    <lb/>We will send you a Smith’s tools, when our
+    <lb/>young Men shall write us word, you stand in need
+    <lb/>of them.
+   </p><p>Brothers,
+    <lb/>If you are industrious this summer
+    <lb/>&amp; raise a good deal of Corn, &amp; some wheat, we will
+    <lb/>help
+        <lb/><pb n ="38" facs="hv_js_diary_v1_1798_038"/>
+    <lb/>help you to build a Grist Mill next Summer, if a
+    <lb/>suitable place can be found for it, you must find
+    <lb/>half the Money to build this Mill, &amp; we will find the
+    <lb/>other half. &amp; we hope brothers, you will save some of
+    <lb/>the Money you get from the white people between
+    <lb/>now &amp; that time, so that you may have your share
+    <lb/>ready against next Spring, and we think you
+    <lb/>had better choose one of your Chiefs to keep this
+    <lb/>Money for you, till the time it is wanted or per-
+    <lb/>haps your money may be all gone for Whisky or
+    <lb/>something that wont do you so much good as a Mill
+    <lb/>would.
+   </p><p>Brothers,
+    <lb/>We are also willing to encourage you to
+    <lb/>take up work &amp; learn farming, by agreeing to give
+    <lb/>some small premiums to such of our Indian brothers
+    <lb/>who are industrious &amp; raise a good deal of Grain.
+   </p><p>Brothers,
+    <lb/>We will give to every Indian Man, living
+    <lb/>on this river, who shall raise 25 Bushel of Wheat
+    <lb/>or Rye in one year, on his own land, not worked by
+    <lb/>white people, the sum of two Dollars.
+    <lb/>2 For every 50 Bushel of Indian Corn raised by
+    <lb/>any
+        <lb/><pb n ="39" facs="hv_js_diary_v1_1798_039"/>
+    <lb/>any one Indian Man, in like manner aforesaid
+    <lb/>the sum of two Dollars.
+    <lb/>3 For every 50 Bushel of Potatoes raised by any
+    <lb/>one Indian Man, in like manner aforesaid,
+    <lb/>the Sum of two Dollars.
+    <lb/>4 For every 2 Tons of Hay raised as aforesaid,
+    <lb/>and put into a Stack or Ban, not being mown
+    <lb/>or drawn in by white people, the sum of two Dolrs.
+    <lb/>5 For every 12 yards of linen Cloth, made by any
+    <lb/>Indian woman, out of flax raised on her own, or her
+    <lb/>husbands land, &amp; spun in her own house, the Sum
+    <lb/>of two Dollars to be paid to the Woman.
+    <lb/>6 For every 12 yards of woolen Cloth, or linsey made
+    <lb/>by any Indian woman, out of the wool of her
+    <lb/>own, or her husband’s Sheep, &amp; Spun in her own
+    <lb/>house the Sum of two Dollars, to be paid to the
+    <lb/>Woman.
+   </p><p>Brothers,
+    <lb/>We will give you these premiums for
+    <lb/>four years from this time, if our young Men
+    <lb/>stay
+        <lb/><pb n ="40" facs="hv_js_diary_v1_1798_040"/>
+    <lb/>stay so long, upon these conditions that the person who
+    <lb/>applies for the premium must produce a certificate from
+    <lb/>two of the Chiefs, certifying the quantity of grain, cloth
+    <lb/>&amp; c. for which the premium is demanded, &amp; that it was
+    <lb/>raised, or made in the manner above mentioned, and
+    <lb/>that the person so applying has not been intoxicated
+    <lb/>with strong drink at least for the term of six Months
+    <lb/>before such application.
+   </p><p>And our friends <persName key="hsimm1">Henry Simmons</persName> <persName key="jswai1">Joel Swayn</persName>e
+       <lb/>&amp; <persName key="hjack1">Halliday Jackson</persName> are hereby authorized &amp; desired
+    <lb/>to pay the above mentioned premiums, agreeably to
+    <lb/>what is herein before express’d. </p>
+    <closer><date when="1798-05-22">5 mo 22nd 1798</date>
+       <signed><persName key="jshar1">Joshua Sharpless</persName>
+    <lb/><persName key="jpier1">John Peirce</persName>
+    <lb/>Henry Simmons
+    <lb/>Joel Swayne
+    <lb/>Holliday Jackson</signed></closer>
+  </body>
+  </floatingText>
+    <p>After reading these propositions, we were again
+    <lb/>enabled seriously to expostulate with them on various
+    <lb/>subjects relative both to their moral &amp; temporal con-
+    <lb/>duct; but particularly on their excessive use of strong
+    <lb/>drink, a variety of instances whereof we had been eye
+    <lb/>witnesses to. Divers of them, as heretofore, appear’d
+    <lb/>solid
+        <lb/><pb n ="41" facs="hv_js_diary_v1_1798_041"/>
+    <lb/>solid, &amp; particularly the women, but much the greater
+    <lb/>number manifested no sense of conviction, or read
+    <lb/>seriousness. They then proposed retiring into a
+    <lb/>private council, in order to consult of an answer, w’ch
+    <lb/>they accordingly did, &amp; in about an hour return’d &amp;
+        <lb/>being seated <persName key="cornp2">Cornplanter</persName> made a speech, in sub-
+    <lb/>stance as follows.
+   </p>
+    <floatingText type="speech">
+      <body> <p>Brothers,
+    <lb/>We now hear all what you would wish
+    <lb/>to do among us; you are come here to see us bro-
+    <lb/>thers You wish us well: you wish us to become as
+    <lb/>the white people: The white people are rich &amp; got
+    <lb/>every thing; the Indians are poor &amp; have nothing.
+   </p><p>Brothers,
+    <lb/>One thing you told us, It would be good
+    <lb/>for us to build a Mill, we must find 400 Dollars, &amp;
+    <lb/>you will find 400 Dollars.
+   </p><p>Brothers,
+    <lb/>We cant say but few words, at this time,
+    <lb/>about the Mill, we will consult <persName key="ichap1">Capt Chapin</persName>, if
+    <lb/>he thinks we will receive our Money &amp; will be able
+    <lb/>to raise so much as you propose then we will do it.
+    <lb/>Bro-
+        <lb/><pb n ="42" facs="hv_js_diary_v1_1798_042"/>
+   </p><p>Brothers
+    <lb/>We know how far you have come to see us;
+    <lb/>it is a great way, from the Sea shore, where our fore-
+    <lb/>fathers once lived, The white people have cheated us
+    <lb/>&amp; got our Land from us, &amp; now we have but little
+    <lb/>left, &amp; we will try to learn your way.
+   </p><p>Brothers
+    <lb/>You know there are some bad people
+    <lb/>among us, &amp; you know we have been cheated and
+    <lb/>that makes us bad, &amp; our minds uneasy, if we had not
+    <lb/>been cheated, we should have been very rich people
+    <lb/>&amp; had plenty of every thing, &amp; then our minds would
+    <lb/>be easy, and we could think upon the good Spirit.
+   </p><p>Brothers,
+    <lb/>The reason I mention to you about our
+    <lb/>being cheated, some of my warriors wont mind what
+    <lb/>I say to them, but will have their own way, because
+    <lb/>they know I have been often cheated by the white
+    <lb/>people: If I had never been cheated, then my warri
+    <lb/>ors would believe me, &amp; mind what I say to them.
+    <lb/>but now they wont mind.
+    <lb/>Brothers
+        <lb/><pb n ="43" facs="hv_js_diary_v1_1798_043"/>
+   </p><p>Brothers,
+    <lb/>We cant all go to work at once, some of
+    <lb/>my warriors will go a hunting to get provisions, &amp;
+    <lb/>sometimes they break a gun, &amp; then it takes a great
+    <lb/>deal of Money to buy another; and we have very few
+    <lb/>hoes, &amp; axes, &amp; such things amongst us, and we are
+    <lb/>not able to get them.
+   </p><p>Brothers,
+    <lb/>I will go along with you to <placeName key="conan">Canadarque</placeName>
+    <lb/>and then we will get matters settled about the Mill,
+    <lb/>&amp; bring it back to your young Men in writing.
+   </p><p>Brothers,
+    <lb/>This is all I got to say.
+    </p> </body>
+  </floatingText>
+   <p>At the close of this speech we expressed a few
+    <lb/>words more, representing, among other things, the
+    <lb/>unreasonableness of their present practice in suffer-
+    <lb/>ing their women to work all day in the fields &amp; woods
+    <lb/>with the hoes &amp; axes, whilst the Men &amp; Boys were at
+    <lb/>the same time playing with their bows &amp; arrows,
+    <lb/>&amp; recommending to them to begin our way, by taking
+    <lb/>out their boys to hoe &amp; c. we concluded with se-
+    <lb/>riously pressing on their minds the remembrance
+    <lb/>That
+        <lb/><pb n ="44" facs="hv_js_diary_v1_1798_044"/>
+    <lb/>That it was from the good Spirit they received every
+    <lb/>good thing, &amp; that he could hear every word they
+    <lb/>said, and see every thing they did, and that they were
+    <lb/>equally with the white people, objects of his tender
+    <lb/>care &amp; regard; and that the great disparity, which
+    <lb/>they so frequently spoke of between them &amp; the white
+    <lb/>people, with regard to plenty &amp; poverty was the na-
+    <lb/>tural result of the different plans pursued in the
+    <lb/>obtaining the blessings of this life, &amp; that, as their
+    <lb/>ground was equally good, with that possessed by
+    <lb/>the white people, it would also be equally pro-
+    <lb/>ductive, if the same Industry &amp; methods of farming
+    <lb/>were pursued.
+   </p><p>In a few minutes after we had concluded, and
+       <lb/>informed them so; <persName key="cornp2">Cornplanter</persName> observed; Now all
+    <lb/>things are settled &amp; done, we will cover up the Coun-
+    <lb/>cil fire.
+   </p><p>In the evening our young Men returned to
+      <lb/>their own house at <placeName key="genes1">Genisenguhta</placeName>, whilst the other
+    <lb/>two remained at <placeName key="cornp">Cornplanters</placeName> in Order to wait for
+    <lb/>our Goods, and to settle some matters with him re-
+    <lb/>lative to our leaving these parts; which we wished
+    <lb/>now to effect, as soon as we should see our goods safely
+    <lb/>ar-
+        <lb/><pb n ="45" facs="hv_js_diary_v1_1798_045"/>
+    <lb/>arrived.
+   </p><p>Sometime after night a messenger arrived here
+    <lb/>from Farmers, Brother, at <placeName key="buffa">Buffolo</placeName>, requesting <persName key="cornp2">Corn-
+    <lb/>planters</persName> attendance at that place; the Surveyors &amp; c.
+    <lb/>being come in orer to run the lines of their reserva
+    <lb/>tions agreeably to a treaty of last Summer with
+       <lb/><persName key="rmorr1">Robt Morris</persName>; <persName key="cornp2">Cornplanter</persName> expressed a particular de-
+    <lb/>sire that we should attend their Council on the
+    <lb/>occasion at the aforesaid place. we had for sometime
+    <lb/>past, felt our minds rather turned towards taking <placeName key="conan">Ca-
+    <lb/>nandarque</placeName> &amp; <placeName key="oneid">Oneida</placeName> in our way home &amp; upon
+    <lb/>enquiry were informed that we could not get to Ca-
+    <lb/>nandarque from this place with out going by Buffalo; we were there-
+    <lb/>fore easy to agree to attend at the aforesaid place.
+    <lb/>It remained now to fix on a time for our setting out,
+    <lb/>but to this end the want of our goods seemed in the
+    <lb/>way as we had heard nothing from them since we
+       <lb/>left <placeName key="pitts">Pittsburgh</placeName> a full result was therefore defered.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-29">3rd day 29th</date></dateline>
+    <p>Most of this &amp; past of the succeeding
+    <lb/>was employ’d in digesting our minutes writing letters
+        <lb/>&amp; c. one of w’ch was to <persName key="twist1">Thomas Wister</persName>, shewing the
+    <lb/>present state of our business at this place and
+        <lb/>another to <persName key="gwilk2">General Wilkinson</persName>, containing a brief
+    <lb/>nar-
+        <lb/><pb n ="46" facs="hv_js_diary_v1_1798_046"/>
+    <lb/>narrative of our proceedings since our arrival here.
+    </p><p>In a private conference with <persName key="cornp2">Cornplanter</persName> and
+    <lb/>two or three others we obtained the following informa-
+    <lb/>tion That the Indians in this reservation consist of
+    <lb/>between 3 &amp; 4 hundred individuals, have 3 horses,
+    <lb/>14 homed cattle 1 yoke of Oxen &amp; 12 hogs, all private
+    <lb/>property.
+   </p><p>They have two solemnities in a year in form
+    <lb/>of public worship or thanksgiving to the Great Spirit,
+    <lb/>one in the Spring, &amp; the other about the time of
+    <lb/>their corn ripening.
+   </p><p>This afternoon was exhibited a curious scene by the
+    <lb/>Indians in this village. Hearing an unusual noise
+    <lb/>near our apartment where we were employed in wri-
+    <lb/>ting, our attention was drawn without, there we ob-
+    <lb/>served two Indian,s with naked legs &amp; thighs bear skins
+    <lb/>over their shoulders &amp; false faces, with the most grim
+    <lb/>&amp; tenible aspects, gaping &amp; distorted Mouths, huge noses
+    <lb/>&amp; glaring &amp; frightful eyes, with great bunches of hair
+    <lb/>falling on each side some standing up &amp; some flying
+    <lb/>about the face, &amp; carrying in one hand the shell of
+    <lb/>a Water Tortoise fatsened to a stick about 8 Inches long
+    <lb/>and
+        <lb/><pb n ="47" facs="hv_js_diary_v1_1798_047"/>
+    <lb/>and enclosing a number of stones, or some other sub-
+    <lb/>stances, with which they made a great rattling &amp;
+    <lb/>often running to the sides of a certain House rubed
+    <lb/>them hardly up &amp; down over the rough logs, thereby
+    <lb/>greatly increasing the noise, &amp; often accompanying
+    <lb/>it with a hide our muttering sound out of their own
+    <lb/>mouths, &amp; almost all their gestures were complete-
+    <lb/>ly frantic.
+   </p><p>There were a considerable number of young
+    <lb/>Indians collected to this scene, who were attempting
+    <lb/>to look through the chinks of the house, where these
+    <lb/>Monsters appear’d station’d as guards, but were re-
+    <lb/>markably afraid of being caught by them, and
+    <lb/>indeed these creatures seemed to perform their part
+    <lb/>well in keeping them away. We saw several el-
+    <lb/>derly women go eleven times in and out of the house
+    <lb/>during these transactions, wearing a serious counte-
+    <lb/>nance, and sometimes speaking to the false faces
+    <lb/>as these prodigies were called.
+   </p><p>We asked our Interpreter the meaning of these
+    <lb/>transactions, but he evaded our interrogations, telling
+    <lb/>us it was only play, &amp; again that there was a
+    <lb/>company of Women there drinking whisky and
+    <lb/>that
+        <lb/><pb n ="48" facs="hv_js_diary_v1_1798_048"/>
+    <lb/>that these Men were set there to keep the young fel-
+    <lb/>lows away, but neither of these answers accorded with
+    <lb/>the appearances &amp; countenances, which we saw frequent-
+    <lb/>ly go in &amp; out. In short we were strongly persuad
+    <lb/>ed this astonishing scene was transacted as a ceremo-
+    <lb/>ny, or rejoicing at the birth of a child, or otherwise to
+    <lb/>keep the young Men at a distance, &amp; thereby secure
+    <lb/>that privacy the nature of the case called for &amp; which
+    <lb/>their houses were not calculated to afford.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-30">4th day 30th</date></dateline>
+    <p>The forepart of this day was employed
+    <lb/>in writing &amp; c. about noon our goods arrived at this
+    <lb/>place where the Boatman had agreed to deliver
+    <lb/>them, we endeavoured to prevail with him to conti-
+    <lb/>nue about 9 Miles further up the River to our
+    <lb/>settlement, as there was no road to waggon them &amp;
+    <lb/>several of our packs were too large for canoes he
+    <lb/>was very unwilling to comply but more especially
+    <lb/>his Men. we at length effected our purpose upon the
+    <lb/>following conditions: we gave him three Dollars
+    <lb/>as a present, hired an Indian pilot for ½ a Dol-
+        <lb/>lar &amp; agreed to write to <persName key="icrag1">Major Craig</persName> of <placeName key="pitts">Pittsburgh</placeName>
+    <lb/>on his behalf, as follows, viz’t
+    <lb/>Jen </p>
+        <lb/><pb n ="49" facs="hv_js_diary_v1_1798_049"/>
+   <floatingText type="letter">
+    <body>
+    <dateline><placeName key="jenuch">Jenuchchedaga</placeName> <date when="1798-05-31">5mo 31 1798</date></dateline>
+    <p>Respected Friend
+    <lb/>Yesterday <persName key="checkplace">Thomas Lelks</persName> arrived at
+        <lb/><persName key="cornp2">Cornplanters</persName> <placeName key="cornp">lower Village</placeName> with our goods &amp; our
+    <lb/>settlement being 9 Miles higher up the River, we
+    <lb/>prevailed with him to continue up to that place
+    <lb/>if it accords with thy orders to satisfy him for this
+    <lb/>extra <del>trouble</del>labour, the business will be settle; if not
+    <lb/>please to present these lines, with his extra bill
+    <lb/>to <persName key="abark1">Abner</persName> &amp; <persName key="jbark1">Jesse Barker</persName>, who are hereby authori-
+    <lb/>zed to settle it, placing the same to the account
+    <lb/>of <persName key="tfish1">Thomas Fisher</persName> of <placeName key="phila">Philadelphia</placeName>.
+    <lb/>Note, We have made him a present of three Dollars
+    <lb/>which we dont wish deducted out of his reasonable
+    <lb/>bill. </p>
+    <closer>I am with respect thy friend
+    <lb/><persName key="jpier1">Jno Peirce</persName>.
+        <lb/><persName key="icrag1">Isaac Craig</persName> <placeName key="pitts">Pittsburgh</placeName></closer>
+   </body>
+  </floatingText>
+     <p>This evening let <persName key="cornp2">Cornplanter</persName> know that we
+    <lb/>should now be ready to depart for <placeName key="buffa">Buffalo</placeName>, as soon
+    <lb/>as would be convenient for him. He informed, he
+    <lb/>could not be ready in less than four days; we felt,
+    <lb/>some reluctance at being detained after our bu-
+    <lb/>siness was done, but submitted to the time proposed.
+    <lb/>5th </p>
+        <lb/><pb n ="50" facs="hv_js_diary_v1_1798_050"/>
+ </div> <div type="entry">
+    <dateline><date when="1798-05-31">5th 31st</date></dateline>
+     <p>This morning took leave of <persName key="cornp2">Cornplanters</persName> fam-
+       <lb/>ily &amp; set out in a Canoe, for <placeName key="genes1">Genisenguhta</placeName> to our
+    <lb/>young Men accompanied by Cornplanter his son
+    <lb/><persName key="abeel">Henry</persName> &amp; one other, arrived there just after our goods
+    <lb/>were unloaded; &amp; gave to the boatman Thos Lelks
+        <lb/>the aforesaid lines to <persName key="icrag1">Major Craig</persName> our letter to <persName key="gwilk2">Genl
+        <lb/>Wilkinson</persName> &amp; that to <persName key="twist1">Thomas Wister</persName> with several
+    <lb/>others inclosed .
+   </p><p>The remainder of the day was employ’d in
+    <lb/>unpacking our goods &amp; repacking them into our
+    <lb/>Cabbin, several of the articles were wet but nothing
+    <lb/>appeared much damaged.
+   </p><p>We have received from Cornplanter, since we came
+    <lb/>into this Country about half a hundred of flour, be-
+    <lb/>sides several days board for two of us, for which
+    <lb/>he refused taking any pay, we therefore this day
+    <lb/>made him a present of six Bandana handker-
+    <lb/>chiefs, (one for his Wife &amp; one for each of his five
+    <lb/>daughters) three small tooth combs, 2 pocket knives
+    <lb/>one paper needles, 6 thimbles &amp; 2 ¼ yards of Cloth
+    <lb/>for his son Henry who has steadily attended on us
+    <lb/>as Interpreter.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-01">6th mo 1st</date></dateline>
+    <p>This morning being wet our young Men
+    <lb/>were
+        <lb/><pb n ="51" facs="hv_js_diary_v1_1798_051"/>
+    <lb/>were employed in putting handles to their tools, havg
+    <lb/>their Grindstone &amp; c.
+    </p><p>In the afternoon <persName key="jshar1">J. Sharpless</persName> &amp; myself went
+    <lb/>about a Mile up the River, in order to view a
+    <lb/>small Creek that we were inform’d of as most
+    <lb/>likely to afford a Mill seat; we went a consider-
+    <lb/>able distance up the Creek found it had plenty
+    <lb/>of fall, &amp; appeared to have a sufficiency of water
+    <lb/>with a good bank &amp; place for a Mill, much out
+    <lb/>of the way of floods which are sometimes great in
+    <lb/>in this River, and at the Same time so that Canoes
+    <lb/>might come up a short tail race to the Mill;
+    <lb/>but against these advantages, the water must
+    <lb/>be brought through, or over a quarry of slate
+    <lb/>stone for near 20 perches, or otherwise by taking
+    <lb/>the water out below said quarry, we supposed more
+    <lb/>than 8 or 10 feet fall could not be obtained.
+   </p><p>Mill seats are very scarce in this reservation,
+    <lb/>we have yet seen none, excepting the above, that
+    <lb/>appear worth building upon.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-02">7th day 2nd</date></dateline>
+    <p>This day our young Men got to
+    <lb/>their clearing again, and have about 1 ½ acre
+    <lb/>near
+        <lb/><pb n ="52" facs="hv_js_diary_v1_1798_052"/>
+    <lb/>nearly ready for the plough.
+   </p><p>In the Evening of this day agreed upon the fol-
+    <lb/>lowing minute, which was enter’d in a book pre-
+    <lb/>pared for the accounts of our friends at this place.
+   </p>
+    <floatingText type="letter">
+     <body>
+    <dateline><placeName key="genes1">Genisenguhta</placeName> <date when="1798-06-02">6mo 2 1798</date></dateline>
+         <p>It is agreed to appoint <persName key="jswai1">Joel Swayne</persName> Treasurer for
+    <lb/>the Indian concern at this place, who is desired to keep
+    <lb/>regular entries of all the money rec’d &amp; paid away &amp;
+    <lb/>to whom &amp; for what; the quantity of dry goods received,
+    <lb/>what parted with, to thom &amp; upon what conditions
+    <lb/>the quantity of grain &amp; c. raised, what parted with, to whom &amp; upon what conditions,
+    <lb/>and transmit a regular statement thereof to our com-
+    <lb/>mittee at <placeName key="phila">Philada</placeName> at least once a year; &amp; these
+    <lb/>is now left in his hands, after settling all accounts to
+    <lb/>this time, twenty seven Dollars, and we agree to send
+             <lb/>back by <persName key="cornp2">Cornplanter</persName>, from <placeName key="conan">Canandarque</placeName> one hun’d
+    <lb/>Dollars more.
+   </p><p>It may be proper to note here, that we have been
+    <lb/>lately informed that a number of Men are now em-
+    <lb/>ploy’d in cutting a road from the Boatable parts
+    <lb/>of the west branch of the <placeName key="susqu">Susquehannah</placeName> to the
+    <lb/>mouth of <placeName key="concr">Conewango creek</placeName> about 25 miles down
+    <lb/>this River.
+    <lb/>If
+        <lb/><pb n ="53" facs="hv_js_diary_v1_1798_053"/>
+    <lb/>If a good road is obtained here, it must greatly
+    <lb/>lessen the expence of postage from <placeName key="phila">Philada</placeName> to
+    <lb/>this place.
+    </p>
+        </body>
+  </floatingText>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-03">1st day 3rd</date></dateline>
+    <p>Had again our time of religious re-
+    <lb/>tirement to our mutual refreshment.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-04">2nd day 4th</date></dateline>
+    <p>This is the day agreed upon for our
+    <lb/>setting out towards <placeName key="buffa">Buffalo</placeName>; but the morning
+    <lb/>being very wet, as also much of the preceding nights,
+    <lb/>we had little prospect of hearing from the Indians
+    <lb/>on this business to day; but early in the morning
+    <lb/><persName key="abeel">Henry Obeal</persName> &amp; one other arrived at our Cabbin,
+    <lb/>having come about 9 Miles on foot through the
+    <lb/>rain, &amp; inform’d, that some of them were not quite
+    <lb/>ready, and that his father wished us to wait till
+    <lb/>tomorrow morning, at which time they would
+    <lb/>be along: to this we readily agreed, &amp; were pleased
+    <lb/>to find a greater appearance of punctuality in this
+    <lb/>matter, than we had looked for.
+   </p><p>Most of this day continued wet to which the
+    <lb/>weather has been inclined for more than a week
+    <lb/>past &amp; there is yet no visible marks of a change
+    <lb/>whence
+        <lb/><pb n ="54" facs="hv_js_diary_v1_1798_054"/>
+    <lb/>whence the prospect of setting out on a long Journey
+    <lb/>through a Wilderness country looks trying.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-05">3rd day 5th</date></dateline>
+    <p>This morning looks favourable with
+    <lb/>regard to weather, we early got our baggage &amp; in
+    <lb/>readiness, that no detention might take place
+    <lb/>after the arrival of our Indian company &amp; it
+    <lb/>was now unitedly adjudged most oeconomical to
+    <lb/>the institution, that one of our young Mens horses
+    <lb/>should be taken home or sold on the way, and the
+    <lb/>Mare ridden by <persName key="hsimm1">Henry Simmons</persName> was pitched
+    <lb/>upon for that purpose; one of our young Men
+    <lb/>being now at plough with the other two, find they
+    <lb/>are likely to answer their purpose well, we
+    <lb/>therefore who are now on the point of returning
+    <lb/>homewards conclude to take the charge of this creature.
+   </p><p>This proved a tedious day, it is now near sun
+    <lb/>set, and we have been in waiting since early in the
+    <lb/>morning, still expecting our Indian company,
+    <lb/>from whom we have yet heard nothing to day.
+    <lb/>that we find patience necessary.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-06">4th day 6th</date></dateline>
+    <p>This day about three in the afternoon
+        <lb/><persName key="cornp2">Cornplanter</persName>, his Son <persName key="abeel">Henry</persName> &amp; two other Indians
+    <lb/>came to our quarters. and Cornplanter inform’d
+    <lb/>as
+        <lb/><pb n ="55" facs="hv_js_diary_v1_1798_055"/>
+    <lb/>as a reason for their disappointing us yesterday
+    <lb/>&amp; today, that one of his daughter had been taken
+    <lb/>very bad, and was now likely to die, &amp; that another
+    <lb/>of his family had fallen off a horse &amp; broke her arm
+    <lb/>&amp; that he could not go with us for two or three days
+    <lb/>longer till he should see whether his child would
+    <lb/>die or get better; that he was very sorry he could
+    <lb/>not go as he had promised, &amp; that he should be very
+    <lb/>glad we would wait for him the time proposed;
+    <lb/>but if we could not be easy to do so he would fur-
+    <lb/>nish us with a guide through the Wilderness
+    <lb/>to <placeName key="buffa">Buffalo</placeName>.
+   </p><p>We concluded to accept of the latter proposal &amp; to set
+    <lb/>out early next morning, with a view to spend a few
+    <lb/>days amongst friends at <placeName key="canad">Canada</placeName>, where we might
+    <lb/>get our Clothes washed &amp; c. &amp; wait the proposed time
+    <lb/>for the Indian’s arrival at Buffalo aforesaid which
+    <lb/>was now stipulated to be this day week, &amp; Indian
+    <lb/><persName key="checkplace">John</persName>, a sober Man &amp; near neighbour to our settle-
+    <lb/>ment, undertook to pilot us, &amp; promised to be ready
+    <lb/>early in the morning.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-07">5th day 7th</date></dateline>
+    <p>About 5 this morning took an affecti-
+    <lb/>onate
+        <lb/><pb n ="56" facs="hv_js_diary_v1_1798_056"/>
+    <lb/>onate leave of our friends, &amp; set out, with our pilot
+        <lb/><persName key="checkplace">John</persName> aforesaid, mounted on <persName key="hsimm1">Henry Simmons’s</persName> mare
+    <lb/>travelled steadily from this time till about sunset
+    <lb/>stoping but once; about half an hour, whilst our
+    <lb/>horses fed, on some corn we had with us, most of this day
+    <lb/>ride was through a mixture of apparently fertile
+    <lb/>bottoms, &amp; rugged unarable hills, the bushes were very
+    <lb/>thick, &amp; hung loaded with water in every direction over
+    <lb/>our path, to that degree, that we frequently lost sight of
+    <lb/>our pilot, when not more than a perch or two before us;
+    <lb/>which together with an almost continual winding
+    <lb/>round large fallen trees, or jumping over smaller ones
+    <lb/>made our travel both tedious &amp; disagreeable; about
+    <lb/>noon we had a remarkably heavy rain, which lasted
+    <lb/>for more than an hour, &amp; added to our doubts of the
+    <lb/>practicability of foarding <placeName key="catar">Catarawgus river</placeName> which
+    <lb/>the Indians had before expressed some fears of, on
+    <lb/>account of the preceding rains; In the evening we
+    <lb/>arrived at this River, having ridden about 35 miles,
+    <lb/>Our Indian guide soon made us understand by signs
+    <lb/>(as he could not speak english) that the water would run
+    <lb/>over our horses backs, and from its violent rapidity sweep
+    <lb/>us all down the river: we therefore concluded to encamp,
+    <lb/>and
+        <lb/><pb n ="57" facs="hv_js_diary_v1_1798_057"/>
+    <lb/>and take up our lodging here this night, our guide ta-
+    <lb/>king us a few perches back from the river, to a sand
+    <lb/>bank, which he appeared to fix upon as most eligible
+    <lb/>for our quarters; here he soon struck up a fire and we
+    <lb/>uncased our horses, turned them out, got our suppers &amp;
+    <lb/>disposed ourselves for rest, having previously fixed
+    <lb/>up a few bushes to break off some of the dew; thus ac-
+    <lb/>commodated, we soon forgot our difficulties in refresh-
+    <lb/>ing sleep; but our horses suffer’d much with flies and
+    <lb/>moschettoes.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-08">6th day 8th</date></dateline>
+    <p>Early this morning took a walk to the
+    <lb/>river bank &amp; thought we could discover some marks
+    <lb/>of its falling three or four Inches since last evening
+    <lb/>we therefore concluded to attempt crossing as early as we
+    <lb/>could get in readiness: about 5 OClock we mounted
+    <lb/>our horses, &amp; our guide bading us a circle through the
+    <lb/>woods &amp; bushes, came to the River at the head of two
+    <lb/>Sand bars, about 60 perches above the common fording
+    <lb/>at the bank <del>we</del> he made a halt, pointing the course
+    <lb/>we must go, and making signs for us to go foremost,
+    <lb/>which we did, crossing without difficulty two small
+    <lb/>channels, w’ch seperated the Islands from the shore,
+    <lb/>&amp; from each other; &amp; riding to the lower end of the
+    <lb/>largest one; we observed the main body of the water
+    <lb/>lay on the other side, which Ran with great rapidi
+    <lb/>ty
+        <lb/><pb n ="58" facs="hv_js_diary_v1_1798_058"/>
+    <lb/>ty, &amp; being muddy, we could form no idea of its depth,
+    <lb/>but our guide marked our horses nearly up to the top
+    <lb/>of their backs to represent it, &amp; shewed evident marks
+    <lb/>of fear to cross, absolutely refusing to go in foremost;
+       <lb/>in this situation <persName key="jshar1">J. Sharpless</persName> having provided himself
+    <lb/>with a long pole, entered the water, still measuring
+    <lb/>its depth before his horse &amp; crossed safe finding it not
+    <lb/>so deep as our guide had supposed; which had it been, no
+    <lb/>horse could have kept his feet, the rapidity was so great ;
+    <lb/>we soon followed, &amp; also landed safe, then proceeded
+    <lb/>down the River through a very fat country about
+    <lb/>9 Miles to a small village of Muncy Indians, where
+    <lb/>we stoped and breakfasted: most of the principal Men
+    <lb/>being about home, they soon collected into the house, into
+    <lb/>which we had been conducted, &amp; there being a white
+    <lb/>Men present who could interpret, we were most easy to
+    <lb/>let them know what we had been doing at <placeName key="alleg1">Allegany</placeName>,
+    <lb/>&amp; the nature of our concern in general amongst the In-
+    <lb/>dians, pointing out to them the advantages which must
+    <lb/>result from the wish’d for change in their manner of
+    <lb/>living. They were in a good degree attentive in general
+    <lb/>&amp; expressed their gladness to hear, from our own mouths,
+    <lb/>what we had been doing among their brother at Al-
+    <lb/>legany, we left this place about 10, proceeded on
+    <lb/>through
+        <lb/><pb n ="59" facs="hv_js_diary_v1_1798_059"/>
+    <lb/>through a rich, wet, &amp; boggy country, about 7 Miles to
+    <lb/>Lake Erie, here we indulged ourselves a few moments
+    <lb/>in gratifying our sight, which had been long confined to
+    <lb/>narrow limits through the wilderness; but could now
+    <lb/>traverse in almost every direction the majestic liquid
+    <lb/>element as far as the natural sphericity of the globe
+    <lb/>would admit. We now promised ourselves a plea-
+    <lb/>sant ride &amp; good road down the beach of this <del>leak</del> lake to
+    <lb/><placeName key="buffa">Buffalo</placeName> which was computed 29 Miles, but soon
+    <lb/>found our mistake as to the road, it being very hea
+    <lb/>vy &amp; wearisome to the horses, as it consisted mostly
+    <lb/>where we were out of the water, of coarse sand or
+    <lb/>gravel, which gave way under their feet, &amp; was oft
+    <lb/>en nearly fetlock deep; besides which we were in se-
+    <lb/>veral places confines, for 40 perches &amp; more at a time,
+    <lb/>by a nearly perpendicular wall of slate &amp; other stone
+    <lb/>intermixed with small stratas of early to the height
+    <lb/>of 40 feet &amp; upwards, on our right, with the lake
+    <lb/>on our left, with its billows rolling under our horses
+    <lb/>&amp; dashing against these rocks would often rebound,
+    <lb/>back, in heavy drops over our heads: add to this, that
+    <lb/>in many places, for several perches together, the
+    <lb/>water was nearly belly deep upon a level, exclusive
+    <lb/>of the additional depth occasion’d by the surge and of
+    <lb/>so
+        <lb/><pb n ="60" facs="hv_js_diary_v1_1798_060"/>
+    <lb/>so thick  &amp; dark a nature that no glimpse of the bottom
+    <lb/>could be discuss’d, that the moment when our horses
+    <lb/>might be tumbling over rocks, or plunging into holes
+    <lb/>was to us unknown. And at times strongly painted
+    <lb/>in the imagination, but through all our difficul-
+    <lb/>ties we were preserved, so as to arrive safe at <placeName key="buffa">Buffalo</placeName> about
+    <lb/>Sun set, with wearied horses, but quiet minds.
+   </p><p>We crossed <placeName key="buffr">Buffalo River</placeName> in a boat &amp; swam
+    <lb/>our horses over; here we met with a company of
+    <lb/>Surveyors &amp; their Assistants, encamped on the bank,
+    <lb/>amongst whom was J. Tompson from our parts, who
+    <lb/>kindly and pressingly invited us to quarter with them
+    <lb/>which we accordingly did, &amp; were hospitably &amp; comfort-
+    <lb/>ably accommodated, lodging in a Tent erected for the
+    <lb/>purpose.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-09">7th day 9th</date></dateline>
+    <p>This morning parted with our pilot,
+    <lb/><persName key="checkplace">John</persName>, &amp; set out for Canada, having first provided
+    <lb/>a pasture for our Mare, till we return’d, crossed
+    <lb/>Niagara about 8 OClock, which was one of the most
+    <lb/>trying scenes particularly to one of us, that we have
+    <lb/>yet met with, this River at the place of crossing is
+    <lb/>about ¾ of a Mile in width, &amp; in some parts has a
+    <lb/>strong current, our boat was old, &amp; very narrow &amp; one
+    <lb/>of our horses unruly, which made our situation
+    <lb/>ap-
+        <lb/><pb n ="61" facs="hv_js_diary_v1_1798_061"/>
+    <lb/>appear really dangerous, but we were preserved, so as
+    <lb/>to land safe.
+   </p><p>We proceeded up the Lake for several Miles, then
+    <lb/>leaving it a few Miles arrived at Dan’l Pounds,
+    <lb/>where we dined; in the afternoon walked to Joel
+    <lb/>Morris’s paid a friendly visit &amp; return’d; in the
+    <lb/>evening rode to Asa Schooley’s about 3 Miles
+    <lb/>further back from the Lake, where we lodged,
+    <lb/>&amp; were kindly entertained.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-10">1st day 10th</date></dateline>
+    <p>This morning paid a friendly visit
+    <lb/>to John Cutler &amp; family, returned to Asa Schooleys
+    <lb/>attended their Meeting, which has been usually
+    <lb/>held for some time back on first days, at this house
+    <lb/>there were between 30 &amp; 40 individuals includg
+    <lb/>children collected, their gathering was very ir-
+    <lb/>regular, but their sitting in meeting exemplary,
+    <lb/>still, &amp; in a good degree solid, yet the want of a
+    <lb/>more lively exercise, &amp; religious travail was apparent.
+   </p><p>In the afternoon we paid visits to Joseph Havens
+    <lb/>Adam bunass &amp; Joseph Marsh, at the last of w’ch
+    <lb/>we lodged.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-11">2nd day 11</date></dateline>
+    <p>About 7 this morning set out in order
+    <lb/>to visit some friends in another settlement, before
+    <lb/>the
+        <lb/><pb n ="62" facs="hv_js_diary_v1_1798_062"/>
+    <lb/>the Falls, we rode about 7 Miles to the Niagara
+    <lb/>River, thence down the same to the mouth of
+    <lb/>Chipaway, which we crossed in a boat &amp; proceeding
+    <lb/>down the Niagara, in about a Mile came to the
+    <lb/>rapids preceding the great falls. The great body of
+    <lb/>water which flows down this River together with the
+    <lb/>roughness of the bottom &amp; the rapidity of the descent,
+    <lb/>for more than a Mile above the grand pitch occasi-
+    <lb/>ons such an amazing agitation, dashing &amp; foaming
+    <lb/>of the water, as exhibit a sight both pleasing and
+    <lb/>awful; when we arrived in the bank opposite the
+    <lb/>grand pitch leaving our horses, we cautiously de-
+    <lb/>scended a steep hill, we supposed of more than 100
+    <lb/>feet in perpendicular height, near the bottom of w’ch
+    <lb/>we found ourselves in a thick fog or mist &amp; shortly af-
+    <lb/>ter in a fine rain, proceeding from the falls, we ap-
+    <lb/>proached with careful step the edge of a great flat
+    <lb/>rock nearly horizontal with the top of the pit6ch
+    <lb/>&amp; hanging over the river below, whence we had a
+    <lb/>good view at a few perches distance of the whole falls
+    <lb/>except what was cover’d by the thick fog at all times
+    <lb/>arising from the dashing of the Water. This fall
+    <lb/>is said to be from 130 to 160 feet perpendicular &amp; is
+    <lb/>a stupendous sight, not easily described, so as to
+    <lb/>con
+        <lb/><pb n ="63" facs="hv_js_diary_v1_1798_063"/>
+    <lb/>convey those sensations, which must accompany the
+    <lb/>reflecting mind in the actual survey of it. The
+    <lb/>continual rain &amp; coldness of this place would not
+    <lb/>admit of a long indulgence to our curiosity, we
+    <lb/>therefore shortly returned, ascended with some dif-
+    <lb/>ficulty the aforesaid hill &amp; proceeded on our way
+    <lb/>to Jeremy Moors, about 5 Miles from Chipaway,
+    <lb/>here we got our horses shod &amp; lodged this night.
+   </p><p>About an hour after our arrival here a
+    <lb/>friend also arrived from a Settlement called the
+    <lb/><emph>Shorthills</emph>, about 18 Miles from this place with
+    <lb/>a message to Jeremy Moor &amp; others in the neighbour-
+    <lb/>hood, that some uneasiness had taken place about
+    <lb/>their meeting house, which they had been attempt-
+    <lb/>ing to build in that place, in consequence of
+    <lb/>which the work was stoped, and could not go further
+    <lb/>forward, till something was done to accommodate
+    <lb/>it some appeared to be seriously affected with this
+    <lb/>business, as it apparently wore some aggravating
+    <lb/>symptons &amp; expressed a particular desire that we
+    <lb/>should attend a conference on the occasion, at the
+    <lb/>Meeting house aforesaid some time tomorrow.
+    <lb/>We agreed to take the subject under consideration
+    <lb/>and to meet some of them at John Hills, about 6 Miles
+    <lb/>on
+        <lb/><pb n ="64" facs="hv_js_diary_v1_1798_064"/>
+    <lb/>on the way early in the morning, &amp; there to result whe-
+    <lb/>ther we would proceed further in the business.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-12">3rd day 12th</date></dateline>
+    <p>Agreeably to the conclusion of yesterday
+    <lb/>we early set out in company with Jeremy Moor &amp;
+    <lb/>Wife to John Hills, where we got to breakfast, &amp;
+    <lb/>after some further conference on the aforesaid uneasi-
+    <lb/>ness, we concluded to attend a general conference with
+    <lb/>all their members, and others concerned, at the Meeting
+    <lb/>house aforesaid, and care was now taken to get notice
+    <lb/>forward to meet as soon in the afternoon as conveni-
+    <lb/>ency would admit. Soon after breakfast we set out
+    <lb/>in company with John Hill &amp; Jeremy Moore on
+    <lb/>horseback, several others going on foot arrived in
+    <lb/>the neighbourhood about noon, went to Joshua
+    <lb/>Gillharris where we left our horses &amp; walked to John
+    <lb/>Taylors to dinner, after which went to the Meeting
+    <lb/>house where we were met by all the men friends &amp;
+    <lb/>others particularly concern’d &amp; after a time of solid
+    <lb/>waiting &amp; travail of Spirit, strength was afforded
+    <lb/>to treat the subject with great plainness &amp; affec-
+    <lb/>tion, reminding them how tenderly they had been
+    <lb/>cared for, both by the Father &amp; his Church, the se-
+    <lb/>rious effects which must be consequent on their suf
+    <lb/>fer
+        <lb/><pb n ="65" facs="hv_js_diary_v1_1798_065"/>
+    <lb/>ferring divisions &amp; animosities to take place amongst
+    <lb/>them in their present infant State, as well as the
+    <lb/>reproach, both they and the profession they were
+    <lb/>making must thereby incur amongst their
+    <lb/>sober &amp; enquiring neighbours; which appeared
+    <lb/>to have a reach on some minds, &amp; to prepare for a
+    <lb/>salutacy discussion of particular circumstances
+    <lb/>which was accordingly done, to the apparent res-
+    <lb/>toration of harmony &amp; order, &amp; a day was now ap-
+    <lb/>pointed to resume the work &amp; prosecute it with
+    <lb/>attentive diligence. We returned from this con-
+    <lb/>ference well satisfied that we had given up to at-
+    <lb/>tend it, and divers expressed their thankfulness for
+    <lb/>this timely &amp; unexpected assistance.
+   </p><p>After this, we paid short visits to Saml Taylor
+    <lb/>John Taylor Joshua Gillman &amp; went to James
+    <lb/>Crafords to lodge.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-13">4th day 13th</date></dateline>
+    <p>Set out from our quarters before Sun
+    <lb/>rise, rode to John Hills to breakfast, after which
+    <lb/>paid a short visit to his Son Benjm Hill and
+    <lb/>family, thence to Wm Sundys where we dined, &amp;
+    <lb/>then proceeded on to Asa Schooleys where we arri
+    <lb/>ved about sunset; having travelled about 40 Miles
+        <lb/><pb n ="66" facs="hv_js_diary_v1_1798_066"/>
+    <lb/>this day.
+   </p><p>At this place we had left most of our linen &amp; c. they
+    <lb/>having kindly offered to wash it for us, which they
+    <lb/>accordingly did, &amp; we now found ourselves finely re-
+    <lb/>cruited in that way.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-14">5th day 14th</date></dateline>
+    <p>This morning about 8 OClock, took
+    <lb/>leave of our kind Friends aforesaid, &amp; set out for Buf-
+    <lb/>falo crossed the Niagara about one &amp; found it less
+    <lb/>trying than before, as we prevailed upon the Ferry-
+    <lb/>man to lash two boats together, which greatly contri-
+    <lb/>buted to their steadiness &amp; apparently to our safety
+    <lb/>soon after we landed, we met our pilot <persName key="checkplace">John</persName>, mounted
+    <lb/>on our Mare, which we had left at <placeName key="buffa">Buffalo</placeName>, under
+    <lb/>his care, he had ridden out on purpose to look for
+    <lb/>us &amp; was near the Ferry when we landed which
+    <lb/>is about 4 Miles from Buffalo aforesaid.
+   </p><p>He manifested his gladness to see us, as we were also
+    <lb/>to see him &amp; our creature safe.
+   </p><p>When we arrived at Buffalo we found nei-
+       <lb/>ther <persName key="cornp2">Cornplanter</persName> nor <persName key="ichap1">Capt Chapin</persName> had yet come
+    <lb/>tho’ they were hourly expected.
+   </p><p>We concluded to stay here this night &amp; to feel after
+    <lb/>what was best to be done with regard to waiting on this
+    <lb/>coun
+        <lb/><pb n ="67" facs="hv_js_diary_v1_1798_067"/>
+    <lb/>council, and <persName key="wjohn1">Wm Johnston</persName> informed that he had
+       <lb/>mentioned to Farmer’s Brother, <persName key="cornp2">Cornplanters</persName> re-
+    <lb/>quest respecting our attendance &amp; that he expressed
+    <lb/>his approbation with it, &amp; also desired our attend-
+    <lb/>ance.
+   </p><p>This evening <persName key="abeel">Henry Obeal</persName> arrived &amp; informed
+    <lb/><del>&amp; inform’d</del>his father was just behind, &amp; would be
+    <lb/>here soon in the morning.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-15">6th day 15th</date></dateline>
+     <p>This morning <persName key="cornp2">Cornplanter</persName> &amp; his people
+    <lb/>arrived, accompanied by a number of other Indians
+    <lb/>from <placeName key="catta1">Catarawgus</placeName>; He expressed his gladness to meet
+    <lb/>with us here, &amp; kindly enquired after our health since
+    <lb/>we left his country; &amp; also presented us with a letter
+    <lb/>from our young Men dated the 12 Inst; informing
+    <lb/>of their health, &amp; peace of mind in their present si-
+    <lb/>tuation, &amp; that they got their corn in the Ground
+    <lb/>the day after we left them; which afforded satis-
+    <lb/>faction.
+   </p><p><persName key="ichap1">Captain Chapin</persName> not being come, &amp; there being
+    <lb/>no appearance of the council coming on for several
+    <lb/>days we became seriously thoughtful of the rectitude
+    <lb/>of our waiting much longer on the occasion &amp; doubts
+    <lb/>accompanied our minds, whether the probability of
+    <lb/>ad-
+        <lb/><pb n ="68" facs="hv_js_diary_v1_1798_068"/>
+    <lb/>advantage to the Indians, by our stay would counter poise
+    <lb/>the expence &amp; inconvenience attending it, &amp; some hints of
+    <lb/>our thoughts of setting out tomorrow morning, being
+       <lb/>convey’d to <persName key="cornp2">Cornplanter</persName>, by his Son <persName key="abeel">Henry</persName>, he in com-
+    <lb/>pany with <persName key="wjohn1">Wm Jonston</persName> as interpreter, came into the
+    <lb/>apartment, where we were, &amp; addressed us to the follow-
+    <lb/>ing effect.
+   </p><p>Brothers
+    <lb/>The difficulties of travelling through the
+    <lb/>Wilderness, &amp; the tediousness of doing public busi-
+    <lb/>ness, you must be perfectly acquainted with, by your
+    <lb/>own experience, in your late Journey, in the good work
+    <lb/>you have now been engaged in, and I hope you will
+    <lb/>try to make your minds quiet &amp; easy to stay a few,
+    <lb/>days with us, till our council can come on; that if
+    <lb/>all things are right, so as to make our minds easy and
+    <lb/>satisfied, we should be gald you should know it, that
+    <lb/>you may tell it to your friends at home, &amp; if things
+    <lb/>are not right, &amp; we cant be satisfied, we want you
+    <lb/>to know it , so that you &amp; your friends may help to
+    <lb/>get them right, adding that when we should conclude
+    <lb/>to go he ished to say something to us, to carry in writing
+    <lb/>to <placeName key="conan">Canandarque</placeName>.
+    <lb/>We
+        <lb/><pb n ="69" facs="hv_js_diary_v1_1798_069"/>
+    <lb/>We felt in some degree the pertinence of this reason
+    <lb/>ing, but not being quite clear in our own minds what
+    <lb/>was best on the occasion, we concluded to take the
+    <lb/>subject closely under consideration till tomorrow
+    <lb/>morning, &amp; inform'd him so, adding that we would
+    <lb/>not go away without giving him notice, and an
+    <lb/>oppertunity of speaking to us in the way proposed.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-16">7th day 16th</date></dateline>
+    <p>This morning feeling our minds most easy
+    <lb/>to move forward towards <placeName key="conan">Conandarque</placeName>; we had a con-
+        <lb/>ference with <persName key="cornp2">Cornplanter</persName>, on the occasion observing to
+    <lb/>him, that this was the last day of the week, that
+    <lb/><persName key="ichap1">Cap Chapin</persName> &amp; others concerned were not yet come,
+    <lb/>that tomorrow was first day, on which the white
+    <lb/>people did not do business, that there was now no
+    <lb/>probability, that they would set out from Conondarque
+    <lb/>before second day, that they must be several days in
+    <lb/>coming, so that the Council could not come on for
+    <lb/>many days yet to come, that we had already been
+    <lb/>longer out than we expected when we left home, that
+    <lb/>we were anxious to get to our families, &amp; that we
+    <lb/>hoped he would give us up to set out this morning
+    <lb/>to which he observed, that he could not tell what
+    <lb/>reasons we might have for our anxiety about get
+    <lb/>in
+    <lb/><pb n ="70" facs="hv_js_diary_v1_1798_070"/>
+    <lb/>ing home, but he knew it must be very agreeable
+    <lb/>to us, as it also was to him, to be at home with our
+    <lb/>families, but he had sometimes left home with
+    <lb/>an expectation of returning in a few Weeks, &amp; had been
+    <lb/>obliged to stay a whole year, that he thought it his
+    <lb/>duty, in such cases to sacrifice his private inclina
+    <lb/>tion to the public good, and that he wished we could
+    <lb/>find it right to do so too, but at the same time giving
+    <lb/>us to understand, that if we could not make our
+    <lb/>minds easy to stay, that he would give us up with
+    <lb/>out thinking hard.
+   </p><p>We then inform’d him, that if we were certain of
+    <lb/>being of any use to them, we could chearfully submit
+    <lb/>to stay, even another week with them, but that we
+    <lb/>had enquired into the business, &amp; had reason to hope,
+    <lb/>that there was nothing intended but what was fair &amp; clear
+    <lb/>&amp; that we were afraid, we should be spending our time
+    <lb/>&amp; money without doing them any good, if we staid longer
+    <lb/>&amp; that we were therefore most easy to proceed on our
+    <lb/>journey. He then deliver’d a special message to
+    <lb/><persName key="ichap1">Capt Chapin</persName>, which we took down in writing rela-
+    <lb/>ting to some money he had advanced on account of
+       <lb/>two Indians, who had been tried for murder at <placeName key="pitts">Pitts-
+    <lb/>burgh</placeName>
+        <lb/><pb n ="71" facs="hv_js_diary_v1_1798_071"/>
+       <lb/>burgh We then delivered to <persName key="cornp2">Cornplanter</persName> 100 Dollars
+      <lb/>to carry to our young Men at <placeName key="genes1">Genisenguhta</placeName> &amp; look
+    <lb/>his rec’t therefore, as also a letter <del>for</del> to them, informing
+    <lb/>of our journey &amp; proceedings since we left them. Soon
+    <lb/>after which we took leave of Cornplanter &amp; several
+    <lb/>others of his village, and about 8 OClock set out for
+    <lb/><placeName key="conan">Conandarque</placeName>, rode this day at several Stages about,
+    <lb/>45 Miles &amp; encamped by a small Creek at the edge
+    <lb/>of a large plain where we turned our horses out, and
+    <lb/>kindled up several fires, which have been afflictively
+    <lb/>troublesome most of this day &amp; additionally so towards
+    <lb/>evening; but all our efforts were ineffectual the
+    <lb/>assaults of our little enemy were so incessant as to
+    <lb/>admit of very little rest this night.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-17">1st day 17th</date></dateline>
+    <p>Left this place between four &amp; five in
+    <lb/>the morning, proceeded on through a fat country,
+    <lb/>with wet &amp; boggy roads, &amp; innumerable swarms of
+    <lb/>Moschettoes for about 20 Miles, when we came in
+        <lb/>sight of an house, thence to <placeName key="genes2">Chenesee River</placeName>, about 10
+    <lb/>Miles - soon after we crossed this River we met with
+        <lb/><persName key="jparr2">Gasper Parrish</persName> the Indian Interpreter, on his way
+    <lb/>to <placeName key="buffa">Buffalo</placeName>; who inform’d that <persName key="ichap1">Capt Chapin</persName> had ac-
+        <lb/><pb n ="72" facs="hv_js_diary_v1_1798_072"/>
+    <lb/>accompanied <persName key="jelic1">Joseph Ellicot</persName> to <placeName key="willi">Williamsburgh</placeName>, that he
+    <lb/>had engaged to call on him at this place &amp; that he looked
+    <lb/>for him here this evening, or soon in the morning. It was
+    <lb/>therefore concluded best for one of us to stay here and wait
+    <lb/>his arrival, whilst the other proceeded a few Miles further
+    <lb/>to wait on some Men in the morning who had expressed
+    <lb/>an inclination of purchasing our mare. This evening
+       <lb/>wrote a letter to our friend at <placeName key="genes1">Genisenguhta</placeName>, informing
+    <lb/>of our present state, &amp; the improbability of our being able
+    <lb/>to send them a cow by the Indians as had been proposed.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-18">2nd day 18th</date></dateline>
+    <p>About 10 this morning <persName key="ichap1">Capt Chapin</persName> ar-
+    <lb/>rived; shortly after which obtain’d a conference with
+        <lb/>him delivered <persName key="cornp2">Cornplanters</persName> message, &amp; presented him
+    <lb/>with a brief narrative of our proceedings in the Indian
+    <lb/>country with which he expressed the fullest approbation
+    <lb/>and his good wishes for the success of the undertaking.
+    <lb/>He then enquired after our settlement at <placeName key="oneid">Oneida</placeName> and
+    <lb/>whether we would take that in our way home, adding
+    <lb/>that on his last visit to that place, he was much pleas-
+    <lb/>ed in observing the Improvement in that Nation
+    <lb/>particularly with regard to fencing &amp; c. &amp; that he saw
+    <lb/>numbers of the Men at work. He also informd that
+    <lb/>he had empowered <persName key="checkplace">Abraham Vanaps</persName> to build a Grist
+    <lb/>Mill for the <orgName key="oneida">Oneidas</orgName>, &amp; that he had rec’d a letter from
+    <lb/>him
+        <lb/><pb n ="73" facs="hv_js_diary_v1_1798_073"/>
+    <lb/>him stating that he had agreed with workmen to com-
+    <lb/>plete the <del>work</del> business.
+   </p><p>About 12 OClock took leave of <persName key="ichap1">Capt Chapin</persName> &amp;
+    <lb/>others present &amp; proceeded on, came up with my com-
+    <lb/>panion at a tavern 4 Miles forward, &amp; found our
+    <lb/>Mare not disposed of, here we dined, then proceeded on
+    <lb/>arrived at <persName key="jsmit1">Jacob Smiths</persName> in the neighbourhood of <placeName key="conan">Can
+    <lb/>andarque</placeName> in the evening where we lodged, &amp; were
+    <lb/>kindly entertain’d.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-19">3rd day 19th</date></dateline>
+    <p>Having now no business at <placeName key="conan">Canandarque</placeName>
+    <lb/>we concluded to leave it on our right, &amp; take a few
+    <lb/>friends, who lay nearly in our direction to <placeName key="oneid">Oneida</placeName>
+    <lb/>making short stages amongst them, for this day &amp;
+    <lb/>past of tomorrow, in order to obtain a little rest and
+    <lb/>refreshment for ourselves &amp; horses.
+   </p><p>About 8 OClock left our friend Jacob Smiths rode
+    <lb/>to <persName key="ncoms1">Nathan Cumstocks</persName> 6 ½ Miles, where we dined, in
+    <lb/>the afternoon rode to <persName key="alaph1">Abrm Laphams</persName> 2 Miles, where
+    <lb/>one of us staid the afternoon &amp; lodged, having some
+    <lb/>writing to do, the other paid a visit to some other
+    <lb/>friends in the neighbourhood, &amp; return’d next morning
+    </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-20">4 day 20th</date></dateline>
+    <p>This day sold our Mare, saddle &amp; bridle to
+    <lb/><persName key="alaph1">Abm Lapham</persName>, in the settlement of <placeName key="conan">Canandarque</placeName>
+    <lb/>for
+        <lb/><pb n ="74" facs="hv_js_diary_v1_1798_074"/>
+    <lb/>for one hundred &amp; sixteen Dollars &amp; sixty <del>five</del> six cents &amp; took
+    <lb/>his Note for the money, payable in one year with 6
+    <lb/>Cent Interest from date, at the same time agreeing
+    <lb/>with him, if if was most convenient to him, the Money
+    <lb/>might lay longer in his hands, he paying the Interest
+    <lb/>to our friends at <placeName key="oneid">Oneida</placeName>, where we propose leaving his
+    <lb/>note properly endorsed.
+   </p><p>About 1 OClock set out for Oneida travelled about
+    <lb/>22 Miles to <persName key="checkplace">J. Woodhulls</persName>, where we lodged.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-21">5th day 21st</date></dateline>
+    <p>Proceeded on about 13 Miles to <placeName key="cayug">Cayuga
+    <lb/>lake</placeName>, thence crossing the same we arrived at several
+    <lb/>stages, to the nine Mile Creek in <placeName key="onoco">Onandago Count<del>r</del>y</placeName>
+    <lb/>about 26 Miles. Here we lodged.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-22">6th day 22nd</date></dateline>
+    <p>Set out about five in the morning crossed
+    <lb/><placeName key="onocr">Onandago Creek</placeName> in about 9 Miles, thence to <placeName key="checkplace">Conescara-
+    <lb/>ga</placeName> 18 Miles, thence to <placeName key="oneic">Oneida Castle</placeName> 12 Miles, where
+    <lb/>we arrived about sunset, &amp; were gladly rec’d by our
+    <lb/>friends of this place.
+   </p><p>We soon found after our arrival at this place, that
+    <lb/>our friends here were under considerable discourage-
+    <lb/>ments in various respects. They have never been able
+    <lb/>to obtain a general council with the Indians since
+    <lb/>the arrival of <persName key="wgreg1">Wm Gregory</persName>, which is now about three
+    <lb/>weeks
+        <lb/><pb n ="75" facs="hv_js_diary_v1_1798_075"/>
+    <lb/>weeks; so that their letter of recommendation has not
+    <lb/>been yet read amongst them, excepting to a few In-
+    <lb/>dividuals, nor any way open’d for their being parti-
+    <lb/>cularly useful to these people, in the way contem-
+    <lb/>plated. Our friends also in the farming line, are
+    <lb/>not without close trials, &amp; exercises with regard to
+    <lb/>the state of their business, one of them having been
+    <lb/>sick most of this Spring, and no Indians having
+    <lb/>yet joined them to work in the way proposed by
+    <lb/>our Articles they have been obliged to hire this season
+    <lb/>to the Amo’r of 100 Dollars &amp; upwards, &amp; that often
+    <lb/>attended with disagreeable circumstances such as
+    <lb/>murmuring at their wages, &amp; coming to work in too
+    <lb/>great numbers, at a time, some days near 30 have
+    <lb/>offered &amp; been received.
+   </p><p>We also learn, the accounts are not yet settled,
+    <lb/>with the <orgName key="stockbridge">Stockbridge nation</orgName> with regard to our ad-
+    <lb/>vance towards their Mill, nor any of the Money
+    <lb/>received; and there is some cause to fear all things
+    <lb/>are not right between <persName key="haupa1">Cap. Hendrick</persName> &amp; his people
+    <lb/>concerning the Money he rec’d from Governm’t at <placeName key="phila">Philada</placeName>
+   </p><p>Our friends here were also persuaded that some ad-
+    <lb/>vantageous change might be made in the arrange
+    <lb/>ments
+        <lb/><pb n ="76" facs="hv_js_diary_v1_1798_076"/>
+    <lb/>ments, relative to the young Indians working with
+    <lb/>them on the farm, but were under doubts of the recti-
+    <lb/>tude of their adopting any thing new, without instruc-
+    <lb/>tions from the Committee on the occasion.
+   </p><p>We believed it best to spend some days in this place
+    <lb/>&amp; to feel &amp; sympathise with our friends under their va
+    <lb/>rious trials, and notwithstanding we had no powers
+    <lb/>from our friends at home, relative to things here, we
+    <lb/>believed the urgency of the occasion would justify us
+    <lb/>in joining with them in a serious consideration of
+    <lb/>what might be profitably proposed to the <orgName key="oneida">Oneidas</orgName>
+    <lb/>on the subject of their young Men working on the
+    <lb/>Farm with our Friends, as well as the necessary arrange-
+    <lb/>ments relative to <persName key="wgreg1">Wm Gregories</persName> prospect as a Smith
+    <lb/>together with our concerns at <placeName key="stock">Stockbridge</placeName>.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-23">7th day 23rd</date></dateline>
+    <p>This day set out for <placeName key="stock">Stockbridge</placeName> in com-
+    <lb/>pany with <persName key="jtayl1">Jacob Taylor</persName> called in at many of their
+    <lb/>houses, &amp; paid short visits, with which they mani-
+    <lb/>fested great satisfaction &amp; pleasure as most of them know
+    <lb/>one of us, who had before spent several Weeks in that
+    <lb/>place: we visited <persName key="jquin2">John Quiney</persName> in his school which
+    <lb/>was conducted with becoming solidity and order, went
+    <lb/>to see their Mills, which appear well constructed, and
+    <lb/>ca
+        <lb/><pb n ="77" facs="hv_js_diary_v1_1798_077"/>
+    <lb/>capable of doing a good deal of work<del>s</del>; we also paid a
+    <lb/>visit to <persName key="jserg2">John Sergent</persName>, their Treasurer presented our
+    <lb/>bill of advance toward their Mill, &amp; were informed
+    <lb/>there was not Money enough in his hands to settle it.
+    <lb/>we also discover’d that he had indulged hopes, notwith-
+    <lb/>standing the clearness of our articles, of retaining a
+    <lb/>considerable part of what was in his <del>own</del> hands, for
+    <lb/>some other appropriations to him more desirable.
+    <lb/>We gave him to understand that when we entered into
+    <lb/>articles, we always expected to fulfil them on our parts
+    <lb/>&amp; we wished others to do so by us, adding, that our design
+    <lb/>was to assist &amp; encourage them in getting a Mill,
+    <lb/>which we had effected &amp; if government had advanced
+    <lb/>nothing towards it, we should not have been hard
+    <lb/>with them, about their deficiency in fulfilling their
+    <lb/>part of the Agreement, but as Government had now
+    <lb/>advanced so considerable a Sum, we were most easy
+    <lb/>to receive our own, agreeable to the Article, &amp; ap-
+    <lb/>propriate it to those of their Brethren, who appear’d
+    <lb/>more necessitous, He readily acknowledged the just-
+    <lb/>ness of this conclusion &amp; promised to attend at <placeName key="oneid">Oneida</placeName>
+    <lb/>on third day next, in company with such of the
+    <lb/><orgName key="stockbridge">Stockbridge</orgName> chiefs &amp; others as were concerned in this
+    <lb/>bu-
+        <lb/><pb n ="78" facs="hv_js_diary_v1_1798_078"/>
+    <lb/>business, in order to have it settled.
+   </p><p>After this conference we went to <persName key="haupa1">Capt Hendricks</persName>
+    <lb/>where we dined, his wife <persName key="lhend1">Lydia</persName> being much rejoiced to
+    <lb/>see us, she having undergone some heavy &amp; piercing
+    <lb/>trials these some weeks past.
+   </p><p>We now drew a Bond, &amp; had it executed by
+    <lb/>Capt Hendrick for 100 Dollars agreeably to the
+       <lb/>instructions in Henry Drinkers letter to <persName key="jtayl1">Jacob Taylor</persName>
+    <lb/>&amp; placed the same to the credit of their Acco’.
+   </p><p>In the evening had an opportunity with most
+    <lb/>of the principal Men &amp; Women of this tribe at the
+    <lb/>House of <persName key="jquin2">John Quiny</persName> in which we were favour’d with
+    <lb/>some encouraging communications to a number of tried
+    <lb/>individuals as well as some affectionate &amp; close reasoning
+    <lb/>with some of their leading Men on the serious import-
+    <lb/>ance of their setting a good example to the rest of their
+    <lb/>people not only in the mere exteriors of civilization,
+    <lb/>such as farming &amp; c. but in the more interesting, that
+    <lb/>of a moral &amp; good life, the necessity of a renewed dili-
+    <lb/>gence &amp; watchfulness herein some recent Instances
+    <lb/>but too sorrowfully evince. At the close of this
+    <lb/>opportunity both Men &amp; Women expressed their
+    <lb/>sat-
+        <lb/><pb n ="79" facs="hv_js_diary_v1_1798_079"/>
+    <lb/>satisfaction with what had been said &amp; their desires to
+    <lb/>improve by it, the women particularly observing
+    <lb/>that they now felt their minds encouraged as it were
+    <lb/>to begin anew in the good work of Religion. We
+    <lb/>returned to <persName key="haupa1">Capt Hendrick</persName>s to lodge.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-24">1st day 24th</date></dateline>
+    <p>After breakfast returned to our friends
+    <lb/>at <placeName key="oneid">Oneida</placeName> sat with them in their meeting in the
+    <lb/>afternoon <del>we</del> were visited by <persName key="checkplace">Schonodore</persName>, who informed
+    <lb/>they were a going to get back tomorrow morning
+    <lb/>to cover the Smiths Shop &amp; that they would meet us
+    <lb/>in council in the afternoon.
+   </p><p>This day wrote to our friends at <placeName key="alleg1">Allegany</placeName>
+    <lb/>informing of our present situation, &amp; of the present
+    <lb/>welfare of our friends here, which we forwarded to <placeName key="buffa">Buffa-
+    <lb/>lo</placeName> by an Indian from <placeName key="grand">Grand River</placeName>.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-25">2 day 25th</date></dateline>
+    <p>The forepart of this day was employ’d in pre-
+    <lb/>paring some propositions &amp; arranging our business
+    <lb/>for the council in the afternoon.
+   </p><p>About 4 OClock most of the Chiefs &amp; a few of
+    <lb/>their people came together, &amp; being seated, they ob-
+    <lb/>served they were now got together &amp; were ready to hear
+    <lb/>what we had to say to them, at the same time appo-
+    <lb/>logizing for the smallness of their Council by
+    <lb/>in
+        <lb/><pb n ="80" facs="hv_js_diary_v1_1798_080"/>
+    <lb/>informing that many of their people were gone out a
+    <lb/>fishing &amp; c.
+   </p><p>We opened the business by letting them know, that
+    <lb/>we were very sorry to find that our friends who came last
+    <lb/>had been more than three Weeks among them &amp; during
+    <lb/>all that time had never been able to get them together,
+    <lb/>or to form any arrangements, or get any thing done
+    <lb/>respecting the business which our friend <persName key="wgreg1">Wm Gregory</persName>
+    <lb/>was particularly desirous of being assistant to them in
+    <lb/>We next proceeded to read our s’d friends letter of recom-
+    <lb/>mendation, which was explained to them by <persName key="ncusi1">Nicholas
+    <lb/>Schusick</persName> our present interpreter.
+   </p><p>We then read the following propositions which
+    <lb/>had this morning been agreed upon &amp; signed by all
+    <lb/>our number viz’t.
+   </p>
+    <floatingText type="speech">
+     <body>
+    <p>Brothers of the <orgName key="oneida">Oneida Nation</orgName>
+    <lb/>You have now heard in the letter which has
+    <lb/>been read to you that our friend <persName key="wgreg1">Wm Gregory</persName> is come
+    <lb/>amongst you in order to assist and instruct some of your young
+    <lb/>Men in the useful trade of a Smith, he wants no pay
+    <lb/>from you, nor from Government for his trouble, but
+    <lb/>wishes you to provide a shop &amp; some coal for the
+    <lb/>purpose (<persName key="ichap1">Cap. Chapin</persName> having offered to find Iron as
+    <lb/>usual) &amp; that two of your young Men who want to
+    <lb/>learn
+        <lb/><pb n ="81" facs="hv_js_diary_v1_1798_081"/>
+    <lb/>learn the trade should steadily attend at the Shop to
+    <lb/>do such Smith work as you may want done, &amp; he
+    <lb/>will attend with them &amp; assist them, and shew them
+    <lb/>how to do it, &amp; in order to encourage these young men
+    <lb/>to stick steadily to the work, so as to do all the Smithing
+    <lb/>you want done, &amp; to learn the Trade well before our
+    <lb/>friend wants to go back again to his own people, we
+    <lb/>think you might allow them such part of the money
+    <lb/>Government used to give to your blacksmith, as will
+    <lb/>enable them to buy themselves victuals and clothes
+    <lb/>while they are learning the trade &amp; doing your work.
+   </p><p>Brothers,
+    <lb/>We hope you will get things ready soon, &amp;
+    <lb/>that your young Men will begin soon in this busi-
+    <lb/>ness for our friend dont want to stay a great while
+    <lb/>here only just long enough to learn some of your
+    <lb/>young Men this good trade.
+   </p><p>Brothers
+    <lb/>You remember that two years ago, we pro-
+    <lb/>posed to you, that some of your young Men should
+    <lb/>work on the farm with our friends as apprentices in
+    <lb/>order to learn them how to farm the ground like the
+    <lb/>white people, so that they might raise a great deal
+    <lb/>of
+        <lb/><pb n ="82" facs="hv_js_diary_v1_1798_082"/>
+    <lb/>of grain &amp; grass &amp; c. off of your good land Now brothers
+    <lb/>you know, two years are gone &amp; none of your young
+    <lb/>Men are come forward to work with our friends as we
+    <lb/>proposed &amp; we understand your young Men say they
+    <lb/>cant get victuals to stick steadily to their Work and
+    <lb/>therefore they cant do as we proposed, we will now make
+    <lb/>you another offer.
+   </p><p>Brothers,
+    <lb/>If three or four of your sober young Men
+    <lb/>above the age of 16 years, will come &amp; work with our
+    <lb/>friends on the farm, &amp; stay with them six Months, we
+    <lb/>will agree to board &amp; lodge them, they must stick stea
+    <lb/>dily to work five days in a Week, the other day they
+    <lb/>may have to themselves to go &amp; see their friends &amp; c.
+    <lb/>they must be sober, &amp; mind what our friends say to
+    <lb/>them, &amp; do the work as our friends tell them it should
+    <lb/>be done, &amp;  not go off &amp; quit their work without speak-
+    <lb/>ing to our friends about it, &amp; knowing whether they
+    <lb/>are willing; &amp; they must not go out at night a frolicking
+    <lb/>but stay about home, so as to be ready to go to bed, at our
+    <lb/>friends common bed time. And if these young Men
+    <lb/>stay the six Months out, &amp; behave well in the manner
+    <lb/>before mention’d then our friends will give each of them
+    <lb/>stuff for one cloth coat, 2 Shirts one pair cloth leggons
+    <lb/>five
+        <lb/><pb n ="83" facs="hv_js_diary_v1_1798_083"/>
+    <lb/>five Bushels of Wheat, 10 bushels of Indian corn and
+    <lb/>10 Bushels of Potatoes; and if they will the go to farm-
+    <lb/>ing for themselves &amp; their Chiefs will let them have
+    <lb/>separate Lots of ground to fence off for that purpose
+    <lb/>then our friends will lend each of them a plough with
+    <lb/>Irons all complete, for one year &amp; by that time they
+    <lb/>may be able to get some for themselves &amp; then these
+    <lb/>must be return’d, so that other young beginners may
+    <lb/>have them.
+   </p><p>Brothers,
+    <lb/>We shall give a copy of these pro-
+    <lb/>positions in writing signed with our names, to
+    <lb/>your chiefs, &amp; another copy will be left with our
+    <lb/>friends here, &amp; if any of your young Men agree
+    <lb/>to begin to work with our friends as we propose
+    <lb/>they may set their names to these writings, so that
+    <lb/>both sides may understand every thing plain &amp; clear
+    <lb/>&amp; have it all in writing to keep our memories bright.
+    </p>
+    <closer><date when="1798-06-25">6mo 25 1798</date>
+       <signed><persName key="jshar1">Joshua Sharpless</persName>
+    <lb/><persName key="jpier1">John Peirce</persName>
+    <lb/><persName key="wgreg1">Wm Gregory</persName>
+    <lb/><persName key="jtayl1">Jacob Taylor</persName>
+    <lb/><persName key="jthom2">Jonathan Thomas</persName></signed></closer>
+   </body>
+  </floatingText>
+    <p>After
+        <lb/><pb n ="84" facs="hv_js_diary_v1_1798_084"/>
+    <lb/>After reading these propositions we let them know in
+    <lb/>very plain terms that we were sensibly affected with
+    <lb/>the manifest coldness &amp; inattention which had latterly
+    <lb/>appeared amongst them towards our friends; the un-
+    <lb/>grateful whisperings &amp; surmises that they had given
+    <lb/>way to, relative to our having a design to take away their land
+    <lb/>from them, reminding them of the various steps we had
+    <lb/>taken amongst them from the beginning, the great
+    <lb/>expence we were at in maintaining our freinds here
+    <lb/>amongst them, the improvements we were making on
+    <lb/>their lands, which they saw with their own eyes, the
+    <lb/>wheat &amp; the clover that they saw growing where there
+    <lb/>used to be none, the Barn that was built, &amp; the house
+    <lb/>that was on its way, that all these things could not
+    <lb/>be done without a great deal of Money; that we had
+    <lb/>never asked them for any nor never should that we
+    <lb/>had never asked them for any of their land, nor would
+    <lb/>we take it <del>from</del> of them if they would offer it to us, that
+    <lb/>we had told them before &amp; would now tell them again
+    <lb/>that when ever they were tired of us, &amp; wished us away
+    <lb/>only tell us so, and we would leave both their land
+    <lb/>&amp; their Country, that we had no inducement to stay
+    <lb/>here amongst them spending both our time &amp; money
+    <lb/>but purely for their good.
+    <lb/>Shortly
+        <lb/><pb n ="85" facs="hv_js_diary_v1_1798_085"/>
+    <lb/>Shortly after these observations they addressed us
+    <lb/>to the following effect.
+   </p>
+ <floatingText type="speech">
+   <body>
+    <p>Brothers,
+    <lb/>We will say a few words to you about the
+    <lb/>Blacksmith, which is come from <placeName key="phila">Philada</placeName> to in-
+    <lb/>struct us in the trade, You know we dont govern
+    <lb/>our young Men If they arnt willing to come, we
+    <lb/>cant force them, but we want to know how he in-
+    <lb/>tends to work; whether for the Indians in common
+    <lb/>or whether he will do so much a day, &amp; give it into
+    <lb/>the hands of the Chiefs to be divided amongst the
+    <lb/>people, adding that if he worked for the indians
+    <lb/>in general; it would be too hard for him for they
+    <lb/>would be always plaguing him.
+   </p>
+      </body>
+    </floatingText>
+    <p>To this we replied, That the design of our friend
+    <lb/>in coming here was to instruct their young Men
+    <lb/>&amp; shew them how to do their work &amp; not to do it all
+    <lb/>himself, and tho’ we did not wish them to force
+    <lb/>their young Men yet if they could not be prevail’d
+    <lb/>upon to come forward in the way proposed, our
+    <lb/>friends prospect would not be answer’d and he
+    <lb/>would therefore be likely to make but a short
+    <lb/>stay with them, but as to the manner of working
+    <lb/>our
+        <lb/><pb n ="86" facs="hv_js_diary_v1_1798_086"/>
+    <lb/>our friend would leave that to the Chiefs.
+   </p><p>Their speaker then proceeded as follows.
+   </p>
+    <floatingText type="speech">
+     <body>
+   <p>Brothers,
+    <lb/>We are very glad to hear again the same
+    <lb/>words, which you said to us two years ago, &amp; we are
+    <lb/>now of the same mind we were then; we remember
+    <lb/>your words, &amp; we believe you are a true people. We
+    <lb/>have heard our fathers tell that the Quakers were always
+    <lb/>friends to the Indians &amp; what they told us when we
+    <lb/>were boys, we find to be true now we are old Men.
+   </p><p>Brothers,
+    <lb/>We are very glad &amp; happy to hear that your
+    <lb/>minds continue the same towards us about learning
+    <lb/>to farm: we believe it would be good for us &amp; we will
+    <lb/>try to do what you propose.
+   </p><p>Brothers
+    <lb/>Now it is very true there are some bad
+    <lb/>people, who have spoke against you that you
+    <lb/>had a mind to take away our Land; &amp; sometimes
+    <lb/>when our Minds were not right, we believe such talk,
+    <lb/>&amp; this made our minds feel very ugly, but now
+    <lb/>we are con<del>cerned</del>vinced &amp; sorry we believed such things
+    <lb/>&amp; we are fully satisfied that you are true people &amp;
+    <lb/>we will continue to be of this mind.
+    <lb/>Bro
+        <lb/><pb n ="87" facs="hv_js_diary_v1_1798_087"/>
+   </p><p>Brothers,
+    <lb/>We always attend to what you said from
+    <lb/>the beginning, we know you want us to cultivate
+    <lb/>the ground, so that we may live comfortably, and
+    <lb/>our wishes &amp; desires are to do what you say as far as
+    <lb/>we are able, &amp; to learn the farming business, We
+    <lb/>the Chiefs are determined to do all that we are
+    <lb/>able, but if we dont do all that you would wish,
+    <lb/>we hope you wont get discouraged; but continue
+    <lb/>to do what ever is in your minds &amp; if we dont im-
+    <lb/>prove, then the fault will be our own we cant
+    <lb/>blame you.
+   </p><p>Brothers,
+    <lb/>We will do all that we can about the Black
+    <lb/>Smith, &amp; about the farming; we cant force our
+    <lb/>young Men; but we will try all round, all of us
+    <lb/>will try to get some young Men to learn this trade
+    <lb/>&amp; to learn farming.
+   </p><p>Brothers,
+    <lb/>Now we thank you for the pains you
+    <lb/>have taken for poor Indians, &amp; we will have council
+    <lb/>amongst ourselves tomorrow, after we have tried
+    <lb/>what
+        <lb/><pb n ="88" facs="hv_js_diary_v1_1798_088"/>
+    <lb/>what we can do, &amp; then we will speak to you again
+    <lb/>about it.
+   </p><p>Brothers,
+    <lb/>This is all we got to say at present.
+    </p> </body>
+  </floatingText>
+    <p>We expressed our satisfaction with what they
+    <lb/>had said, &amp; the council concluded.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-26">3rd day 26th</date></dateline>
+    <p>Agreeably to the conclusions of 7th day last
+    <lb/><persName key="jserg2">John Sergent</persName>, in company with <persName key="jquin2">John Quiny</persName> &amp; <persName key="checkplace">Solomon</persName>
+    <lb/>came this day to <placeName key="oneid">Oneida</placeName> in order to settle the accounts
+    <lb/>respecting the Mill. The several Sums advanced by
+    <lb/>our committee towards this Mill amounted /exclu-
+    <lb/>sive of the 100 Dollars lent to <persName key="haupa1">Capt Hendricks</persName> for the use
+    <lb/>of his nation about 3 years ago/ to 559 Dollars 47 Cents
+    <lb/>against which was credited the 100 Dollars now lent
+    <lb/>to Capt Hendrick, &amp; their treasurer informs that only
+    <lb/>370 Dollars, of the 1000 rec’d by Capt Hendrick had
+    <lb/>come into his hands; 52 of which he had laid out, but
+    <lb/>was willing to give his own private Note, payable or
+    <lb/>on demand, to <persName key="jtayl1">Jacob Taylor</persName> for that sum; which was
+    <lb/>agreed to, &amp; a Note drawn &amp; executed accordingly. He
+    <lb/>then paid in money on behalf of the nation 318 Dollars
+    <lb/>&amp; took a receipt from Jacob Taylor, for the 370 he had
+    <lb/>been entrusted with.
+    <lb/>There
+        <lb/><pb n ="89" facs="hv_js_diary_v1_1798_089"/>
+    <lb/>There now remained a balance of 89 Dolrs 47 Cents
+    <lb/>/exclusive of <persName key="haupa1">Capt Hendricks</persName> two bonds for 100 Dollars
+    <lb/>each/ due to our Committee, for which we proposed
+    <lb/>their giving a draft on <persName key="hdrin1">Henry Drinker</persName> payable to
+    <lb/><persName key="jelli1">John Elliot</persName> our Treasurer, out of the first Money
+    <lb/>which should come into his hands for the use of their
+    <lb/>nation; which being agreed to, and the form of an
+    <lb/>order drawn, <persName key="checkplace">Solomon</persName> agreed to take it to <placeName key="stock">Stockbridge</placeName>
+    <lb/>get it sign’d by their chiefs &amp; return it to us at <placeName key="oneid">Oneida</placeName>
+    <lb/>tomorrow morning.
+   </p><p>It may be proper to Note here that there appears
+    <lb/>reason to fear the 100 Dollars lent to Capt Hendrick
+    <lb/>as an assistance in building his House, together
+    <lb/>with about 20 more of the nations money, was ex-
+    <lb/>pended before he got home; the remainder of 630
+    <lb/>Dollars not paid into the hands of the Treasurer,
+    <lb/>is said to have been divided amongst the Nation.
+   </p><p>This <del>morning</del> day delivered to <persName key="jtayl1">Jacob Taylor</persName> <persName key="alaph1">Abraham
+    <lb/>Lapham’s</persName> note &amp; took his rec’t for the same.
+   </p><p>About 5 OClock this evening the <orgName key="oneida">Oneida</orgName> Chiefs
+    <lb/>&amp; a number of their people again assembled in
+    <lb/>council, &amp; after spending more than an hour in
+    <lb/>con-
+        <lb/><pb n ="90" facs="hv_js_diary_v1_1798_090"/>
+    <lb/>conference amongst themselves, they spoke to us to
+    <lb/>the following effect.
+   </p>
+    <floatingText type="speech">
+       <body><p>Brothers,
+    <lb/>You have heard what we said to you
+    <lb/>yesterday, and what is still on our minds: we are very
+    <lb/>glad you have taken such pains to come so far to
+    <lb/>help poor Indians &amp; we will try to fulfil all you
+    <lb/>desire of us.
+   </p><p>Brothers,
+    <lb/>We have been trying amongst ourselves
+    <lb/>to do as you proposed to us yesterday, &amp; we find one
+    <lb/>Man that is willing to learn the Black Smith Trade,
+    <lb/>and we find one young lad, that will come out of his
+    <lb/>own mind, to learn farming; he heard what you said
+    <lb/>yesterday in council, and he spoke to his parents, &amp;
+    <lb/>tell them he wants to go &amp; learn farming &amp; do as you
+    <lb/>say, and his parents are willing, &amp; he will come di-
+    <lb/>rectly.
+   </p><p>Brothers,
+    <lb/>Now you must not think hard of us,
+    <lb/>because we ha’nt got so many young Men as you
+    <lb/>proposed; we have tried to get more, but most all
+    <lb/>our people from the other end of the town are gone
+    <lb/>outa fishing When they come home, we think we
+    <lb/>shall
+        <lb/><pb n ="91" facs="hv_js_diary_v1_1798_091"/>
+    <lb/>shall get more, and we will do the best we can.
+   </p><p>Brothers,
+    <lb/>You mentioned about a Blacksmiths Shop,
+    <lb/>and about coal, now we intend to go at the Shop
+    <lb/>early tomorrow morning we have got the bark ready
+    <lb/>to cover it, &amp; we shall have it done tomorrow, and
+    <lb/>some will go to drawing wood for the coal.
+   </p><p>Brothers,
+    <lb/>This is all we got to say,
+   </p>
+     </body>
+ </floatingText>
+    <p>We expressed our satisfaction with what they had
+    <lb/>said, &amp; let them know that we were very glad to see
+    <lb/>their chiefs of the same mind with us in this business
+    <lb/>&amp; we were in hopes they would continue to be of
+    <lb/>this mind.
+   </p><p>We closed with renewedly reminding them of
+    <lb/>the obligations they were under to our friends, who
+    <lb/>remain here; who have left all their near friends
+    <lb/>&amp; connections to come &amp; live amongst them, purely
+    <lb/>from a desire to do them good; &amp; earnestly entreating
+    <lb/>them to keep this fresh in their minds &amp; then we
+    <lb/>were certain they would be attentive &amp; kind to them
+    <lb/>at all times.
+   </p>
+ </div> <div type="entry">
+    <dateline><date when="1798-06-27">4th day 27th</date></dateline>
+    <p>This morning near 20 of the <orgName key="oneida">Oneidas</orgName>
+    <lb/>amongst
+        <lb/><pb n ="92" facs="hv_js_diary_v1_1798_092"/>
+    <lb/>amongst whom were 4 or 5 of their principle Chiefs
+    <lb/>got early to work at the Smiths Shop &amp; some to haul-
+    <lb/>ing of of wood &amp; choping for Coal; that before noon
+    <lb/>they had a pretty commodious Shop covered in &amp;
+    <lb/>ready for building the fire place, &amp; a considerable
+    <lb/>quantity of wood hauled, &amp; ready for the pit, the
+    <lb/>Lad also that proposed engaging in farming, en-
+    <lb/>tered into work with our friends this morning: that
+    <lb/>things now wear a more encouraging appearance
+    <lb/>&amp; <del>now</del> our friends sensibly feel it to their relief and
+    <lb/>encouragement.
+   </p><p>About 11 OClock <persName key="checkplace">Solomon</persName> arrived from <placeName key="stock">Stockbridge</placeName>
+    <lb/>with the order in <persName key="hdrin1">Henry Drinker</persName> for 89 D, 47 Cents
+    <lb/>signed by fire of their Chiefs, with which we bal-
+    <lb/>anced our Acco’t respecting the Mile &amp; made out
+    <lb/>a regular statem’t thereof, leaving the original
+    <lb/>to be deliver’d to <persName key="jserg2">John Sergent</persName>, &amp; taking a copy
+    <lb/>to be laid before our Committee.
+   </p><p>About one OClock took an affectionate leave
+    <lb/>of our friends here, &amp; set out homewards where we
+    <lb/>arrived 7th mo, the 8th in the evening &amp; found
+    <lb/>our families well.
+      </p>
+  </div>
+      </body>
+  </text>
+</TEI>

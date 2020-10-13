@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Some Account of my Journey Among the Seneca</title>
+                <title type="sub">Encoded Edition</title>
+                <author>Jackson, Halliday, 1771-1835</author>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name>Yuchao Wang</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding edited by</resp>
+                    <name>Emily Thaisrivongs</name>
+                </respStmt>
+                <funder>Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections</funder>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Quaker &amp; Special Collections, Haverford College</publisher>
+                <pubPlace>Haverford, PA</pubPlace>
+                <date when="2017">2017</date>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</licence></availability>
+                <idno type="local">hv_hj_some_account_1798</idno>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region type="state">PA</region>
+                        <settlement>Haverford</settlement>
+                        <repository>Quaker &amp; Special Collections, Haverford College</repository>
+                        <collection>Halliday Jackson papers, 1799-1808</collection>
+                        <idno>MC.950.101, Box 21, Folder 2</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>12 pages</p>
+                    </physDesc>
+                </msDesc>
+                <bibl>Some Account of my Journey Among the Seneca, 1798, Halliday Jackson papers (HC.MC.950.101), Box 21, Folder 2, Quaker &amp; Special Collections, Haverford College, Haverford, PA.</bibl>
+                <bibl>This text was digitized by Yuchao Wang in 2017 with funding from the Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections.</bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was transcribed and encoded for use in Beyond Penn's Treaty: Quakers and American Indian Relations <ptr target="https://pennstreaty.haverford.edu/"/>, a digital project that provides access to linked and annotated versions of Quaker diaries, letters, and meeting records which record contact with American Indians, particularly the Seneca, beginning in the 1740s. These documents, held in Quaker &amp; Special Collections at Haverford College and Friends Historical Library at Swarthmore College, are all from the Quaker perspective, and document their view of this unfolding relationship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Grammar, punctuation, spelling have been preserved. Line breaks, paragraph breaks, and page breaks have been preserved. Hyphens have been preserved and normalized to one dash "-". Words or phrases that the encoder could not interpret have been tagged with the "unclear" element. If there was more than one reference to the same entity (person, group, place) in one paragraph, only the first occurrence was encoded unless the paragraph spanned more than one page. If the paragraph spanned more than one page, the entity was encoded at least once per page.</p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <creation>
+                <origDate when="1798">1798</origDate>
+            </creation>
+        </profileDesc>
+
+        <revisionDesc>
+            <change></change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="preface">
+                <pb n="1" facs="hv_hj_some_account_1798_001"/>
+                <head>Some Account of
+                    <lb/>my Journey among the
+                    <lb/><orgName key="seneca">Senea</orgName>Nation of Indians in
+                    <lb/>company with <persName key="jshar1">Joshua Sharpless</persName>
+                    <lb/><persName key="jpier1">John Peirce</persName> <persName key="hsimm1">Henry Simmons</persName>
+                    <lb/>and <persName key="jswai1">Joel Swayne</persName>. 1798.
+                    <lb/>
+                </head>
+            </div>
+
+            <div type="entry">
+                <dateline><date when="1798-04-29"/></dateline>
+                <p>I left my native home and
+                    <lb/>near connections on First day after
+                    <lb/>noon the 29th of the 4th mo. 1798,
+                    <lb/>which was a close trial both to them
+                    <lb/>and myself, but I was enabled to
+                    <lb/>bear it with a degree of fortitude
+                    <lb/>beyond my expectation. Calling to
+                    <lb/>bid several of my relations farewell
+                    <lb/>I got but a few miles that evening,
+                    <lb/>nex morning proceeded on my way
+                    <lb/><pb n="2" facs="hv_hj_some_account_1798_002"/>
+                    met with <persName key="jswai1">Joel Swayne</persName>, din’d at
+                    <lb/><persName key="checkplace">John Moores</persName> in <placeName key="checkplace">Sadsburry</placeName> and pas'd
+                    <lb/>on to <persName key="agibb1">Abram Gibbons's</persName> where by
+                    <lb/>appointment we were to meet the
+                    <lb/>rest of our company. Lodg’d here
+                    <lb/>this night and was much entertain’d
+                    <lb/>in conversation by our kind friend
+                    <lb/>which had some tendency to free
+                    <lb/>my mind from that
+                    <lb/>depression the parting with my
+                    <lb/>Dear relations had in some measure
+                    <lb/>produced.
+                </p>
+            </div>
+
+            <div type="entry">
+                <dateline><date when="1798-05-01">1st of the 5th mo.</date></dateline>
+                <p>A fine pleasant
+                    <lb/>morning and vegetation makeing
+                    <lb/>a rapid progress. About ten
+                    <lb/>O'clock the rest of our company
+                    <lb/>came forward dind here and pas'd
+                    <lb/>on thro’ <placeName key="lanca">Lancaster</placeName> to <placeName key="checkplace">Wrights ferry</placeName>,
+                    <lb/>and put our Horses to a Tavern
+                    <lb/><pb n="3" facs="hv_hj_some_account_1798_003"/>
+                    where we propos'd Lodging but
+                    <lb/>was kindly invited by our friend <persName key="checkplace">Wm
+                    <lb/>Wright</persName> to his house where we remained
+                    <lb/>that night. 50 miles from my home.
+                </p>
+            </div>
+
+            <div type="entry">
+                <dateline><date when="1798-05-02">2nd of the mo.</date></dateline>
+                <p>The morning very wet
+                    <lb/>but our business not admitting of much
+                    <lb/>delay we took breakfast and was ferry’d
+                    <lb/>over the <placeName key="susqu">Susquehannah River</placeName> in two
+                    <lb/>flatts about 8 O’clock for 6 penc a
+                    <lb/>man and horse: The ferrage being so
+                    <lb/>low was occasioned by a new ferry being
+                    <lb/>open’d and the two parties striveing
+                    <lb/>which would gain the most custom.
+                </p>
+                <p>Proceeded on to little <placeName key="yorkt">York</placeName> through
+                    <lb/>a beautiful Fertile Country yet the
+                    <lb/>Wheatfields As well as thro <placeName key="lanca">Lancaster
+                    <lb/>County</placeName>, afforded but a very disease
+                    <lb/>rageing prospect, being much injur’d
+                    <lb/>by the Hessian Fly. The Town of
+                    <lb/><pb n="4" facs="hv_hj_some_account_1798_004"/>
+                    York consists of about 500 houses,
+                    <lb/>is beautifully situated and a large
+                    <lb/>stream of water call’d <placeName key="codor">Cadorous</placeName> running
+                    <lb/>thro’ it over which a commodious
+                    <lb/>bridge is built; &amp; being surrounded
+                    <lb/>with Fertile Fields and Blooming
+                    <lb/>Orchards, expanding the beauties of
+                    <lb/>Spring, render’d the Landscape still more
+                    <lb/>delightful. We din’d here and I meeting
+                    <lb/>with <persName key="wkirk1">Wm Kirk</persName> (a young man with whom
+                    <lb/>I was acquainted) he kindly offerd to
+                    <lb/>pilot up to <placeName key="checkplace">Huntington</placeName> that afternoon,
+                    <lb/>where company was very acceptable
+                    <lb/>and I had some apprehensions that
+                    <lb/>he wanted some day have to go on the
+                    <lb/>same business that I was going upon.
+                </p>
+                <p>We pass’d thro’ a little village of about
+                    <lb/>20 houses 4 miles from <placeName key="yorkt">Y.</placeName> cal’d <placeName key="wrigt">Wight
+                    <lb/>Town</placeName>, over several Branches of the
+                    <lb/>18 <placeName key="concr">Conewaga</placeName>, and ariv’d at <persName key="jgarr1">Jno Garrisons</persName>
+                    <lb/>in the evening where myself <persName key="jshar1">J.S</persName>. &amp;
+                    <lb/><pb n="5" facs="hv_hj_some_account_1798_005"/>
+                    <persName key="wkirk1">Wm Kirk</persName> lodg’d haveing come
+                    <lb/>30 miles this day: the others went on
+                    <lb/>to <persName key="iever1">Isaac Evereds</persName> two or three miles
+                    <lb/>further. Here I was much entertain’d
+                    <lb/>with that Michanical &amp; Philosophi-
+                    <lb/>cal genius, young <persName key="checkplace">Isaac Garrison</persName>, who
+                    <lb/>bid fair to be iminent in the literary
+                    <lb/>world. He had constructed a Wooden
+                    <lb/>Clock which he said kept time exceed
+                    <lb/>ing well, on the face of which was
+                    <lb/>a representation of the earth, the
+                    <lb/>Sun &amp; whole Solar System, turn’d by
+                    <lb/>the Clock, and performing their
+                    <lb/>revolutions in regular order.
+                </p>
+            </div>
+
+            <div type="entry">
+                <dateline><date when="1798-05-03">3rd</date></dateline>
+                <p>The morning being pleasant
+                    <lb/>we set out early &amp; met the rest
+                    <lb/>of our company at <persName key="iever1">Isaac Evereds</persName>
+                    <lb/>thence proceeded on over the Ridge
+                    <lb/>generally call’d the <placeName key="checkplace">south Mountain</placeName>
+                    <lb/>Mostly cover’d with pitch Pine. Just
+                    <lb/>by <placeName key="checkplace">Holley Furnace</placeName> on a Stream
+                    <lb/><pb n="6" facs="hv_hj_some_account_1798_006"/>
+                    call’d <placeName key="checkplace">Mountain Creek</placeName> which came
+                    <lb/>down on the North Side; where they
+                    <lb/>told us there was plenty of good Iron
+                    <lb/>Ore. Cross’d another Stream call’d
+                    <lb/><placeName key="yello">Yellow breeches</placeName>, Stopt at the sign
+                    <lb/>of the Black Horse, thence on to
+                    <lb/><placeName key="shipp">Shippensburgh</placeName> where we din’d. This
+                    <lb/>is a little Village containing about
+                    <lb/>250 houses scattered along the road
+                    <lb/>for about half a mile the inhabi-
+                    <lb/>tants mostly Dutch. A smart stream
+                    <lb/>of Water runs thro’ this Village
+                    <lb/>over which a large Boat Bridge is
+                    <lb/>erected whereon their market house
+                    <lb/>stands. In the afternoon, we pas’d
+                    <lb/>thro’ another Dutch Village call’d
+                    <lb/><placeName key="stras">Strassburgh</placeName> about 8 miles from
+                    <lb/>the former, containing perhaps 60
+                    <lb/>or 80 houses, and situated in a low
+                    <lb/>Valley near the foot of the <placeName key="checkplace">N. Mountain</placeName>
+                    <lb/>over which we pass’d this evening &amp;
+                    <lb/><pb n="7" facs="hv_hj_some_account_1798_007"/>
+                    and put in for Quarters at <persName key="gskin1">George
+                    <lb/>Skinners</persName>, a commodious Inn for
+                    <lb/>Travelers. havein come in this days
+                    <lb/>40 Journey about 40 miles, the land
+                    <lb/>mostly of a thin soil except in the
+                    <lb/>valley, near the streams of water.
+                    <lb/>The Wheat fields were much injur’d by
+                    <lb/>the Fly, but Rye in most places look’d
+                    <lb/>well, a great deal of which was sow’d
+                    <lb/>and no doubt appropriated to the worst
+                    <lb/>of purposes from the Multitude of
+                    <lb/>still houses, we pas’d on the road.
+                </p>
+            </div>
+
+            <div type="entry">
+                <dateline><date when="1798-05-04">4th</date></dateline>
+                <p>Set out about Sunrise and
+                    <lb/>rode 12 miles to <placeName key="flitt">Fort littleton</placeName> to Breakfast,
+                    <lb/>over two rugged Mountains from
+                    <lb/>whose lofty Summits, we could be
+                    <lb/>hold a multitude of surrounding
+                    <lb/>Mountains interspers’d with many
+                    <lb/>low valleys, which afforded a gratify
+                    <lb/>ing prospect. In between these moun-
+                    <lb/>tains was a little Village call’d <placeName key="fanne">Fhannets-
+                    <lb/>burgh</placeName>
+                    <lb/><pb n="8" facs="hv_hj_some_account_1798_008"/>
+                    near <placeName key="conoc">Canegocheage Creek</placeName> where appear’d
+                    <lb/>to be some fertile Bottoms. From
+                    <lb/>littleton we pass’d over the <placeName key="sidel">Sideling Hills</placeName>
+                    <lb/>which is said to be seven miles across
+                    <lb/>and appears to be a range of broken
+                    <lb/>mountains running in almost every
+                    <lb/>direction, took some refreshment at
+                    <lb/><persName key="jskin1">Jno Skinners</persName> 11 miles from last stage
+                    <lb/>thence on 8 miles further where
+                    <lb/>we cross’d <placeName key="junia">Juniatta</placeName> in the most
+                    <lb/>hilly romantic place I never saw before.
+                </p>
+                <p>This Stream runs in a Meander
+                    <lb/>ing manner among the Hilles, we
+                    <lb/>rode along in the bend of it for many
+                    <lb/>miles, and some places could throw
+                    <lb/>a finger stone into the Stream on
+                    <lb/>either side of the road. In among
+                    <lb/>these high Towering Hills are some
+                    <lb/>narrow fertile Valleys abounding
+                    <lb/>with limestone in places. Ariv'd at
+                    <lb/><persName key="hart1">Hartleys</persName> Tavern in the evening where
+                    <lb/>we put in for lodging and got good
+                    <lb/>accommodations for ourselves and
+                    <lb/>Horses. Haveing come in this days
+                    <lb/>39 Journey about 39 miles.
+                </p>
+            </div>
+
+            <div type="entry">
+                <lb/><pb n="9" facs="hv_hj_some_account_1798_009"/>
+                <dateline><date when="1798-05-05">5th</date></dateline>
+                <p>Set forward early and rode
+                    <lb/>to <placeName key="bedfo">Bedford</placeName> to Breakfast 6 miles from
+                    <lb/>our Lodgeing. Bedford is the County
+                    <lb/>Town and a pleasant situation
+                    <lb/>in a large Valley being surrounded
+                    <lb/>with hills on every side. proceeded
+                    <lb/>on and reach’d the Top of the
+                    <lb/>great <placeName key="allem">Allegeny Mountain</placeName> in the
+                    <lb/>afternoon 24 miles from Bedford,
+                    <lb/>Where there is a good Tavern, a little
+                    <lb/>fertile land about the house, and what
+                    <lb/>was more remarkable, an exclent
+                    <lb/>Spring of water a few rods from
+                    <lb/>the Door. From thence we descended
+                    <lb/>the Mountains, and arived at <placeName key="berli">Berlin</placeName>
+                    <lb/>in the evening, a pleasant little village
+                    <lb/>of about 90 houses mostly Dutch.
+                    <lb/>We lodg’d at <persName key="checkplace">Doctor Kimbles</persName>, where
+                    <lb/>our entertainment and lodging
+                    <lb/>was very good, and our landlord
+                    <lb/>very solicitous for news about the
+                    <lb/>politics of the Times.
+                    <lb/>36 our journey 36 miles to day.
+                </p>
+            </div>
+
+            <div type="entry">
+                <lb/><pb n="10" facs="hv_hj_some_account_1798_010"/>
+                <dateline><date when="1798-05-06">6th of the mo &amp; 1st of the Week</date></dateline>
+                <p>Set out in the morning and
+                    <lb/>rode 13 miles to breakfast at a
+                    <lb/>Dutch Tavern where the Landlady
+                    <lb/>looked rather Sluttish and was not
+                    <lb/>able to furnish us with a Tea cup &amp;
+                    <lb/>Sauces apiece. thence over <placeName key="laure">Laurel Hill</placeName> din’d at <persName key="checkplace">Basslers</persName>
+                    <lb/>Tavern 14 miles further and proceeded
+                    <lb/>on over <placeName key="cheri">Chesnut Ridge</placeName>, a lofty moun-
+                    <lb/>tain from whose Summit we first had
+                    <lb/>a view of the Western Country on
+                    <lb/>the North side of the mountains, which
+                    <lb/>appear’d to be an extensive plain, inter-
+                    <lb/>spers’d with small Hilles &amp; beautiful
+                    <lb/>Valleys that afforded a gratifying
+                    <lb/>prospect. ariv’d at <placeName key="conne">Connels
+                    <lb/>Vill.</placeName> in the evening, a little Village
+                    <lb/>on the Margin of the <placeName key="yough">yochigeny
+                    <lb/>River</placeName>, where we were kindly receiv’d
+                    <lb/>by our antient Friend, <persName key="tgibs1">Thomas Gibson</persName>
+                    <lb/>and his Wife who mov’d from Chester
+                    <lb/>County in the early settlement of
+                    <lb/>Redstone.
+                    <lb/>41 come 41 miles to day
+                </p>
+            </div>
+
+            <div type="entry">
+                <pb n="11" facs="hv_hj_some_account_1798_011"/>
+                <dateline><date when="1798-05-07">7th</date></dateline>
+                <p>This morning <persName key="tgibs1">Thomas Gibson</persName>
+                    <lb/>took me down the River about half
+                    <lb/>a mile to see what he said was some
+                    <lb/>thing of a curiosity. The mighty
+                    <lb/>Dashing of the Waters had worn a
+                    <lb/>cavity in the side of the bank a consi-
+                    <lb/>derable ways into the Hill in which was
+                    <lb/>exhibited abundance of Iron Ore, Stone
+                    <lb/>Cole, and Limestone all interspers’d thro’
+                    <lb/>each other. It apear’d as tho’ the Hill
+                    <lb/>at some period had been on fire, which
+                    <lb/>had penetrated in a subteraneous manner
+                    <lb/>so far, that 50 or 60 yards from the
+                    <lb/>Margin of the Water on a high
+                    <lb/>Bank the Ground was sunk down
+                    <lb/>or considerable Depth in the form
+                    <lb/>of a reservoir.
+                    <lb/>After breakfast we were ferry’d
+                    <lb/>over the River and propos’d going
+                    <lb/>to <persName key="checkplace">Bees Kadwallader</persName> that evening
+                    <lb/><persName key="jswai1">J. Swayne</persName> &amp; myself took our rout
+                    <lb/>by way of <placeName key="uniont">Union Town</placeName> to see
+                    <lb/>some of his Relations. Union
+                    <lb/><pb n="12" facs="hv_hj_some_account_1798_012"/>
+                    is a prosperous little place, where
+                    <lb/>the County Courts are held: there
+                    <lb/>are Several Stores &amp; Tavern which
+                    <lb/>appear to get Custom plenty.
+                </p>
+                <p>Din’d at <persName key="wdix1">Wm Dixons</persName> 5 miles
+                    <lb/>from U. Town where I parted
+                    <lb/>with <persName key="jswai1">Joel</persName>, and went to <persName key="checkplace">Reece Cad-
+                    <lb/>wallader</persName> alone, after Calling to
+                    <lb/>see one <persName key="checkplace">Wm Whiteside</persName> who mov’d
+                    <lb/>from Newgarden som years ago
+                    <lb/>&amp; who had restrained much pro-
+                    <lb/>perty from My Father, for
+                    <lb/>Military demands in the time
+                    <lb/>of the revolution. He was not
+                    <lb/>at home himself but his Family
+                    <lb/>gave me a hearty welcome.
+                </p>
+                <p>I met with the rest of our company at
+                    <lb/>our kind Friend <persName key="checkplace">Reece Cadwallader</persName> where
+                    <lb/>we remained several days to rest
+                    <lb/>ourselves, prepare some necessary
+                    <lb/>articles for our Journey, visit
+                </p>
+            </div>
+
+        </body>
+    </text>
+
+</TEI>

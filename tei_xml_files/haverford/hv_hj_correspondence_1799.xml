@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type ="main">Halliday Jackson Correspondence 1799-1824</title>
+            <title type="sub">Encoded Edition</title>
+            <author>Jackson, Halliday, 1771-1835</author>
+            <respStmt>
+               <resp>Transcribed and encoded by</resp>
+               <name>Yuchao Wang</name>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding edited by</resp>
+               <name>Emily Thaisrivongs</name>
+            </respStmt>
+          <funder>Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections</funder>
+         </titleStmt>
+
+         <publicationStmt>
+            <publisher>Quaker &amp; Special Collections, Haverford College</publisher>
+            <pubPlace>Haverford, PA</pubPlace>
+            <date when="2017">2017</date>
+            <availability><licence target="http://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</licence></availability>
+            <idno type="local">hv_hj_correspondence_1799</idno>
+            </publicationStmt>
+
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>USA</country>
+                  <region type="state">PA</region>
+                  <settlement>Haverford</settlement>
+                  <repository>Quaker &amp;amp; Special Collections, Haverford College</repository>
+                  <collection>Halliday Jackson papers, 1799-1808</collection>
+                  <idno>MC.950.101, Box 21, Folder 1</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>55 pages</p>
+                  </physDesc>
+            </msDesc>
+          <bibl>Halliday Jackson Correspondence 1799-1824, Halliday Jackson papers (HC.MC.950.101), Box 21, Folder 1, Quaker &amp; Special Collections, Haverford College, Haverford, PA.</bibl>
+          <bibl>This text was digitized by Yuchao Wang in 2017 with funding from the Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections.</bibl>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <projectDesc>
+            <p>This text was transcribed and encoded for use in Beyond Penn's Treaty: Quakers and American Indian Relations <ptr target="https://pennstreaty.haverford.edu/"/>, a digital project that provides access to linked and annotated versions of Quaker diaries, letters, and meeting records which record contact with American Indians, particularly the Seneca, beginning in the 1740s. These documents, held in Quaker &amp; Special Collections at Haverford College and Friends Historical Library at Swarthmore College, are all from the Quaker perspective, and document their view of this unfolding relationship.</p>
+            </projectDesc>
+         <editorialDecl>
+            <p>Grammar, punctuation, spelling have been preserved. Line breaks, paragraph breaks, and page breaks have been preserved. Hyphens have been preserved and normalized to one dash "-". Words or phrases that the encoder could not interpret have been tagged with the "unclear" element. If there was more than one reference to the same entity (person, group, place) in one paragraph, only the first occurrence was encoded unless the paragraph spanned more than one page. If the paragraph spanned more than one page, the entity was encoded at least once per page.</p>
+         </editorialDecl>
+      </encodingDesc>
+
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <creation>
+            <origDate from="1799" to="1824">1799-1824</origDate>
+         </creation>
+         </profileDesc>
+
+      <revisionDesc>
+         <change></change>
+      </revisionDesc>
+   </teiHeader>
+
+   <text>
+    <body>
+     <div type="letter">
+      <pb n="1" facs="hv_hj_correspondence_1799_001"/>
+      <opener>
+       <dateline><placeName key="genes1">Genesinguhta</placeName> <date when="1799-01-23">1st mo 23rd 1799</date></dateline>
+       <salute>Dear <persName key="ijack1">Father</persName>,</salute>
+      </opener>
+      <p>The last letter I wrote thee was dated the <date when="1798-11-08">8th of 11th
+       <lb/>mo 98</date> which I expect would be delivered by <persName key="checkplace">Jonas Thompson</persName>, since which
+       <lb/>I have receiv’d  no letters from thee or any of my friends in there parts
+       <lb/>althoug I expect there are several on the way perhaps delay’d at
+       <lb/><placeName key="pitts">Pittsburgh</placeName> for want of oppertunities to forward them, which is very rare at this Season
+       <lb/>of the Year; and as we are now about writeing to the Committee and wish
+       <lb/>to forward it as soon as possible I though it might not be unacceptable
+       <lb/>to thee and <del>some more</del> others of my friends to hear from us, though I
+       <lb/>did not expect to write again before Spring.
+      </p>
+      <p>We all continue to enjoy our health &amp; I think I never was so fat &amp;
+       <lb/>hearty in my life as the present Winter.
+      </p>
+      <p>We had much Snow here the begining of Winter, it Snow’d almost
+       <lb/>every day in the twelvth month, and <del>about</del> fore part of the first
+       <lb/>till the snow was more then two feet deep but I think we have had
+       <lb/>no weather so Cold as I have often know it in your parts. About
+       <lb/>a week after Newyear it came a warm Spell and much rain which
+       <lb/>took away the most of the Snow, broak up the River and caused a
+       <lb/>dreadful flood which overflow’d the Banks, and went all round us
+       <lb/>also rose about 1 foot in our Cellar. We were a little afraid it would
+       <lb/>overflow the Bank on which the house stands though I suppose it has
+       <lb/>seldom been the Case. The Weather has since been warm &amp; pleasant
+       <lb/>for the season and the Indians flocking home with their Canoes loaded
+       <lb/>with the Game the have kill’d the present winter. One of our neigh
+       <lb/>bours return’d a few days ago who said he had kil’d 120 Deer this
+       <lb/>Season. They also kill some Bears and have supplied us with plenty of
+       <lb/>exelent meat to do us another year. In the Fall I had some prospect
+       <lb/>of being engag’d in a school this Winter, but on consideration we found it
+       <lb/>best to Open the School at <placeName key="cornp">Cornplanter Village</placeName> as the most of
+       <lb/>the Children are there, and their being much Carpenterwork to do
+       <lb/>which falls upon <persName key="jswai1">Joel Swayne</persName> and Me, <persName key="hsimm1">Henry Simmons</persName> concluded
+       <lb/><pb n="2" facs="hv_hj_correspondence_1799_002"/>
+       <lb/>to undertake the School, which accordingly he did, and a number of
+       <lb/>Children have attended who appear to improve as fast as can be
+       <lb/>expected.  Haveing got (pretty well through our Carpenter work I
+       <lb/>have tought several little boys this some time past at this place
+       <lb/>In short we find employment of various kinds and haveing now
+       <lb/>wrote to the Committee for a set of Smith tools, I expect (if I remain
+       <lb/>here much longer) to be Jack of Many Trades.
+      </p>
+      <p>In my last letter I mentioned that I was going on a Journey
+       <lb/>to <placeName key="catar">Catarogus</placeName> an Indian Village about 49 miles from us, to help a
+       <lb/>young man along on horse back, who was disabled from walking
+       <lb/>by an accident. To give a particular detail of that Journey
+       <lb/>would swell this letter too much, I shall therefore only give thee
+       <lb/>a short scetch, as I had many difficulties to encounter before my
+       <lb/>return <del>and</del> although they were made more easy than I could
+       <lb/>possibly have look’ for, or perhaps thee will believe.
+      </p>
+      <p>As we had but one Creature fit to ride I went on foot. We
+       <lb/>left home in the morning and went up the River about ten
+       <lb/>miles to an Indian house, with whome I was acquainted and it
+       <lb/>comeing on Snow we staid all night as there was no hous between
+       <lb/>that and <placeName key="catta1">Catarogus</placeName>. Next morning we set out and travel’d
+       <lb/>that day through the Snow near half leg Deep, about 4 O’clock
+       <lb/>We Concluded it was time to prepare for lodgeing as my Campa-
+       <lb/>nion was lame it kept me pretty busy to gather wood enough to
+       <lb/>do us the night Season, but in short about dark we had a rousing
+       <lb/>fire, made ourselves some chocolate, Tied our horse to a sapling and fed
+       <lb/>him with oats, and haveing prepard our bed of Hemlock Bows set
+       <lb/>up one of my Blankets in the form of a Tent crept under, where we
+       <lb/>rested very Comfortably the first night I ever lay out in my life:
+       <lb/>being in a great Valley between two mountains we were shelter’d from
+       <lb/>the wind, but the Wolves made plenty of Music though not to
+       <lb/>prevent me from Sleeping.
+      </p>
+      <p>Next morning we set forward early and got into another path
+       <lb/>which was broke and much easier traveling. About dark we reach
+       <lb/><placeName key="catar">Catarogus</placeName> &amp; haveing met with an Indian some distence from
+    <lb/><pb n="3" facs="hv_hj_correspondence_1799_003"/>
+       <lb/>the Village Who could Talk some english he kindly invited us to
+       <lb/>his house, and gave us such Lodgeing as he had which was some rough
+       <lb/>dirty plank yet the addition of our blankets make it feel like a
+       <lb/>paradise to me as I was extremely fatigd with the Journey. Next
+       <lb/>morning I took a walk through the Village to procure some Bread
+       <lb/>and meat which I got at my own price. There is 30 or 40
+       <lb/>houses enclos’d with a fence in a pretty green pasture, they have
+       <lb/>a good many Cattle, abundance of Swine and fowls and situated
+       <lb/>in the most fertile Country I ever saw, the woodland abound
+       <lb/>ing with large Sugar Maple and black Walnut of an enormous
+       <lb/>Size. I felt rather weary to return homeward, that day and
+       <lb/>concluded to go with my companion dauwn to <placeName key="lakee">Lake Erie</placeName> <del>wh</del>
+       <lb/>about 6 miles from the Village, wher he expected to get a passage
+       <lb/>by water to <placeName key="buffa">Buffalo</placeName> about 36 miles from that place. When we
+       <lb/>got there the Lake was dreadful rough so that no boats could
+       <lb/>go on it and exhibited a prospect somewhat gratifying to me
+       <lb/>as I had never saw so large a water before. We return’d to a black
+       <lb/>mans house about a mile from the Lake who kept a kind of a
+       <lb/>Tavern very injurious to The Indians in the Neighbouring Villages.
+      </p>
+      <p>Here we consulted a while &amp; although I was pretty well Tir’d
+       <lb/>already I concluded to go as far as <placeName key="buffa">Buffalo</placeName> as it was good traveling
+       <lb/>along the Beach of <placeName key="lakee">Lake Erie</placeName>. According we set forward about
+       <lb/>two Oclock and that Night lay on the Beach very comfortably
+       <lb/>where the dashing of the mighty waves prevented us from hear
+       <lb/>ing any wolves. Next day about noon we reach’d buffalo
+       <lb/>Where there is about a dozen houses inhabited by White people
+       <lb/>situated on high ground commanding an extensive prospect
+       <lb/>of the Lake, and opposite <placeName key="ferie">Fort Erie</placeName> on the British shore.
+       <lb/>about 4 mile above this place on the Creek is the Indian Village
+       <lb/>where the Farmers Brothers and the Mean Body of the <orgName key="seneca">Seneca
+       <lb/>nation</orgName> live. I was now with in about 20 miles of the Great <placeName key="niagf">Falls
+       <lb/>of Niagara</placeName> to which place I had a strong inclination to go, but have
+       <lb/>ing no company and the <placeName key="niagr">Niagara river</placeName> to Cross I declined the notion
+       <lb/>and next morning returned homewards <del>home</del> haveing about 80
+       <lb/><pb n="4" facs="hv_hj_correspondence_1799_004"/>
+       <lb/>miles to go through a lonesome Wilderness. This day as I rode along
+       <lb/>the back of <placeName key="lakee">Lake Erie</placeName> I plainly saw the mist or Fog riseing from
+       <lb/>the Great <placeName key="niagf">Falls of Niagara</placeName> at a distence of 30 or 40 miles, I reach’d
+       <lb/><placeName key="catta1">Cataragus Village</placeName> in the evening and going to the house where
+       <lb/>I had lodg’d before, I found it evacuated and the Door barracaded
+       <lb/>up with Bark. I then went thro’ the Town and could find but
+       <lb/>3 or 4 houses open in which there was no body but Children who
+       <lb/>when the saw me approaching ran in and shut the Doors, &amp; the
+       <lb/>Dogs follow’d me about as though I was some thing came to devour them
+       <lb/>at length I saw a Squaw comeing from the Woods with a load of wood
+       <lb/>on her back and after making her sensible what I wanted she ran
+       <lb/>away to a small Cabbin and beckoned to me to go there, according
+       <lb/>ly I did &amp; found an Old man Laying Sick who could talk english. I told him I was a
+       <lb/>Quaker in order to succeed the better; and wanted Lodging in some
+       <lb/>of their houses. he said his old woman was out, and he could not
+       <lb/>tell how it might be, for, he lay there, his Old woman at the Other side
+       <lb/>and a little Girl at one end, and the house not above 10 or 12 feet
+       <lb/>in length, in which I suppose there was 30 bushels of Corn and a
+       <lb/>fire in the middle. but he said the would try to mak room for
+       <lb/>me. Accordingly when the Old Woman came in they concluded
+       <lb/>to let me have her Berth which was a warm and comfortable one.
+      </p>
+      <p>I got myself some Chocolate for supper and then asking the Old
+       <lb/>man if he knew his age, he said he did very well, and this very Summer
+       <lb/>he was 120 years Old, that he had seen a great many days, and
+       <lb/>been in a great many Wars, but no bullet had ever hurt him, &amp; had
+       <lb/>been twice in <placeName key="phila">Philadelphia</placeName> when it was a little Town. He said his
+       <lb/>wife was above 80, &amp; her and her Daughter had rais’d 650 strings
+       <lb/>of Corn this Summer 5 of which makes a bushel. All which
+       <lb/><del>he related with so much inno</del> with a great deal more he rela
+       <lb/>ted with so much inocence and simplicity I had no reason to doubt
+       <lb/>the <del>Simplicity of it</del> veracity of it.
+      </p>
+      <p>I was well pleas’d with my lodgeing and the Old mans Company as
+       <lb/>him with mine, and in the morning left them as soon as it was
+       <lb/>light in some hopes of reaching a house on the <placeName key="alleg">Allegeny river</placeName> that day
+       <lb/><pb n="5" facs="hv_hj_correspondence_1799_005"/>
+       <lb/>The day proved very wet &amp; I soon found I should have to lay
+       <lb/>in the woods that night. I traveld on till about 3 oClock
+       <lb/>when I came to where the path forkt, and the nearest one home
+       <lb/>I was not acquinted with, but knowing the Difficulty of the other
+       <lb/>I thought I could not be much worsted if I did get lost in comeing
+       <lb/>the nigh road, &amp; so pursueing it till about an hour up Sun
+       <lb/>I concluded it was time to look about for lodgeing, and getting
+       <lb/>on to the Side of a hill a little sheltered from the Wind I gathered
+       <lb/>some of the dryest wood I could find, and haveing plenty of punk
+       <lb/>I thought to have a fire in a hurry, but every thing being so damp
+       <lb/>and wet with all my efforts I could not bring it into a blaze altho
+       <lb/>I workt faithfully for more than an hour. at <unclear>linght</unclear> wearied with
+       <lb/>blowing I finally gave it over, and resolv’d as the best expedient to seek
+       <lb/>Shelter under some friendly Log, nor had I much time to make Choice of
+       <lb/>one as dark was comeing on, but haveing chosen the best one I
+       <lb/>could find which was elevated a little from the Ground, I cut some
+       <lb/>Hemlock bows and spread under me, fit one of my Blankets over
+       <lb/><unclear/>, Tied my horse to sapling and fed him with Corn, eat some Victuals
+       <lb/>my-self and then Crosst into the Den I had made, where I lay
+       <lb/>till morning, often being Saluted by the Wolves and Wild beasts
+       <lb/>that set up a tremendous yauling some distance from me, but yet
+       <lb/>I was dream’d I was at home in <placeName key="newga">Newgarden</placeName>. As soon a Morning
+       <lb/>appear’d I crept out of my den, stript of my stockins and ran
+       <lb/>thro’ the Snow to warm my feet, eat a bite of Victuals and so
+       <lb/>left my Temporary lodgeing ‘rather better than I found it.
+       <lb/>I went on pretty well till about 9 Oclock when I got of the
+       <lb/>path and wandered through the wood, among some mountains
+       <lb/>a considerable time, where I began to conclude I should have to
+       <lb/>lay in the woods another night, as I suppos’d it take me till near
+       <lb/>sunset to reach home if I went on at the best rate. However at
+       <lb/>length by the help of a pocket Compass and my Judgement of
+       <lb/>the Course I was favour’d to get into the right path again which
+       <lb/><pb n="6" facs="hv_hj_correspondence_1799_006"/>
+       <lb/>I pursued with a Single eye the most difficult road I ever travel’d
+       <lb/>and reach’d my Companions again a little before Dark after
+       <lb/>being away eight Days and traveling 160 or 70 miles.
+      </p>
+      <p>I believe I receiv’d no injury to my health from this Journey which
+       <lb/>I thought a great Favour.
+      </p>
+      <p>I have not much to add at present as there is an Indian
+       <lb/>waiting for the letter but may just say that my present source
+       <lb/>of happiness continues to be a conviction that I stand in my
+       <lb/>proper allotment and <unclear>an</unclear> evidence of the divine presence which
+       <lb/>I am often favour’d  to feel in a Conspicuous manner.
+      </p>
+      <p>I expect some of you will be looking for my return the ensuing
+       <lb/>Summer but I can say nothing to that yet. <persName key="hsimm1">Henry Simmons</persName>
+       <lb/>has wrote to the Committee his prospect of return and if
+       <lb/>some others should come forward perhaps I may be released also
+       <lb/>but be that as it will I yet feel no anxiety about it believing
+       <lb/>that it is good for me to be here.
+      </p>
+      <p>I hope You will be careful to write timely in the <unclear>Sp</unclear>
+       <lb/>that letters may come forward with the article that come
+       <lb/>from the Committee.
+      </p>
+      <p>Please to give my love to Sisters and all that
+       <lb/>enquire after me So wishing all your preservation in
+       <lb/>the one unchangeable truth and a Close attention to the
+       <lb/>Dictates thereof, I conclude and remain thy
+      </p>
+      <closer><salute>Affectionate Son</salute>
+       <lb/><signed><persName key="hjack1">Halliday Jackson</persName></signed></closer>
+     </div>
+
+     <div type="unspecified"><lb/><pb n="7" facs="hv_hj_correspondence_1799_007"/>
+      <p><persName key="hjack1">Halliday Jackson</persName>
+       <lb/><date when="1799-01-23">1 Mar 23 1799</date>
+       <lb/>40
+       <lb/><persName key="ijack1">Issac Jackson Jun</persName>
+       <lb/><placeName key="newga">Newgarden</placeName> in
+       <lb/><placeName key="chestc">Chester County</placeName>
+       <lb/>To the care of <persName key="twist1">Thomas Wistar</persName> Merch
+       <lb/>in <placeName key="phila">Philadelphia</placeName>
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="8" facs="hv_hj_correspondence_1799_008"/>
+      <opener>
+       <dateline><placeName key="phila">Philadela</placeName> <date when="1821-05-29">5 m 29th 1821</date></dateline>
+       <salute>Esteemed friend
+       <lb/><persName key="hjack1">Halliday Jackson</persName></salute>
+      </opener>
+      <p>Much solicitude prevails
+       <lb/>here with respect to the measures that
+       <lb/>may be attempted in the select Meeting
+       <lb/>relative to our dear antient friend, and
+       <lb/>the doctrines he has been anointed to
+       <lb/>promulgate to the world. I wish thou
+       <lb/>would steal a few minutes to give
+       <lb/>me an account of what may transpire
+       <lb/>on the subject, I know thou will be
+       <lb/>much engaged, I therefore do not ask
+       <lb/>a minute account, but merely a sum -
+       <lb/>mary one of what may be done. We
+       <lb/>have had an account of the public
+       <lb/>meeting at <placeName key="checkplace">Rose Street</placeName> yesterday, but
+       <lb/>we have not heard one word of
+       <lb/>the closings of the Meeting on 7th day.
+       <lb/>should thou meet with <persName key="checkplace">Nicholas
+       <lb/><pb n="9" facs="hv_hj_correspondence_1799_009"/>
+        <lb/>Brown</persName> please give my love to him and
+        <lb/>tell him his visit to this city is
+        <lb/>remembered with much interest
+        <lb/>by many Friends.
+      </p>
+        <closer><salute>I am affectionately thy friend</salute>
+        <lb/><signed><persName key="ihopp1">Isaac T. Hopper</persName></signed></closer>
+       </div>
+
+      <div type="undetermined"><pb n="10" facs="hv_hj_correspondence_1799_010"/>
+      <p><persName key="jcorl1">Jacob Corlies</persName>
+       <lb/><placeName key="checkplace">Pearl St’</placeName>
+       <lb/><placeName key="newyo">New York</placeName>
+       <lb/>For <persName key="hjack1">Halliday Jackson</persName>
+      </p></div>
+
+     <div type="letter">
+      <pb n="11" facs="hv_hj_correspondence_1799_011"/>
+      <opener>
+       <dateline><placeName key="newga">New Garden</placeName> <date when="1802-11-06">11th mo 6th 1802</date></dateline>
+       <salute>Dear Parents</salute>
+      </opener>
+      <p>
+       <lb/><persName key="checkplace">Thomas Hooper</persName> inform’d us this
+       <lb/>evening he expected to set off for <placeName key="phila">Philidelphia</placeName> to
+       <lb/>morrow, &amp; I am wishing no oppertunity to pass
+       <lb/>without <unclear>satisteing</unclear> you, wishes me to write
+       <lb/>tho’ at present I feel very dull for the under-
+       <lb/>takeing haveing just return’d from our Month
+       <lb/>ly passover, where business was according to
+       <lb/>Custom conducted in the usual slow way.
+       <lb/>We din’d at <persName key="checkplace">Joseph Presstons</persName> and rode home
+       <lb/>by the light of the moon where Dear little
+       <lb/><persName key="checkplace">Jacob</persName> was anxiously waiting to ease his
+       <lb/>Mother of some of her pains about the Breast.
+      </p>
+      <p>We all continue well as usual and the
+       <lb/>little Boy grows finely and can travel from
+       <lb/>place to place in his little employment pretty
+       <lb/>rapidly tho’ has not yet ventured to try his
+       <lb/>strength by walking alone.
+      </p>
+      <p><persName key="checkplace">Jane</persName> wrote two letters By <placeName key="checkplace">D. Temple</placeName> that
+       <lb/>Begining of this week, and I wrote a few lines
+       <lb/>By <persName key="checkplace">Caleb Pusey</persName> which probably you have not
+       <lb/>yet received so that if our letters Do not become
+       <lb/>burdensome to you it will be well. The
+       <lb/>latter gives some account of the late purehose
+       <lb/><pb n="12" facs="hv_hj_correspondence_1799_012"/>
+       <lb/>I made of a lot of Timberland of <persName key="checkplace">C Pusey</persName>
+       <lb/>which perhaps you may blame me for. but
+       <lb/>on duly considering every circumstance and
+       <lb/>the disadvantage our little farm lay under for want
+       <lb/>of timber - either in selling it or to remain on it
+       <lb/>I thought with the advice of some of my friends
+       <lb/>it best to not miss the present oppertunity of
+       <lb/>makeing the valuable addition laying so
+       <lb/>contigeous to the farm notwithstanding the
+       <lb/>price seems high, &amp; the harzard we run of the
+       <lb/>Sherriff or somebody else falling on us before
+       <lb/>we can find a way to pay our debts.
+      </p>
+      <p>A few days before a Man (some time since
+       <lb/>from <placeName key="bucks">Bucks County</placeName>) was viewing our farm &amp;
+       <lb/>I belief would not have stood at 3000 Dollars
+       <lb/>for it if a sufficient proportion of it had been in
+       <lb/>timber. How he may like the addition of
+       <lb/>500 Dollars more I can not tell, but be that
+       <lb/>as it may I would not take 100 Dollars for my
+       <lb/>bargain was it all counted down . I think
+       <lb/>for, &amp; it must be something of elegance and
+       <lb/>value that will tempt me to leave it &amp; I
+       <lb/>suppose if it was in sight of those
+       <lb/><pb n="13" facs="hv_hj_correspondence_1799_013"/>
+       <lb/>high towering pyramids that direct <unclear>transfers</unclear>
+       <lb/>to the City all would be well. I have not
+       <lb/>yet seen or heard from <persName key="checkplace">Syrus Newlen</persName> respecting
+       <lb/>that place near <placeName key="darby">Darby</placeName> but shall endeavour
+       <lb/>for it before we go to Town.
+      </p>
+      <p>We have not had any account from you since
+       <lb/>the letter that come by <persName key="checkplace">Jacobs</persName> Carriage and accounts
+       <lb/>then were so unfavourable it makes us anxious
+       <lb/>to here, tho the Coolness of the weather and the
+       <lb/>Fever abating in <placeName key="wilmi">Wilmington</placeName> so that the Citizens
+       <lb/>are generally return’d furnish a hope that
+       <lb/>your City is by this time in a good <unclear>measure</unclear>
+       <lb/>freed from that dreadful scourage which at <unclear>times</unclear>
+       <lb/>seems to threaten almost a total <unclear>depopul</unclear>
+       <lb/>of poor <placeName key="phila">Philadelphia</placeName>. we heard of the death
+       <lb/>of <persName key="checkplace">Caleb Jacksons</persName> wife &amp; that 5 or 6 had been buried
+       <lb/>out of a house very near or adjoining to them.
+       <lb/>also 4 out of <persName key="checkplace">B. Stokes</persName> family. Tho’ great pains
+       <lb/>is taken to those the origin of the disease and impute
+       <lb/>it to divers causes Perhaps no sovereign remedy will be
+       <lb/>found but the people turning every one from his
+       <lb/>evil way and cleaveing to the Lord who will have
+       <lb/>mercy upon them.
+      </p>
+      <p>I hope you will write by the bearer and send
+       <lb/>us word whether it will be safe to go up after the <unclear>Laur</unclear>
+       <lb/>Meeting. <persName key="checkplace">Ruth Anna</persName> was at Meeting to day and
+       <lb/>sounded the gospel trumpet
+      </p>
+      <closer><salute><persName key="checkplace">Janes</persName> love &amp; mine to you &amp; all
+       <lb/>inquirers</salute>
+       <lb/><signed><persName key="hjack1">Halliday Jackson</persName></signed></closer>
+     </div>
+
+      <div type="undetermined"><pb n="14" facs="hv_hj_correspondence_1799_014"/>
+       <p><persName key="thou1">Thomas Hough</persName>
+       <lb/><placeName key="phila">Philadelphia</placeName>
+       <lb/>F. <persName key="checkplace">Thomas Hoopes</persName>
+       </p>
+      </div>
+
+     <div type="letter">
+      <pb n="15" facs="hv_hj_correspondence_1799_015"/>
+      <opener>
+       <dateline><placeName key="newga">New Garden</placeName> <date when="1803-02-22">2nd month 22nd 1803</date></dateline>
+       <salute>Dear Parents</salute>
+      </opener>
+       <p>We have had no account from you since the
+       <lb/>letter which <persName key="checkplace">J.L.</persName> Brought. And it seems necessary for
+       <lb/>me to write a few lines by past to inform you a serious circum-
+       <lb/>stance which I did not hear of till yesterday.
+      </p>
+      <p>It is a circumstance which I expect will not be altogether
+       <lb/>unexpected to you. The death of your Old Brother <persName key="checkplace">Benjamin</persName>.
+       <lb/>which happened on the 10th of this Instant. and the day of his
+       <lb/>Burial <persName key="gchur1">G Churchman</persName> wrote me a letter but I did not receive it
+       <lb/>till yesterday. The Account says that toward his Close he
+       <lb/>seem’d resign’d and enjoy’d a comfortable evidence of a peaceful
+       <lb/>mind as tho’ he was prepar’d for the Solemn period.
+      </p>
+      <p>I have made some enquiry about Aunt <persName key="checkplace">Sarrah</persName> to know
+       <lb/>what her prospect was to do. but could hear nothing respecting
+       <lb/>her. I expect Father will now think it necessary to give her
+       <lb/>they earliest information what he may think proper to do
+       <lb/>with the place or whether it is to remain under her care
+       <lb/>as the time of year is drawing on when it is necessary to
+       <lb/>know what is to be done with Land. I am not a going
+       <lb/>to dictate any thing with a desire for father to alter any
+       <lb/>thing he may have concluded in his own mind respecting
+       <lb/>her but I recollect from some sentiments I hear’d him express
+       <lb/>last Summer that if Uncle Benjamin should be taken off
+       <lb/>he had some Thoughts of selling the place and accommoda-
+       <lb/>ting the mother with aunt in some other way, which I thought
+       <lb/>would be much better for her than to have the care of the place,
+       <lb/>as it would not rent for much, and to have it work’d in
+       <lb/>any other way would be likely to let the place get very
+       <lb/>much out of order, as also be cumbersome to her. This day
+       <lb/><pb n="16" facs="hv_hj_correspondence_1799_016"/>
+       <lb/>I had some conversation with <persName key="bmaso1">Benjamin Mason</persName> about it &amp;
+       <lb/>told him I thought Father intended to continue some support
+       <lb/>to Aunt and askt him what he thought would be the best for
+       <lb/>to do with the place, &amp; he said if the place was sold he thought
+       <lb/>it would be much less cumbersome to her &amp; the Interest of the
+       <lb/>money would be a great deal more than what the place would
+       <lb/>be likely to rent for. I trust father will do what he
+       <lb/>thinks is best and if he <del>desi</del> designs to sell it the sooner
+       <lb/>some person was authoris’d to do it the better as there are many
+       <lb/>now a hunting land to purchase. and if not I think she
+       <lb/>should know as soon as possible what she must do with it.
+       <lb/>I wrote to her this day and desir’d her not be too much
+       <lb/>concern’d about her getting along in future for I believ’d
+       <lb/>it was fathers design still to give her some assistance out of the place as he had
+       <lb/>hertofore done. but in what manner I could not tell.
+      </p>
+      <p>If he writes to me &amp; it should be necessary to go with
+       <lb/>any message to her I should have no objection to pay her
+       <lb/>a visit if I knew soon as my time are long be engag’d another way.
+      </p>
+      <p>We have had a large Quarterly  Meeting. The Company
+       <lb/>of <persName key="checkplace">R Jordan</persName>, the friends from over the <placeName key="ohio">Ohio</placeName>, &amp; your two City
+       <lb/>Women friends - Richard was silint poor fellow told me
+       <lb/>he wanted to get home very much.
+      </p>
+      <p><persName key="checkplace">Jane</persName> thinks she will not stand in need of the little
+       <lb/>Girl Mother mentioned in her letter. We are all well
+       <lb/>&amp; with much of our love to you I remain your</p>
+      <closer><salute>afft Son</salute>
+       <lb/><signed><persName key="hjack1">Halliday Jackson</persName></signed></closer>
+      <postscript><pb n="17" facs="hv_hj_correspondence_1799_017"/>
+       <p>I expect to go up some time before we move perhaps in
+       <lb/>two or three weeks. <persName key="jlind1">Jacob Lindley</persName> talks of going up the latter
+       <lb/>end of this week or begining of next. The family are all
+       <lb/>well and was generally out at meeting to day.
+      </p>
+      <p>We have some expectation of <persName key="checkplace">Rachel</persName> going with us to <placeName key="darby">Darby</placeName>
+       <lb/>Little <persName key="checkplace">Jacob</persName> grows finely and can run about quite Smart.
+       <lb/>We are now at <persName key="checkplace">Doctor Rosses</persName> &amp; have wrote in
+       <lb/>a hurry
+       <lb/><persName key="hjack1">H. J.</persName>
+      </p>
+      </postscript>
+     </div>
+     <div type="undetermined"><pb n="18" facs="hv_hj_correspondence_1799_018"/>
+      <p><placeName key="newga">Newgarden</placeName> <placeName key="penns">Pa.</placeName>
+       <lb/><date when="1803-02-22">2 Mo 22</date>
+       <lb/><persName key="thou1">Thomas Hough</persName>
+       <lb/>Pine Street N. 20
+       <lb/><placeName key="phila">Philadelphia</placeName>
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="19" facs="hv_hj_correspondence_1799_019"/>
+      <opener><salute>Dear friend</salute></opener>
+      <p>In order to make good my promise I
+       <lb/>now take up my pen <del>in order</del> to communicate
+       <lb/>a few lines which I design to meet thee at <placeName key="checkplace">Downingstown</placeName>
+       <lb/>Supposing thou may probably reach that in a
+       <lb/>few days from thee time. I have not had much
+       <lb/>account from thee since we parted except yesterday
+       <lb/>I saw <persName key="checkplace">John Wards</persName> Daughter in the City who inform’d
+       <lb/>me they had a Letter from her father which gave an
+       <lb/>account that you were getting along well &amp; that thy
+       <lb/>health was improveing which was satisfactory to
+       <lb/>hear. I also had some account of your meetings at
+       <lb/><placeName key="londg">Londongrove</placeName> &amp; <placeName key="newga">Newgarden</placeName> &amp; at the Latter place there
+       <lb/>seem’d to be somewhat a famine of the word which
+       <lb/>perhaps is <del>often</del> sometimes the best preaching where
+       <lb/>the people have itching ears. My mind has often
+       <lb/>been with thee in thy passage along through these
+       <lb/>meetings with desires that these might be furnished with best
+       <lb/>help in every needful time to divide the word
+       <lb/>aright and minister to the different states of the
+       <lb/>people in that ability which is desired from
+       <lb/>the source &amp; fountain of all good, for my other
+       <lb/>preaching that that which the apostle describes
+       <lb/>to be by the power of the holy Ghost send down from
+       <lb/>Heaven &amp; which is in the demonstration of the
+       <lb/>Spirit will not be likely to profit the people or
+       <lb/>bring peace to those that minister. This assurance my
+       <lb/>dear friend that <del>that</del> the evidence of this
+       <lb/>soul has attended thy Labours I trust has
+       <lb/>often been vouchsafed as a shield to thy tried
+       <lb/>mind in times of deep conflict when the
+       <lb/>heavens might appear as Brass &amp; the earth as
+       <lb/>beads of Iron about thy head, the <unclear>road dea</unclear> as it
+       <lb/><pb n="20" facs="hv_hj_correspondence_1799_020"/>
+       <lb/>were before thee &amp; the Egyptian host behind, but by
+       <lb/>attending to the heavenly leader, the pillar of
+       <lb/>cloud by day, <del>the fl d</del> the salvation of God had
+       <lb/>been manifest in dividing the flood, before thee &amp;
+       <lb/>causing the enemies to disapear &amp; deliverance brought
+       <lb/>about in an unexpected way. may the shepperd of
+       <lb/>Israel still continue to be with thee in all thy movements
+       <lb/>&amp; then altho’ trying dispensations may be allotted thee
+       <lb/><del>and</del>, perils within &amp; perrils without &amp; even perrils
+       <lb/>among false brethren yet thou shalt be enabled <del>to</del>
+       <lb/>to pass unhurt through all and experience the fire
+       <lb/>of that declaration of the prophet in speaking of the
+       <lb/>Church. "No weapon that is formed against thee
+       <lb/>shall prosper &amp; every Tounge that shall rise up in Judgment against
+       <lb/>thou shalt condemn." This is the heritage of the Servants of the"
+       <lb/>Lord and the servants of the Lord &amp; their righteousness of me saith the Lord"
+      </p>
+      <p>But my dear friend I write not thus to exult
+       <lb/>the creature (for this one of the engines of Satan)
+       <lb/>but to encourage thee to faithfulness in the
+       <lb/>discharge of thy duty to him who hath called thee
+       <lb/>and whether thy future path may be in hights
+       <lb/>or in debths, whether be strewed with flowers or with
+       <lb/>thorns, there art fully sensible of the necessity of
+       <lb/>that short command of our blessed Lord "what I say,
+       <lb/>unto one I say unto all watch." This is the along
+       <lb/>place of safety for any of us, and by keeping in the
+       <lb/>low valley of humiliation we shall not be so likely
+       <lb/>to get off our watch &amp; remember that He who trium-
+       <lb/>phed victoriously need not will encounter all the exerted powers and
+       <lb/>temptations of Satan, <del>and</del> but to endure the buffet-
+       <lb/>ings &amp; percecutions of men as well as to stand against
+       <lb/>their applause, when the Sang hosannahs on his
+       <lb/>triumphant entry into Jerusalem and as he
+       <lb/>led captively cappice and gave gifts unto men so ha-
+       <lb/><pb n="21" facs="hv_hj_correspondence_1799_021"/>
+       <lb/>has left us an example that we should follow his
+       <lb/>steps. May thou be richly endowe’d with this
+       <lb/>precious gift that will keep and preserve thee in
+       <lb/>the paths of safety is the sincere desire of thy friend.
+      </p>
+      <p>I must now tell thee a little of other matters
+       <lb/>I wrote to thy friend <persName key="checkplace">I. Fownund</persName> soon after I left thee &amp;
+       <lb/>have since received a letter from him informing of the
+       <lb/>satisfaction he felt in hearing from thee. also that he had
+       <lb/>been down to <placeName key="checkplace">Cape Way</placeName> with <persName key="semle2">Sarah Emlen</persName> who paid an
+       <lb/>acceptable visit in their haste was not well housed. Yesterday I was in
+       <lb/>the City. <persName key="checkplace">Wm Foster</persName> has arived there &amp; it is said is to
+       <lb/>be at our Mo. Meeting on 3rd day next.
+       <lb/><del>Several of</del> a member of friends in the City
+       <lb/>have enquired after the <orgName key="pym">Y. M.</orgName> I had a pressing invitation
+       <lb/><del>to take thee</del> from my relations where my wife &amp;
+       <lb/>me will make our homes to bring thee there either
+       <lb/>to dine or tea, so I mention it timely before thou art
+       <lb/>engag’d for the whole week.
+      </p>
+      <p>Knowing how much thy time is taken up some
+       <lb/>apology may be necessary for the length of this letter
+       <lb/>but I can assure thee it is in perfect freedom I write
+       <lb/>and could a return of that freedom be received from
+       <lb/>the pen of my friend without being borthersome to you
+       <lb/>it would meet with the sincerest acknowledgment
+       <lb/>of thy assured friend
+       </p>
+      <closer><signed><persName key="hjack1">H. J.</persName></signed></closer>
+     </div>
+
+     <div type="letter">
+      <pb n="22" facs="hv_hj_correspondence_1799_022"/>
+      <opener><salute>Respected friends</salute></opener>
+      <p>Your Letter dated the <date when="--11-27">27 of 11 Mo.</date>
+       <lb/>last directed to the Secretary of the <orgName key="fridarby">Darby Asso-
+       <lb/>ciation</orgName> for discourageing the unnecessary use of
+       <lb/>ardent Spirits was received and read at their
+       <lb/>last stated meeting, and the association being
+       <lb/>impressed with a belief that an interchange
+       <lb/>of sentiments with similar institutions <del>might</del>
+       <lb/>might tend to mutual advantage and facilitate
+       <lb/>the objects we have in view, have appointed
+       <lb/>a corresponding Committee to answer this
+       <lb/>and similar communications if such should
+       <lb/>be made to them, copies whereof are to be laid
+       <lb/>before the association at the next, succeeding
+       <lb/>meeting.
+      </p>
+      <p>It affords us much encouragment to find
+       <lb/>that some feeling has been excited on this
+       <lb/>important subset and that efforts are made
+       <lb/>in various places <del>to ---rest the progress of</del> to
+       <lb/>meliorate the condition of suffering humany by
+       <lb/>arresting the progress of this destructive article,
+       <lb/>which seems in its various channels to sweep
+       <lb/>the land as with the "broom of destruction".
+      </p>
+      <p>In respect to the effort, made by the
+       <lb/>Darby association we have not yet been engaged
+       <lb/><pb n="23" facs="hv_hj_correspondence_1799_023"/>
+       <lb/>as a body in bringing under the notice of the land any
+       <lb/>retailers of ardent Spirits. Yet divers of there
+       <lb/>have been admonished which use trust has had
+       <lb/>a good effect for knowing the existence of
+       <lb/>such an association it puts them more on their
+       <lb/>guard <del>in</del> this <del>neighbourhood</del> vicinity. There still however
+       <lb/>is reason to fear the unlawful sale of Liquor
+       <lb/>is too freequently practised at those <del>called</del> nurseries
+       <lb/>of vice call’d tippling houses, but the difficulty of
+       <lb/>procuring <del>of procuring</del> evidence from such as are
+       <lb/>concern’d in the violation of the law at such
+       <lb/>places is often a great barrier in the way of bringing
+       <lb/>those hardy offenders to that punishment they
+       <lb/>justly merrit. Our views have been to do more
+       <lb/>by example and precept, than by any
+       <lb/>coercive measures, to lessen the prevalence
+       <lb/>of this evil of intemperance, <del>and that</del> For by
+       <lb/>convincing the Judgment of these who
+       <lb/><del>may</del> tho not considered intemperate themselves,
+       <lb/>may nevertheless <del>may</del> be in the practice of useing
+       <lb/>it as an <unclear>ashote</unclear> of drink, and handing it out
+       <lb/>to such as use it to their own destruction -
+       <lb/>a great object is gain’d, and one of the sources
+       <lb/>from which the streams of intemperances flow
+       <lb/>in a great measure cut off and thus <del>many</del> some
+       <lb/><pb n="24" facs="hv_hj_correspondence_1799_024"/>
+       <lb/>who had not before taken the subject into
+       <lb/>serious consideration <del>may</del> have been induced to toy the
+       <lb/>experiment for themselves, <del>and</del> which has always resulted
+       <lb/>in favour of the disuse of this article.
+      </p>
+      <p>There are many deplorable instances of
+       <lb/>the ravages of this <del>weapon of destruction occur</del> mighty destroyer occuring
+       <lb/>in almost every neighbourhood where by individu
+       <lb/>als are brought to an untimely end, &amp; often their
+       <lb/>families involved in great privation and distress.
+       <lb/>It is believed by collecting in each County the most
+       <lb/>conspicuous instances of this kind &amp; having them
+       <lb/>properly arang’d and brought into public view,
+       <lb/>it might <del>might not only</del> have a favourable
+       <lb/>impression on <del>the</del> many whose habits are leading
+       <lb/>them on the verge of a dangerous precipice lay
+       <lb/>viewing in such a mirror the true picture of
+       <lb/>Drunkenness - Should such a plan meet your
+       <lb/>approbation means may be devised to cooperate
+       <lb/>in its execution.
+      </p>
+      <p>We have had satisfaction in observing since
+       <lb/>the formation of our little society that the subject
+       <lb/>has been held up to view in many of the public
+       <lb/>prints, &amp; the public mind in some degree awakened
+       <lb/>to its importance. Great changes in <del>hab</del> the
+       <lb/>habits of a community (however dangerous their
+       <lb/>tendency) cannot be expected at once, <del>and</del> but great
+       <lb/>events we know have been produced from small
+       <lb/>beginings. witness the rapid spread of emancipation
+       <lb/><pb n="25" facs="hv_hj_correspondence_1799_025"/>
+       <lb/>to a race of men whom the <del>prod--dce</del> power of custom
+       <lb/>had for ages held in inconditional bondage - and
+       <lb/>can there be a worse Slavery on earth than
+       <lb/>the poor <del>ess--ted</del>infatuated sons of intemperance endure
+       <lb/>under the merciless tyrant that sways his Galling
+       <lb/>Scepter over them. Let us then <del>unite over</del>
+       <lb/>unite our efforts to <del>---- emancipate</del> rescue
+       <lb/>from the vortex of destruction this class of our
+       <lb/>fellow beings, with ardent prayers to the almighty
+       <lb/>that he may bless our labours and say as of
+       <lb/>old by the mouth of the Prophet "Let the
+       <lb/>oppressed go force."
+      </p>
+      <p>In order that you may be more fully
+       <lb/>acquainted with the views &amp; regulations of our
+       <lb/>association we here with send you a copy of
+       <lb/>our articles - also an address that was printed
+       <lb/>and spread in various parts previous to the last
+       <lb/>Harvest. These probably many of you have seen
+       <lb/>in the public prints, but as an intercourse <del>inter
+       <lb/>course</del> between the "kindred associations". requested
+       <lb/>on your part, we should also like to receive
+       <lb/>officially any communications that may be made
+       <lb/>by you on this subject
+      </p>
+      <closer><salute>We remain your friends </salute>
+       <lb/><signed><persName key="checkplace">JB</persName></signed>. <signed><persName key="checkplace">Elz</persName></signed>. <signed><persName key="hjack1">HJ</persName></signed>
+       <lb/><signed><persName key="checkplace">Ezsa Michman</persName></signed>
+       <lb/><signed><persName key="wjack1">Wm Jackson Junr</persName></signed>
+       <lb/>Corresponding
+       <lb/>Committee</closer>
+     </div>
+
+     <div type="letter">
+      <pb n="26" facs="hv_hj_correspondence_1799_026"/>
+      <opener>
+       <dateline><placeName key="darby">Darby</placeName> <date when="1817-06-26">6th Mo 26th 1817</date></dateline>
+       <salute>Dear friend,</salute>
+      </opener>
+      <p>Although I dont feel at
+       <lb/>this time as if I could communicate
+       <lb/>any thing that might be useful or
+       <lb/>interesting to thee yet supposeing that
+       <lb/>in a few days more thee and thy valued
+       <lb/>Companion would be about leaving <placeName key="balti1">Balti-
+       <lb/>more</placeName> for the western Countrey, <del>I thought</del>
+       <lb/>I thought I would take the oppertu-
+       <lb/>nity of saluting you before you got to
+       <lb/>a greater distance and possibly it may
+       <lb/>be a means of having a place in your rem-
+       <lb/>embrance when we are further seperated-
+       <lb/>It was a pleasant little Tour to me
+       <lb/>and my wife as far as we accompanied
+       <lb/>you and we reach’d home in good time
+       <lb/><del>that</del> evening and found our little flock
+       <lb/>well. last first day we had the agreable
+       <lb/>company of <persName key="wpool1">William Pool</persName> and wife to dine
+       <lb/>with us. they were well.
+      </p>
+      <p>I trust you meet with kind friends
+       <lb/>in every place, and this I have sometimes
+       <lb/>thought added to the secret consolation <del>of</del>
+       <lb/>of being found in the every of our duty
+       <lb/>makes up for the privations we suffer
+       <lb/><pb n="27" facs="hv_hj_correspondence_1799_027"/>
+       <lb/>in a seperation from our near friends &amp;
+       <lb/>connections &amp; I trust an evidence of thus
+       <lb/>being in thy proper allotment is often mercifully
+       <lb/>furnish’d to thy mind. Indeed I have no doubt
+       <lb/>at all but this is the case and may thy
+       <lb/>attention be more and more fix’d upon the
+       <lb/>heavenly guide which, as it was to Israel of
+       <lb/>old a pillar of Cloud by day, and a pilalr of
+       <lb/>fire by night, so it will prove to thee, to
+       <lb/>be as a lamp to thy feet, and as a Conthorn
+       <lb/>to thy paths. and although thy path
+       <lb/>may sometimes prove to be as among thrones
+       <lb/>yet I trust thou has known from experience
+       <lb/>that thee is not an uncommon thing to
+       <lb/>those tho are call’d upon to stand as advocates
+       <lb/>in the Cause of righteousness and that
+       <lb/>sufferings and deep babtisms are frequently
+       <lb/>then lot, and even at times to feel as though
+       <lb/>they were left without this heavenly guide
+       <lb/>then may we not at such times with pro-
+       <lb/>priety remember that Israel were not to
+       <lb/>Journey forward while the Cloud rested upon
+       <lb/>the tabernade but rather to observe the
+       <lb/>command given to them on the banks of
+       <lb/>the Red Sea "Hand still and see the Salvation
+       <lb/>of God. Herein was there <del>is</del> safety, and by
+       <pb n="28" facs="hv_hj_correspondence_1799_028"/>
+       <lb/>a patient waiting for the renewal of the
+       <lb/>devine command to "go forward," qualification
+       <lb/>will be experienced sufficient to all that may
+       <lb/>be required at thy hand.
+      </p>
+      <p>I had no thought of writing thus when I
+       <lb/>took up my pen but as it is the languge that
+       <lb/>accurid I trust it will do no harm and
+       <lb/>feeling much interrested for thine &amp; compani-
+       <lb/>ans welfare and safe getting along I trust I
+       <lb/>am warranted in saying that I feel towards
+       <lb/>you a portion of that fellowship which is
+       <lb/>with the father and the Son and one with
+       <lb/>another in him.
+      </p>
+      <p>Knowing that thy Journey to the westward
+       <lb/>must be attended with considerable expence
+       <lb/>and fearing thou<del>ght</del> might not be sufficiently
+       <lb/>provided I was glad to hear two or three friends
+       <lb/>express a desire they felt when thee was with
+       <lb/>us to give thee a little aid in this way I
+       <lb/>therefore have accepted what was handed to
+       <lb/>me and here enclose as a freewill offering
+       <lb/>hoping <del>it may</del> though small it may
+       <lb/>be useful to thee, &amp; indeed this is nothing
+       <lb/>but our reasonable duty.
+       <lb/><pb n="29" facs="hv_hj_correspondence_1799_029"/>
+       <lb/><persName key="checkplace">Amos Peasly</persName>
+       <lb/>Amos Peasley
+       <lb/>Amos Peasley
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="30" facs="hv_hj_correspondence_1799_030"/>
+      <opener>
+        <dateline><placeName key="darby">Darby</placeName> <date when="1825-12-11">12mo 11th 1825</date></dateline>
+       <salute>Dear Friend</salute>
+      </opener>
+      <p>When I call’d to See thee at <persName key="jhunt1">John Hunts</persName> the day thou was as our
+       <lb/>meeting it was my inlintion to have had some conversation
+       <lb/>with the on the subject of thy communication but so much
+       <lb/>company being present and the time of thy stay so short
+       <lb/>there seem’d to be no suitable oppertunity, &amp; since reflecting
+       <lb/>on it more maturely I have not felt quite easy with some
+       <lb/>things thou communicated. Accordingly, I call’d again
+       <lb/>on thee yesterday with that view, but finding thee engag’d with
+       <lb/>a number of friends, I found a private oppertunity could
+       <lb/>not be obtain’d which is most desirable on such occasions
+       <lb/>I have therefore thought best to address thee by writing
+       <lb/>&amp; I feel the more freedom so to do as from the little acquain
+       <lb/>tance I have had with thee I am induc’d to believe that well
+       <lb/>meant advice will be duly regarded, though it may come
+       <lb/>from the least child in the family.
+      </p>
+      <p>I could freely acknowledge the fare part of thy commu-
+       <lb/>nication was satisfactory to me and contain’d many gospel
+       <lb/>truths, but when thou suffer’d thy mind to be led <del>off</del> into
+       <lb/>outward circumstances and to treat on the passing events
+       <lb/>of the day, the divisions of sentiments in society &amp; I appre
+       <lb/>hend the light than wast favour’d with in the begining was
+       <lb/>very much eclips’d &amp; than advanc’d some things that
+       <lb/>do not altogether correspond with the Doctrine of our early
+       <lb/>friends if I have rightly understood their writings.
+      </p>
+      <p>I don’t know that I can repeat the expressions correctly
+       <lb/>But am I <del>correct</del> mistaken my friend, when I understood thee to convey an Idea
+       <lb/>that "we are responsible for not behaving what we cannot
+       <lb/>understand or comprehend; that the blood of Christ was
+       <lb/>not the life of Chrise, &amp; that a belief in the Spirit of Christ
+       <lb/>within was not alone sufficient to effect our Salvation."
+      </p>
+      <p>We are told in the Scriptures that "the secret things belong unto
+       <lb/>the Lord our good: but those things that are revealed belong unto
+       <lb/>us &amp; to our Children forever." Dut.29. &amp; 29. If then reveal’d to us
+       <lb/>that must be made plain to our comprehension &amp; understanding
+       <lb/>otherwise they cannot be a revelation to us, and therefore
+       <lb/>must remain among the inscrutable things of the almighty
+       <lb/><pb n="31" facs="hv_hj_correspondence_1799_031"/>
+       <lb/>which he has not sow meet to communicate to man &amp;
+       <lb/>which man cannot be accountable for. I know there are many
+       <lb/>things in the material world that do exist, as well as events take
+       <lb/>place in human affairs that are visible to our outward senses
+       <lb/>but which our reasoning faculties cannot comprehend how
+       <lb/>they are brought to progs; But I apprehend the almighty has not
+       <lb/>left us so in the dark with regard to our Spiritual Concerns.
+       <lb/>The knowledge of attaining salvation does not depend upon the
+       <lb/>testimony of another. "He hath shewn unto thee a man what
+       <lb/>is good &amp; what he requires of thee &amp; c" I will put my law
+       <lb/>in their <del>hearts</del> inward parts and write it in their hearts.
+       <lb/>and they shall teach no more every man his neighbour
+       <lb/>and every man his brother Saying know the Lord, for they
+       <lb/>shall all know me from the least of them to the greatest of
+       <lb/>them" Jer. 31. 33. 34.
+      </p>
+      <p>With regard to the "blood of Christ not being understood as
+       <lb/>the life of Christ when applied to our salvation, I shall only
+       <lb/>refer thee to <persName key="rbarc1">Barc<del>k</del>lays</persName> appo. in his XIII proposition where
+       <lb/>he treats largely "of the Body &amp; Blood of Christ" and I
+       <lb/>thank my dear friend thou will see, that unless I have
+       <lb/>misunderstood thee, than differs from his <del>La-rge</del> description
+       <lb/>of the Nature and effects of this Body flesh &amp; Blood of
+       <lb/>Christ, which I think he fully proves to be of a Spiritual
+       <lb/>Nature &amp; not to be understood of that "Body or temple of
+       <lb/>Jesus Christ which was born of the Virgin Mary and in
+       <lb/>which he walked lived &amp; suffered in the land of Judea".
+      </p>
+      <p>another part of thy testimony seem’d to imply as
+       <lb/>though there was a great departure from Sacrndness of
+       <lb/>principle amongs us. I do not pretend to be a discern
+       <lb/>er of the thoughts, but I believe thou mistook the stole
+       <lb/>of our meeting in this particular for I apprehend there are
+       <lb/>very few of any among us to whom this doctrine would apply
+       <lb/>and my impression was that it <del>partook</del> was too much <del>of</del>
+       <lb/>under the influence of the party Spirit that is now laying waste the peace and
+       <lb/>harmony of our Society, &amp; I had a hope that on thy return
+       <lb/>to American thou would take no part in this, but endea
+       <lb/>vour as for thou might have influence to be a healer
+       <lb/><pb n="32" facs="hv_hj_correspondence_1799_032"/>
+       <lb/>of breaches. But thou may rely upon it my dear
+       <lb/>friend that such Doctrine as part of what thou
+       <lb/>delivered among us, instead of restoring peace and
+       <lb/>harmony in Society, and gathering into the unity of the
+       <lb/>one Spirit, will have the effect of dividing more
+       <lb/>in Jacob and Scattering in Israel.
+      </p>
+      <p>Friends of <placeName key="darby">Darby</placeName> have hitherto been much preserved in the
+       <lb/>Unity having a living Ministry preserved among us which
+       <lb/>I trust we duly appreciate &amp; hope it may continue
+       <lb/>to be a blessing to the church for Where the trumpet
+       <lb/>gives an uncertain sound who shall prepare himself
+       <lb/>for the battle. Have my dear friend altho’ I have
+       <lb/>written thus plainly I can assure thee I feel no hostility
+       <lb/>towards thee but believing <del>that</del> according to thy own
+       <lb/>doctrine that honesty to our best and dearest friends
+       <lb/>is the greatest kindness we can shew them, I trust what
+       <lb/>I have written will at least be considered of intended
+       <lb/>for thy good, for I sincerely desire that thy religeous
+       <lb/>labours among us may be such as will bring peace
+       <lb/>to thy own mind. If I have misunderstood thee I wish
+       <lb/>to be corrected &amp; should thy lot be cast among us again shall be
+       <lb/>glad to receive thee at my house and cultivate a more inti-
+       <lb/>mate acquaintance with thee.
+      </p>
+       <closer><salute>Thy friend</salute>
+       <lb/><signed><persName key="hjack1">Halliday Jackson</persName></signed></closer>
+       <postscript><p>Copy</p>
+       <p>NB I can inform thee that there is a <del>very</del> general dissa-
+       <lb/>tisfaction with thy communication at <placeName key="darby">Darby</placeName> both among the
+       <lb/>youth, the aged &amp; some that were not members of our Society
+       <lb/>I think it is right to let thee know this. But the communi-
+       <lb/>cation I have made it would be my choice to be kept between
+       <lb/>thee &amp; me alone. however I have no controll over it after
+       <lb/>passing from my hands. <del>I have</del>
+       </p>
+       <p><del>thy frie</del></p>
+       <p><persName key="hjack1">H.J.</persName></p>
+       </postscript>
+     </div>
+     <div type="undetermined">
+      <pb n="33" facs="hv_hj_correspondence_1799_033"/>
+      <p>Copy of a Letter to
+       <lb/><persName key="checkplace">Anna Braithwait</persName></p>
+     </div>
+
+     <div type="letter">
+      <pb n="34" facs="hv_hj_correspondence_1799_034"/>
+      <head>To The Meetings of Friends in <placeName key="irel">Ireland</placeName> <placeName key="gbrit">Great
+       <lb/>Britain</placeName> and <del>elsewhere wheresoever</del> other parts of <placeName key="euro">Europe</placeName> where these lines may come</head>
+      <opener><salute>Dear Friends</salute></opener>
+      <p>The Bearer our beloved friend <persName key="wjack1">Wm Jackson</persName>,
+       <lb/>in a solid and affecting manner mentioned to <del>this</del> our <orgName key="meetngard">Mo Meeting
+       <lb/>at Newgarden</orgName> that he hath for several years past, and latterly with increasing
+       <lb/>weight and clearness felt his mind drawn in Gospel love to pay a
+       <lb/>religeous visit to friends in Ireland, some parts of Great
+       <lb/>Britain and elsewhere in Europe, as truth may open the way which
+       <lb/>claiming <del>the</del> our solid attention; after a time of serious deliberation
+       <lb/>a general approbation appeared, and heartfelt simpathy and
+       <lb/>unity exprest with him on his weighty &amp; important undertaking.
+      </p>
+      <p>We hereby <del>certify on his behalf,</del> inform you that he is a Minister
+       <lb/>in good esteem amongst us, his Doctrins sound and edifying
+       <lb/>and his life and conversation corresponding with our holy profession
+       <lb/>and haveing settled his outwar’d affairs to satisfaction we
+       <lb/>resign him to the protection of the Shepperd of Israel <del>who
+       <lb/>putteth forth his own and goeth before them</del> in the prosecution of his <del>Journey</del> concern, fervently desireing
+       <lb/>his preservation under the at direction of the Great Master who
+       <lb/>putteth forth his own and goeth before them; and that his
+       <lb/>Gospel labours among you May be blest to your edification and to
+       <lb/>the honour of the cause in which he has embarked, that when the
+       <lb/>work asigned him your quarter of the world may be accomplished
+       <lb/>he may if consistent with the divine will be permitted to return
+       <lb/>to his family and friends again in peace.
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="35" facs="hv_hj_correspondence_1799_035"/>
+      <opener>
+       <dateline><placeName key="tusca1">Tuskarora Village</placeName> March 8th 1808</dateline>
+       <salute><persName key="egran1">Mr Granger</persName></salute>
+      </opener>
+      <p>We chiefs must inform you, as you are superintendant
+       <lb/>that bad thing happen in our Nation, last saturday we very sorry
+       <lb/>we hope you will not be angry with us about it, when you know truth
+       <lb/>about it. One <unclear><persName key="checkplace">William</persName></unclear> belong <orgName key="oneida">Oneida Nation</orgName>, very bad man - he kill
+       <lb/>one wife in Oneida. he then ran away come among us - take wife in
+       <lb/>our nation. he get drunk <del>very</del> often. beat his wife very much many
+       <lb/>times, most kill her, he often say he would kill some our people. last
+       <lb/>saturday he come home drunk, he try to kill his son - a young chief -
+       <lb/>he knife from his father. his son break it run to bush where his
+       <lb/>mother and children make sugar soon William follow him - come
+       <lb/>to camp all run in to busk but one young man brother to Wm
+       <lb/>wife, he had come from grand river to visit. he would not run.
+       <lb/>he think William had gun - most dark - he think he heard gun
+       <lb/>snap - Wm stand behind a tree he then shot at Wm with small
+       <lb/>shots - Wm then gaoway, he lay all night in cold - next morn-
+       <lb/>ing was found dead may be froze mere Death than shot kill him
+       <lb/>we do not know. Monday be buried him. The young man that
+       <lb/>kill him gone grand River we hope you will advise what is right-
+       <lb/>we send you knife broke you may see it. we hope you will
+       <lb/>not think murder. our whole nation mourn. We hope our Nation
+       <lb/>will not be blame. We mean to keep sabbeth &amp; hear gosple
+       <lb/>&amp; try to persuade all our nation not drunk whisky. We sham’d
+       <lb/>any our people get drunk. we wish you send letter by young
+       <lb/>man bring this - and tell when you come see. he want to
+       <lb/>see you here our fireplace. we send our love to you.
+      </p>
+      <closer>
+       <signed>
+        <list>
+         <item><persName key="checkplace">Sagarisa</persName></item>
+         <item><persName key="checkplace">Capt. William</persName></item>
+         <item><persName key="checkplace">Thomas</persName></item>
+         <item><persName key="checkplace">Dagwaleahah</persName></item>
+         <item><persName key="checkplace">John Monpeyont</persName></item>
+         <item><persName key="checkplace">Peter</persName></item>
+         <item><persName key="ncusi1">Nicholas Cusick</persName></item>
+        </list>
+        </signed>
+      </closer>
+      <postscript>
+       <label>N.B.</label>
+       <p>the above letter was written by
+        <lb/><persName key="ncusi1">Nicholas Cusick</persName> a chief of the
+        <lb/><orgName key="tuscarora">Tuskarora Nation</orgName> who had
+        <lb/>been taught to read and write
+       </p>
+      </postscript>
+     </div>
+     <div type="undetermined"><pb n="36" facs="hv_hj_correspondence_1799_036"/>
+      <p><persName key="ncusi1">Nicholas Cusick’s</persName>
+       <lb/>Letter to <persName key="egran1">E.G.</persName>
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="37" facs="hv_hj_correspondence_1799_037"/>
+      <opener><salute>Brother <persName key="hjack1">Halliday Jackson</persName></salute></opener>
+      <p>I write a few lines to
+       <lb/>the I am yet alive and well &amp; live happy with
+       <lb/>my people Some time I trade with to get a living
+       <lb/>some people talk bad &amp; Say I cheat some Say good
+       <lb/>words &amp; want me Sell goods
+      </p>
+      <closer><signed><persName key="nsilv1">Nicholas Silverheels</persName></signed></closer>
+     </div>
+     <div type="undetermined">
+      <pb n="38" facs="hv_hj_correspondence_1799_038"/>
+      <p><persName key="hjack1">Halliday Jackson</persName>
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="39" facs="hv_hj_correspondence_1799_039"/>
+      <opener>
+       <dateline><placeName key="colds">Cold Spring</placeName> <date when="1819-08-31">8mo 31th 1819</date></dateline>
+       <salute>Respected friend</salute>
+      </opener>
+      <p>I am now going to write a
+       <lb/>little to thee. very warm weather here at
+       <lb/><placeName key="alleg1">allegany</placeName> this Summer corn grows very good and
+       <lb/>potatoes too and buck wheat and beans and all
+       <lb/>kinds of things grows good this Summer
+       <lb/>we have not got any School at <placeName key="cornp">cornplanters</placeName>
+       <lb/>now I come Some times to School
+       <lb/>at Cold Spring I want to learn my book and
+       <lb/>understand english well I live great ways off
+       <lb/>may be 6 miles distance Some of the indians
+       <lb/>dont want to learn book Some of them
+       <lb/>want to understand english and learn to read and
+       <lb/>write Indians Council now at Cold Spring
+       <lb/>because got new Corn to eat not many
+       <lb/><pb n="40" facs="hv_hj_correspondence_1799_040"/>
+       <lb/>people go down the <placeName key="alleg">allegany river</placeName> this Summer in
+       <lb/>boats when it is high water a great many rafts and
+       <lb/>arks of boards go down allegany river to <placeName key="pitts">pittsburgh</placeName>
+       <lb/>and <placeName key="cinci">Cincinnati</placeName> and <placeName key="ohio">ohio</placeName> I have no more to say
+       <lb/>at present from <persName key="checkplace">John Crouse</persName>
+       <lb/>To <persName key="hjack1">Holliday Jackson</persName> farewell
+       <lb/>I want thee to write me a letter
+      </p>
+     </div>
+     <div type="undetermined">
+     <pb n="41" facs="hv_hj_correspondence_1799_041"/>
+     <p><persName key="hjack1">Holliday Jackson</persName>
+      <lb/><placeName key="darby">Darby</placeName>
+      <lb/><placeName key="penns">Pennsylvania</placeName>
+     </p>
+     </div>
+
+     <div type="letter">
+      <pb n="42" facs="hv_hj_correspondence_1799_042"/>
+      <opener>
+       <dateline><placeName key="checkplace">Pine Grove</placeName> <date when="1834-12-04">12th mo 4th</date></dateline> <!-- 1834 was selected as the year since Oliver Schofield and Mary Jackson married in 1834 and Halliday Jackson died in 1835  -->
+       <salute>My dear <persName key="hjack1">Father</persName></salute>
+      </opener>
+      <p>I suppose you will be somewhat
+       <lb/>disapointed in seeing <persName key="oscho1">Oliver</persName> come home without
+       <lb/>me but on several accounts I thought it would
+       <lb/>be best to stay another week and allother concl-
+       <lb/>uded it would now be a good time for
+       <lb/>Oliver to go down for the things that are in
+       <lb/>town where the roads are good and as they
+       <lb/>are not paid for, thee will please to furnish
+       <lb/>him with the money I believe the box
+       <lb/>of ware came to between 21 &amp; 22 $ and the
+       <lb/>chair, the 12 ¼ &amp; have the money for the glasses
+       <lb/>but I shall leave them untill I come my
+       <lb/>self I want very much to see you all
+       <lb/>tho I am not home sick for I have enjoyed
+       <lb/>myself and feel that I can be contended
+       <lb/>even 32 miles from home althe I can
+       <lb/>assure thee it was no small sacrifice of feelling
+       <lb/>to leave a such home. I have had and a father
+       <lb/>who has been so kind and is now in the decline
+       <lb/>of life, but I hope there are those left that can
+       <lb/>and will feel the interest that I have done
+       <lb/>and surpass me in kindness and attention that
+       <lb/><pb n="43" facs="hv_hj_correspondence_1799_043"/>
+       <lb/>that is ever due to such a parent.
+      </p>
+      <p>I feel very well satisfied with my new
+       <lb/>house and have no doubt but that I shall
+       <lb/>be comfortable and happy which will be
+       <lb/>a satisfaction to thee to know. and as it was
+       <lb/>my most earnest desire to be wrightly directed
+       <lb/>in a matter of such great importance I trust
+       <lb/>it will be a happy connection which will
+       <lb/>in a great measure alleviate the trial of
+       <lb/>being so far separated from you.
+      </p>
+      <p>Today was their monthly meeting at <placeName key="newto2">Newtown</placeName>
+       <lb/><persName key="checkplace">Benjamin Mather</persName> was there and spoke. I
+       <lb/>suppose <persName key="checkplace">John</persName> told thee how very poorly
+       <lb/><persName key="checkplace">Edward Hicks</persName> was when he was there, he
+       <lb/>was able to be at meeting and said a
+       <lb/>good deal in the last meeting it was the
+       <lb/>time for the committee to repeat on the
+       <lb/>subject of Eldery but I dont think they
+       <lb/>had as warm a time as we had. they
+       <lb/>did not make much change I believe
+       <lb/>only added a few more names.
+      </p>
+      <p>We rode in to <persName key="checkplace">William Brooks</persName>, the other day
+       <lb/>he has got my furniture nearly, ready
+       <lb/>but has not brought it home yet I expect
+       <lb/>he is in <placeName key="darby">Darby</placeName> to day at his sisters wedding
+       <lb/><pb n="44" facs="hv_hj_correspondence_1799_044"/>
+       <lb/>they have had a beautiful day for it
+       <lb/>I shall be quite sorry if I do not get to
+       <lb/>see <persName key="checkplace">Sis</persName> before she goes to school tho I am
+       <lb/>very glad you have made up your minds
+       <lb/>to send her as she seemed so anxious to
+       <lb/>go. your family will be quite decreased
+       <lb/>I think when one of them comes to stay
+       <lb/>with me a while it will be very pleasant
+       <lb/>to have one of them here when I get <unclear>fixa</unclear>
+       <lb/>and as to <persName key="checkplace">Sarah</persName> I believe she looks on this
+       <lb/>as one of her homes. I believe I must
+       <lb/>conclude soon give my love to <persName key="checkplace">Mother</persName>
+       <lb/>and kiss the <persName key="checkplace">little boy</persName> for me, I quite want
+       <lb/>to see him, but one week will soon pass
+       <lb/>away and then I hope to be seated again
+       <lb/>in our family, circle, my love to all as
+       <lb/>if named and you claim the largest share
+       <lb/>for thyself,
+      </p>
+      <closer><salute>from thy affectionate daughter</salute><signed><persName key="checkplace">M. H. Schofield</persName></signed></closer>
+     </div>
+     <div type="undetermined">
+      <pb n="45" facs="hv_hj_correspondence_1799_045"/>
+      <p><persName key="hjack1">Halliday Jackson</persName>
+       <lb/><placeName key="darby">Darby</placeName>
+       <lb/><placeName key="delco">Delaware Co.</placeName>
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="46" facs="hv_hj_correspondence_1799_046"/>
+      <opener><salute>Dear friend</salute></opener>
+      <p>I did not receive thine of the <date when="--04-30">30th of 4th mo last</date> until after
+       <lb/>the <orgName key="checkplace">Quarterly meeting</orgName>. Our Post Master did not send it to me, and I
+       <lb/>suppose I might still have been without it had I not happened to call at
+       <lb/>the Office to enquire. Since my return from <placeName key="conco">Concord</placeName> and after reading
+       <lb/>thy letter I have thought that notwithstanding the subject alluded
+       <lb/>to in thy Letter has closed, I should feel most satisfied to say
+       <lb/>something in reference at least to some of my own views and feelings
+       <lb/>in the case; this I shall do in the freedom of an affectionate friendship
+       <lb/>which I have always felt for thyself as well as for a number of <placeName key="darby">Darby</placeName>
+       <lb/>Friends since a pretty long acquaintance. Thou art aware, I have
+       <lb/>no doubt, that the Committee to whom the affair was given in charge
+       <lb/>had to wade through a great mass of matter of various kinds, calculated
+       <lb/>to call into exercised both the judgment and the patience of Friends. It
+       <lb/>was very evident that all who had to treat with the appellant, had need
+       <lb/>of both. But in exact coincidence of sentiment with thyself (as expressed
+       <lb/>in thy Letter) on the subject of appeals, my case was to divest myself of
+       <lb/>the impressions of all extraneous matter and to direct my best attention
+       <lb/>to discover the single point <emph rend="underline">whether the monthly meeting had proceeded
+       <lb/>"regularly or irregularly in the case</emph>. As to the point of derangement I
+       <lb/>intirely coincide with thee in the belief that the present case was of such
+       <lb/>a nature as could only be rightly understood and judged of by the mo
+       <lb/>meeting, total derangement perhaps might with propriety  be submitted
+       <lb/>to a Committee on an appeal, but whilst the degrees of it are almost infi-
+       <lb/>nite any thing short of the absolute loss of reason can only properly
+       <lb/>belong to those who have to labour through the various stages of
+       <lb/>treatment with an Individual to judge of.
+      </p>
+      <p>as I signed the Report to the Q. M. under an apprehension that the case
+       <lb/>had not been treated according to the intentions of the Discipline I will
+       <lb/>endeavour to give thee my views on the case in question, first by stating
+       <lb/>what I apprehend the Displine intends, and afterward by pointing
+       <lb/>out the particular failure in the administration of it.
+      </p>
+      <p>When <emph rend="underline">arbitrators</emph> are chosen by parties who have a difference the
+       <lb/>Discipline requires that they should give the parties "a fair and <emph rend="underline">full</emph>
+       <lb/>hearing in the presence of each other" not "suffering their own sentiments
+       <lb/>to be known abroad till they have <emph rend="underline">fully digested</emph> the subject and come
+       <lb/>to a <emph rend="underline">clear decision</emph>" on the case. When if the parties or either of them
+       <lb/>shall refuse to abide by the award <emph rend="underline">when issued</emph> they are to be complain
+       <lb/>ed of to the monthly meeting. Now it appeared to the Committee that
+       <lb/>a <emph rend="underline">full</emph> and fair hearing had not been given to the appellant by the
+       <lb/>arbitrators and that they had <emph rend="underline">never issued the award</emph> and moreover
+       <lb/>had <emph rend="underline">suffered their sentiments to be known abroad before they had fully
+       <lb/>digested the subject.</emph> These digressions from the path clearly marked
+       <lb/>out by the Discipline appeared in evidence as follows. The arbitrators
+       <lb/>signed a paper certifying that certain Evidence on the past of the appellant
+       <lb/>was not present when the case was to have been attended to, and which
+       <lb/>they thought <emph rend="underline">should</emph> be heard, that they were <emph rend="underline">not satisfied</emph> with an
+       <lb/><pb n="47" facs="hv_hj_correspondence_1799_047"/>
+       <lb/>award signed by themselves the evening on which they had met but had
+       <lb/>agreed to hold it for further Consideration. in the meantime it appeared
+       <lb/>that they had <emph rend="underline">suffered their own sentiments to be known abroad</emph> as
+       <lb/>it was evident the appellant had heard the purport of the <emph rend="underline">award</emph>, and
+       <lb/>finally it seemed certain they had never <emph rend="underline">issued it</emph>.
+      </p>
+      <p>As I have not the Documents I may not exactly remember the language
+       <lb/>used but I am persuaded the foregoing is substantially correct.
+      </p>
+      <p>It further appeared in evidence that the Appellant, after the aforesaid
+       <lb/>meeting, was dissatisfied and applied to one of the overseers stating
+       <lb/>the causes of his dissatisfaction, and the overseer refused to notice
+       <lb/>the Complaint on the ground that the Friend complained of was
+       <lb/>connected in partnership with one who was not a member. we
+       <lb/>were also informed that the overseers discouraged any further proceed
+       <lb/>ings believing there was no just cause of complaint, and that finally
+       <lb/>a Committee of the <emph rend="underline">preparative</emph> meeting united in sentiment with
+       <lb/>the overseers in their Judgment and so reported to that meeting
+       <lb/>who sanctioned the report of its Committee. I will now in the freedom
+       <lb/>and confidence of friendship state to thee what appears to me irregu-
+       <lb/>lar in these proceedings. In the first place the officers of one
+       <lb/>monthly meeting had so far <emph rend="underline">acknowledged that there was cause
+       <lb/>of complaint</emph> as to advise the parties to submit to an arbitration
+       <lb/>and having gone so far your overseers ought to have seen that measure brought
+       <lb/>to an issue according to discipline. perhaps this would have been
+       <lb/>best done by advising the arbitrators to meet again if only for the
+       <lb/>sake of regularity, hear all the evidence that the parties would
+       <lb/>produce, come to a deliberate judgment in the case, and <emph rend="underline">issue an
+       <lb/>award</emph> to the parties. then the course of the Discipline is clear-
+       <lb/>"if either of the parties shall not abide by the award <emph rend="underline">when issued</emph>
+       <lb/>"the Offender should be complained of to the <emph rend="underline">monthly</emph> meeting," when
+       <lb/>unless he "make it evident to the satisfaction of the said meeting
+       <lb/>"<lb/>that the award is erroneous or unjust" the meeting is at liberty
+       <lb/>to disown him. Now under this view of the Subject I do not see
+       <lb/>that the <emph rend="underline">Preparative meeting</emph> had any thing to do with the case
+       <lb/>at that stage of the affair when they interfered, as the case was
+       <lb/><emph rend="underline">then</emph> actually before arbitrators who had yet come to no clear decision
+       <lb/>in it, nor <emph rend="underline">issued</emph> an award. There may have been difficulties in
+       <lb/>the accomplishment of the plan suggested above - the appellant
+       <lb/>might not have brought his evidence on the second hearing, or he
+       <lb/>might have refused to give his attendance when desired - but in
+       <lb/>either of those cases the course for the meeting to pursue appears
+       <lb/>to me clear - in the first, the arbitrators would have been the jud-
+       <lb/>ges of the validity of any excuse offered for the absence of evidence
+       <lb/>in the second, the discipline authorises a complaint to the month
+       <lb/>ly meeting who may disown for such refusal.
+      </p>
+      <p>Thou will perceive that all I have said on this trying subject
+       <lb/>is predicted on the ground that an arbitration in the case was
+       <lb/>proper under the Circumstances of this however many Friends
+       <lb/>doubt. I mean so far as that measure can be considered as an
+       <lb/>act under the authority of the Discipline. I am aware that on
+       <lb/>this head different opinions are held by men amongst us, whose
+       <lb/>judgment makes me very diffident of my own. I will however
+       <lb/>in the same freedom and confidence with which I have written
+       <lb/>the above give some of my views of the subject and should be
+       <lb/>glad of thy own in return.
+       <lb/>By a close attention to the words in this letter that are underscored the meaning I intent to convey
+       <lb/>will be more clearly understood
+       <lb/><pb n="48" facs="hv_hj_correspondence_1799_048"/>
+       <lb/>I shall proceed on the supposition that a partnership did actually
+       <lb/>exist between the member complained of and another person who had
+       <lb/>not a sight in society and afterward speak of the actual case.
+      </p>
+      <p>I believe it is the practice of Society generally when a Complaint is
+       <lb/>preferred against a member who stands connected in partnership
+       <lb/>with one who is not a member to decline any interference in such
+       <lb/>case inasmuch as any advice or decision may be rendered void
+       <lb/>by a refusal on the part of the firm to take the advice of Friends, or
+       <lb/>by declining to abide by any decision made on a matter referred,
+       <lb/>in either of which cases a meeting cannot enforce the Discipline.
+       <lb/>It appears to me just that every rule applied to one member should
+       <lb/>also apply to another. If an arbitration were granted in such case
+       <lb/>the member who stood alone would be bound to comply with an
+       <lb/>award given, whilst the other might evade it by alleging the un-
+       <lb/>willingness to comply on the past of his partner without whose consent
+       <lb/>it might in many cases be impossible he should. I do not know-
+       <lb/>of any express Discipline relating to Partnership disputes, but the
+       <lb/>above reasons are so forcible that I do not see how a better course
+       <lb/>could be pursued than that which appears to be generally adopted
+       <lb/>by Society.
+      </p>
+      <p>With respect to the particular case referred to the Committee of
+       <lb/>which I was a member, it appeared by a transcript from the
+       <lb/><emph rend="underline">magistrate’s</emph> Docket that suit was brought against G and K
+       <lb/>was partners. by which we obtained <emph rend="underline">his</emph> opinion in the <unclear>case</unclear>.
+       <lb/>the award given under the rule granted by him was in the
+       <lb/>name of G and K as partners; and it was admitted the trespassing
+       <lb/>Cattle were the joint Stock of G and K purchased at their joint expense
+       <lb/>and fed for their joint profit or loss. Under this view of the case it ap-
+       <lb/>peared to me that all the essentials of a Partnership were clearly
+       <lb/>proved or admitted and according to the general usage of Society the
+       <lb/>appellant had a sight to sue without asking leave of the monthly
+       <lb/>meeting to take such a course. If thou’lt turn to the Dicipline under
+       <lb/>the head of "Law" it will be perceived that the overseers or other judici-
+       <lb/>ous Friends being convinced that a <emph rend="underline">member</emph> is under such necessity to
+       <lb/>sue as may satisfy them, such member is not subject to treatment for
+       <lb/>suing a fellow member. It appears by what is said above that a partner-
+       <lb/>ship between a member and one who is not a member is <emph rend="underline">a case</emph> in which
+       <lb/>monthly meetings <emph rend="underline">generally</emph> hold a member excused for suing a member
+       <lb/>and it also appears that one of your own overseers declined to notice this
+       <lb/>case on that account. Under <emph rend="underline">all</emph> these views I thought myself ob-
+       <lb/>liged to sign the Report, in doing which I felt tried on Friends ac-
+       <lb/>count who I had no doubt had laboured patiently and faithfully with
+       <lb/>a very troublesome member, and who had pursued a Course that at
+       <lb/>the time appeared to them a proper one. If I have been in an error
+       <lb/>I have no doubt you will chearfully cast a mantle of Charity over
+       <lb/>my weakness and continue to believe me your well meaning friend.
+      </p>
+      <p>Since my return I have heard that some uneasiness was excited by
+       <lb/>a report that one member of the Committee had taken a very active part, but
+       <lb/>I am not aware that any improper influence was excited by the conduct of
+       <lb/>any of the Committee, I hope and believe an open candid and impartial dis-
+       <lb/>position was generally prevalent and I am sure much tenderness was ex-
+       <lb/>pressed toward the Friends of the monthly meeting concerned.
+      </p>
+      <closer><salute>I am affectionately thy friend</salute> <signed><persName key="blevi1">B.F.</persName></signed></closer>
+      <postscript><label>P.S.</label><p>Thou art at liberty to show this letter to my friends, <persName key="egarr2">Edward Garrigues</persName> and <persName key="checkplace">Jno H Bunting</persName>
+       <lb/>perhaps it would not be best to spread my views further, this however I leave to thy judgment.</p></postscript>
+     </div>
+     <div type="undetermined">
+       <pb n="49" facs="hv_hj_correspondence_1799_049"/>
+       <p>single
+       <lb/><persName key="hjack1">Halliday Jackson</persName>
+       <lb/><placeName key="darby">Darby</placeName>
+       <lb/><placeName key="delco">Delaware County</placeName>
+       <lb/><placeName key="penns">Pennsylvania</placeName>
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="50" facs="hv_hj_correspondence_1799_051"/>
+      <opener>
+       <dateline><placeName key="alleg">Allegany River</placeName> <date when="1812-07-24">7mo 24th 1812</date></dateline>
+       <salute>Esteemed Fa,</salute>
+      </opener>
+      <p>I am now within a few miles of <placeName key="pitts">Pittsburgh</placeName>
+       <lb/>having come to assist <persName key="tdutt1">T. Dutton</persName> &amp; family to that place by
+       <lb/>water as they have now carried out their tour of duty amongst
+       <lb/>the natives and I hope they <del>will</del> feel that reward arising from
+       <lb/>a sense of duty fulfilled; as they have (in my opinion) fulfilled the
+       <lb/>trust committed to their ease with wisdome and prudence
+       <lb/>my best wishes attend them; We left home on a raft made of 7 or 8
+       <lb/>pine logs &amp; came on them to <placeName key="frank">Franklin</placeName> where we found a boat
+       <lb/>nearly ready to start for Pittsburgh in which we agreed for a
+       <lb/>passage by Thos &amp; myself taking our turn at the oars we
+       <lb/>put our Waggen &amp; loading on board and are very well accomodated
+       <lb/>and go much faster than we could do with raft as the water
+       <lb/>is very low &amp; difficult to follow the channel. <persName key="checkplace">Sarah</persName> was very poorly
+       <lb/>the first 5 days after we left home but is now much better.
+       <lb/>I am afraid she will have a hard time geting over the mountains
+       <lb/>in waggin as the road is rough &amp; the weather likely to be very warm
+       <lb/>tho at this time it is cool enough, I was very anxious to have went
+       <lb/><del>went</del> with them but <persName key="checkplace">Robt Clendenon</persName> &amp; family being all
+       <lb/>new hands they ware very solicitous that I would stay at least
+       <lb/>until the Committee comes in the fall, which after <del>g d dgl of</del> serious
+       <lb/>consideration on the subject I felt most easy to do, at which
+       <lb/>time I shall expect to take my departure to the land of the
+       <lb/>East as I dont feel <del>any thing</del> under any kind of obligation to
+       <lb/><pb n="51" facs="hv_hj_correspondence_1799_052"/>
+       <lb/>stay longer than <del>than</del> that time notwithstand thee was appre-
+       <lb/>hensive that some loss might be sustained for want of an interpreter
+       <lb/>I hope thee will not think hard of me if thee should see me
+       <lb/>riding up to door in about two or three months from this
+       <lb/>time, when I shall be pleased to have two or three hours conver
+       <lb/>sation with thee, I have not yet said any thing about <persName key="checkplace">Robert
+       <lb/>Clendenons</persName> arival &amp; they had a pretty favourable journey
+       <lb/>as far as <placeName key="checkplace">Kings</placeName>, notwithstanding a part of the road was very bad
+       <lb/>I met them at that place where I had a raft prepared suitable
+       <lb/>to take them &amp; Waggen <persName key="checkplace">T. Hibberd</persName> took the horses by land
+       <lb/>time will not admit of saying more at present shall
+       <lb/>refer thee to <persName key="tdutt1">T. Dutton</persName> for further information
+       <lb/>the boat shakes so much that it is difficult writing
+       <lb/>a Letter by the Committee would be very acceptable
+       <lb/>if thou art so inclin’d.
+      </p>
+      <closer>
+       <salute>Thine &amp; c.</salute><signed><persName key="jswai1">Joel Swayne</persName></signed>
+      </closer>
+     </div>
+     <div type="undetermined">
+      <pb n="52" facs="hv_hj_correspondence_1799_050"/>
+      <p><persName key="hjack1">Halliday Jackson</persName>
+       <lb/><placeName key="darby">Darby</placeName>
+       <lb/><unclear>Wr</unclear>
+       <lb/><persName key="tdutt1">T. Dutton</persName>
+      </p>
+     </div>
+
+     <div type="letter">
+      <pb n="53" facs="hv_hj_correspondence_1799_053"/>
+      <opener>
+       <dateline><placeName key="checkplace">Waynesville</placeName> <date when="1834-07-21">7th mo 21st 1834</date></dateline>
+       <salute>Dear Friend</salute>
+      </opener>
+      <p>Thy late Friend and our Dear Father
+       <lb/><persName key="checkplace">Noah Haines</persName> is no more, but closed his time here on seventh
+       <lb/>day last after a confinement of Six weeks aged 54 years
+       <lb/>his health had been rather declining for the year past.
+       <lb/>and upon a heavey Cold settleing about two months since
+       <lb/>the Symptoms of decline assumed a very alarming charac
+       <lb/>ter and progressed with a gradual but steady pace
+       <lb/>until the awful result. Which though a deep
+       <lb/>affliction to his family and friends we doubt not
+       <lb/>is to his great gain. Through the whole course of
+       <lb/>his Sickness (when in his mind) he appeared patient and
+       <lb/>resigned &amp; his Close was, the most satisfactory one
+       <lb/>I even witnessed his whole soul appeared absorbed
+       <lb/>in Prayer &amp; praise uttering untill voice failed the exercise
+       <lb/>of his spirit Sealing an undoubted assurance on our
+       <lb/>minds that it is well with him &amp; the truth of the
+       <lb/>language that ‘blessed are the dead who die in the
+       <lb/>Lord as his extensive usefulness as a man his fairness
+       <lb/>and examplary deportment in Society are brought before
+       <lb/>us with a sense of the loss we must Sustain who had
+       <lb/>intercurse with him in Society it would appear that
+       <lb/>his place could hardly be filled by an other, but to
+       <lb/>him who was the widows friend &amp; Father to the Father
+       <lb/>less and a present helper in every needful time of all who
+       <lb/>deligently seek him all is possible. If embodied then thee may experience
+       <lb/>that might be edifying to encouraging to some minds that he
+       <lb/>assist but as the feelings of the family are so tendered with
+       <lb/>the loss. as then are and indicative of <del>the</del> fearfull visitation
+       <lb/><pb n="54" facs="hv_hj_correspondence_1799_054"/>
+       <lb/>of the Cholera again it <unclear>learns</unclear> to add a still <unclear>heaw glome</unclear>.
+      </p>
+      <closer>
+       <salute>With much respect thy friend</salute><signed><persName key="checkplace">Joseph B. Chapman</persName></signed>
+      </closer>
+     </div>
+     <div type="undetermined">
+      <pb n="55" facs="hv_hj_correspondence_1799_055"/>
+      <p><persName key="wains">Waynesville</persName>
+       <lb/><date when="1834-07-21">July 21st 1834</date>
+       <lb/>
+       <lb/><persName key="hjack1">Halliday Jackson</persName>
+       <lb/><placeName key="darby">Darby</placeName>
+       <lb/><placeName key="penns">Penns.</placeName>
+       <lb/><placeName key="phila">Philada de.</placeName>
+      </p>
+    </div>
+      </body>
+  </text>
+</TEI>

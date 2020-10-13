@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title type ="main">Henry Simmons letterbooks, Vol. 2 1798</title>
+                <title type="sub">Encoded Edition</title>
+                <author>Simmons, Henry, 1768-1807</author>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name>Yuchao Wang</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding edited by</resp>
+                    <name>Emily Thaisrivongs</name>
+                </respStmt>
+                <funder>Omohundro Institute of Early American History &amp; Culture, Lapidus Initiative Fellowship for Digital Collections</funder>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Quaker &amp; Special Collections, Haverford College</publisher>
+                <pubPlace>Haverford, PA</pubPlace>
+                <date when="2017">2017</date>
+                <availability><licence target="http://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</licence></availability>
+                <idno type="local">hv_hs_letterbook_v2_1798</idno>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region type="state">PA</region>
+                        <settlement>Haverford</settlement>
+                        <repository>Quaker &amp; Special Collections, Haverford College</repository>
+                        <collection>Henry Simmons letterbooks, 1797-1798</collection>
+                        <idno>MC.975.02.019</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>86 pages</p>
+                    </physDesc>
+                </msDesc>
+                <bibl>Henry Simmons letterbooks, 1797-1798, Vol.2 1798 (MC.975.02.019), Quaker &amp; Special Collections, Haverford College, Haverford, PA.</bibl>
+                <bibl>This text was digitized by Yuchao Wang in 2017 with funding from the Omohundro Institute of Early American History &amp; Culture.</bibl>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was transcribed and encoded for use in Beyond Penn's Treaty: Quakers and American Indian Relations <ptr target="https://pennstreaty.haverford.edu/"/>, a digital project that provides access to linked and annotated versions of Quaker diaries, letters, and meeting records which record contact with American Indians, particularly the Seneca, beginning in the 1740s. These documents, held in Quaker &amp; Special Collections at Haverford College and Friends Historical Library at Swarthmore College, are all from the Quaker perspective, and document their view of this unfolding relationship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>Grammar, punctuation, spelling have been preserved. Line breaks, paragraph breaks, and page breaks have been preserved. Hyphens have been preserved and normalized to one dash "-". Words or phrases that the encoder could not interpret have been tagged with the "unclear" element. If there was more than one reference to the same entity (person, group, place) in one paragraph, only the first occurrence was encoded unless the paragraph spanned more than one page. If the paragraph spanned more than one page, the entity was encoded at least once per page.</p>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <creation>
+                <origDate when="1798">1798</origDate>
+            </creation>
+        </profileDesc>
+
+        <revisionDesc>
+            <change></change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <pb n="1" facs="hv_hs_letterbook_v2_1798_001"/>
+
+                <pb n="2" facs="hv_hs_letterbook_v2_1798_002"/>
+
+                <pb n="3" facs="hv_hs_letterbook_v2_1798_003"/>
+
+            </div>
+
+             <div type="letter">
+                 <pb n="4" facs="hv_hs_letterbook_v2_1798_004"/>
+                 <head>A Copy of a Letter Sent to
+                 <lb/><persName key="abark1">Abner</persName> &amp; <persName key="jbark1">Jesse Barker</persName>, at <placeName key="pitts">Pitts-
+                 <lb/>Burgh</placeName>
+                  </head>
+                <p>Respected Friends,
+                 <lb/>We wrote you the <date when="1798-04-13">13th instant</date> <!--Year and month inferred from context.-->
+                 <lb/>by Post, and two days before by <persName key="checkplace">David
+                 <lb/>Switzer</persName> a Waggoner, to which we
+                 <lb/>refer and need not repeat the contents.
+              </p><p>The present will we expect be
+                 <lb/>delivered you by our Friends
+                  <lb/><persName key="hsimm1">Henry Simmons Junr</persName>, <persName key="hjack1">Halliday
+                 <lb/>Jackson</persName> &amp; <persName key="jswai1">Joel Swayne</persName>, three of
+                 <lb/>our Friends, who are going to reside
+                 <lb/>a time amongst our Indian bre-
+                 <lb/>thren of the <orgName key="seneca">Seneca nation</orgName>, where
+                 <lb/>we
+                 <pb n="5" facs="hv_hs_letterbook_v2_1798_005"/>
+                 <lb/>we hope they will be useful in promoting
+                 <lb/>their Civilization; They will we expect be accom-
+                 <lb/>panied by our Friends <persName key="jpier1">John Peirce</persName> and
+                 <lb/><persName key="jshar1">Joshua Sharples</persName>, who intend making a
+                 <lb/>short stay in that Country, in order
+                 <lb/>to aid and advise them and our Indian
+                 <lb/>brethren on the best mode of facilitating
+                 <lb/>the object our Sosiety has in view.
+              </p><p>We hope the articles we wrote for
+                 <lb/>will be provided &amp; ready by the time
+                  <lb/>our friends get to <placeName key="pitts">Pittsburgh</placeName>; and
+                 <lb/>though they are furnished with mo-
+                 <lb/>ney for their expences we expect
+                 <lb/>they will want divers articles of
+                 <lb/>provision
+                 <pb n="6" facs="hv_hs_letterbook_v2_1798_006"/>
+                 <lb/>provision and other necessaries to be pro-
+                 <lb/>vided at <placeName key="redst1">Redstone</placeName> thro’ which settlement
+                  <lb/>they mean to pass, or at <placeName key="pitts">Pitts Burgh</placeName>
+                 <lb/>or possibly some of them may be found
+                 <lb/>on better terms nearer the place of their
+                 <lb/>intended settlement, as our Funds
+                 <lb/>are not large we wish to make use
+                 <lb/>of them with proper Oconony, tho’
+                 <lb/>we wish to provide every thing neces-
+                 <lb/>sary. Your assistance to procure
+                 <lb/>any thing they want will be accep-
+                 <lb/>table, To answer these purposes
+                 <lb/>we wish you to advance them any
+                 <lb/>money they may have occasion
+                 <lb/>for, taking their or either of
+                 <lb/>their
+                 <pb n="7" facs="hv_hs_letterbook_v2_1798_007"/>
+                 <lb/>their Drafts on <persName key="tfish1">Thomas Fisher</persName>, who
+                 <lb/>will take care to have them punctually
+                 <lb/>paid.
+              </p><p>Our Friends <persName key="obidd1">Owen Biddle</persName>, has
+                 <lb/>wrote to his Brother in law <persName key="gwilk2">General
+                 <lb/>Wilkinson</persName>, recommending our friends
+                 <lb/>to his notice; and we understand the
+                 <lb/>Secretary at War, has given directi-
+                 <lb/>on to the Commissary General at
+                  <lb/><placeName key="pitts">Pitts Burgh</placeName>, to forward the arti-
+                 <lb/>cles sent by the Waggon and such
+                 <lb/>as may be provided there;
+              </p><p>We have expectation that Gene-
+                 <lb/>ral Wilkinson, will be kind enough
+                 <lb/>to
+                 <pb n="8" facs="hv_hs_letterbook_v2_1798_008"/>
+                 <lb/>to forward to our said friends when
+                 <lb/>in the Indian Country any letters that
+                 <lb/>may be sent for them, and also theirs
+                 <lb/>to their Friends, here, or at least give
+                 <lb/>some instruction; in what way it
+                 <lb/>may be effected with the most care and
+                 <lb/>dispatch; your kind <del>care</del> attention
+                 <lb/>to this business will be acceptable
+                 <lb/>to our Friends generally, and
+                 <lb/>to your respectfull Friends.
+                 </p>
+                <closer><signed><persName key="tfish1">Thomas Fisher</persName>
+                 <lb/><persName key="pbark1">Peter Barker</persName></signed>
+                 <dateline><placeName key="phila">Philadelphia</placeName> <date when="1798-04-28">4 mo 28th 1798</date></dateline></closer>
+               </div><div type="letter">
+                <pb n="9" facs="hv_hs_letterbook_v2_1798_009"/>
+                 <head>A Copy of a Letter, from
+                     <lb/><persName key="twist1">Thomas Wistar</persName>, to <persName key="checkplace">George Steven-
+                     <lb/>son</persName>, at <placeName key="pitts">Pittsburgh</placeName>.</head>
+                 <p>Respected Friend,
+                 <lb/>Thee may recollect when last
+                 <lb/>in <placeName key="phila">Philadelphia</placeName> I mentioned the
+                 <lb/>intention of some of my friends
+                     <lb/>going into the <orgName key="seneca">Seneca Country</orgName>
+                 <lb/>for the purpose of instructing them
+                 <lb/>in Husbandry &amp; c. This will be
+                 <lb/>delivered thee by some of them, (I
+                 <lb/>expect) their names are <persName key="jshar1">Joshua
+                     <lb/>Sharples</persName>, <persName key="jpier1">John Peirce</persName>, <persName key="hsimm1">Henry
+                         <lb/>Simmons</persName>, <persName key="hjack1">Halliday Jackson</persName>, and
+                 <lb/>Joel
+                 <pb n="10" facs="hv_hs_letterbook_v2_1798_010"/>
+                     <lb/><persName key="jswai1">Joel Swayn</persName>, the three last of whom
+                 <lb/>expect to remain amongst the
+                 <lb/>natives some time, Should they
+                 <lb/>require any assistance which it
+                 <lb/>will be convenient to thee to afford,
+                 <lb/>the same will be kindly received and
+                 <lb/>acknowledged by me; and should
+                 <lb/>thee advance them any money
+                 <lb/>their Draught on me will meet
+                 <lb/>with due honour. </p>
+                 <closer><salute>I am thy friend</salute>
+                     <lb/><signed><persName key="twist1">Thomas Wistar</persName></signed>
+                 <dateline><placeName key="checkplace">Brandywine</placeName>
+                 <lb/><date when="1798-04-30">4th mo 30th 1798</date></dateline></closer>
+           </div><div type="letter">
+                 <pb n="11" facs="hv_hs_letterbook_v2_1798_011"/>
+                 <dateline><placeName key="buffa">Buffolo</placeName> <date when="1798-06-15">6th mo 15th 1798</date></dateline>
+                 <p>Dear Friends,
+                 <lb/>We arrived at this place in two
+                 <lb/>days from the time we left you; we had
+                 <lb/>almost as trying a ride, with regard to
+                 <lb/>road, the day after we left <placeName key="genes1">Genesinguh-
+                 <lb/>tau</placeName>, as we had at any time experienced
+                 <lb/>on our way there; and about noon had as
+                 <lb/>heavy a shower of rain, which lasted for
+                 <lb/>more than an hour, as we could recollect
+                 <lb/>ever being our in; we came to <placeName key="catar">Catarawguo
+                 <lb/>river</placeName> a little before sunset; our pilot
+                 <lb/><persName key="checkplace">John</persName> made signs to us that the water
+                 <lb/>would run over our horses backs, and from
+                 <lb/>its
+                 <pb n="12" facs="hv_hs_letterbook_v2_1798_012"/>
+                 <lb/>its violence, sweep them down the river, we
+                 <lb/>therefore concluded to encamp, and having
+                 <lb/>found a sand bank a piece back from the
+                 <lb/>river, John seemed to pitch upon this
+                 <lb/>place as most eligible for our quarters, and
+                 <lb/>soon struck us up a fire, round which we
+                 <lb/>hung some of our wet things, and having
+                 <lb/>let out our horses to provide for themselves, we
+                 <lb/>made some warm chocolate for our suppers
+                 <lb/>out of very muddy water, which we carri-
+                 <lb/>ed in our tins nearly half a mile, soon
+                 <lb/>after which we disposed ourselves for rest,
+                 <lb/>and were favoured to forget our difficul-
+                 <lb/>ties for a while in refreshing sleep: we
+                 <lb/>must not forget to add, for your con-
+                 <lb/>solation, that you know but little
+                 <lb/>about
+                 <pb n="13" facs="hv_hs_letterbook_v2_1798_013"/>
+                 <lb/>about moschetoes and gnats at <placeName key="genes1">Genesinguh-
+                 <lb/>tau</placeName>, in comparison with the banks of <placeName key="catar">Cata-
+                 <lb/>rawgus</placeName>. You will readily believe
+                 <lb/>we rose by times on sixth day morning,
+                 <lb/>and leaving our bed as well as we formed it,
+                 <lb/>we took a walk to the rivers bank, and
+                 <lb/>thought we could perceive marks of its
+                 <lb/>having fallen three or four Inches finer
+                 <lb/>last evening; we therefore concluded
+                 <lb/>crossing as soon  as we could convenient-
+                 <lb/>ly make ready, and soon after mount-
+                 <lb/>ing our horses, we approached the river
+                 <lb/>about fourty perches above the common
+                 <lb/>foarding; and our <persName key="checkplace">pilot John</persName> ma-
+                 <lb/>nifested considerable fear of crossing,
+                 <lb/>and absolutely refused going in
+                 <lb/>foremost,
+                 <pb n="14" facs="hv_hs_letterbook_v2_1798_014"/>
+                 <lb/>foremost, which task fell, as you would
+                 <lb/>readily guess,upon <persName key="jshar1">J. Sharpless</persName>, but to
+                 <lb/>make a short history of a short travail,
+                 <lb/>we all got over safe with our pilot in the
+                 <lb/>rear, and proceeded down the river,
+                 <lb/>through a fertile Country, about 9 miles
+                 <lb/>to <placeName key="catta1">Catarawgus village</placeName>, of maney Indians
+                 <lb/>Where we breakfasted, and had an op-
+                 <lb/>pertunity of informing about 30 of
+                 <lb/>their principle Men, what we had
+                 <lb/>been doing among the Indians, and
+                 <lb/>also gave them some advice, then pro-
+                 <lb/>ceeded on through a very boggry country
+                 <lb/>about 7 miles to <placeName key="lakee">Lake Erie</placeName>, down the
+                 <lb/>breach of which we rode about 29 miles
+                 <lb/>to <placeName key="buffa">Buffolo</placeName>, the whole distance from
+                 <lb/>your
+                 <pb n="15" facs="hv_hs_letterbook_v2_1798_015"/>
+                 <lb/>your place to this, appears to be about 80 miles.
+              </p><p>Seventh day morning we left our pilot
+                  <lb/>and his hackney at <placeName key="buffa">Buffolo</placeName>, and crossed
+                 <lb/>the <placeName key="niagr">Niagara river</placeName> into <placeName key="canad">Canada</placeName>, which was
+                 <lb/>one of the most trying scenes, particularly
+                 <lb/>to one of us, that we have met with since
+                 <lb/>we left home, but we where preserved
+                 <lb/>so as to land safe, and soon after arrived
+                 <lb/>at the house of one of our friends, where
+                 <lb/>we were gladly received, and soon got
+                 <lb/>refreshed with clean Linnen &amp; c. of
+                 <lb/>which we stood in much need. In
+                 <lb/>this country we spent about five days ,
+                 <lb/>rode about 100 miles, and visited 16 fami-
+                 <lb/>lies; and returned to this place yester-
+                 <lb/>day in the afternoon, met our pilot
+                 <lb/>John
+                 <pb n="16" facs="hv_hs_letterbook_v2_1798_016"/>
+                 <lb/><persName key="checkplace">John</persName>, mounted on our mare, about
+                 <lb/>4 miles from this place comeing out to
+                 <lb/>meet us; but we found <persName key="cornp2">Cornplanter</persName>
+                 <lb/>and his company were not arrived.
+              </p><p>In the evening <persName key="habee1">Henry Obeal</persName> and your
+                 <lb/>next Neighbour came in, and informed
+                 <lb/>Cornplanter was a few miles behind and
+                 <lb/>would be in, in the morning.
+              </p><p>About Eleven this morning
+                 <lb/>Cornplanter arrived, and presented us
+                 <lb/>your letter of the <date when="1798">12th Instant</date><!--not sure of the date, didn't find previous letter on the 12th-->, which
+                 <lb/>we read with satisfaction; we note your re-
+                 <lb/>quest respecting a Cow, and have paid some
+                 <lb/>attention to it; but it appears as yet doub-
+                 <lb/>tful whether any of the Indians will go as
+                 <lb/>far as <placeName key="conan">Conondarque</placeName>, as <persName key="ichap1">Cap. Chapin</persName> is
+                 <lb/>hour
+                 <pb n="17" facs="hv_hs_letterbook_v2_1798_017"/>
+                 <lb/>hourly expected at this place; and if any of
+                 <lb/>them should go, they will not be willing to take
+                 <lb/>charge of a Cow for us, unless they have some
+                 <lb/>in company for themselves.
+              </p><p>We have got 100 Dollars changed
+                 <lb/>in to 30 of silver and 70 of small notes,
+                 <lb/>which we shall send you by <persName key="cornp2">Cornplanter</persName>; and
+                 <lb/>hope they will answer your purpose.
+              </p><p>We have make enquiry respecting the
+                 <lb/>transportation of letters from <placeName key="oneid">Oneida</placeName> to
+                 <lb/>your place, and the contrary; and <persName key="wjohn1">Wilm
+                 <lb/>Jonston</persName> at this place, will undertake to
+                 <lb/>forward your letters from hear to <placeName key="conan">Conon-
+                 <lb/>darque</placeName>, from where they will go by post to
+                 <lb/>Oneida; and theirs to you he can readily
+                 <lb/>forward by the Indians; that you had
+                 <lb/>best
+                 <pb n="18" facs="hv_hs_letterbook_v2_1798_018"/>
+                 <lb/>best direct to his care at <placeName key="buffa">Bufolo</placeName>.
+              </p><p>16th In the morning we are now
+                 <lb/>preparing to leave this place, and
+                  <lb/>expect to reach <placeName key="conan">Conondarque</placeName> in two days.</p>
+                 <closer><salute>We remain with Love your
+                 <lb/>friends.</salute>
+                 <lb/><signed><persName key="jshar1">Joshua Sharpless</persName>
+                     <lb/><persName key="jpier1">John Peirce</persName></signed>
+                 <lb/>
+                 <lb/>To
+                     <lb/><persName key="hsimm1">Henry Simmons</persName>
+                     <lb/><persName key="jswai1">Joel Swayne</persName>
+                 <lb/>&amp;
+                     <lb/><persName key="hjack1">Halliday Jackson</persName></closer>
+          </div><div type="letter">
+                 <dateline><placeName key="checkplace">Cheniseco River</placeName> <date when="1798-06-17">6th mo 17th 1798</date></dateline>
+                 <p>Dear Friends,
+                 <lb/>This will be handed you by your neig-
+                 <lb/>hbour <persName key="checkplace">John</persName>, who had accompanied us to
+                 <lb/>this place; and intended going to <placeName key="conan">Canon-
+                 <lb/>darque</placeName>
+                 <pb n="19" facs="hv_hs_letterbook_v2_1798_019"/>
+                 <lb/>darque, but meeting here with, <persName key="jparr2">Jasper
+                 <lb/>Parrish</persName>, the States Interpreter for the
+                 <lb/><orgName key="sxntns">Six nations</orgName>, who is on his way to the Coun
+                     <lb/>cil at <placeName key="buffa">Buffolo</placeName>, <persName key="checkplace">John</persName> has concluded to re-
+                 <lb/>turn with him, and not go to <placeName key="conan">Canondar-
+                 <lb/>que</placeName>, that we have no chance of Sending
+                 <lb/>you a Cow, but hope if any oppertu-
+                 <lb/>nity offers to you of procuring one you
+                 <lb/>will avail yourselves of it; we left
+                 <lb/>Buffolo yesterday morning, being most
+                 <lb/>easy not to wait longer at that place,
+                 <lb/>as it was uncertain when the Council wo
+                 <lb/>uld set, <persName key="ichap1">Captain Chapin</persName> &amp; others concern-
+                 <lb/>ed not being yet come in; we had an affec-
+                     <lb/>tionate parting with <persName key="cornp2">Cornplanter</persName>,
+                 <lb/>who was pressingly solicitous that we
+                 <lb/>should
+                 <pb n="20" facs="hv_hs_letterbook_v2_1798_020"/>
+                 <lb/>should have staid longer but at leng
+                 <lb/>th gave it up; and in our parting
+                 <lb/>conference feelingly expressed, that
+                 <lb/>he hoped we would make our minds
+                 <lb/>perfectly easy about our young Men,
+                 <lb/>for altho’ he could not answer for
+                 <lb/>sickness, or even Death, or such things
+                 <lb/>but as to any thing <unclear>elce</unclear>, he should
+                 <lb/>look upon it his duty always to be their
+                 <lb/>friend, and that no harm would
+                 <lb/>happen them from his People; he con-
+                 <lb/>cluded with desiring the Great Spirit
+                 <lb/>might preserve us on our Journey,
+                 <lb/>and that he might so order things that
+                 <lb/>we might find our families and
+                 <lb/>people well when returned .
+                 <lb/>I
+                 <pb n="21" facs="hv_hs_letterbook_v2_1798_021"/>
+                 <lb/>I am alone at this place waiting to accom-
+                 <lb/>pany <persName key="jparr2">Jasper Parrish</persName> to <placeName key="willi">Williams burgh</placeName>
+                     <lb/>in the morning, in order to meet <persName key="ichap1">Captain
+                 <lb/>Chapin</persName>. My companion being gone
+                 <lb/>about 4 miles forward this evening to
+                 <lb/>wait upon some Men about the sale of
+                 <lb/>our mare they having agreed to purchase
+                 <lb/>her for £40, upon the proviso that
+                 <lb/>she will draw which is to be tried
+                 <lb/>to morrow morning.
+                </p>
+              <p>We hope to get in the neighbor-
+                 <lb/>hood of <placeName key="conan">Cannondarque</placeName> to morrow
+                 <lb/>evening and perhaps in about three
+                 <lb/>days more to <placeName key="oneid">Oneida</placeName>. </p>
+                 <closer><salute>I am with love your friend</salute>
+                     <lb/><signed><persName key="jpier1">John Peirce</persName></signed>
+                 <lb/>
+                 <lb/>To
+                     <lb/><persName key="hsimm1">Henry Simmons</persName>
+                     <lb/><persName key="jswai1">Joel Swayne</persName>
+                     <lb/><persName key="hjack1">Halliday Jackson</persName>.</closer>
+              </div> <div type="letter">
+                 <pb n="22" facs="hv_hs_letterbook_v2_1798_022"/>
+                 <head>To the <orgName key="pymind">Committee on Indi-
+                 <lb/>an affairs</orgName>.</head>
+                 <dateline><placeName key="genes1">Genesinguhtau</placeName>, <date when="1798-07-29">7th mo 29th 1798</date></dateline>
+                 <p>Dear Friends,
+                 <lb/>Under the protection of a
+                 <lb/>merciful Creator we are favoured to enjoy
+                 <lb/>a good state of health; and we do know
+                 <lb/>that many of you have Sympathizing
+                 <lb/>hearts with us, and very tender feel-
+                 <lb/>ings for the good of those people whom
+                 <lb/>we are settled amongst. Therefore
+                 <lb/>we feel duty bound to write to you at
+                 <lb/>every convenient oppertunity; leting
+                 <lb/>you know how the business; which we
+                 <lb/>are intrusted with; is going on amongst
+                 <lb/>us
+                 <pb n="23" facs="hv_hs_letterbook_v2_1798_023"/>
+                 <lb/>us; The Indian Continued to treat us
+                 <lb/>with great Civility &amp; respect, and we believe
+                 <lb/>there is no cause of discouragements in the pre-
+                 <lb/>sent undertaking among them; though we
+                 <lb/>cannot expect a great deal done by them at
+                 <lb/>farming; untill they are better supply’d
+                 <lb/>with working Cretures.  We have ass-
+                 <lb/>isted them in building several houses; and
+                 <lb/>have make a considerable progress in far-
+                 <lb/>ming on our own lot for the time we have
+                 <lb/>been on it; Our Corn, potatoes, gar-
+                 <lb/>den &amp; c. affords a beutiful aspect, and
+                 <lb/>we intend to sow some wheat and rye
+                 <lb/>this fall if we can procure seed, which
+                 <lb/>cannot be obtained nearer than <placeName key="ffran">Fort-
+                     <lb/>Franklin</placeName> or <placeName key="pitts">Pittsburgh</placeName>, that we know
+                 <pb n="24" facs="hv_hs_letterbook_v2_1798_024"/>
+                 <lb/>know of; We also are about preparing
+                 <lb/>to build ourselves a comfortable house
+                 <lb/>before the Winter sets in.
+                 </p>
+                 <closer><salute>We are your affectionate Friends</salute>
+                 <lb/><signed><persName key="hsimm1">Henry Simmons Junr</persName>
+                     <lb/><persName key="jswai1">Joel Swayne</persName>
+                     <lb/><persName key="hjack1">Halliday Jackson</persName> </signed>
+                 <lb/>P.S. We have not received any accounts
+                     <lb/>from <placeName key="phila">Philadelphia</placeName>, or parts adjacent
+                 <lb/>since we left there.
+                 </closer>
+          </div><div type="letter">
+
+              <head>A Copy of a Letter from <persName key="twist1">Thos
+                  <lb/>Wistar</persName>, of <placeName key="phila">Philadelphia</placeName>; Without
+                     <lb/>a date </head>
+                 <p>Dear Friends,
+                 <lb/>at a meeting of the
+                 <lb/><orgName key="pymind">Indian Committee</orgName> held last
+                 <lb/>month
+                 <pb n="25" facs="hv_hs_letterbook_v2_1798_025"/>
+                 <lb/>month, your joint letter was read
+                 <lb/>the contents whereof was very satis-
+                 <lb/>factory to the minds of such of the
+                 <lb/>members as were present who were
+                 <lb/>few in number; owing to a renewed
+                 <lb/>dispensation of sickness and mortality
+                 <lb/>which has been permitted, again to
+                     <lb/>visit poor <placeName key="phila">Philadelphia</placeName>, and which
+                 <lb/>though most prevalent in the northern
+                 <lb/>and southern extremeties of the City
+                 <lb/>has spread pretty generally through
+                 <lb/>it. and driven the greater part of
+                 <lb/>the Inhabitants from their Homes,
+                 <lb/>and by the latest accounts I have
+                 <lb/>received of those that remain, from
+                 <lb/>fifty to sixty are dayly removed
+                 <lb/>from this mutable state.
+              </p><p>I (with my family) have been
+                 <lb/>removed to this place about two
+                 <lb/>weeks
+                 <pb n="26" facs="hv_hs_letterbook_v2_1798_026"/>
+                 <lb/>Weeks; during which time have
+                 <lb/>not had an oppertunity of receiving
+                 <lb/>any Letters that may have been
+                  <lb/>directed to me at <placeName key="phila">Philadelphia</placeName>, and
+                 <lb/>from not having my papers with one
+                 <lb/>have it not in my Power to refer
+                 <lb/>to the dates of your letters but if my
+                 <lb/>recollection is correct, have received
+                 <lb/>but one from you jointly, and one
+                  <lb/>from <persName key="hjack1">H. Jackson</persName> (the latter of which
+                 <lb/>it is my wish to answer shortly).
+                 <lb/>Dear friends, in the exiled, humi-
+                 <lb/>liated situation in which I at present
+                 <lb/>am; do not feel myself capable of
+                 <lb/>saying much more to you than,
+                 <lb/>that I continue to hope the dedication
+                 <lb/>you have manifested in the cause of
+                 <lb/>Humanity and good will to man,
+                 <lb/>may as you continue properly un-
+                 <lb/>der the exercise, yield you the undis-
+                 <lb/>cribable
+                 <pb n="27" facs="hv_hs_letterbook_v2_1798_027"/>
+                 <lb/>cribable reward of peace in your
+                 <lb/>own minds, and that during the try-
+                 <lb/>ing seperation you experience from
+                 <lb/>the Bosom of Sosiety, you may be
+                 <lb/>favored to feel the support of the
+                 <lb/>everlasting arms. </p>
+                 <closer><salute>I am affectionately your
+                     <lb/>friend,</salute> <signed><persName key="twist1">Thomas Wistar</persName></signed>
+                 <lb/>
+                 <lb/><persName key="checkplace">Rich. <unclear>Walas</unclear></persName>
+                 <lb/>Mills
+                 <dateline><placeName key="monmo">Monmouth New Jersey</placeName></dateline></closer>
+          </div><div type="letter">
+              <head>To the <orgName key="pymind">Indian Committee</orgName></head>
+              <p>The <persName key="cornp2">Cornplanter</persName>, and
+                 <lb/>several of his people, have lately been
+                 <lb/>at <placeName key="conan">Canondarque</placeName>, to receive their
+                 <lb/>money, which is now due, and having
+                 <lb/>been there once before on the same
+                 <lb/>occasion, got disapointed in geting
+                 <lb/>it
+                 <pb n="28" facs="hv_hs_letterbook_v2_1798_028"/>
+                 <lb/>it, as they say). it being a long and
+                 <lb/>Fatigueing Journey; So that they are
+                 <lb/>discouraged; and have very lately held
+                 <lb/>a council on the subject, and sent
+                 <lb/>for us to attend it; accordingly two of
+                 <lb/>us attended; We found <del>th</del> them <del>very</del>
+                 <lb/>desirous that we should write to <placeName key="phila">Phi-
+                 <lb/>ladelphia</placeName>; to inform the people, who
+                 <lb/>have the care of their Money; that
+                  <lb/>it is the wish and desire of the <persName key="cornp2">Corn-
+                 <lb/>planter</persName> &amp; his People,(whom He Super-
+                 <lb/>intends, that their part of money
+                 <lb/>and goods should, in future; come
+                     <lb/>to them, by the way of <placeName key="pitts">Pittsburgh</placeName>
+                 <lb/>which they say (and requests us to write
+                 <lb/>it so) is two Thousand five Hundred
+                 <lb/>Dollars in Money and one Thou-
+                 <lb/>sand Dollars in goods, now due
+                 <lb/>with deducting out of that Sum
+                 <lb/>the expences of getting the Money
+                 <lb/>and
+                 <pb n="29" facs="hv_hs_letterbook_v2_1798_029"/>
+                 <lb/>and goods to them.
+              </p><p>And in order thereto we have
+                 <lb/>sent these lines to you for your con-
+                 <lb/>sideration; that if you see it proper
+                 <lb/>to present them to the President of
+                 <lb/>the Bank, in which their money is
+                 <lb/>invested, so be it.
+                  </p>
+              <closer><signed><persName key="hsimm1">H. Simmons</persName>
+                  <lb/><persName key="jswai1">J. Swayne</persName></signed>
+                 <dateline><placeName key="cones">Connescotago</placeName>
+                 <lb/><date when="1798-11-13">11th mo 13th
+                 <lb/>1798</date></dateline>
+                 <lb/>We expect the Indians will look
+                 <lb/>for an answer back. </closer>
+          </div><div type="letter">
+                 <dateline><placeName key="genes1">Genesinguhtau</placeName>
+                 <lb/><date when="1798-11-16">11th mo 16th 1798</date></dateline>
+              <head>To the <orgName key="pymind">Committee on
+                     <lb/>Indian Affairs</orgName>.</head>
+                 <p>Dear Friends
+                 <lb/>Since
+                 <pb n="30" facs="hv_hs_letterbook_v2_1798_030"/>
+                 <lb/>Since We wrote to you, we received
+                     <lb/>a letter from <persName key="twist1">Thomas Wistar</persName>
+                 <lb/>which gave us an account, that
+                 <lb/>the <emph style="underline">Yellow Fever</emph> had again been
+                     <lb/>permitted to visit the <placeName key="phila">City of Phila-
+                 <lb/>delphia</placeName>, no doubt but that it has
+                 <lb/>been a very distressing time to many.
+              </p><p>We have the latter part of
+                 <lb/>the season been imploy’d in building
+                 <lb/>ourselve a comfortable two Story
+                 <lb/>hewd log House 18 feet by 22 cover-
+                 <lb/>ed with White Pine Shingles &amp;
+                 <lb/>Cellared underneath, with a Chim-
+                 <lb/>ney composed of Stone &amp; clay.
+              </p><p>We have also erected a good stable
+                 <lb/>Large enough to accommodate
+                 <lb/>our Horses and a Cow, also assisted
+                 <lb/>several of the Indians in building &amp; c.
+                 <lb/>We have lately bought a dry Cow
+                 <lb/>of
+                 <pb n="31" facs="hv_hs_letterbook_v2_1798_031"/>
+                 <lb/>of one of the Indians, who was desire-
+                 <lb/>ous of parting with her, in hopes that
+                 <lb/>She will <del>give</del> supply us with Milch
+                 <lb/>next Summer.
+              </p><p>We expect shortly to commence
+                 <lb/>a School at <placeName key="cones">Connishcotago</placeName>, as the
+                 <lb/>Children are Generally at that place.
+              </p>
+              <closer><salute>We are at present in a reason-
+                 <lb/>able state of Health, and remain
+                 <lb/>your Loving Friends.</salute>
+                  <lb/><signed><persName key="hsimm1">H. Simmons</persName>
+                      <lb/><persName key="jswai1">J. Swayne</persName></signed>
+                  <lb/>P.S. <persName key="hjack1">Halliday Jacksons</persName> name being
+                 <lb/>absent, on account of his being on
+                 <lb/>a Journey to Caterawgus with a
+                 <lb/>young Man who has met with
+                 <lb/>an accident which disabled him
+                 <lb/>from walking, Halliday not retu-
+                 <lb/>rning as soon as we expected, and
+                 <lb/>an
+                 <pb n="32" facs="hv_hs_letterbook_v2_1798_032"/>
+                 <lb/>an Indian is now waiting to carry
+                 <lb/>the letters to <placeName key="ffran">Fort Franklin</placeName>, We
+                 <lb/>thought it most expedient to send
+                 <lb/>them, without his name. </closer>
+          </div><div type="letter">
+                 <dateline><placeName key="genes1">Genesinguhtau</placeName> <date when="1799-01-23">23nd of 1st mo 1799</date></dateline>
+              <head>To the <orgName key="pymind">Committee on Indian affairs</orgName></head>
+                 <p>Dear Friends,
+                 <lb/>We have written
+                 <lb/>two Letters to you since our set-
+                 <lb/>tleing here, the last of which was
+                 <lb/>dated the <date when="1798-11-16">16th of the 11th mo</date>
+                 <lb/>and although we have received
+                 <lb/>no answer from you in a collec-
+                 <lb/>tive capacity, we doubt not
+                 <lb/>but many of you sympathize
+                 <lb/>with
+                 <pb n="33" facs="hv_hs_letterbook_v2_1798_033"/>
+                 <lb/>with us, and we are often mercifully fa-
+                 <lb/>voured to feel the help of your
+                 <lb/>Spirits cooperating and streng-
+                 <lb/>thening us in our present engage-
+                 <lb/>ment. We expect <unclear>there iscteters</unclear>
+                 <lb/>from you delay’d at <placeName key="pitts">Phittsburgh</placeName> or
+                 <lb/><placeName key="frank">Franklin</placeName>, for want of opportu-
+                 <lb/>nities of forwarding them to
+                 <lb/>us, which is very rare at this
+                 <lb/>season of the year; Otherwise
+                 <lb/>we should write to you oftener
+                 <lb/>than we do.
+              </p><p>We received a plentiful
+                 <lb/>increase of the most of the Sum-
+                 <lb/>mers Produce on our Farm,
+                 <lb/>and also prepar’d ground to sow
+                 <lb/>several Bushels of Winter grain
+                 <lb/>but the River being so low we
+                 <lb/>got disapointed in getting seed
+                 <lb/>although
+                 <pb n="34" facs="hv_hs_letterbook_v2_1798_034"/>
+                  <lb/>although we wrote to <placeName key="pitts">Pittsburg</placeName>
+                 <lb/>for it soon after Harvest, and our
+                 <lb/>Agent there employed a man
+                 <lb/>at <placeName key="frank">Franklin</placeName> to procure it for
+                 <lb/>us, which we were informed was
+                 <lb/>done: we expect it to come for-
+                 <lb/>ward in the Spring and answer
+                 <lb/>to sow next fall.
+              </p><p>Several of the young Indians
+                 <lb/>manifest some inclination to take
+                 <lb/>up Work, and Last fall we had
+                 <lb/>one employ’d a while at our Business.
+              </p><p>We have kept up a School at <placeName key="cones">Co-
+                 <lb/>niscotago</placeName> in one of the Indians hous-
+                 <lb/>es this Winter, where from 12
+                 <lb/>to 25 Children have attended
+                 <lb/>who appear to make as much
+                 <lb/>progress in Learning as can
+                 <lb/>reasonable be expected; and
+                 <lb/>we have had in contemplation
+                 <lb/>the
+                 <pb n="35" facs="hv_hs_letterbook_v2_1798_035"/>
+                 <lb/>propriety of Erecting a
+                 <lb/>School house at that place the
+                 <lb/>ensueing Summer, as the Childr-
+                 <lb/>en are principally there we
+                 <lb/>think it will be of the most ge-
+                 <lb/>neral Unitility; which we sub-
+                 <lb/>mit to you.
+              </p><p>The most of the Cloth, Linnen
+                 <lb/>&amp; c. you sent with us we have ex-
+                 <lb/>chang’d for Boards, Meat, and
+                 <lb/>Other necessaries we stood in
+                 <lb/>need of, and a little of it we sold
+                 <lb/>for money, to accommodate
+                 <lb/>the Indians, at a price to re-
+                 <lb/>emburse the accruing expences
+                 <lb/>of bringing it here.
+              </p><p>We think it will be necessary
+                 <lb/>for us to be furnished with
+                 <lb/>a Yoke of Oxen to go on
+                 <lb/>with
+                 <pb n="36" facs="hv_hs_letterbook_v2_1798_036"/>
+                 <lb/>with Farming next Summer, as
+                 <lb/>one of our Horses is lame and the
+                 <lb/>Ground very hard to break up, &amp;
+                 <lb/>we wish to be able to give the Indi-
+                 <lb/>ans a little assistance in Farming.
+              </p><p>We informed you in our last
+                 <lb/>letter that we had purchased a Dry
+                 <lb/>Cow, which we Since find is not
+                 <lb/>likely to supply us with Milch,
+                 <lb/>and if a Yoke of Oxen should come
+                 <lb/>it would be a great accommoda-
+                 <lb/>tion to us if a good milch Cow was
+                 <lb/>sent with them. and the one we
+                 <lb/>have at present will do for Beef
+                 <lb/>next Fall. We also think it
+                 <lb/>may tend to the promotion of
+                 <lb/>the Work; and believe it expedi-
+                 <lb/>ent to submit to you, the con-
+                 <lb/>sideration of sending us the
+                 <lb/>following articles as early as
+                 <lb/>prac-
+                 <pb n="37" facs="hv_hs_letterbook_v2_1798_037"/>
+                 <lb/>practicable next Spring (to wit)
+                  </p>
+                 <list rend="simple"><item>a set of Smith Tools
+                     </item><item>
+                 <lb/>1 Bar of Iron, 1 D.o Steel
+                     </item><item>
+                 <lb/>1 Faggot of Nail Rods
+                     </item><item>
+                 <lb/>1 Pair of Cart Wheels with
+                     </item><item>
+                 <lb/>axle Tree hooks &amp; Linchpins
+                     </item><item>
+                 <lb/>1 Doz. Sythes, made short &amp; strong
+                     </item><item>
+                 <lb/>with ½ d.o sets of Hangings
+                     </item><item>
+                 <lb/>3 or 4 Sickels, 2 Broad Axes
+                     </item><item>
+                 <lb/>6 Long Drawing Knives
+                     </item><item>
+                 <lb/>2 Firmer Goughes ½ 9  &amp; Inch &amp; ¼
+                     </item><item>
+                 <lb/>2 Mill picks, to make Grindstones
+                     </item><item>
+                 <lb/>1 Piece of Strong Cloth,
+                     </item><item>
+                 <lb/>1 Piece of Ticklengburg or Strong Linn
+                     </item><item>
+                 <lb/>1 Dito of Blanketing
+                     </item><item>
+                 <lb/>a few Doz. of Pocket knives
+                     </item><item>
+                 <lb/>Some Course needles &amp; Thread
+                     </item><item>
+                 <lb/>a few Doz. of Course &amp; fine Combs
+                     </item><item>
+                 <lb/>½ a Hundred Shoemakers Tacks
+                     </item>
+                 <pb n="38" facs="hv_hs_letterbook_v2_1798_038"/>
+                     <item>
+                 <lb/>1 Peck of Flax Seed
+                     </item><item>
+                 <lb/>1 d.o of Timothy Seed
+                     </item><item>
+                 <lb/>½ d.o Clover Seed
+                     </item><item>
+                 <lb/>2 Doz. of Spelling Books
+                     </item><item>
+                 <lb/>3 or 4 Doz. of Primmers
+                     </item><item>
+                 <lb/>6 Testaments
+                     </item><item>
+                 <lb/>1 or two School masters assistant
+                     </item><item>
+                 <lb/>1.2 Doz. Slates &amp; Pencils
+                     </item><item>
+                 <lb/>some Writing Paper &amp; Quills
+                     </item><item>
+                 <lb/>2 Bushels of Salt
+                     </item><item>
+                 <lb/>3 Barrels of Flour
+                     </item><item>
+                 <lb/>and some Chocolate.</item></list>
+                 <p>We may inform you we are hard
+                 <lb/>set to keep enough of the falling
+                 <lb/>axes at home for our own use; If
+                 <lb/>you think proper to send a few
+                 <lb/>more they will be acceptable.
+                 <lb/>The
+                 <pb n="39" facs="hv_hs_letterbook_v2_1798_039"/>
+                 <lb/>The Cattle, and many of these Ar-
+                 <lb/>ticles, we expect by your order
+                     <lb/>may be procur’d at <placeName key="pitts">Pittsburgh</placeName>;
+                 <lb/>and although some of them may
+                 <lb/>not be immediately wanted here
+                 <lb/>we think it will be the best Oco-
+                 <lb/>nomy to send them altogether
+                 <lb/>as it is difficult and expensive
+                 <lb/>getting things convey’d to us.
+              </p><p>The Sythes which were
+                 <lb/>sent Last Spring were not suit-
+                 <lb/>able for the purpose; and the
+                 <lb/>Drawing Knives were too short
+                 <lb/>&amp; Slim.
+              </p><p>If a Smith, or other
+                 <lb/>well Qualified Person should
+                 <lb/>Offer, we hope they will be
+                 <lb/>encouraged to come forward;
+                 <lb/>as there is Some probability of
+                 <lb/>one
+                 <pb n="40" facs="hv_hs_letterbook_v2_1798_040"/>
+                 <lb/>one of us being profitably stationed
+                 <lb/>at <placeName key="cones">Coniscotago</placeName> to Superintend the
+                 <lb/>School, and otherwise endeavor to promote
+                 <lb/>the desirable Work of Civilization
+                  <lb/>and <persName key="hsimm1">Henry Simmons</persName> now
+                 <lb/>expressing a prospect of being
+                 <lb/>releast from this place, the Lat-
+                 <lb/>ter end of next Summer, We
+                 <lb/>hope the Subject will be weigh-
+                 <lb/>tily impressed on your minds,
+                 <lb/>all which we submit to
+                 <lb/>your solid Deliberation.
+                  </p>
+                 <closer><salute>We are Well, and remain
+                 <lb/>your Affectionate Friends.</salute>
+                     <signed><persName key="hsimm1">H. Simmons</persName>
+                         <lb/><persName key="jswai1">J. Swayne</persName>
+                         <lb/><persName key="hjack1">H. Jackson</persName></signed> </closer>
+                </div> <div type="letter">
+                 <pb n="41" facs="hv_hs_letterbook_v2_1798_041"/>
+                 <dateline><placeName key="phila">Philada</placeName> <date when="1798-11-19">11th mo 19th 1798</date></dateline>
+                 <p>Dear Friends,
+                 <lb/>I wrote to you (I think)
+                 <lb/>some time in the last month from
+                 <lb/><placeName key="monmo">Monmouth County. New Jersey</placeName>, to
+                 <lb/>which place I had removed with my
+                 <lb/>family, on account of the awful
+                 <lb/>Visitation of Sickness, under which
+                 <lb/>many of the Inhabitants of this
+                 <lb/>City were Labouring: and which
+                 <lb/>continued untill about the fifth of this
+                 <lb/>month, When it pleased the great
+                 <lb/>dispower of Events to cause a dis-
+                 <lb/>pensation of more general Health;
+                 <lb/>In the course of about three mon-
+                 <lb/>ths, near three Thousand five
+                 <lb/>Hundred of my fellow Citizens
+                 <lb/>have been removed from this
+                 <lb/>Earthly Scene, in the City; and
+                 <lb/>many
+                 <pb n="42" facs="hv_hs_letterbook_v2_1798_042"/>
+                 <lb/>many have ended their Lives in the Neigh-
+                     <lb/>bouring Country; but it is not <placeName key="phila">Philadelphia</placeName>
+                 <lb/>only that has to Mourn her Slain; Several
+                 <lb/>parts of the Country, adjacent have los-
+                 <lb/>sed some of their most Valuable mem-
+                 <lb/>bers. About thirteen of the friends
+                 <lb/>who came to the City at the Usual
+                 <lb/>time of holding the <orgName key="pym">Yearly Meeting</orgName>
+                 <lb/>were by this Disease removed, amon-
+                 <lb/>gst whom were <persName key="wmiff1">Warner Mifflin</persName>, and
+                 <lb/><persName key="jemle1">James Emlen</persName>, two members of our
+                 <lb/>Committee, <persName key="jsloa1">Joseph Slone</persName>, another
+                 <lb/>member Died some time before, whe-
+                 <lb/>ther of the prevelent disease, I know
+                 <lb/>not. The neighbouring
+                 <lb/>Villiges, particularly those on the
+                 <lb/><placeName key="delaw">Delaware</placeName> <!--coded as Delaware river-->, were deep shearers in this
+                 <lb/>great Affliction; Of these perhaps
+                 <lb/><placeName key="chest1">Chester</placeName> &amp; <placeName key="wilmi">Wilmington</placeName> were most con-
+                 <lb/>spicuous, as in the first, Thirty-
+                 <lb/>Seven persons are said to have
+                 <lb/>Died, and of the remainder of the
+                 <lb/>Inhabitants it is also said, but five
+                 <pb n="43" facs="hv_hs_letterbook_v2_1798_043"/>
+                 <lb/>Families staid in their habitations
+                 <lb/>the others seeking safety in flight
+                 <lb/>which was also generally the case in
+                 <lb/><placeName key="wilmi">Wilmington</placeName>, where the Mortality was
+                 <lb/>such, that three Sisters were seen
+                 <lb/>carried at one time in one Cart to th
+                 <lb/>eir Graves. The <placeName key="newyo">City of New-
+                 <lb/>York</placeName> was visited at the same time
+                 <lb/>in a similar manner, tho’ not, (I be-
+                 <lb/>lieve) to so great a degree.
+              </p><p>Things thus afflictingly Cir-
+                 <lb/>cumstanced amongst us, there
+                 <lb/>was no meeting of the <orgName key="pymind">Committee
+                 <lb/>on Indian Affairs</orgName>, from the <date from="1798-08-18" to="1798-11-17">18th
+                 <lb/>of the 8th month, untill the 17th
+                 <lb/>of this</date>, when a number of us being
+                 <lb/>in unmerited Mercy favour’d
+                 <lb/>with ability to attend at the Usual
+                 <lb/>place, a Meeting was held, and
+                 <lb/>we should have been pleased
+                 <lb/>to have heard from you, which
+                 <lb/>has been the case but once in an
+                 <lb/>Official way, since <persName key="jshar1">J. Sharp-
+                 <lb/>less</persName>
+                 <pb n="44" facs="hv_hs_letterbook_v2_1798_044"/>
+                  <lb/>less, and <persName key="jpier1">J. Peirce</persName> left you, for
+                 <lb/>notwithstanding our minds have
+                 <lb/>been exercised with the awful scenes abo-
+                 <lb/>ut us, Yet I believe, you have often
+                 <lb/>been brought into remembrance and
+                 <lb/>to have heard at the last Meeting of
+                 <lb/>your Welfare &amp; c. would have af-
+                 <lb/>forded satisfaction to all then present.
+              </p><p>The desire I feel that you should
+                 <lb/>from time to time, be informed
+                 <lb/>that you live in the remembrance of
+                 <lb/>your Friends here; more than any
+                 <lb/>Qualification at present experien-
+                 <lb/>ced for writing; is the cause of my
+                 <lb/>addressing you at this time, for
+                 <lb/>tho’ it might be possible for my head
+                 <lb/>to dictate and my hand to write
+                 <lb/>something that should sound agree-
+                 <lb/>able, yet without a Corrispondent
+                 <lb/>feeling of the Heart, it would be alas,
+                 <lb/>but as sounding Brass.
+              </p><closer><salute>In sincere Love, in which, I am
+                 <lb/>joined by my Wife, I am affec-
+                  <lb/>tionately your Friend,</salute> <signed><persName key="twist1">Thomas Wistar</persName></signed></closer>
+           </div> <div type="letter">
+                 <pb n="45" facs="hv_hs_letterbook_v2_1798_045"/>
+                 <dateline><placeName key="genes1">Genesinguhtau</placeName> <date when="1799-03-24">3rd mo 24th 1799</date></dateline>
+                   <head>To the <orgName key="pymind">Committee on
+                 <lb/>Indian Affairs</orgName></head>
+                 <p>Dear Friends,
+                 <lb/>Our last Letter to you was
+                 <lb/>dated the <date when="1799-01-23">23rd of 1st mo.</date> last but was
+                 <lb/>delay’d here some Weeks, before we
+                 <lb/>could get <del>an opportu</del> it forwarded
+                 <lb/>to <placeName key="frank">Franklin</placeName>, Since which we re-
+                     <lb/>ceived a letter from <persName key="twist1">Thomas Wistar</persName>
+                 <lb/>dated the <date when="1798-11-19">19th of 11th mo 98</date>, and
+                 <lb/>were thankful to find that the
+                 <lb/>late afflicting Dispensation of
+                 <lb/>Sickness in your parts was in
+                 <lb/>a great Measure abated, and
+                 <lb/>that you were again permitted
+                 <lb/>to meet your usual manner; and
+                 <lb/>although it affects us much
+                 <lb/>that
+                 <pb n="46" facs="hv_hs_letterbook_v2_1798_046"/>
+                 <lb/>that many of our Worthy Friends laid
+                 <lb/>down their Lives in the Calamity, it
+                 <lb/>affords us consolation to find that we
+                 <lb/>still live in the remembrance of some
+                 <lb/>of the Survivors, although the inter-
+                 <lb/>course between you and us is not so
+                 <lb/>freequent as we could desire.
+              </p><p>Our School at <placeName key="cones">Coniscotaga</placeName>
+                 <lb/>grows larger, and the progress in the
+                 <lb/>Childrens Learning afford an incou-
+                 <lb/>raging prospect: several grown
+                 <lb/>persons have also evinced strong
+                 <lb/>inclinations to be instructed, and
+                 <lb/>paid some attension thereto.
+              </p><p>The Indians have made pro-
+                 <lb/>posals of assisting us in building
+                 <lb/>a School house at that place,
+                 <lb/>and as our accommodations
+                 <lb/>there
+                 <pb n="47" facs="hv_hs_letterbook_v2_1798_047"/>
+                 <lb/>there at present are but indifferent,
+                 <lb/>we think it necessary to carry the
+                 <lb/>Work into affect pretty early this
+                 <lb/>Spring. Numbers of them propose
+                 <lb/>building more comfortable dwellings
+                 <lb/>for themselves the ensueing Summer,
+                 <lb/>and request our assistance therein,
+                 <lb/>and we are not without a hope that
+                 <lb/>some of them will take up Farm-
+                 <lb/>ing also, Although the want of Do-
+                 <lb/>mestic animal is a great impedi-
+                 <lb/>metn in their way.
+              </p><p>Two of us have been mostly
+                 <lb/>employ’d in Mechanical busi-
+                 <lb/>ness the late Winter; have
+                 <lb/>prepar’d Plows and other ne-
+                 <lb/>cessary Impliments of Hus-
+                 <lb/>bandry; and also made a good
+                 <lb/>deal of Cooper Ware, and
+                 <lb/>other
+                 <pb n="48" facs="hv_hs_letterbook_v2_1798_048"/>
+                 <lb/>other articles, which we exchange with
+                 <lb/>the Indians for Sugar and other House
+                 <lb/>necessaries. We have lately had
+                 <lb/>some serious considerations about
+                 <lb/>taking an Indian Lad, as we think
+                 <lb/>it may tend to the promotion of the
+                 <lb/>Work, and that he may be useful
+                 <lb/>to us; but are willing to wubmit
+                 <lb/>the matter to you.
+              </p><p>We are also united in Judge-
+                 <lb/>ment, that if a well qualified Man
+                 <lb/>and Wife should offer, they mi
+                 <lb/>ght be encouraged to come forward
+                 <lb/>this Sping, in order to make a
+                 <lb/>more permanent settlement at this
+                 <lb/>place, as there is a probability of
+                 <lb/>our business laying a good deal scat-
+                 <lb/>tered, and suitable accommodations
+                 <lb/>will be provided for their reception;
+                 <lb/>Having
+                 <pb n="49" facs="hv_hs_letterbook_v2_1798_049"/>
+                 <lb/>Having lately wrote pretty largely to
+                 <lb/>you we have but little to add, only
+                 <lb/>that we continue to enjoy our Health
+                 <lb/>and that you are often feelingly
+                 <lb/>brought into our remembrance.
+                 </p><closer><salute>We are your affectionate
+                 <lb/>Friends</salute>
+                     <signed><persName key="hsimm1">H. Simmons</persName>
+                         <lb/><persName key="jswai1">Joel Swayne</persName>
+                         <lb/><persName key="hjack1">Halliday Jackson</persName></signed>
+                 <lb/>We are desirous of knowing what information
+                 <lb/>you have lately had from friends at <placeName key="oneid">Oneida</placeName>
+                 <lb/>and how many are yet stationed there &amp; c. </closer>
+          </div><div type="letter">
+                 <dateline><placeName key="catta1">Cataraugus</placeName> <date when="1799-04-11">April 11th</date><!--year inferred--></dateline>
+                 <head>To the <placeName key="alleg1">Allegany</placeName> Quakers</head>
+                 <p>This day we have met
+                 <lb/>with our Brother, as oppertuni-
+                 <lb/>ty to write a few Lines, we return
+                 <lb/>thanks
+                 <pb n="50" facs="hv_hs_letterbook_v2_1798_050"/>
+                 <lb/>thanks to our maker for our oppertunity
+                 <lb/>to proceed, Our business is to desire
+                 <lb/>our Friends to take it in consideration
+                 <lb/>We desire to get the knowledge of
+                 <lb/>learning from our Friends; as one
+                 <lb/>God made us both, We have advan-
+                 <lb/>ced ourselves, but still think fitt to
+                 <lb/>embrace opportunity offered as by
+                 <lb/>our friends, If we have any gift, that
+                 <lb/>we may have our Eyes opened, we first
+                 <lb/>lay our matter before your our friends
+                 <lb/>as you have come forward and offered
+                 <lb/>to assist in our undertakings, as th
+                 <lb/>ere is three Hundred &amp; sixty one Souls
+                 <lb/>in this Village, that have agree’d to
+                 <lb/>receive instruction from you, as we desire
+                 <lb/>to be instructed in all the various bran-
+                 <lb/>ches of learning letters pen, and tilling
+                 <lb/>the field. as we have seen great be-
+                 <lb/>nefit
+                 <pb n="51" facs="hv_hs_letterbook_v2_1798_051"/>
+                 <lb/>benefit by <persName key="checkplace">Capt Obeil</persName> learning.
+                 <lb/>We desire to be instructed in the same
+                 <lb/>rules. Brothers, If you will take
+                 <lb/>in consideration to favour us according
+                 <lb/>to our desire, and send such men as
+                 <lb/>you think fit to instruct us, they shall
+                 <lb/>have houses and Lands to make them-
+                 <lb/>selves comfortable; and shall not
+                 <lb/>be molested by friend nor foe, but be
+                 <lb/>protected according to the best of our
+                 <lb/>abilities. and Brothers, if you
+                 <lb/>conclude to assist in the time of need
+                 <lb/>and necessity. We first desire that
+                 <lb/>you would help us to a set of SawMill
+                 <lb/>Irons.
+                     </p>
+               <closer>as I am yours to see
+                 <lb/><signed><persName key="checkplace">Goshigont</persName>
+                 <lb/><persName key="checkplace">Taoononda</persName>
+                 <lb/><persName key="checkplace">Wontongoota</persName>
+                 <lb/><persName key="checkplace">Tianna</persName>
+                 <lb/><persName key="checkplace">Senochtogwa</persName></signed>
+                 <lb/><date when="1799">In the year of our Lord 1799</date></closer>
+              </div><div type="letter">
+                 <pb n="52" facs="hv_hs_letterbook_v2_1798_052"/>
+                 <dateline><placeName key="genes1">Genesinguhtau</placeName> <date when="1799-04-21">21 of 4th mo 1799</date></dateline>
+                  <head>To the <orgName key="pymind">Committee on Indian affairs</orgName></head>
+                 <p>Dear Friends,
+                 <lb/>The occasion of our Writing
+                 <lb/>to you at this time is, on account of the
+                 <lb/>enclose’d Letter which we received from
+                 <lb/>the <placeName key="catta1">Caturaugus</placeName> Indians a few days ago
+                 <lb/>and after due deliberation on the Subject
+                 <lb/>we forward it to your consideration, be-
+                 <lb/>lieveing there is a favourable opening
+                 <lb/>for help profitably to be administered
+                 <lb/>to the Indians at that Village; and as they
+                     <lb/>are a part of the <orgName key="seneca">Seneka Nation</orgName>, to whom
+                 <lb/>our Certificate was addressed, they have
+                 <lb/>an Idea they ought to be partakers of
+                 <lb/>the Instruction &amp; assistance our sosiety
+                 <lb/>have proposed affording that people.
+               </p><p>Their present situation is favour-
+                 <lb/>able for the promotion of Civilization
+                 <lb/>amongst them, haveing a reservation
+                 <lb/>of
+                 <pb n="53" facs="hv_hs_letterbook_v2_1798_053"/>
+                 <lb/>of 42 square miles on <placeName key="catar">Caturaugus River</placeName>
+                 <lb/>adjoining the East end of <placeName key="lakee">Lake Erie</placeName>, and
+                 <lb/>Land of a superior quality, several Hun-
+                 <lb/>dred acres of which is already clear’d of the
+                 <lb/>timber. they have several head of horse
+                 <lb/>creatures, and a good many Cattle, but
+                 <lb/>are very desirous of having some body
+                 <lb/>amongst them to instruct their Chil-
+                 <lb/>dren. learning them the arts of farming
+                 <lb/>and also supply them with some necessa-
+                 <lb/>ry Impliments to carry on that business
+                 <lb/>which they are not able to purchace
+                 <lb/>themselves, as we were lately informed
+                 <lb/>by one of their Chiefs. We understand
+                 <lb/>there are several good Millseats on
+                 <lb/>their Land, and although we consi-
+                 <lb/>der the smallness of our Funds esta-
+                 <lb/>blished for the benefit of the Indians
+                 <lb/>we are of the judgment it would
+                 <lb/>be proper to give them a little
+                 <lb/>assistance
+                 <pb n="54" facs="hv_hs_letterbook_v2_1798_054"/>
+                 <lb/>assistance as soon as practicable; all
+                 <lb/>which we submit to you.
+              </p><p>If Friends conclude to assist them
+                 <lb/>we have thought, whether or no, such ar-
+                 <lb/>ticles as they request, could not be pro-
+                  <lb/>cur’d in <placeName key="uppcanada">upper Canada</placeName> much cheaper
+                 <lb/>than taken from <placeName key="penns">Pennsylvania</placeName>.
+              </p><closer><persName key="cornp2">Cornplanter</persName>, and a number of
+                  <lb/>his People are lately gone to <placeName key="pitts">Pittsburgh</placeName>
+                 <lb/>by whom we wrote to you; and enjoy-
+                 <lb/>ing a usual state of Health, have nothing
+                 <lb/>to add. <salute>but remain your affection-
+                 <lb/>ate Friends.</salute>
+                  <lb/><signed><persName key="hsimm1">H. Simmons</persName>
+                      <lb/><persName key="jswai1">J. Swayne</persName>
+                      <lb/><persName key="hjack1">H. Jackson</persName></signed> </closer>
+          </div><div type="letter">
+              <p>Dear Friends
+                 <lb/>Feeling our minds solici-
+                 <lb/>tous on your accounts; which solici-
+                 <lb/>tude
+                 <pb n="55" facs="hv_hs_letterbook_v2_1798_055"/>
+                 <lb/>solicitude our ignorance of your
+                 <lb/>situation has considerably augm-
+                 <lb/>ented, not having received any
+                 <lb/>information from you since your
+                 <lb/>Letter of <date when="1798-11-15">11th mo 15th last</date>, which
+                 <lb/>was the second we have received
+                 <lb/>since <persName key="jshar1">Joshua Sharpless</persName> and
+                 <lb/><persName key="jpier1">John Pierce</persName> left you.
+              </p><p>We are desirous that you may
+                 <lb/>be supported under any discou-
+                 <lb/>ragements which may present
+                 <lb/>owing to the interruption that
+                 <lb/>we apprehend has happened
+                 <lb/>to our Corrispondence; and that
+                 <lb/>you may be enabled to persevere in the
+                 <lb/>cause we are mutually engaged,
+                 <lb/>in which so arduous a part has
+                 <lb/>fallen to your Lott, a cause
+                 <lb/>which the more we are engaged
+                 <lb/>in
+                 <pb n="56" facs="hv_hs_letterbook_v2_1798_056"/>
+                 <lb/>in, and comtemplate on, the more
+                 <lb/>we are confirmed in the belief,
+                 <lb/>that it had its Origin in bene-
+                 <lb/>volence and good will to Man,
+                 <lb/>and altho’ prosecuted with much
+                 <lb/>difficulty, Labour, and expence,
+                 <lb/>and the advantages resulting
+                 <lb/>therefrom as yet observeable but
+                 <lb/>few, yet we trust as all engaged
+                 <lb/>therein keep stadily and patient-
+                 <lb/>ly to the Single Object; we sh-
+                 <lb/>all in due time experience it
+                 <lb/>owned and Blessed by the
+                 <lb/>Author of all good, who we
+                 <lb/>are tought to believe, will not
+                 <lb/>suffer the smallest labour of
+                 <lb/>love to go un rewarded.
+              </p><p>By information received
+                 <pb n="57" facs="hv_hs_letterbook_v2_1798_057"/>
+                 <lb/>from the Settlement at <placeName key="oneid">Oneida</placeName>, we
+                 <lb/>are encouraged to hope considerable
+                 <lb/>progress is making there.
+              </p><p>Feeling and Sympathiz-
+                 <lb/>ing with you as we do, raises in
+                 <lb/>us desires of hearing from you
+                 <lb/>as often as opportunity will admit.
+              </p><closer><salute>We are affectionately your
+                 <lb/>Friends</salute>
+                 <lb/>Signed on behalf of the
+                 <lb/>Committee on Indian Affairs
+                  <lb/><signed><persName key="twist1">Thos Wistar Clk</persName></signed>,
+                 <dateline><placeName key="phila">Philadelphia</placeName> <date when="1799-02-19">2nd mo 19th 1799</date></dateline>
+                  <lb/>To <persName key="jswai1">Joel Swayne</persName>
+                  <lb/><persName key="hjack1">Halliday Jackson</persName> &amp;
+                  <lb/><persName key="hsimm1">Henry Simmons Jun.</persName> </closer>
+              </div><div type="letter">
+                 <pb n="58" facs="hv_hs_letterbook_v2_1798_058"/>
+                 <dateline><placeName key="phila">Philadelphia</placeName> <date when="1799-04-09">4mo 9th 1799</date></dateline>
+                 <p>Your Letter of the <date when="1799-01-23">23d of 1st
+                 <lb/>month last</date> was duely received, and
+                 <lb/>read in the <orgName key="pymind">Committee of Indian
+                 <lb/>affairs</orgName> by whose direction most
+                 <lb/>of the articles you wrote for have
+                 <lb/>been procur’d &amp; will we expect be
+                 <lb/>shortly forwarded, when you
+                 <lb/>will be likely to here more
+                 <lb/>fully. The Object of the
+                 <lb/>present being only to acquaint
+                 <lb/>you, that upon a conference
+                 <lb/>with <persName key="gwilk1">General John Wilkins</persName>, he
+                 <lb/>informed us that he had several
+                 <lb/>pairs of Oxen at his place at
+                 <lb/><placeName key="hicko">Hickery Town</placeName>, that on his
+                     <lb/>arrival at <placeName key="pitts">Pittsburgh</placeName> he
+                 <lb/>would
+                 <pb n="59" facs="hv_hs_letterbook_v2_1798_059"/>
+                 <lb/>would forward you this Letter.
+                 <lb/>and also write to the manager
+                 <lb/>of his Farm at <placeName key="hicko">Hiccary Town</placeName>
+                 <lb/>ordering him to deliver one
+                 <lb/>of you a pair of working Oxen
+                 <lb/>which we are to settle with him
+                 <lb/>for here, one of you will there
+                 <lb/>fore please to go there for a
+                 <lb/>pair, and after received inform
+                 <lb/>us your idea of their value.
+                     <lb/><persName key="gwilk1">Genl Wilkins</persName> has no doubt
+                 <lb/>but in the neighbourhood there-
+                 <lb/>of, particularly at <placeName key="oilcr">Oil Creek</placeName>
+                 <lb/>if not nearer you could pro-
+                 <lb/>cure a Milch Cow; the manager
+                 <lb/>of his place can perhaps put you
+                 <lb/>in away of procuring one
+                 <lb/>please
+                 <pb n="60" facs="hv_hs_letterbook_v2_1798_060"/>
+                 <lb/>please to mention in your next
+                     <lb/>if the Indians at <persName key="cornp2">Cornplanter</persName>
+                 <lb/>Village have a Bull,
+                     </p><closer><salute>We remain
+                 <lb/>your affectionate Friends</salute>
+                 <signed><persName key="tstew1">Thos Stewardson</persName>
+                     <lb/><persName key="twist1">Thos Wistar</persName></signed>
+                 <lb/>We do not mean that you are
+                 <lb/>bound to take the Oxen at
+                 <lb/><placeName key="hicko">Hiccory Town</placeName>, at any price, or
+                 <lb/>whether they suit or not, but upon
+                 <lb/>one of your seeing them, if they
+                 <lb/>appear likely to answer and
+                 <lb/>the price prove to your satis-
+                 <lb/>faction.
+                 <lb/>T.W. </closer>
+                </div> <div type="letter">
+                 <pb n="61" facs="hv_hs_letterbook_v2_1798_061"/>
+                 <dateline><placeName key="genes1">Gnesinguhta</placeName> <date when="1799-06-16">16th of 6th mo 1799</date></dateline>
+                    <head>To the <orgName key="pymind">Committee on Indian affairs</orgName></head>
+                 <p>Dear Friends,
+                 <lb/>Since we wrote to you last, we
+                 <lb/>received your very acceptable Letter
+                 <lb/>dated the <date when="1799-02-19">19th of 2nd month</date> which
+                 <lb/>was the first we received from
+                 <lb/>you jointly since our settleing
+                 <lb/>here; some weeks since we re-
+                     <lb/>ceived a few Lines from <persName key="twist1">Thomas
+                 <lb/>Wistar</persName> &amp; <persName key="tstew1">Thomas Stewardson</persName>, de-
+                 <lb/>sireing one of us to go to Hickery-
+                 <lb/>Town for a yoke of Oxen, which
+                 <lb/>accordingly was done, and also
+                 <lb/>explor’d the settlements as far
+                     <lb/>as <placeName key="ffran">Fort Franklin</placeName> in quest of
+                 <lb/>a Cow, but could find none
+                     <lb/>for sale. The price <persName key="gwilk1">Genl-
+                 <lb/>Wilkins</persName> had fixed on the Oxen
+                 <lb/>was
+                 <pb n="62" facs="hv_hs_letterbook_v2_1798_062"/>
+                 <lb/>was 100 Dollars, but we are now of
+                 <lb/>the Judgment 80 Dols is their full
+                 <lb/>Value. They are nearly old enou
+                 <lb/>gh to turn off. We know of
+                 <lb/>no opportunity at present of getting
+                 <lb/>a Cow, but hope we shall avail our-
+                 <lb/>selves of one by some means in
+                 <lb/>the course of this Summer.
+              </p><p>We think we have 8 or 9 acres
+                 <lb/>of our Wilderness bottom clear’d
+                 <lb/>have got about 4 acres of Corn
+                 <lb/>planted, 5 bushels of oats sow’d
+                 <lb/>and 8 Bul of Potatoes planted
+                 <lb/>this Spring; have also Plowed
+                 <lb/>a number of small Lotts for the
+                 <lb/>Indians near ys, and divers
+                 <lb/>of the Men have assisted in
+                 <lb/>the labour of the Field. One
+                 <lb/>Indian has fenced in a farm
+                 <pb n="63" facs="hv_hs_letterbook_v2_1798_063"/>
+                 <lb/>farm near ours; and more are about
+                 <lb/>doing it it. We have erected a com-
+                 <lb/>modious School house at <placeName key="cones">Coniscotago</placeName>
+                 <lb/>which the Indians assisted us in doing
+                 <lb/>also found materials for it.
+              </p><p>Although we find suffitient
+                 <lb/>encouragement to persevere in
+                 <lb/>the Work, we cannot but lament
+                 <lb/>the evil effects produced by an
+                 <lb/>intemperate use of Spirittuous
+                 <lb/>Liquors amongst these poor peo-
+                 <lb/>ple. They procur’d much of
+                 <lb/>it this Spring when out in the
+                 <lb/>frontier Settlements, disposing
+                 <lb/>of their Skins, Furs, &amp; c.  which
+                 <lb/>caused us renewed engagement
+                 <lb/>of mind to bear a Testimony
+                 <lb/>against it, and qualificati-
+                 <lb/>on
+                 <pb n="64" facs="hv_hs_letterbook_v2_1798_064"/>
+                 <lb/>on was measureably experienced to
+                 <lb/>point out to them the miseries
+                 <lb/>to which they were subjected by it.
+                 <lb/>and we are not without a hope
+                 <lb/>that things are bettering in that
+                 <lb/>respect. We received in-
+                 <lb/>telligence from our agent at
+                  <lb/><placeName key="pitts">Pittsburgh</placeName>, that the articles
+                 <lb/>you ordered would be forward-
+                  <lb/>ed to <placeName key="ffran">Fortfranklin</placeName> for us.
+                 <lb/>One of us therefore propose
+                 <lb/>starting to morrow with se-
+                 <lb/>veral Canoes and a Company
+                 <lb/>of Indians in order to trans-
+                 <lb/>port them to our place.
+              </p><p>We have not the accounts in readi-
+                 <lb/>ness to forward at this time, and
+                 <lb/>think nothing will suffer by de-
+                 <lb/>laying
+                 <pb n="65" facs="hv_hs_letterbook_v2_1798_065"/>
+                 <lb/>laying them till we receive the
+                 <lb/>other articles.
+              </p><p>We hope the consideration
+                 <lb/>of an addition to our number
+                 <lb/>may seriously engage your attension
+                 <lb/>as another of us have a distant
+                 <lb/>prospect of being released from
+                 <lb/>this place. </p>
+                    <closer><salute>Enjoying our
+                 <lb/>Health much as usual we conclude
+                 <lb/>and remain your affectionate
+                 <lb/>Friends</salute>
+                        <lb/><signed><persName key="hsimm1">H. Simmons</persName>
+                            <lb/><persName key="jswai1">J. Swayne</persName>
+                            <lb/><persName key="hjack1">H. Jackson</persName></signed> </closer>
+          </div><div type="letter">
+              <p>
+                 <lb/>Dear Friends,
+                 <lb/>Your Letter of <date when="1799-01-23">1st month
+                 <lb/>23rd</date> was received and read in the
+                 <lb/>Committee for Indian affairs, at
+                 <lb/>their meeting last month; its
+                 <lb/>contents
+                 <pb n="66" facs="hv_hs_letterbook_v2_1798_066"/>
+                 <lb/>contents, affording general satisfac-
+                 <lb/>tion, a revival of that general sym-
+                 <lb/>pathy was felt, which freequently
+                 <lb/>accompanies our minds on your be-
+                 <lb/>half, secluded as you are from
+                 <lb/>the sosiety you have been accus-
+                 <lb/>tomed to; yet where an evidence
+                 <lb/>attends the mind, that we are in
+                 <lb/>our proper alotments in abedi-
+                 <lb/>ence to Him, who has a right to
+                 <lb/>our services, in such situations
+                 <lb/>and exercise of duty as he is pleas-
+                 <lb/>ed to manifest; those things
+                 <lb/>which would otherwise be very
+                 <lb/>trying and irksome, are make
+                 <lb/>easy. Your intimation of a
+                 <lb/>prospect that one of you might, du-
+                 <lb/>ring the Winter season, profitably
+                 <lb/>reside at the lower Village to
+                 <lb/>instruct
+                 <pb n="67" facs="hv_hs_letterbook_v2_1798_067"/>
+                 <lb/>instruct the Children in School learning
+                 <lb/>has claimed our serious deliberation,
+                 <lb/>and we are free to suggest that
+                 <lb/>you rather encourage some of the
+                 <lb/>Indians to send a few of their
+                 <lb/>Children to reside near you, in
+                 <lb/>Winter, perhaps by so doing, the
+                 <lb/>School will be smaller, but we
+                 <lb/>hope quite as useful to such as do
+                 <lb/>attend, and afford you more
+                 <lb/>comfort and satisfaction; believ-
+                 <lb/>ing you will strengthen and
+                 <lb/>encourage each other, and be less
+                 <lb/>exposed by residing as much to-
+                 <lb/>gether as may be. We would
+                 <lb/>not wish to be understood as
+                 <lb/>disapproving of the trial al-
+                 <lb/>ready made, but feel a solici-
+                 <lb/>tude for your preservation,
+                 <lb/>under
+                 <pb n="68" facs="hv_hs_letterbook_v2_1798_068"/>
+                 <lb/>under the safe direction of pure unering
+                 <lb/>Wisdom.
+              </p><p>Enclosed is invoice of such of
+                 <lb/>the articles as you wrote for as was
+                 <lb/>concluded by the Committee to
+                 <lb/>forward, except the three barrels
+                 <lb/>of flour and the Flax Seed, which
+                 <lb/>it is expected <persName key="abark1">A.</persName> &amp; <persName key="jbark1">J. Barker</persName> will
+                 <lb/>forward with the other articles
+                  <lb/>from <placeName key="pitts">Pittsburgh</placeName>. </p>
+              <closer><salute>We remain
+                 <lb/>your affectionate friends,</salute>
+                 <lb/>Signed on behalf of the
+                 <lb/>Committee
+                  <lb/><signed><persName key="twist1">Thomas Wistar Clerk</persName></signed>
+                 <dateline><placeName key="phila">Philadelphia</placeName> <date when="1799-04-20">4th mo 20th 1799</date></dateline>
+                 <lb/>Note in the ps of Cloth the hair
+                 <lb/>scieves are placed, and there are
+                 <lb/>a few garden seeds, in box No.1. </closer>
+              </div> <div type="letter">
+                 <pb n="69" facs="hv_hs_letterbook_v2_1798_069"/>
+                 <dateline><placeName key="genes1">Genesinguhta</placeName> <date when="1799-08-22">8mo 22nd 1799</date></dateline>
+                  <head>To the <orgName key="pymind">Committee
+                 <lb/>on Indian affairs</orgName></head>
+                 <p>Dear Friends,
+                 <lb/>We have received no acc
+                 <lb/>ounts from you since your Letter of
+                 <lb/>the <date when="1799-04-13">4th mo 13th</date>, which accompanied
+                 <lb/>the articles you sent us, all of which
+                 <lb/>we rec'd agreeable to the Invoice
+                 <lb/>enclosed. We feel solicitous
+                 <lb/>to be preserved under the direction
+                 <lb/>of best Wisdom, and also to act
+                 <lb/>agreeable to your Council in the
+                 <lb/>prosecution of our present engage-
+                 <lb/>ment; yet upon serious deliberation
+                 <lb/>on the subject you proposed of
+                 <lb/>the Indians sending their Children
+                 <lb/>to
+                 <pb n="70" facs="hv_hs_letterbook_v2_1798_070"/>
+                 <lb/>to our Village to be instructed in School
+                 <lb/>learning, we are again free to suggest
+                 <lb/>to you, that we believe it will afford
+                 <lb/>the most general satisfaction, and be
+                 <lb/>most advantageous to the Indians
+                 <lb/>for the School to be kept up at the
+                 <lb/>lower Village, while three suitable
+                 <lb/>persons are stationed in this
+                 <lb/>quarter, as the Children are most
+                 <lb/>ly there, and but little hopes of any of
+                 <lb/>them comeing to reside nearer to us.
+                 <lb/>but the prospect of one of us returning
+                 <lb/>this fall, will probably prevent
+                 <lb/>the School being kept up at that
+                 <lb/>place the ensueing Winter, unless
+                 <lb/>there is an addition to our number.
+              </p><p>We have lately purchased a
+                 <lb/>Cow
+                 <pb n="71" facs="hv_hs_letterbook_v2_1798_071"/>
+                 <lb/>Cow which supplies us with Milk.
+              </p><closer>Being favour’d with Health, we
+                 <lb/>have little to add, more than our
+                 <lb/>desire to here from you as often as
+                 <lb/>is convenient. <salute>We remain
+                 <lb/>your affectionate Friends.</salute>
+                 <signed><persName key="hsimm1">H.S.J.</persName>
+                     <lb/><persName key="jswai1">J. Swayne</persName>
+                     <lb/><persName key="hjack1">H. Jackson</persName></signed>
+                 <lb/>P.S. Our Corn, Potatoes &amp; c. looks
+                 <lb/>well, and we are preparing ground
+                 <lb/>to sow several Bushels of Winter
+                 <lb/>grain.
+                 <lb/>We have concluded nothing
+                 <lb/>will suffer by suspending the
+                  <lb/>accounts until <persName key="hsimm1">H. Simmons</persName>
+                 <lb/>returns.</closer>
+                </div> <div type="letter">
+                 <pb n="72" facs="hv_hs_letterbook_v2_1798_072"/>
+                 <dateline><placeName key="phila">Philadelphia</placeName> <date when="1799-06-22">6 mo 22nd 1799</date></dateline>
+                 <p>Dear Friends,
+                 <lb/>Your several Letters of
+                 <lb/><date when="1799-03-24">3mo 24th</date> &amp; <date when="1799-04-21">4mo 21st</date> having
+                 <lb/>been duely received were read in a mee-
+                 <lb/>ting of the Committee on the <date when="1799-05-18">18th.
+                 <lb/>Ultimo.</date>, there general contents be-
+                 <lb/>ing acceptable and satisfactory. Your
+                 <lb/>prospect of an increasing desire of
+                 <lb/>improvement among the Natives,
+                 <lb/>affords encouragement to persevere in
+                 <lb/>the Task allotted us, tho’ in its nature
+                 <lb/>arduous, and not unattended with dif-
+                 <lb/>ficulties, which it is however hoped
+                 <lb/>may prove temporary &amp; surmount-
+                 <lb/>able. Your apparent lively dedication
+                 <lb/>to the service before you, mingles a
+                 <lb/>pleasing sensation with our Sympathy
+                 <lb/>and
+                 <pb n="73" facs="hv_hs_letterbook_v2_1798_073"/>
+                 <lb/>and solicitude for you in your re-
+                 <lb/>mote and exposed situation, accom-
+                 <lb/>panied with a desire, that best
+                 <lb/>support may be your experience.
+                 <lb/>your view of Benefit extendable to addi-
+                 <lb/>tional Bodies of Indians are liberal,
+                 <lb/>and becoming the cause we are en-
+                 <lb/>gaged to promote, how far we can
+                 <lb/>unite therein depends on a due con-
+                 <lb/>sideration of the limited sphere we
+                 <lb/>act in, with respect to the amount
+                 <lb/>of Funds to be relied on, devine
+                 <lb/>approbation, if obtained, is no
+                 <lb/>doubt an ample ground of de-
+                 <lb/>pendance; this assurance requires
+                 <lb/>that we move under the direc-
+                 <lb/>tion of best Wisdom, waiting
+                 <lb/>with patient circumspection for
+                 <lb/>clear openings for the advance-
+                 <lb/>ment
+                 <pb n="74" facs="hv_hs_letterbook_v2_1798_074"/>
+                 <lb/>ment of the Work. Experience in
+                 <lb/>Indian Concerns even us, what must
+                 <lb/>probably have occured to your ob-
+                 <lb/>servation, as well as ours, that Indians
+                 <lb/>build large expectations on very
+                 <lb/>slight grounds; caution is therefore
+                 <lb/>requisite, that we may rather ex-
+                 <lb/>ceed than fall short of what they
+                 <lb/>may be led to look for at our
+                 <lb/>hands. The School instruction
+                 <lb/>of the Indian Youth is a desirable
+                 <lb/>object, for which were it conveni-
+                 <lb/>ent their comeing to you, would
+                 <lb/>seem more satisfactory, than your
+                 <lb/>dividing to go a distance to them,
+                 <lb/>for as Council &amp; strength apper-
+                 <lb/>tain to Union, we wish you as
+                 <lb/>inseparable as the nature of the con-
+                 <lb/>cern
+                 <pb n="75" facs="hv_hs_letterbook_v2_1798_075"/>
+                 <lb/>cern will admit. Your Reasons
+                 <lb/>for desiring a discreet Family may
+                 <lb/>be encouraged to come and reside at
+                 <lb/>your settlement we doubt not are wei-
+                 <lb/>ghty, and the subject is seriously
+                 <lb/>before us, tho’ doubts have been sug-
+                 <lb/>gested whether it may yet be sea-
+                 <lb/>sonable to invite Females to so
+                 <lb/>material a change of life at a dis-
+                 <lb/>tance so great till the manners &amp;
+                 <lb/>Customs of the Natives become more
+                 <lb/>assimilated to the modes  &amp; princi-
+                 <lb/>ples of civilized life, while the
+                 <lb/>consideration of this matter is un-
+                 <lb/>der deliberation with us, would it
+                 <lb/>be amiss for you to look around
+                 <lb/>you for some thoughtful well
+                 <lb/> disposed elderly Female native
+                 <lb/>who may be tractable, and willing
+                 <lb/>to
+                 <pb n="76" facs="hv_hs_letterbook_v2_1798_076"/>
+                 <lb/>to be instructed in domestic Oeconomy
+                 <lb/>the needful Business of a Kitchen &amp; c.
+              </p><p>Your taking on an Indian Lad
+                 <lb/>to instruct in Farming and such
+                 <lb/>other Business as he may be capa-
+                 <lb/>ble of, meets our approbation.
+              </p><p>The Friends who were <del>settled</del>
+                 <lb/>at <placeName key="oneid">Oneida</placeName> and those who went about
+                 <lb/>the sam time you left us, all re-
+                 <lb/>main there, and have been favour-
+                 <lb/>ed to enjoy a good state of Health.
+                 <lb/>We have rec'd satisfactory acounts
+                 <lb/>from them respecting the imrov-
+                 <lb/>ment of some of the Indians, and
+                 <lb/>several Lads have undertaken
+                 <lb/>to Learn the Smith’s Business.
+              </p><p>In respect to the application
+                 <lb/>of the <placeName key="catta1">Catarogus</placeName> Indians, we may
+                 <lb/>inform
+                 <pb n="77" facs="hv_hs_letterbook_v2_1798_077"/>
+                 <lb/>inform you, the same has received
+                 <lb/>our serious attension &amp; deliberation,
+                 <lb/>which is intended to be continu’d
+                 <lb/>and the result communicated
+                 <lb/>to you, in mean time, as we
+                 <lb/>are desirous to supply them with
+                 <lb/>a set of Mill Irons, inquiry
+                 <lb/>is intended to be made how
+                 <lb/>and where they can be procur’d
+                 <lb/>the most advantageous for them,
+                 <lb/>and at the least expence to us.
+              </p><p>But it is of the highest
+                 <lb/>Importance to the success of what
+                 <lb/>this people appear to have in
+                 <lb/>prospect, that they be con-
+                 <lb/>stantly and closely excited
+                 <lb/>to a sober and diligent atten-
+                 <lb/>tion
+                 <pb n="78" facs="hv_hs_letterbook_v2_1798_078"/>
+                 <lb/>tention to frugality and Oecono-
+                 <lb/>my in Husbanding the pecuniary
+                 <lb/>means afforded them, for
+                 <lb/>Improvment.
+                 <lb/></p>
+                    <closer>Signed on behalf of the
+                 <lb/>Committee
+                        <lb/><signed><persName key="twist1">Thos Wistar</persName></signed> </closer>
+              </div> <div type="letter">
+                 <pb n="79" facs="hv_hs_letterbook_v2_1798_079"/>
+                  <head>To the <orgName key="seneca">Seneca Nation of Indi-
+                 <lb/>ons</orgName> Living on Cateraugus River</head>
+                 <p>Brothers,
+                 <lb/>Your friends the Qua-
+                     <lb/>kers in <placeName key="phila">Philadelphia</placeName>, Rec'd a
+                 <lb/>Letter which you sent to our
+                 <lb/>young men who live at
+                 <lb/><placeName key="genes1">Genesinguhta</placeName> on the <placeName key="alleg">Allegany
+                 <lb/>River</placeName>, in which Letter you say
+                 <lb/>you want to build a sawmill,
+                 <lb/>&amp; request them to help you to
+                 <lb/>get the Irons, and also desire
+                 <lb/>some instruction to put you in
+                 <lb/>a better way of farming.
+              </p><p>Brothers, We write to
+                 <lb/>you
+                 <pb n="80" facs="hv_hs_letterbook_v2_1798_080"/>
+                 <lb/>you on behalf of your friends the Qua-
+                  <lb/>kers in <placeName key="phila">Philadelphia</placeName>. We have
+                 <lb/>lately been to see our young men at
+                 <lb/><placeName key="genes1">Genesinguhta</placeName>, and our brothers the
+                 <lb/>Indians, who they are endeavoring
+                 <lb/>to instruct in farming, and were
+                 <lb/>pleased to find that some of the
+                 <lb/>Indian men are beginning to help
+                 <lb/>their Women to Work, and raise
+                 <lb/>Corn &amp; make fence, We were also
+                 <lb/>at <placeName key="catar">Cateraugus</placeName>, &amp; would have been
+                 <lb/>glad to have seen you, and taken
+                 <lb/>you by  the hand, but understood
+                 <lb/>your Chiefs were not at home,
+                 <lb/>we now inform you the saw-
+                 <lb/>Mill Irons are made, &amp; on the
+                 <lb/>way
+                 <pb n="81" facs="hv_hs_letterbook_v2_1798_081"/>
+                 <lb/>way comeing to be placed under
+                  <lb/>the care of <persName key="wjohn1">Wilm Jonston</persName> at
+                  <lb/><placeName key="buffa">Buffalo</placeName>, who will deliver them
+                 <lb/>to you, when you are ready to build
+                 <lb/>a SawMill, first informing
+                  <lb/><persName key="hjack1">H. Jackson</persName>, &amp; <persName key="jswai1">J. Swayne</persName>, our
+                 <lb/>two young men who live at <placeName key="genes1">Gene-
+                 <lb/>singuhta</placeName> and getting their order
+                 <lb/>for delivering them to you.
+              </p><p>Brothers, We cannot at this
+                 <lb/>time give you any assistance
+                 <lb/>about farming, but if the men
+                 <lb/>will begin to be industrious (we
+                 <lb/>see your Land is very good ) you
+                 <lb/>may soon raise abundance of
+                 <lb/>Grain, and if you will take
+                 <lb/>our
+                 <pb n="82" facs="hv_hs_letterbook_v2_1798_082"/>
+                 <lb/>our advice in that, and leave off
+                 <lb/>drinking Whiskey, we shall be
+                 <lb/>incouraged  to try to instruct
+                 <lb/>you farther in farming &amp; work
+                 <lb/>ing your Land, but if you will
+                 <lb/>spend your money,  that you
+                 <lb/>should buy Cattle &amp; other use-
+                 <lb/>ful things with, for Whiskey,
+                 <lb/>we shall be discouraged from try-
+                 <lb/>ing to get our young men to
+                 <lb/>come &amp; live with you and instr-
+                 <lb/>uct you, for we see that bad
+                 <lb/>white <del>people</del> men, who gets
+                 <lb/>drunk, does very little good
+                 <lb/>for themselves or any body
+                 <lb/>else.
+                 <lb/>Joshua
+                 <pb n="83" facs="hv_hs_letterbook_v2_1798_083"/>
+                 </p>
+                  <closer><signed><persName key="jshar1">Joshua Sharpless</persName>
+                 <lb/><persName key="icoat1">Issac Coats</persName>
+                 <lb/><persName key="tstew1">Thos Stwardson</persName>
+                 <lb/><persName key="jcoop1">James Cooper</persName></signed>
+                 <lb/>The affordsaid Speech, be-
+                    <lb/>ing left in the care of <persName key="wjohn1">Wilm
+                    <lb/>Jonston</persName> at <placeName key="buffa">Buffalo</placeName>, to be
+                 <lb/>delivered to the Indians at
+                 <lb/>a convenient opportunity.</closer>
+               </div> <div type="minutes">
+                 <pb n="84" facs="hv_hs_letterbook_v2_1798_084"/>
+                 <p>The different</p>
+                 <pb n="85" facs="hv_hs_letterbook_v2_1798_085"/>
+                 <p>The different Tribes of Indians
+                 <lb/>who live West of Detroit, between
+                 <lb/>Ohio River &amp; the Lake, and East
+                 <lb/>of <placeName key="missi">Missisipy</placeName>. The number
+                 <lb/>of their young men. (viz)
+                 </p>
+                   <table>
+                       <row><cell><orgName key="wyandot">Wyondots</orgName></cell> <cell>100</cell></row>
+                       <row><cell><orgName key="shawnee">Shawonnoo or Shawonness</orgName><!--not sure--></cell> <cell><del>100</del> 300</cell></row>
+                       <row><cell><orgName key="ottawa">Ottawas</orgName></cell> <cell>430</cell></row>
+                       <row><cell><orgName key="miami">Miamies or Tatowah</orgName></cell> <cell> 150</cell></row>
+                       <row><cell><orgName key="montaukind">Montheh or Monthese</orgName><!--not sure--></cell> <cell> 250</cell></row>
+                       <row><cell><orgName key="delaware">Delawares</orgName></cell> <cell> 400</cell></row>
+                       <row><cell><orgName key="nanti">Nanticoke</orgName></cell> <cell> 50</cell></row>
+                       <row><cell><orgName key="checkplace">Kucknawwathuu</orgName></cell> <cell> 40</cell></row>
+                       <row><cell><orgName key="ojibwe">Chipowah or Chipawas</orgName></cell> <cell> 1000</cell></row>
+                       <row><cell><orgName key="potaw">Potawatommy</orgName></cell> <cell> 500</cell></row>
+                 <pb n="86" facs="hv_hs_letterbook_v2_1798_086"/>
+                       <row><cell><orgName key="kicka">Kekepoo</orgName></cell> <cell/></row>
+                       <row><cell><orgName key="checkplace">Pasakeyah</orgName></cell> <cell/></row>
+                       <row><cell><orgName key="checkplace">Waweyohtonnoo</orgName></cell> <cell/></row>
+                       <row><cell><orgName key="checkplace">Mukhuthkotawuu</orgName></cell> <cell/></row>
+                       <row><cell><orgName key="checkplace">Wothawkuw or Thaukes</orgName></cell> <cell>500</cell></row>
+                       <row><cell><orgName key="checkplace">Kuttoohwow</orgName></cell> <cell>600</cell></row>
+                       <row><cell><orgName key="checkplace">Natowohtheh</orgName></cell> <cell/></row>
+                       </table>
+                 <p>The Last Nation resides
+                 <lb/>next to the <placeName key="illin">Illinois River</placeName>
+                 </p>
+              </div>
+        </body>
+    </text>
+</TEI>
